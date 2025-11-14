@@ -1,0 +1,2567 @@
+{
+    "0fec351445f84bd482075ceda6123f46": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": "Methanobacterium",
+        "Species": "midas_s_9526"
+    },
+    "7f78afb7e1d45cd528fe9cd909c93fb5": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": "Methanobacterium",
+        "Species": NaN
+    },
+    "63f37ee4b481fccdffca10160ed5b944": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "d3cf08daefed96f494257ceff63a6cf8": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Thermotogota",
+        "Class": "Thermotogae",
+        "Order": "Kosmotogales",
+        "Family": "Kosmotogaceae",
+        "Genus": "Mesotoga",
+        "Species": "Mesotoga_infera"
+    },
+    "c55a8101fb6c187736f0af61f720cb92": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Sphingobacteriales",
+        "Family": "Lentimicrobiaceae",
+        "Genus": "Lentimicrobium",
+        "Species": NaN
+    },
+    "04869be25e3dc4d526ce3824d407aedf": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Aminivibrio",
+        "Species": "Aminivibrio_pyruvatiphilus"
+    },
+    "37a9f9625f201b6e61c29ac09ec54683": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Gracilibacteraceae",
+        "Family": "Lutispora",
+        "Genus": "midas_g_94288",
+        "Species": "midas_s_99172"
+    },
+    "b3d8bf326297fb9b18ea4fef1ce8d4a6": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Desulfobacterota",
+        "Class": "Desulfovibrionia",
+        "Order": "Desulfovibrionales",
+        "Family": "Desulfovibrionaceae",
+        "Genus": "Desulfovibrio",
+        "Species": NaN
+    },
+    "09ee5eb3e6c726c7c8242f6e97453fc2": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": "Methanobacterium",
+        "Species": "Methanobacterium_formicicum"
+    },
+    "83adaf3a09d08c93f2abea6a4c815592": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Dysgonomonadaceae",
+        "Genus": "Petrimonas",
+        "Species": "Petrimonas_sulfuriphila"
+    },
+    "b64cf0e9dea8cef6b9500b364c179b98": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Gammaproteobacteria",
+        "Order": "Burkholderiales",
+        "Family": NaN,
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "7281c911136ba2bdcafebb9c71729dea": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": "Methanobacterium",
+        "Species": "Methanobacterium_beijingense"
+    },
+    "93fadef301b62aa732e42bf1142b3afa": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Paludibacteraceae",
+        "Genus": "midas_g_9269",
+        "Species": NaN
+    },
+    "19463e5fe824700110e4a4ec8afe0512": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": "Methanobacterium",
+        "Species": "Methanobacterium_beijingense"
+    },
+    "e6485d233ed2b8b9a2f3f50f0747b9d2": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Dysgonomonadaceae",
+        "Genus": "Proteiniphilum",
+        "Species": "midas_s_56159"
+    },
+    "a5b2537343a26f4daf0379a8b46eb2ef": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Syner-01",
+        "Species": NaN
+    },
+    "f876e4d5cbaa6ac5f3c225bcaf146791": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Chloroflexi",
+        "Class": "Anaerolineae",
+        "Order": "SBR1031",
+        "Family": "midas_f_1469",
+        "Genus": "midas_g_2178",
+        "Species": "midas_s_5149"
+    },
+    "a402fc6f0fd057decbe746f48bf12862": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Dysgonomonadaceae",
+        "Genus": "Petrimonas",
+        "Species": "Petrimonas_sulfuriphila"
+    },
+    "5976a56adfe903f7348b5eb5689e3c55": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Rikenellaceae",
+        "Genus": "midas_g_36215",
+        "Species": "midas_s_87061"
+    },
+    "3343d19c0bc1759a66023cbc86c92592": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Cloacimonadota",
+        "Class": "Cloacimonadia",
+        "Order": "Cloacimonadales",
+        "Family": "Cloacimonadaceae",
+        "Genus": "LNR_A2-18",
+        "Species": NaN
+    },
+    "0ef7e12e6eb35a8fd9fac7badac0c381": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Chloroflexi",
+        "Class": "Anaerolineae",
+        "Order": "RBG-13-54-9",
+        "Family": "midas_f_4245",
+        "Genus": "midas_g_49937",
+        "Species": "midas_s_49937"
+    },
+    "1d33e98c9d94c262ab0d8b56d0936eb4": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Gammaproteobacteria",
+        "Order": "Burkholderiales",
+        "Family": "Comamonadaceae",
+        "Genus": "Hydrogenophaga",
+        "Species": "midas_s_191"
+    },
+    "a061d8883eca2028db1d268500722130": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Cloacimonadota",
+        "Class": "Cloacimonadia",
+        "Order": "Cloacimonadales",
+        "Family": "Cloacimonadaceae",
+        "Genus": "LNR_A2-18",
+        "Species": NaN
+    },
+    "945e47119242497c2e0bc5b3c6b6ba8e": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Aminiphilus",
+        "Species": "midas_s_8148"
+    },
+    "e79a45f432d0ccc86adbf9bbe7cef2a7": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Gammaproteobacteria",
+        "Order": "Burkholderiales",
+        "Family": "Hydrogenophilaceae",
+        "Genus": "Thiobacillus",
+        "Species": NaN
+    },
+    "c7553191e309cfc2e28aea2507e7afdf": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Peptostreptococcales-Tissierellales",
+        "Family": "Anaerovoracaceae",
+        "Genus": "Anaerovorax",
+        "Species": NaN
+    },
+    "e29f9ab1342fe7d53d4f1e2d03bb5969": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Syner-01",
+        "Species": NaN
+    },
+    "e144d237c973d831d708cac2c17df968": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Eubacteriales",
+        "Family": "Eubacteriaceae",
+        "Genus": "Acetobacterium",
+        "Species": NaN
+    },
+    "206069e5a5041e6c7f39a4141aefdc19": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Christensenellales",
+        "Family": "Christensenellaceae",
+        "Genus": "Christensenellaceae_R-7_group",
+        "Species": "midas_s_47390"
+    },
+    "916d15ab17794198ea4c5ad1e3fb6258": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Desulfotomaculia",
+        "Order": "Desulfotomaculales",
+        "Family": "Desulfurisporaceae",
+        "Genus": "Desulfurispora",
+        "Species": "midas_s_73526"
+    },
+    "01bc6f144e0f577c7a5364ebafdb3509": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Bacilli",
+        "Order": "Erysipelotrichales",
+        "Family": "Erysipelotrichaceae",
+        "Genus": "Erysipelothrix",
+        "Species": "midas_s_114219"
+    },
+    "817555c3b5d93664c38e8fbec64eba2e": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Thermovirga",
+        "Species": "midas_s_99362"
+    },
+    "43a52ec4605b37f3671b33e61ff6fedd": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Rikenellaceae",
+        "Genus": "midas_g_36215",
+        "Species": "midas_s_87061"
+    },
+    "66575db7635d648549a9eb5a4eafb710": {
+        "Kingdom": "Bacteria",
+        "Phylum": "WS1",
+        "Class": "midas_c_796",
+        "Order": "midas_o_796",
+        "Family": "midas_f_2296",
+        "Genus": "midas_g_3409",
+        "Species": "midas_s_3951"
+    },
+    "9413dd54243692b250670640c660758d": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Chloroflexi",
+        "Class": "Anaerolineae",
+        "Order": "SBR1031",
+        "Family": "midas_f_1469",
+        "Genus": "midas_g_2178",
+        "Species": "midas_s_5149"
+    },
+    "8a4c692c01077fa5a93913725097b3bc": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Alphaproteobacteria",
+        "Order": "Rhizobiales",
+        "Family": "Xanthobacteraceae",
+        "Genus": "Xanthobacter",
+        "Species": NaN
+    },
+    "3e524f0bf09623c8530930bb8b27045c": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Syner-01",
+        "Species": NaN
+    },
+    "b7806c4f83108800a9c32dc83c148d95": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Peptostreptococcales-Tissierellales",
+        "Family": "Peptostreptococcaceae",
+        "Genus": "Acetoanaerobium",
+        "Species": NaN
+    },
+    "3e7c933c821c9f18e53e1dda439951cf": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Chloroflexi",
+        "Class": "Anaerolineae",
+        "Order": "RBG-13-54-9",
+        "Family": "midas_f_4245",
+        "Genus": "midas_g_84729",
+        "Species": "midas_s_84729"
+    },
+    "4835c874610f20a02421b283dbe2f2b6": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Christensenellales",
+        "Family": "Christensenellaceae",
+        "Genus": "Christensenellaceae_R-7_group",
+        "Species": "midas_s_3624"
+    },
+    "924d6dd5b8719a5281dc624d5331f14b": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Thermovirga",
+        "Species": NaN
+    },
+    "0709277372b3816e3986842fb10c8e96": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Dysgonomonadaceae",
+        "Genus": "Proteiniphilum",
+        "Species": "midas_s_90161"
+    },
+    "29b313a5262947210e3e9de415abaead": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Alphaproteobacteria",
+        "Order": "Rhizobiales",
+        "Family": "Rhizobiaceae",
+        "Genus": "Ochrobactrum",
+        "Species": NaN
+    },
+    "9711e5e56376fe411f8d9ca9e739c6f1": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Christensenellales",
+        "Family": "Christensenellaceae",
+        "Genus": "Christensenellaceae_R-7_group",
+        "Species": NaN
+    },
+    "38b371de3be6ddef03bea94294e9830d": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": "Methanobacterium",
+        "Species": "Methanobacterium_beijingense"
+    },
+    "894d5f2608f2a0e9e3bf2499f1cc6130": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Caldatribacteriota",
+        "Class": "Caldatribacteriia",
+        "Order": "Caldatribacteriales",
+        "Family": "Caldatribacteriaceae",
+        "Genus": "Ca_Caldatribacterium",
+        "Species": NaN
+    },
+    "ec716420b2bb28ff5cfc5b19edbe2dfa": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Gammaproteobacteria",
+        "Order": "Burkholderiales",
+        "Family": "Alcaligenaceae",
+        "Genus": "Achromobacter",
+        "Species": "midas_s_18114"
+    },
+    "6e21064675bd1626771d39886cc9d88b": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Oscillospirales",
+        "Family": "Hungateiclostridiaceae",
+        "Genus": "Ercella",
+        "Species": "midas_s_59197"
+    },
+    "702860fda44c0d44ddacb5bd79fd5d24": {
+        "Kingdom": "Archaea",
+        "Phylum": "Halobacterota",
+        "Class": "Methanosarcinia",
+        "Order": "Methanosarciniales",
+        "Family": "Methanosaetaceae",
+        "Genus": "Methanothrix",
+        "Species": NaN
+    },
+    "2e8ba4a2f665cc3ad88530fc739b1f9c": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Desulfotomaculia",
+        "Order": "Desulfotomaculales",
+        "Family": "Pelotomaculaceae",
+        "Genus": "Cryptanaerobacter",
+        "Species": "midas_s_91628"
+    },
+    "d98dabbea4fe10de13ec5310782324e8": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Alphaproteobacteria",
+        "Order": "Rhizobiales",
+        "Family": "Xanthobacteraceae",
+        "Genus": "Azorhizobium",
+        "Species": "midas_s_17083"
+    },
+    "c571cb007a7d9e2dfc56e8c0b4e24104": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Gammaproteobacteria",
+        "Order": "Enterobacterales",
+        "Family": "Enterobacteriaceae",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "55f0a15d367f1f98823a8accf53c1ab4": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Gammaproteobacteria",
+        "Order": "Burkholderiales",
+        "Family": "Comamonadaceae",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "af9554a6cc07a34c1cb6004e3dbb865a": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Dysgonomonadaceae",
+        "Genus": "Petrimonas",
+        "Species": "midas_s_47397"
+    },
+    "06b3a59bd107c34e25bf5ab87f8dbdeb": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Dysgonomonadaceae",
+        "Genus": "Proteiniphilum",
+        "Species": "Proteiniphilum_saccharofermentans"
+    },
+    "daac17ca54538cbc9aada8497262da96": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Negativicutes",
+        "Order": "Veillonellales-Selenomonadales",
+        "Family": "Sporomusaceae",
+        "Genus": "midas_g_76603",
+        "Species": NaN
+    },
+    "2abe61a0cef4e3df8717de8e17bd2f88": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Thermotogota",
+        "Class": "Thermotogae",
+        "Order": "Kosmotogales",
+        "Family": "Kosmotogaceae",
+        "Genus": "Mesotoga",
+        "Species": NaN
+    },
+    "659d1fe872c9b31a9e0b81eef5ca6218": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Desulfotomaculia",
+        "Order": "Desulfotomaculales",
+        "Family": "Pelotomaculaceae",
+        "Genus": "Pelotomaculum",
+        "Species": "midas_s_95439"
+    },
+    "0e9cc4c909306f5a9562d84888902e09": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Armatimonadota",
+        "Class": "Chthonomonadetes",
+        "Order": "Chthonomonadales",
+        "Family": "midas_f_6187",
+        "Genus": "midas_g_6187",
+        "Species": "midas_s_6187"
+    },
+    "10ba1c6a051a49b25b443bebd244b71c": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Negativicutes",
+        "Order": "Veillonellales-Selenomonadales",
+        "Family": NaN,
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "1ad05a58bf23396d80f11695ad750b75": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Desulfobacterota",
+        "Class": "Desulfuromonadia",
+        "Order": "Geobacterales",
+        "Family": "Geobacteraceae",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "430c875622713c0d7662add2d8e7db60": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Desulfobacterota",
+        "Class": "Desulfovibrionia",
+        "Order": "Desulfovibrionales",
+        "Family": "Desulfovibrionaceae",
+        "Genus": "Desulfovibrio",
+        "Species": "midas_s_43704"
+    },
+    "85b80813a3be5e162f462e085b709b85": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Christensenellales",
+        "Family": "Christensenellaceae",
+        "Genus": "Christensenellaceae_R-7_group",
+        "Species": "midas_s_59948"
+    },
+    "1cbf580d763d0eb5497ff2d6468e7668": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Monoglobales",
+        "Family": "Monoglobaceae",
+        "Genus": "Monoglobus",
+        "Species": "midas_s_78171"
+    },
+    "cae75e1117d316c3a8f12909f766135b": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Actinobacteriota",
+        "Class": "Actinobacteria",
+        "Order": "Propionibacteriales",
+        "Family": "Propionibacteriaceae",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "4f3989d95e7611bb6b5307454d75d3ce": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Dysgonomonadaceae",
+        "Genus": "Proteiniphilum",
+        "Species": "midas_s_93948"
+    },
+    "b4eac52cfa36ce63f24be2fc530ad204": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Dysgonomonadaceae",
+        "Genus": "Proteiniphilum",
+        "Species": "Proteiniphilum_saccharofermentans"
+    },
+    "3badde1c4760a921d723409ee05fead0": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "JGI-0000079-D21",
+        "Species": "midas_s_976"
+    },
+    "42655605abb4cc7bd5f1be954adf23b0": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Oscillospirales",
+        "Family": "Hungateiclostridiaceae",
+        "Genus": "Ruminiclostridium",
+        "Species": "midas_s_97058"
+    },
+    "be9dcf562f0ab066c0b252d527a42d19": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Peptostreptococcales-Tissierellales",
+        "Family": "Peptostreptococcaceae",
+        "Genus": "Romboutsia",
+        "Species": "Romboutsia_lituseburensis"
+    },
+    "25c54c57b4a4283237b33fdae82003c0": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "EBM-39",
+        "Species": NaN
+    },
+    "8c740d5ca21893b47c7619df1247c75d": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Christensenellales",
+        "Family": "Christensenellaceae",
+        "Genus": "Christensenellaceae_R-7_group",
+        "Species": NaN
+    },
+    "ac9e79a82beb3b70c0c7193fff0a8524": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Peptostreptococcales-Tissierellales",
+        "Family": "Anaerovoracaceae",
+        "Genus": "Anaerovorax",
+        "Species": "midas_s_8128"
+    },
+    "4aff8b715435747567cbc4ee9c82fb8b": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Desulfitobacteriia",
+        "Order": "Desulfitobacteriales",
+        "Family": "Syntrophobotulaceae",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "f93a48c1620894d23f4ad77d07df3c0d": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Gracilibacteraceae",
+        "Family": "Lutispora",
+        "Genus": "midas_g_94288",
+        "Species": "midas_s_99172"
+    },
+    "7874e26358588d579568c866df84e136": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": "Methanobacterium",
+        "Species": "Methanobacterium_beijingense"
+    },
+    "e98db0b2dd9e9c33ddf733f57c1ec866": {
+        "Kingdom": "Bacteria",
+        "Phylum": "WS1",
+        "Class": "midas_c_796",
+        "Order": "midas_o_796",
+        "Family": "midas_f_2296",
+        "Genus": "midas_g_3409",
+        "Species": "midas_s_3951"
+    },
+    "f2fbdc2b912ea775653691981335232f": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Chloroflexi",
+        "Class": "Anaerolineae",
+        "Order": "RBG-13-54-9",
+        "Family": "midas_f_20645",
+        "Genus": "midas_g_35108",
+        "Species": "midas_s_35108"
+    },
+    "d42912a22b570ab99938b745999ae2cc": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Bacteroidaceae",
+        "Genus": "Bacteroides",
+        "Species": "midas_s_56922"
+    },
+    "6de274487e1c875df3c574ec3fcd05d0": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Peptostreptococcales-Tissierellales",
+        "Family": "Anaerovoracaceae",
+        "Genus": "Anaerovorax",
+        "Species": "midas_s_8128"
+    },
+    "cead0ca51f97bc24bf11b1d1d12aee6e": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Christensenellales",
+        "Family": "Christensenellaceae",
+        "Genus": "Christensenellaceae_R-7_group",
+        "Species": NaN
+    },
+    "868a2dd217365ddd6d6ab64d48aeed4a": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": NaN,
+        "Order": NaN,
+        "Family": NaN,
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "20d1b4770481360a89bb379b281db93a": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Dysgonomonadaceae",
+        "Genus": "Proteiniphilum",
+        "Species": NaN
+    },
+    "e0aa5d72484a7001d9f3237d5e0afdbe": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": "Methanobacterium",
+        "Species": "Methanobacterium_beijingense"
+    },
+    "ce264b1fd05f8dfc0dd2941a2b170a3a": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Chloroflexi",
+        "Class": "Anaerolineae",
+        "Order": "Anaerolineales",
+        "Family": "Anaerolineaceae",
+        "Genus": "Pelolinea",
+        "Species": "midas_s_78044"
+    },
+    "41a37ee9d1bf5c5de939f2062f3add2f": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Chloroflexi",
+        "Class": "Anaerolineae",
+        "Order": "SBR1031",
+        "Family": "midas_f_1469",
+        "Genus": "midas_g_2178",
+        "Species": "midas_s_5149"
+    },
+    "49c2b5d0aaf2ac8b0ee6cae5b6c5a8f4": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Alphaproteobacteria",
+        "Order": "Rhizobiales",
+        "Family": "Xanthobacteraceae",
+        "Genus": "Pseudolabrys",
+        "Species": "midas_s_19889"
+    },
+    "c4118088ab2644671a1d9d540c060b19": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Limnochordia",
+        "Order": "Limnochordales",
+        "Family": "Limnochordaceae",
+        "Genus": "midas_g_92370",
+        "Species": NaN
+    },
+    "8ceb27fb1241cb4a8c0e2673011e1f03": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Syner-01",
+        "Species": NaN
+    },
+    "380c64674875dbcea485ba8f1ce26a6c": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Oscillospirales",
+        "Family": "Hungateiclostridiaceae",
+        "Genus": "midas_g_98124",
+        "Species": "midas_s_99703"
+    },
+    "ce96aba4d82cdb5ffa5b76128cfbb917": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Clostridia_vadinBB60_group",
+        "Family": "midas_f_84699",
+        "Genus": "midas_g_114155",
+        "Species": "midas_s_114155"
+    },
+    "b6e342d9f4e409f24eea3859aa76e82a": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "midas_c_4",
+        "Order": "midas_o_4",
+        "Family": "midas_f_222",
+        "Genus": "midas_g_97311",
+        "Species": "midas_s_97311"
+    },
+    "5c47bc05a863e9774f4c18b376dcea96": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Actinobacteriota",
+        "Class": "Actinobacteria",
+        "Order": "Propionibacteriales",
+        "Family": "Propionibacteriaceae",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "5aedbe3e251e0d4e14e560c494c760fc": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Chloroflexi",
+        "Class": "Anaerolineae",
+        "Order": "Anaerolineales",
+        "Family": "Anaerolineaceae",
+        "Genus": "Bellilinea",
+        "Species": "Bellilinea_caldifistulae"
+    },
+    "17d8fa3800f4832276885d97131badb2": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": NaN,
+        "Family": NaN,
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "4bea53b2aad77f2569a0182f6b84255e": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Dysgonomonadaceae",
+        "Genus": "Dysgonomonas",
+        "Species": "midas_s_30643"
+    },
+    "c8db0a5ed83ab440ce7a40a38a4031a8": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Aminivibrio",
+        "Species": "midas_s_58933"
+    },
+    "b4ececcefd46ce904966bef46cd47514": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Aminivibrio",
+        "Species": "midas_s_58933"
+    },
+    "a82691ab5fd4e8d3d3b23b7958c8e764": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Thermoanaerobacteria",
+        "Order": "Thermoanaerobacterales",
+        "Family": "SRB2",
+        "Genus": "midas_g_97954",
+        "Species": "midas_s_97954"
+    },
+    "0d1f62d4f2f7227766a17f0340567129": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Syntrophomonadia",
+        "Order": "Syntrophomonadales",
+        "Family": "Syntrophomonadaceae",
+        "Genus": "Syntrophomonas",
+        "Species": NaN
+    },
+    "e4af2f174fa032b023bacc623536ce9b": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": "Methanobacterium",
+        "Species": "midas_s_9526"
+    },
+    "67a8dc9f44ef6f2d8399c4dd22d04cf2": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": "Methanobacterium",
+        "Species": "midas_s_9526"
+    },
+    "19083703874fec5c0e976f6ca4fa6bc9": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Actinobacteriota",
+        "Class": "Actinobacteria",
+        "Order": "Corynebacteriales",
+        "Family": "Nocardiaceae",
+        "Genus": "Rhodococcus",
+        "Species": NaN
+    },
+    "86d8b22d008c02c166ab930218a92e10": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Chloroflexi",
+        "Class": "Anaerolineae",
+        "Order": "RBG-13-54-9",
+        "Family": "midas_f_20645",
+        "Genus": "midas_g_98374",
+        "Species": "midas_s_100532"
+    },
+    "60e0146e03242db09941a466fe9f9ffd": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Chloroflexi",
+        "Class": "Anaerolineae",
+        "Order": "SBR1031",
+        "Family": "Flexifilaceae",
+        "Genus": "midas_g_8129",
+        "Species": "midas_s_8129"
+    },
+    "deb262fd92af4fdcd3b6240303048b2a": {
+        "Kingdom": "Bacteria",
+        "Phylum": "WPS-2",
+        "Class": "midas_c_55",
+        "Order": "midas_o_1194",
+        "Family": "midas_f_1770",
+        "Genus": "midas_g_2901",
+        "Species": "midas_s_3072"
+    },
+    "8b4cfe4840293e7b9083d23016487900": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Gammaproteobacteria",
+        "Order": "Xanthomonadales",
+        "Family": "Xanthomonadaceae",
+        "Genus": "Stenotrophomonas",
+        "Species": NaN
+    },
+    "0e94028fc4f20d3a8f9df973f3a93e58": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Gammaproteobacteria",
+        "Order": "Burkholderiales",
+        "Family": "Comamonadaceae",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "82864a780f7d57947ef3451dd7539740": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Peptostreptococcales-Tissierellales",
+        "Family": "Family_XI",
+        "Genus": "Soehngenia",
+        "Species": "midas_s_93169"
+    },
+    "201a9f507c9b354eb162adf1f311c607": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "midas_c_4",
+        "Order": "DTU014",
+        "Family": "midas_f_148",
+        "Genus": "midas_g_515",
+        "Species": NaN
+    },
+    "b5b93f7fc3d0a88dff0ced83eb0bb5ab": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "D8A-2",
+        "Order": "midas_o_13",
+        "Family": "midas_f_13",
+        "Genus": "midas_g_554",
+        "Species": "midas_s_116552"
+    },
+    "af085531a8a743571fb9ed6c2e5935bd": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Aminivibrio",
+        "Species": "midas_s_58933"
+    },
+    "1e58237ad5030f0effcef3a43dc356f9": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Syner-01",
+        "Species": NaN
+    },
+    "b7161212930481a22c4413f74a63b3c3": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "ed8d4ddbcd038b4a641db9544d629437": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Christensenellales",
+        "Family": "Christensenellaceae",
+        "Genus": "Christensenellaceae_R-7_group",
+        "Species": NaN
+    },
+    "ee14afe4571845779465f8dc9646c7b4": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Christensenellales",
+        "Family": "Christensenellaceae",
+        "Genus": "Christensenellaceae_R-7_group",
+        "Species": NaN
+    },
+    "7c1e9dffa226af1a81a5d6129e8d546d": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Oscillospirales",
+        "Family": "Oscillospiraceae",
+        "Genus": "Oscillibacter",
+        "Species": NaN
+    },
+    "f437261ff1458ebf1aa7f6dc7bf69e58": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Oscillospirales",
+        "Family": "Ruminococcaceae",
+        "Genus": "Caproiciproducens",
+        "Species": NaN
+    },
+    "99a197229849c15140fc329cff0ccb90": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Oscillospirales",
+        "Family": "Hungateiclostridiaceae",
+        "Genus": "midas_g_2604",
+        "Species": "midas_s_2604"
+    },
+    "acbbb1d2ae3e703c4ab7ef5605b5c849": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": "Methanobacterium",
+        "Species": NaN
+    },
+    "35dbde30af820a2c3bcd85216229ad6a": {
+        "Kingdom": "Archaea",
+        "Phylum": "Halobacterota",
+        "Class": "Methanosarcinia",
+        "Order": "Methanosarciniales",
+        "Family": "Methanosarcinaceae",
+        "Genus": "Methanosarcina",
+        "Species": NaN
+    },
+    "f00e64bb0f0ab722c6b69d93a165e4a7": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": "Methanobacterium",
+        "Species": "Methanobacterium_beijingense"
+    },
+    "d7abc0a1de5d0d90ef2082eb3ec06f6d": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": "Methanobacterium",
+        "Species": "Methanobacterium_beijingense"
+    },
+    "a64cb893b96d0feaea202198ea9346e7": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": "Methanobacterium",
+        "Species": NaN
+    },
+    "1fcda56a65c09f1d3002f1b791ae043e": {
+        "Kingdom": "Bacteria",
+        "Phylum": "WS1",
+        "Class": "midas_c_796",
+        "Order": "midas_o_796",
+        "Family": "midas_f_2296",
+        "Genus": "midas_g_3409",
+        "Species": "midas_s_3951"
+    },
+    "74de096962bf01d10b3efd06738df1ea": {
+        "Kingdom": "Bacteria",
+        "Phylum": "WS1",
+        "Class": "midas_c_796",
+        "Order": "midas_o_796",
+        "Family": "midas_f_2296",
+        "Genus": "midas_g_3409",
+        "Species": "midas_s_3951"
+    },
+    "469da3cc4a3e8928f310c6030cffd8b7": {
+        "Kingdom": "Bacteria",
+        "Phylum": "WS1",
+        "Class": "midas_c_796",
+        "Order": "midas_o_796",
+        "Family": "midas_f_2296",
+        "Genus": "midas_g_3409",
+        "Species": "midas_s_3951"
+    },
+    "7e7413a80f5f54097c840aa6fc290316": {
+        "Kingdom": "Bacteria",
+        "Phylum": NaN,
+        "Class": NaN,
+        "Order": NaN,
+        "Family": NaN,
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "92e0c9bd9d744628064195609caeb38e": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Chloroflexi",
+        "Class": "Anaerolineae",
+        "Order": "RBG-13-54-9",
+        "Family": "midas_f_4245",
+        "Genus": "midas_g_84729",
+        "Species": NaN
+    },
+    "a07b2ad3ee34db785c97d9c45f88d7f8": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Chloroflexi",
+        "Class": "Anaerolineae",
+        "Order": "SBR1031",
+        "Family": "midas_f_1469",
+        "Genus": "midas_g_2178",
+        "Species": "midas_s_5149"
+    },
+    "9cc421e9d947ad1f8cb10be3306b8f7d": {
+        "Kingdom": "Bacteria",
+        "Phylum": NaN,
+        "Class": NaN,
+        "Order": NaN,
+        "Family": NaN,
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "5af69ae9514114185c91b175dbed2054": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Desulfotomaculia",
+        "Order": "Desulfotomaculales",
+        "Family": "Pelotomaculaceae",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "f5edfe58c5a39656d8758989e54a025d": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Desulfotomaculia",
+        "Order": "Desulfotomaculales",
+        "Family": "Pelotomaculaceae",
+        "Genus": "Cryptanaerobacter",
+        "Species": NaN
+    },
+    "becd617ee75c6fa3b44dc64387a49d69": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Rikenellaceae",
+        "Genus": "midas_g_36215",
+        "Species": "midas_s_87061"
+    },
+    "d258dca6623596db00e28d2680d9fb5a": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Dysgonomonadaceae",
+        "Genus": "Petrimonas",
+        "Species": NaN
+    },
+    "8393196bb25f89533e3f8d0e9ab270e4": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Dysgonomonadaceae",
+        "Genus": "Petrimonas",
+        "Species": NaN
+    },
+    "75177c23d41ead53f764d1f59baa615e": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Sphingobacteriales",
+        "Family": "Lentimicrobiaceae",
+        "Genus": "Lentimicrobium",
+        "Species": NaN
+    },
+    "2d36e8ae4ed9d0628a90b01480935e14": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Alphaproteobacteria",
+        "Order": "Rhizobiales",
+        "Family": NaN,
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "6219ede074ea18c403811253abfc21e5": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Sphingobacteriales",
+        "Family": "Lentimicrobiaceae",
+        "Genus": "Lentimicrobium",
+        "Species": NaN
+    },
+    "dd07e924156039f8e953d5ea58ab5023": {
+        "Kingdom": "Bacteria",
+        "Phylum": "SAR324_cladeMarine_group_B",
+        "Class": "midas_c_814",
+        "Order": "midas_o_928",
+        "Family": "Ca_Phosphitivoracaceae",
+        "Genus": "Ca_Phosphitivorax",
+        "Species": "Ca_Phosphitivorax_butyraticus"
+    },
+    "f70762d9b448700daaee95afc0a81947": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Gammaproteobacteria",
+        "Order": "Burkholderiales",
+        "Family": NaN,
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "5fe0c6a4c2aa7f9ffa8470268bc73eac": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Campylobacterota",
+        "Class": "Campylobacteria",
+        "Order": "Campylobacterales",
+        "Family": "Sulfurospirillaceae",
+        "Genus": "Sulfurospirillum",
+        "Species": "Sulfurospirillum_cavolei"
+    },
+    "0ef28e9911f6d91c6782d8c482c9c3dd": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Spirochaetota",
+        "Class": "Spirochaetia",
+        "Order": "Spirochaetales",
+        "Family": "Spirochaetaceae",
+        "Genus": "Sphaerochaeta",
+        "Species": "midas_s_92051"
+    },
+    "9b320388c2907b8af20c2e70aed9cdf6": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Bacilli",
+        "Order": "Erysipelotrichales",
+        "Family": "Erysipelotrichaceae",
+        "Genus": "Erysipelothrix",
+        "Species": "midas_s_114219"
+    },
+    "5a6520a634bb27352c524ba237fd0d64": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Bacilli",
+        "Order": "Erysipelotrichales",
+        "Family": "Erysipelotrichaceae",
+        "Genus": "Erysipelothrix",
+        "Species": "midas_s_22101"
+    },
+    "e78a4809f944f61c69e56a00efdf3600": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Bacilli",
+        "Order": "Erysipelotrichales",
+        "Family": "Erysipelotrichaceae",
+        "Genus": "Erysipelothrix",
+        "Species": "midas_s_114219"
+    },
+    "c7a6f08022f5e609e9ccd58496796e55": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Christensenellales",
+        "Family": "Christensenellaceae",
+        "Genus": "Christensenellaceae_R-7_group",
+        "Species": NaN
+    },
+    "f66e0bd048f99f9348c92d765e755e39": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Aminivibrio",
+        "Species": "midas_s_58933"
+    },
+    "5be77bcb71808d5620f46714bcd5152e": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Syner-01",
+        "Species": NaN
+    },
+    "02e5aa8b2279bb6d9eef1591c1bd5c44": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Christensenellales",
+        "Family": "Christensenellaceae",
+        "Genus": "Christensenellaceae_R-7_group",
+        "Species": "midas_s_99049"
+    },
+    "f847d5bbe9c5a3555db3988cfa1b838f": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Peptococcales",
+        "Family": "Peptococcaceae",
+        "Genus": "Dehalobacterium",
+        "Species": NaN
+    },
+    "33c0c1759b577b9af58fdf74532f850a": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Oscillospirales",
+        "Family": "Hungateiclostridiaceae",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "5538dfd735d36dd62ae5ba7c93293ea3": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Oscillospirales",
+        "Family": "UCG-010",
+        "Genus": "midas_g_112760",
+        "Species": "midas_s_112760"
+    },
+    "aa7963b37050e92d962d2fd26aea35d4": {
+        "Kingdom": "Bacteria",
+        "Phylum": NaN,
+        "Class": NaN,
+        "Order": NaN,
+        "Family": NaN,
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "a97816a0b52b71fe5a7fc8bd537232e1": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Thermotogota",
+        "Class": "Thermotogae",
+        "Order": "Kosmotogales",
+        "Family": "Kosmotogaceae",
+        "Genus": "Mesotoga",
+        "Species": NaN
+    },
+    "e1c573f885ed4c9191a32116f583d78a": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Armatimonadota",
+        "Class": "midas_c_216",
+        "Order": "midas_o_92789",
+        "Family": "midas_f_92789",
+        "Genus": "midas_g_114295",
+        "Species": "midas_s_114295"
+    },
+    "d1a1aa662f58882236fe1052f54f54e4": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Chloroflexi",
+        "Class": "Anaerolineae",
+        "Order": "RBG-13-54-9",
+        "Family": NaN,
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "d5e939a80cd935256424832c8135ab67": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": "Methanobrevibacter",
+        "Species": "Methanobrevibacter_olleyae"
+    },
+    "940021f82a61b343178e7948608b3049": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Chloroflexi",
+        "Class": "Anaerolineae",
+        "Order": "Caldilineales",
+        "Family": "Caldilineaceae",
+        "Genus": "midas_g_3064",
+        "Species": NaN
+    },
+    "41462a2ea2ecfae926f39321194827f4": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Dysgonomonadaceae",
+        "Genus": "Petrimonas",
+        "Species": NaN
+    },
+    "366733dfd74c03f461869ba27c83b891": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Dysgonomonadaceae",
+        "Genus": "Petrimonas",
+        "Species": NaN
+    },
+    "3115ae1d2080a58703f7d1b3f173f747": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": NaN,
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "44f36296fa6c3d11f304f1300a6aa365": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Bacilli",
+        "Order": "Erysipelotrichales",
+        "Family": "Erysipelotrichaceae",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "17d21713cdb0026b84bd804c7e7ee88f": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Desulfobacterota",
+        "Class": "Desulfuromonadia",
+        "Order": "Desulfuromonadales",
+        "Family": "Desulfuromonadaceae",
+        "Genus": "midas_g_30443",
+        "Species": "midas_s_47294"
+    },
+    "9e13d93777151eb613fe284d55d30c88": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Alphaproteobacteria",
+        "Order": "Rhizobiales",
+        "Family": "Xanthobacteraceae",
+        "Genus": "Xanthobacter",
+        "Species": NaN
+    },
+    "1ac4b8ed3e2b40be0cbd32ecc6bb0b1e": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Alphaproteobacteria",
+        "Order": "Sphingomonadales",
+        "Family": "Sphingomonadaceae",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "2c452b25c7f3c62be462d8f47ed179e3": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Desulfobacterota",
+        "Class": "Desulfobulbia",
+        "Order": "Desulfobulbales",
+        "Family": "Desulfobulbaceae",
+        "Genus": "Desulfobulbus",
+        "Species": NaN
+    },
+    "3b7d2fa3c33af3bb532f7f99632313ab": {
+        "Kingdom": "Bacteria",
+        "Phylum": NaN,
+        "Class": NaN,
+        "Order": NaN,
+        "Family": NaN,
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "d29af3edf47d3da3fdb5125ab44e9e9e": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Peptostreptococcales-Tissierellales",
+        "Family": "Anaerovoracaceae",
+        "Genus": "Anaerovorax",
+        "Species": NaN
+    },
+    "974ef761042d5fbf7b56f8ce47c2835b": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Aminivibrio",
+        "Species": "midas_s_58933"
+    },
+    "410e17c91b71140623127a81fc9c1394": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Aminivibrio",
+        "Species": "midas_s_58933"
+    },
+    "7a930632221fc23ee8e8a505e317770b": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Syner-01",
+        "Species": NaN
+    },
+    "562cf6de43317542399213abb9dcf723": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Aminiphilus",
+        "Species": NaN
+    },
+    "2c4835acd29039a6271cf50ec873938b": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "JGI-0000079-D21",
+        "Species": "midas_s_976"
+    },
+    "b26eb5a5ca6820d220d5433b1cffa5e6": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Alphaproteobacteria",
+        "Order": "Sphingomonadales",
+        "Family": "Sphingomonadaceae",
+        "Genus": "Sphingopyxis",
+        "Species": NaN
+    },
+    "fef9026196726437d83021276c40e95c": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Negativicutes",
+        "Order": "Veillonellales-Selenomonadales",
+        "Family": "Sporomusaceae",
+        "Genus": "midas_g_76603",
+        "Species": "midas_s_76603"
+    },
+    "0a080f68f8c16188fe250be4dbeecae5": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Negativicutes",
+        "Order": "Veillonellales-Selenomonadales",
+        "Family": "Sporomusaceae",
+        "Genus": "midas_g_76603",
+        "Species": "midas_s_76603"
+    },
+    "08550dab9a71f9121b07319c50f5eec7": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Christensenellales",
+        "Family": "Christensenellaceae",
+        "Genus": "Christensenellaceae_R-7_group",
+        "Species": NaN
+    },
+    "c4617cb108d1c36a232c9f12ec46034d": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": "Methanobacterium",
+        "Species": NaN
+    },
+    "4ccc31c7fb4e7861ba66efdf9c5706c0": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": "Methanobacterium",
+        "Species": NaN
+    },
+    "0e2e50ea2d7a3366dcca1f3262040bb0": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": "Methanobacterium",
+        "Species": "Methanobacterium_formicicum"
+    },
+    "7b93ff9b2b7ff23722305deb2a9ef5a6": {
+        "Kingdom": "Archaea",
+        "Phylum": "Halobacterota",
+        "Class": "Methanosarcinia",
+        "Order": "Methanosarciniales",
+        "Family": "Methanosarcinaceae",
+        "Genus": "Methanosarcina",
+        "Species": NaN
+    },
+    "1aede2d5c2e052cf33e4fbbc76abf4bb": {
+        "Kingdom": "Archaea",
+        "Phylum": "Halobacterota",
+        "Class": "Methanosarcinia",
+        "Order": "Methanosarciniales",
+        "Family": "Methanosarcinaceae",
+        "Genus": "Methanosarcina",
+        "Species": NaN
+    },
+    "136c27e1efa2b99fb71cdff938615daa": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": "Methanobacterium",
+        "Species": "midas_s_9526"
+    },
+    "c63c5d8abeb7abd9c7086b6175696ed0": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": "Methanobacterium",
+        "Species": "midas_s_9526"
+    },
+    "456e90bd81f384fccd85730d1b5088e5": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": "Methanobacterium",
+        "Species": "midas_s_9526"
+    },
+    "2f62caf32ac0a5313dea4b421d6dd293": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": "Methanobacterium",
+        "Species": "midas_s_9526"
+    },
+    "4a9c9a6afe331e03642369eb4d2e9537": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": "Methanobacterium",
+        "Species": "midas_s_9526"
+    },
+    "c8589a883bfbd1ec85db21de49da6dec": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": "Methanobacterium",
+        "Species": "midas_s_9526"
+    },
+    "c9b1d29de9ba6aaa6bd23b386b8c8331": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": "Methanobacterium",
+        "Species": "midas_s_9526"
+    },
+    "090bf82b7f5b559151f7ac51857d5054": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": "Methanobacterium",
+        "Species": "midas_s_9526"
+    },
+    "829161d9eeb2bc71c936ceac625d9240": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "023bd97712c56fd071cfd4e6b41ee9c5": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "cbca50b47704f15a44a0f88d3c8f1218": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "2ecbfbee8195efa717b514b97081f80e": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "e36ac8cd7dc84d43bd2784fdc182f91a": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "15d6fc9acd8a80fde2e63f2ab46bf4e1": {
+        "Kingdom": "Archaea",
+        "Phylum": "Euryarchaeota",
+        "Class": "Methanobacteria",
+        "Order": "Methanobacteriales",
+        "Family": "Methanobacteriaceae",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "21fcd2fcaa0378a40f3a9db0b3bd948c": {
+        "Kingdom": "Bacteria",
+        "Phylum": "WS1",
+        "Class": "midas_c_796",
+        "Order": "midas_o_796",
+        "Family": "midas_f_2296",
+        "Genus": "midas_g_3409",
+        "Species": "midas_s_3951"
+    },
+    "8298bcdb584afbb1bdb72e7abb796243": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Actinobacteriota",
+        "Class": "Actinobacteria",
+        "Order": "Propionibacteriales",
+        "Family": "Propionibacteriaceae",
+        "Genus": "Propionicicella",
+        "Species": NaN
+    },
+    "f78abd34d9f99dfc6481d847ff918abb": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Actinobacteriota",
+        "Class": "Actinobacteria",
+        "Order": "Corynebacteriales",
+        "Family": "Nocardiaceae",
+        "Genus": "Gordonia",
+        "Species": NaN
+    },
+    "21e3bd1eaad54c1813a64b44db28a503": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Actinobacteriota",
+        "Class": "Coriobacteriia",
+        "Order": "OPB41",
+        "Family": "midas_f_6325",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "626ceecfac444a7e053d5ae2c76833df": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Actinobacteriota",
+        "Class": "WCHB1-81",
+        "Order": "midas_o_765",
+        "Family": "midas_f_765",
+        "Genus": "midas_g_765",
+        "Species": "midas_s_4411"
+    },
+    "df90b0490f4050027cdd5765ccfb83c4": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Dysgonomonadaceae",
+        "Genus": "Petrimonas",
+        "Species": "Petrimonas_sulfuriphila"
+    },
+    "1b6a74219c50e2431e29f79c7759fe5c": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Dysgonomonadaceae",
+        "Genus": "Petrimonas",
+        "Species": "Petrimonas_sulfuriphila"
+    },
+    "816049bb0d04d104e9bc79d797b7b2e9": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Dysgonomonadaceae",
+        "Genus": "Petrimonas",
+        "Species": "Petrimonas_sulfuriphila"
+    },
+    "c30580a91a58b792d695b191782389a4": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Dysgonomonadaceae",
+        "Genus": "Petrimonas",
+        "Species": "Petrimonas_sulfuriphila"
+    },
+    "04749d839f517a8461ff731c4a0a4b60": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Dysgonomonadaceae",
+        "Genus": "Petrimonas",
+        "Species": "Petrimonas_sulfuriphila"
+    },
+    "d10ef1cc3876e7ca96d49bab29ceec47": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Paludibacteraceae",
+        "Genus": "midas_g_9269",
+        "Species": NaN
+    },
+    "7e07d92eab06d89b09f0c89c8e30de6b": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Dysgonomonadaceae",
+        "Genus": "Dysgonomonas",
+        "Species": "midas_s_30643"
+    },
+    "3ae3a933b6350ff99dc0ec6278de0963": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Rikenellaceae",
+        "Genus": "midas_g_36215",
+        "Species": "midas_s_82500"
+    },
+    "b79b2f2c74f4f888f402ef44e0df495b": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Sphingobacteriales",
+        "Family": "Lentimicrobiaceae",
+        "Genus": "Lentimicrobium",
+        "Species": NaN
+    },
+    "f2503a995bd8c1a94ce5d1e49159c7d1": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Sphingobacteriales",
+        "Family": "Lentimicrobiaceae",
+        "Genus": "Lentimicrobium",
+        "Species": "midas_s_63579"
+    },
+    "c9b9c9ee04be1386fdb2288190da9b54": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Sphingobacteriales",
+        "Family": "Lentimicrobiaceae",
+        "Genus": "Lentimicrobium",
+        "Species": NaN
+    },
+    "a279fb62a47697ac7088fbfeb831c6cf": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Sphingobacteriales",
+        "Family": "Lentimicrobiaceae",
+        "Genus": "Lentimicrobium",
+        "Species": NaN
+    },
+    "dec17ecd030a71bf1867316e52e3532c": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Sphingobacteriales",
+        "Family": "Lentimicrobiaceae",
+        "Genus": "Lentimicrobium",
+        "Species": NaN
+    },
+    "98250dc58799b80cb124a1f158f2cf22": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Sphingobacteriales",
+        "Family": "Lentimicrobiaceae",
+        "Genus": "Lentimicrobium",
+        "Species": NaN
+    },
+    "74733b3a404e0fd05016159ab938bbc7": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Sphingobacteriales",
+        "Family": "Lentimicrobiaceae",
+        "Genus": "Lentimicrobium",
+        "Species": NaN
+    },
+    "2a7b75084dbd64dfb6a157319b8c65a9": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Sphingobacteriales",
+        "Family": "Lentimicrobiaceae",
+        "Genus": "Lentimicrobium",
+        "Species": NaN
+    },
+    "4b99ad27979703cf85b4166c91bfa04d": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Sphingobacteriales",
+        "Family": "Lentimicrobiaceae",
+        "Genus": "Lentimicrobium",
+        "Species": NaN
+    },
+    "f8c8cdc38f175e31f80c5dfa248268a3": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Bacteroidota",
+        "Class": "Bacteroidia",
+        "Order": "Bacteroidales",
+        "Family": "Bacteroidaceae",
+        "Genus": "Bacteroides",
+        "Species": "midas_s_56922"
+    },
+    "d173baa99a72cc768d97c17cf7f2424c": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Alphaproteobacteria",
+        "Order": "Rhizobiales",
+        "Family": "Rhizobiaceae",
+        "Genus": "Aquamicrobium",
+        "Species": "Aquamicrobium_lusatiense"
+    },
+    "333f32bb3f9df5675182ceda88bba911": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Alphaproteobacteria",
+        "Order": "Rhizobiales",
+        "Family": "Beijerinckiaceae",
+        "Genus": "Bosea",
+        "Species": NaN
+    },
+    "46220cd89f34c6795cf64aedde280616": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Gammaproteobacteria",
+        "Order": "Enterobacterales",
+        "Family": "Enterobacteriaceae",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "9ef2acf4017ed80d12e3d4eadf0b5855": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Gammaproteobacteria",
+        "Order": "Enterobacterales",
+        "Family": "Enterobacteriaceae",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "f51861ad57a6bca3ae14717b44b875f5": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Gammaproteobacteria",
+        "Order": "Enterobacterales",
+        "Family": "Enterobacteriaceae",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "87671eb172dd57036886a3c5e0c4da8d": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Gammaproteobacteria",
+        "Order": "Enterobacterales",
+        "Family": "Enterobacteriaceae",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "047ab7f37ccc35c6144cc1896bc32a69": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Gammaproteobacteria",
+        "Order": "Enterobacterales",
+        "Family": "Enterobacteriaceae",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "7eec3edf6a18be5d7a07ef87889ce62e": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Gammaproteobacteria",
+        "Order": "Burkholderiales",
+        "Family": NaN,
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "6eca1e8c47d098b26976cba1c2bfdfb8": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Gammaproteobacteria",
+        "Order": "Burkholderiales",
+        "Family": NaN,
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "a0376c2f2588fc343f6a4ed744cc771f": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Gammaproteobacteria",
+        "Order": "Burkholderiales",
+        "Family": NaN,
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "d2e1fe03e75414adc4b52046947acc3b": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Gammaproteobacteria",
+        "Order": "Burkholderiales",
+        "Family": NaN,
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "d8f2eba07489316f7c8a27d0e18fed13": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Gammaproteobacteria",
+        "Order": "Burkholderiales",
+        "Family": "Rhodocyclaceae",
+        "Genus": "Azoarcus",
+        "Species": "midas_s_70352"
+    },
+    "6aa82af5289e004d50046c31ef22b2ae": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Gammaproteobacteria",
+        "Order": "Burkholderiales",
+        "Family": "Rhodocyclaceae",
+        "Genus": "Denitromonas",
+        "Species": NaN
+    },
+    "5ab25dcdb272bc212f8833c23f30c16e": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Gammaproteobacteria",
+        "Order": "Burkholderiales",
+        "Family": "Alcaligenaceae",
+        "Genus": "Alcaligenes",
+        "Species": "midas_s_9908"
+    },
+    "95c870b95f0b1022135bf0d52a9eac52": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Gammaproteobacteria",
+        "Order": "Burkholderiales",
+        "Family": "Alcaligenaceae",
+        "Genus": "Alcaligenes",
+        "Species": "midas_s_9908"
+    },
+    "8466f2635d9fbf9c51a04877474f3d09": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Gammaproteobacteria",
+        "Order": "Burkholderiales",
+        "Family": "Alcaligenaceae",
+        "Genus": "Alcaligenes",
+        "Species": "midas_s_9908"
+    },
+    "132a867d0cff8733fee3f3f6603f7dc6": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Proteobacteria",
+        "Class": "Gammaproteobacteria",
+        "Order": "Burkholderiales",
+        "Family": "Alcaligenaceae",
+        "Genus": "Achromobacter",
+        "Species": "midas_s_18114"
+    },
+    "6b15076713c80766ed3249e56161528a": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Cloacimonadota",
+        "Class": "Cloacimonadia",
+        "Order": "Cloacimonadales",
+        "Family": "Cloacimonadaceae",
+        "Genus": "LNR_A2-18",
+        "Species": NaN
+    },
+    "f9ceb4443de3c6d51433fa57c3ade975": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Cloacimonadota",
+        "Class": "Cloacimonadia",
+        "Order": "Cloacimonadales",
+        "Family": "Cloacimonadaceae",
+        "Genus": "LNR_A2-18",
+        "Species": NaN
+    },
+    "fb7748d46087f2d0011ea975e96c3aba": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Desulfobacterota",
+        "Class": "Desulfovibrionia",
+        "Order": "Desulfovibrionales",
+        "Family": "Desulfovibrionaceae",
+        "Genus": "Desulfovibrio",
+        "Species": NaN
+    },
+    "226d43150cdde82b8714ccca9ee0349d": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Desulfobacterota",
+        "Class": "Desulfovibrionia",
+        "Order": "Desulfovibrionales",
+        "Family": "Desulfovibrionaceae",
+        "Genus": "Desulfovibrio",
+        "Species": NaN
+    },
+    "b727e013aceef325ef67a686dbf120ff": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Desulfobacterota",
+        "Class": "Desulfovibrionia",
+        "Order": "Desulfovibrionales",
+        "Family": "Desulfovibrionaceae",
+        "Genus": "Desulfovibrio",
+        "Species": NaN
+    },
+    "e946aa2640ed19e8e6ad303d9f69f9b4": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Desulfobacterota",
+        "Class": "Desulfovibrionia",
+        "Order": "Desulfovibrionales",
+        "Family": "Desulfovibrionaceae",
+        "Genus": "Desulfovibrio",
+        "Species": NaN
+    },
+    "57568ab86419e6655ce098557e7735c9": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Desulfobacterota",
+        "Class": "Desulfovibrionia",
+        "Order": "Desulfovibrionales",
+        "Family": "Desulfovibrionaceae",
+        "Genus": "Desulfovibrio",
+        "Species": NaN
+    },
+    "836ab52eed0e19a65986c20851198acc": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Desulfobacterota",
+        "Class": "Desulfovibrionia",
+        "Order": "Desulfovibrionales",
+        "Family": "Desulfovibrionaceae",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "43d2e766e975ed78249040b1bf9f754d": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Armatimonadota",
+        "Class": "Chthonomonadetes",
+        "Order": "Chthonomonadales",
+        "Family": "midas_f_6187",
+        "Genus": "midas_g_6187",
+        "Species": "midas_s_6187"
+    },
+    "2d48175c104107d4d4e4f5e8dd9a0a22": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Eubacteriales",
+        "Family": "Eubacteriaceae",
+        "Genus": "Acetobacterium",
+        "Species": NaN
+    },
+    "492b87ddf778ee01162054026ff289ae": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Eubacteriales",
+        "Family": "Eubacteriaceae",
+        "Genus": "Acetobacterium",
+        "Species": NaN
+    },
+    "bfeb406eac391881a6599911d4643acb": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Bacilli",
+        "Order": "Bacillales",
+        "Family": "Bacillaceae",
+        "Genus": "Bacillus",
+        "Species": "midas_s_108787"
+    },
+    "4a3b431bc561efeda4cf35212d46ac9d": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Bacilli",
+        "Order": "Erysipelotrichales",
+        "Family": "Erysipelotrichaceae",
+        "Genus": "Erysipelothrix",
+        "Species": "midas_s_114219"
+    },
+    "840e058fa20744d5348c023c25e7d232": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Bacilli",
+        "Order": "Lactobacillales",
+        "Family": "Enterococcaceae",
+        "Genus": "Enterococcus",
+        "Species": NaN
+    },
+    "9560e4972e8046c341e33c5455f39420": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Peptostreptococcales-Tissierellales",
+        "Family": "Family_XI",
+        "Genus": "Anaerosalibacter",
+        "Species": "midas_s_79866"
+    },
+    "09f86148f9153b2d226766afd418050f": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Peptostreptococcales-Tissierellales",
+        "Family": "Proteiniboraceae",
+        "Genus": "Proteiniborus",
+        "Species": "Proteiniborus_ethanoligenes"
+    },
+    "7ce0344088dc09b462f7d39fc4bd910a": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Peptostreptococcales-Tissierellales",
+        "Family": "Peptostreptococcaceae",
+        "Genus": "Acetoanaerobium",
+        "Species": NaN
+    },
+    "124cf22125895521b8cfe8d7d8d56d8a": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Peptostreptococcales-Tissierellales",
+        "Family": "Anaerovoracaceae",
+        "Genus": "Anaerovorax",
+        "Species": NaN
+    },
+    "478fa149d72ab4d5a1c35d4fd7c3f6d8": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Peptostreptococcales-Tissierellales",
+        "Family": "Anaerovoracaceae",
+        "Genus": "Anaerovorax",
+        "Species": NaN
+    },
+    "931f5be1037c1c313cde89dcc9b3474e": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Peptostreptococcales-Tissierellales",
+        "Family": "Peptostreptococcaceae",
+        "Genus": "Terrisporobacter",
+        "Species": NaN
+    },
+    "feec8d91c6be13d10b577e62ebd689e9": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Peptostreptococcales-Tissierellales",
+        "Family": "Peptostreptococcaceae",
+        "Genus": "Romboutsia",
+        "Species": "Romboutsia_lituseburensis"
+    },
+    "7412bba5944105a490c5da14366f3ed0": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Peptostreptococcales-Tissierellales",
+        "Family": "Peptostreptococcaceae",
+        "Genus": "Romboutsia",
+        "Species": "Romboutsia_lituseburensis"
+    },
+    "3cce44066ef2892851cfc148070ebd28": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Peptostreptococcales-Tissierellales",
+        "Family": "Peptostreptococcaceae",
+        "Genus": "Paraclostridium",
+        "Species": "midas_s_2984"
+    },
+    "4c31c3e198534eab45b6d92b61f75b10": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Peptostreptococcales-Tissierellales",
+        "Family": "Peptostreptococcaceae",
+        "Genus": "Paraclostridium",
+        "Species": "midas_s_2984"
+    },
+    "68c0d62cad841fbf52eb5c92f9f2f0ff": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Syner-01",
+        "Species": NaN
+    },
+    "aa58fe86d0f5e4b909114de614e7a57e": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Syner-01",
+        "Species": NaN
+    },
+    "3a70b97a9fdb1d2359a2aadcf8b85355": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Syner-01",
+        "Species": NaN
+    },
+    "069542283eb54c7a749da63bb4204831": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Aminivibrio",
+        "Species": "midas_s_58933"
+    },
+    "ce2a49926750905304b346931b6b57f5": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Aminivibrio",
+        "Species": "Aminivibrio_pyruvatiphilus"
+    },
+    "ec80fe4d18e3e184ec3e7439c89cd31e": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Aminivibrio",
+        "Species": "Aminivibrio_pyruvatiphilus"
+    },
+    "05c8c19fcabf8d569dfa52c6641e2c9c": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "EBM-39",
+        "Species": NaN
+    },
+    "e351ff2570360ae0b6c68b9b864b0870": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "EBM-39",
+        "Species": NaN
+    },
+    "c3d05612644a8dea3120c0c0bef60144": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "EBM-39",
+        "Species": NaN
+    },
+    "ba6bc4c3f11394ddeb20d0be26876b26": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "EBM-39",
+        "Species": NaN
+    },
+    "2919ca12aa75e54dc25b4e3750d8712c": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Thermovirga",
+        "Species": "midas_s_99362"
+    },
+    "da47a34fd036b068ca0c5eaf185e2082": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Thermovirga",
+        "Species": "midas_s_94423"
+    },
+    "70dad951b3fa985e88aacd73b780572d": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Synergistota",
+        "Class": "Synergistia",
+        "Order": "Synergistales",
+        "Family": "Synergistaceae",
+        "Genus": "Thermovirga",
+        "Species": "midas_s_94423"
+    },
+    "1f4fb4bfdca6c9d13106ed533362a62e": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Desulfitobacteriia",
+        "Order": "Desulfitobacteriales",
+        "Family": "Desulfitobacteriaceae",
+        "Genus": "Desulfosporosinus",
+        "Species": NaN
+    },
+    "e53a3ca9a538872ba7ffd36516316cd9": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Desulfitobacteriia",
+        "Order": "Desulfitobacteriales",
+        "Family": "Syntrophobotulaceae",
+        "Genus": NaN,
+        "Species": NaN
+    },
+    "472fdc0687378563f0c9da6da7638e1a": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Clostridiales",
+        "Family": "Clostridiaceae",
+        "Genus": "Clostridium_sensu_stricto_13",
+        "Species": "midas_s_88977"
+    },
+    "235cecb983088e1e7e515d60ffa5241b": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Clostridiales",
+        "Family": "Clostridiaceae",
+        "Genus": "Clostridium_sensu_stricto_13",
+        "Species": "midas_s_88977"
+    },
+    "5ee8401378df21501b0f606768f113b8": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Gracilibacteraceae",
+        "Family": "Lutispora",
+        "Genus": "midas_g_94288",
+        "Species": "midas_s_99172"
+    },
+    "9ca522266700affe72ba707b3e043cd5": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Gracilibacteraceae",
+        "Family": "Lutispora",
+        "Genus": "midas_g_94288",
+        "Species": "midas_s_99172"
+    },
+    "12198ade971f92bb157e2a699be09bc8": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Monoglobales",
+        "Family": "Monoglobaceae",
+        "Genus": "Monoglobus",
+        "Species": "midas_s_119413"
+    },
+    "f8a7dfd610756eae88194f6b418f8083": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Oscillospirales",
+        "Family": "Oscillospiraceae",
+        "Genus": "Colidextribacter",
+        "Species": NaN
+    },
+    "6fe0584a633ebcfeff1eb9d0a28c29b6": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Oscillospirales",
+        "Family": "Oscillospiraceae",
+        "Genus": "Oscillibacter",
+        "Species": NaN
+    },
+    "0f13e7c072d0c79f6afcdcc05dc4b022": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Oscillospirales",
+        "Family": "Oscillospiraceae",
+        "Genus": "Oscillibacter",
+        "Species": NaN
+    },
+    "0d57a4282ea9934b8a1e149b3335c0d3": {
+        "Kingdom": "Bacteria",
+        "Phylum": "Firmicutes",
+        "Class": "Clostridia",
+        "Order": "Gracilibacteraceae",
+        "Family": "Gracilibacter",
+        "Genus": "midas_g_669",
+        "Species": NaN
+    }
+}
