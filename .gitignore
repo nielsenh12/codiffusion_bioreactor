@@ -4,3 +4,4 @@ codif/*
 Fasta*.json
 main*.json
 model_inputs/BV_BRC_16S.json
+16S_metadata*.json
