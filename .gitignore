@@ -1,4 +1,6 @@
 *.zip
 model_inputs/BV_BRC_16S.fasta
 codif/*
+Fasta*.json
+main*.json
 model_inputs/BV_BRC_16S.json
