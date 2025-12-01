@@ -12,3 +12,4 @@ alignments/*
 modeling_files/best_matches.json
 modeling_files/feature_probabilities.json
 */*/ID_md5*.json
+*/*.ipynb_checkpoints*/*

@@ -4,9 +4,10 @@ from os import path
 from zipfile import ZipFile
 
 # Add the parent directory to the sys.path
-sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+sys.path.extend([ os.path.dirname(os.path.dirname(os.path.abspath(__file__))) ])
+# display(sys.path)
 
-from baseutil import *
+from baseutil import * #chenry_utility_module.baseutil import *
 import logging
 
 import hashlib
@@ -23,7 +24,7 @@ from modelseedpy.core.msensemble import MSEnsemble
 from mscommunity import MSCommunity
 from modelseedpy.helpers import get_template
 
-class SludgeCommUtil(BaseUtil):
+class CommUtil(BaseUtil):
     def __init__(self):
         BaseUtil.__init__(self,"Sludge")
         # self.msseedrecon()
@@ -49,4 +50,4 @@ class SludgeCommUtil(BaseUtil):
             type=type
         )
 
-util = SludgeCommUtil() 
+util = CommUtil() 
