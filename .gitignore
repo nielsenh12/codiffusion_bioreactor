@@ -10,6 +10,6 @@ features/*
 genomes/*
 alignments/*
 modeling_files/best_matches.json
-modeling_files/feature_probabilities.json
+modeling_files/*probabilities.json
 */*/ID_md5*.json
 */*.ipynb_checkpoints*/*
