@@ -6,9 +6,9 @@ model_inputs/BV_BRC_16S*.json
 model_inputs/16S_metadata*.json
 16S_metadata*.json
 model_inputs/*md5*json
-features/*
-genomes/*
-alignments/*
+features*/*
+genomes*/*
+alignments*/*
 modeling_files/best_matches.json
 modeling_files/*probabilities.json
 */*/ID_md5*.json
