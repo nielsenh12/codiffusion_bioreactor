@@ -103,17 +103,20 @@ python bvbrc_to_kbase_genome.py --synthetic ASV_12345 \
 ```python
 from bvbrc_to_kbase_genome import create_synthetic_genome
 
-# Auto-aggregation from genome IDs (features/{id}.json and genomes/{id}.fna)
+# Auto-aggregation from genome IDs
+# Loads from: genome_metadata/{id}.json, features/{id}.json, genomes/{id}.fna
+# Extracts taxonomy from metadata and aggregates across all source genomes
 genome = create_synthetic_genome(
     asv_id='ASV_12345',
     genome_ids=['511145.183', '83332.133', '1110693.3'],
+    metadata_dir='genome_metadata',
     features_dir='features',
     genomes_dir='genomes',
     output_file='asv_12345.json'
 )
 
 # Taxonomy saved to: ASVset_taxonomies/ASV_12345.json
-# Genome uses consensus taxonomy
+# Genome uses consensus taxonomy from source genomes
 print(f"Consensus taxonomy: {genome['taxonomy']}")
 ```
 
@@ -227,13 +230,15 @@ for ASV_md5, genome_md5s in tqdm(list(ASV_genomes.items())[:10]):
         continue
 
     # Create synthetic genome directly from genome IDs
-    # Loads from features/{genome_id}.json and genomes/{genome_id}.fna
+    # Loads from: genome_metadata/{id}.json, features/{id}.json, genomes/{id}.fna
+    # Extracts taxonomy from metadata and aggregates across sources
     try:
         os.makedirs('synthetic_genomes', exist_ok=True)
 
         synthetic = create_synthetic_genome(
             asv_id=asv_id,
-            genome_ids=genome_ids,  # Load directly from features/ and genomes/
+            genome_ids=genome_ids,  # Load from metadata/, features/, genomes/
+            metadata_dir='genome_metadata',
             features_dir='features',
             genomes_dir='genomes',
             save_taxonomy=True,

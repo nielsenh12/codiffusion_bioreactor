@@ -44,16 +44,24 @@ print(f"GC content: {genome['gc_content']:.2%}")
 ### Load from Local Features Directory
 
 ```python
-# Load from features/ and genomes/ directories
+# Load from genome_metadata/, features/, and genomes/ directories
+# Automatically extracts taxonomy, GC content, etc. from metadata
 genome = load_genome_from_features('511145.183')
 
-# With custom directories and metadata
+# With custom directories
 genome = load_genome_from_features(
     genome_id='511145.183',
+    metadata_dir='path/to/genome_metadata',
     features_dir='path/to/features',
     genomes_dir='path/to/genomes',
-    taxonomy='Bacteria; Proteobacteria; Gammaproteobacteria',
-    scientific_name='Escherichia coli K-12 MG1655',
+    output_file='ecoli.json'
+)
+
+# Override metadata with explicit values
+genome = load_genome_from_features(
+    genome_id='511145.183',
+    taxonomy='Bacteria; Proteobacteria; Gammaproteobacteria',  # Overrides metadata
+    scientific_name='Escherichia coli K-12 MG1655',  # Overrides metadata
     output_file='ecoli.json'
 )
 ```
@@ -152,20 +160,21 @@ from bvbrc_to_kbase_genome import LocalGenomeConverter
 # Create converter instance
 converter = LocalGenomeConverter()
 
-# Load from features directory
+# Load from features directory (uses metadata from genome_metadata/)
 genome = converter.load_genome_from_features_dir(
     genome_id='511145.183',
+    metadata_dir='genome_metadata',
     features_dir='features',
     genomes_dir='genomes',
-    taxonomy='Bacteria; Proteobacteria',
-    scientific_name='Escherichia coli'
+    taxonomy='Bacteria; Proteobacteria',  # Optional: overrides metadata
+    scientific_name='Escherichia coli'  # Optional: overrides metadata
 )
 
-# Create synthetic genome
+# Create synthetic genome (automatically uses metadata for each source genome)
 synthetic = converter.create_synthetic_genome(
     asv_id='ASV_001',
     genome_files=['g1.json', 'g2.json', 'g3.json'],
-    taxonomy='Bacteria; Firmicutes'
+    taxonomy='Bacteria; Firmicutes'  # Optional: overrides consensus
 )
 
 # Validate existing genome

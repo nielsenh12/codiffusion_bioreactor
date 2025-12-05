@@ -115,23 +115,26 @@ Load genomes from local BV-BRC feature files without re-downloading from the API
 
 **File Structure Expected:**
 ```
+genome_metadata/
+  └── {genome_id}.json    # Genome metadata (taxonomy, GC content, stats)
 features/
-  └── {genome_id}.json    # Feature metadata from BV-BRC API
+  └── {genome_id}.json    # Feature annotations from BV-BRC API
 genomes/
   └── {genome_id}.fna     # Genome sequences in FASTA format
 ```
 
 **Usage:**
 ```bash
-# Basic usage (assumes features/ and genomes/ in current directory)
+# Basic usage (assumes genome_metadata/, features/, and genomes/ in current directory)
 python bvbrc_to_kbase_genome.py --features <genome_id>
 
 # With custom directories
 python bvbrc_to_kbase_genome.py --features <genome_id> \
+  --metadata-dir path/to/genome_metadata \
   --features-dir path/to/features \
   --genomes-dir path/to/genomes
 
-# With taxonomy and scientific name
+# With taxonomy and scientific name (overrides metadata)
 python bvbrc_to_kbase_genome.py --features 511145.183 \
   --taxonomy "Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia" \
   --scientific-name "Escherichia coli K-12 MG1655" \
@@ -140,11 +143,12 @@ python bvbrc_to_kbase_genome.py --features 511145.183 \
 
 **Examples:**
 ```bash
-# Load genome from local features directory
+# Load genome from local features directory (uses default genome_metadata/, features/, genomes/)
 python bvbrc_to_kbase_genome.py --features 511145.183
 
 # With all options
 python bvbrc_to_kbase_genome.py --features 1110693.3 \
+  --metadata-dir /path/to/genome_metadata \
   --features-dir /path/to/features \
   --genomes-dir /path/to/genomes \
   --taxonomy "Bacteria; Firmicutes" \
@@ -154,6 +158,14 @@ python bvbrc_to_kbase_genome.py --features 1110693.3 \
 ```
 
 **What's Loaded:**
+- **Metadata**: JSON object from `genome_metadata/{genome_id}.json` containing:
+  - `taxonomy` - Taxonomic lineage (from `taxon_lineage_names` or individual fields)
+  - `gc_content` - GC content percentage (converted to fraction)
+  - `genome_length` - Total genome size in base pairs
+  - `contigs` - Number of contigs
+  - `superkingdom`, `kingdom`, `phylum`, `class`, `order`, `family`, `genus`, `species` - Taxonomic levels
+  - `completion_date` - Genome completion date
+  - Other genome statistics and metadata
 - **Features**: JSON array from `features/{genome_id}.json` containing:
   - `patric_id` - PATRIC feature identifier
   - `product` - Gene product description
@@ -161,9 +173,9 @@ python bvbrc_to_kbase_genome.py --features 1110693.3 \
   - `pgfam_id`, `plfam_id`, `figfam_id` - Family identifiers
   - `annotation` - Annotation source
 - **Sequences**: FASTA from `genomes/{genome_id}.fna` containing genome contigs
-- **Calculated**: GC content, genome MD5, DNA size, contig counts
+- **Calculated**: Genome MD5 from sequences (if not in metadata)
 
-**Note**: The features JSON files from BV-BRC API (downloaded with limited `select` fields) don't include sequence data or precise location coordinates. The script creates features with metadata only. For complete feature sequences, use Mode 1 (API) which fetches full data.
+**Note**: The script preferentially uses metadata from `genome_metadata/{genome_id}.json` for taxonomy, GC content, and genome statistics. If metadata is not available, it will calculate these values from the sequences and features. Taxonomy and scientific name can be explicitly overridden using command-line arguments.
 
 ### Mode 4: Create Synthetic Genome (from Multiple Genomes)
 
