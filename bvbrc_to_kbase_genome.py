@@ -455,6 +455,155 @@ class LocalGenomeConverter:
 
         return defaults
 
+    def visualize_taxonomies(
+        self,
+        tax_info: dict,
+        asv_id: str,
+        output_dir: str = "ASVset_taxonomies"
+    ):
+        import matplotlib.pyplot as plt
+        import numpy as np
+        from collections import Counter, defaultdict
+        from json import load
+        from glob import glob
+        import matplotlib.patheffects as path_effects
+
+        members = tax_info["members"]
+        counts_by_level = tax_info["counts"]
+
+        tax_levels = ["Kingdom", "Phylum", "Class", "Order", "Family", "Genus", "Species"]
+
+        # Build hierarchical mapping: parent_taxon -> [child_taxa]
+        def build_parent_child_map(members, parent_level, child_level):
+            """Build a map of parent taxa to their children"""
+            parent_children = defaultdict(set)
+            for member in members:
+                parent = member.get(parent_level, '')
+                child = member.get(child_level, '')
+                if parent and child:
+                    parent_children[parent].add(child)
+            # Convert sets to sorted lists
+            return {p: sorted(list(c)) for p, c in parent_children.items()}
+
+        def count_members_with_parent(members, parent_level, parent):
+            """Count how many members have this parent"""
+            return sum(1 for m in members if m.get(parent_level, '') == parent)
+
+        def count_members_with_parent_and_child(members, parent_level, parent, child_level):
+            """Count how many members have this parent AND a child at the next level"""
+            return sum(1 for m in members if m.get(parent_level, '') == parent and m.get(child_level, ''))
+
+        # Build ordered list of taxa for each level, maintaining hierarchical alignment
+        ordered_taxa = {}
+        none_counts = {}  # Track counts for "None {parent}" placeholders
+
+        for i, level in enumerate(tax_levels):
+            if i == 0:
+                # First level: just sort the unique taxa
+                unique_taxa = sorted(set(m.get(level, '') for m in members if m.get(level, '')))
+                ordered_taxa[level] = unique_taxa
+            else:
+                parent_level = tax_levels[i-1]
+                parent_child_map = build_parent_child_map(members, parent_level, child_level=level)
+
+                ordered_list = []
+                # For each parent in order, add all its children
+                for parent in ordered_taxa.get(parent_level, []):
+                    # Skip "None" placeholders as parents
+                    if parent.startswith("None "):
+                        continue
+
+                    children = parent_child_map.get(parent, [])
+
+                    # Count how many members have this parent but no child
+                    parent_total = count_members_with_parent(members, parent_level, parent)
+                    parent_with_child = count_members_with_parent_and_child(members, parent_level, parent, level)
+                    none_count = parent_total - parent_with_child
+
+                    # Add all children first
+                    if children:
+                        ordered_list.extend(children)
+
+                    # Add placeholder if there are members with this parent but no child
+                    if none_count > 0:
+                        placeholder = f"None {parent}"
+                        ordered_list.append(placeholder)
+                        none_counts[placeholder] = none_count
+
+                ordered_taxa[level] = ordered_list
+
+        # Debug output
+        print(f"\nDEBUG for {asv_id}:")
+        for level in ["Family", "Genus"]:
+            if level in ordered_taxa:
+                print(f"{level}: {ordered_taxa[level][:10]}")  # First 10 items
+        print(f"none_counts: {none_counts}")
+        print()
+
+        # Prepare stacked bar data
+        group_names = [level for level in tax_levels if level in counts_by_level]
+        max_subbars = max(len(ordered_taxa.get(level, [])) for level in group_names)
+        group_values = np.zeros((max_subbars, len(group_names)))
+        all_taxa_labels = []  # Track labels for each level
+
+        for j, level in enumerate(group_names):
+            level_labels = []
+            for i, taxon in enumerate(ordered_taxa.get(level, [])):
+                # Get count for this taxon
+                if taxon.startswith("None "):
+                    group_values[i, j] = none_counts.get(taxon, 0)
+                else:
+                    group_values[i, j] = counts_by_level[level].get(taxon, 0)
+                level_labels.append(taxon)
+            all_taxa_labels.append(level_labels)
+
+        # Plotting
+        fig, ax = plt.subplots(figsize=(10, 6), dpi=300)
+        bottom = np.zeros(len(group_names))
+        colors = plt.cm.tab10.colors  # Nice distinct palette
+
+        # Draw stacked bars with embedded labels
+        for i in range(max_subbars):
+            bars = ax.bar(group_names, group_values[i], bottom=bottom,
+                          color=colors[i % len(colors)], edgecolor='white')
+
+            # Add labels inside each subbar
+            for j, bar in enumerate(bars):
+                level = group_names[j]
+                if i < len(all_taxa_labels[j]):
+                    taxon = all_taxa_labels[j][i]
+                    val = group_values[i, j]
+                    if val == 0:
+                        continue  # Only label visible bars
+
+                    taxon_display = taxon.replace('unclassified', '').replace('uncultured', '').replace(' group', '')
+                    txt = ax.text(
+                        bar.get_x() + bar.get_width() / 2,
+                        bar.get_y() + bar.get_height() / 2,
+                        f"{taxon_display}\n({int(val)})",
+                        ha='center', va='center', rotation=5,
+                        fontsize=6, color='white', weight='bold'
+                    )
+                    # Add black stroke (outline) for readability
+                    txt.set_path_effects([
+                        path_effects.Stroke(linewidth=1, foreground='black'),
+                        path_effects.Normal()
+                    ])
+
+            bottom += group_values[i]
+
+        # Style & labeling
+        ax.set_ylabel("Frequency")
+        ax.set_xlabel("Groups")
+        #TODO:  add the MiDAS iterativeID in the title for comparison, and highlight the "majority" opinion of the genus
+        ax.set_title(f"{asv_id} genome matches from BV-BRC")
+        # ax.legend(title="Elements", bbox_to_anchor=(1.05, 1), loc='upper left')
+        plt.tight_layout()
+        plt.savefig(os.path.join(output_dir, f"{asv_id}.png"))
+        # plt.show()
+        # break
+
+
     def aggregate_taxonomies(
         self,
         genomes: List[Dict[str, Any]],
@@ -481,9 +630,6 @@ class LocalGenomeConverter:
         """
         from collections import Counter
 
-        # Standard taxonomic levels
-        tax_levels = ["Kingdom", "Phylum", "Class", "Order", "Family", "Genus", "Species"]
-
         # Collect all taxonomies
         all_taxonomies = []
         for genome in genomes:
@@ -496,44 +642,39 @@ class LocalGenomeConverter:
             return "Unknown", {}
 
         # Parse taxonomies into levels
+        tax_levels = ["Kingdom", "Phylum", "Class", "Order", "Family", "Genus", "Species"]
         taxonomy_by_level = {level: [] for level in tax_levels}
-
+        members = []
         for taxonomy_str in all_taxonomies:
-            # Split by semicolon or other common delimiters
             parts = [p.strip() for p in taxonomy_str.replace(';', '|').split('|')]
-
-            # Assign to levels (assuming order matches standard levels)
+            members.append(dict(zip(tax_levels, parts)))
             for i, part in enumerate(parts):
                 if i < len(tax_levels) and part:
                     taxonomy_by_level[tax_levels[i]].append(part)
+        # output_file = os.path.join(output_dir, f"{asv_id}_members.json")
+        # with open(output_file, 'w') as f:
+        #     json.dump(taxonomy_by_level, f, indent=2)
 
         # Find most common taxonomy at each level
         consensus_taxonomy = []
+        counts_by_level = {}
         for level in tax_levels:
-            if taxonomy_by_level[level]:
-                # Count occurrences
-                counts = Counter(taxonomy_by_level[level])
-                # Get most common
-                most_common = counts.most_common(1)[0][0]
-                consensus_taxonomy.append(most_common)
-            else:
-                # No data at this level, stop here
-                break
+            counts_by_level.setdefault(level, Counter(taxonomy_by_level[level]))
+            # Get most common
+            most_common = counts_by_level[level].most_common(1)[0][0]
+            consensus_taxonomy.append(most_common)
 
-        # Build consensus taxonomy string
-        consensus_str = "; ".join(consensus_taxonomy)
 
-        # Build output dictionary (only include levels with data)
-        output_dict = {
-            level: taxonomy_by_level[level]
-            for level in tax_levels
-            if taxonomy_by_level[level]
-        }
+        # Build output dictionary
+        output_dict = {"members": members,
+                      # "combined": taxonomy_by_level.copy(),
+                      "counts": counts_by_level.copy()}
 
-        # Create output directory if it doesn't exist
-        os.makedirs(output_dir, exist_ok=True)
+        # visualize
+        self.visualize_taxonomies(output_dict, asv_id)
 
         # Save to JSON
+        os.makedirs(output_dir, exist_ok=True)
         output_file = os.path.join(output_dir, f"{asv_id}.json")
         with open(output_file, 'w') as f:
             json.dump(output_dict, f, indent=2)
@@ -541,7 +682,7 @@ class LocalGenomeConverter:
         print(f"  Taxonomy saved to {output_file}")
         # print(f"  Consensus taxonomy: {consensus_str}")
 
-        return consensus_str, output_dict
+        return "; ".join(consensus_taxonomy), output_dict
 
     def create_synthetic_genome(
         self,
