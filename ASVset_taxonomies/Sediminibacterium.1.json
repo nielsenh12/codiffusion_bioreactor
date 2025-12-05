@@ -1,0 +1,54 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "unclassified Bacteria"
+  ],
+  "Class": [
+    "FCB group",
+    "FCB group",
+    "FCB group",
+    "FCB group",
+    "FCB group",
+    "bacterium"
+  ],
+  "Order": [
+    "Bacteroidota/Chlorobiota group",
+    "Bacteroidota/Chlorobiota group",
+    "Bacteroidota/Chlorobiota group",
+    "Bacteroidota/Chlorobiota group",
+    "Bacteroidota/Chlorobiota group"
+  ],
+  "Family": [
+    "Bacteroidota",
+    "Bacteroidota",
+    "Bacteroidota",
+    "Bacteroidota",
+    "Bacteroidota"
+  ],
+  "Genus": [
+    "Chitinophagia",
+    "Chitinophagia",
+    "unclassified Bacteroidota",
+    "environmental samples",
+    "unclassified Bacteroidota"
+  ],
+  "Species": [
+    "Chitinophagales",
+    "Chitinophagales",
+    "Bacteroidota bacterium",
+    "uncultured Bacteroidota bacterium",
+    "Bacteroidota bacterium"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Actinomycetota",
+    "Actinomycetota",
+    "Actinomycetota",
+    "Actinomycetota",
+    "Actinomycetota",
+    "Actinomycetota",
+    "Actinomycetota"
+  ],
+  "Order": [
+    "Actinomycetes",
+    "Actinomycetes",
+    "Actinomycetes",
+    "environmental samples",
+    "Actinomycetes",
+    "Actinomycetes",
+    "Actinomycetes"
+  ],
+  "Family": [
+    "Micrococcales",
+    "Micrococcales",
+    "Micrococcales",
+    "uncultured Actinomycetota bacterium",
+    "Micrococcales",
+    "Micrococcales",
+    "Bifidobacteriales"
+  ],
+  "Genus": [
+    "Microbacteriaceae",
+    "Microbacteriaceae",
+    "Microbacteriaceae",
+    "Microbacteriaceae",
+    "Microbacteriaceae",
+    "Bifidobacteriaceae"
+  ],
+  "Species": [
+    "Microbacterium",
+    "Microbacterium",
+    "Microbacterium",
+    "Microbacterium",
+    "Microbacterium",
+    "Bifidobacterium"
+  ]
+}

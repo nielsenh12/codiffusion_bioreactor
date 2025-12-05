@@ -1,0 +1,54 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Pseudomonadati",
+    "Bacillati",
+    "Bacillati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Bacillota",
+    "Bacillota",
+    "FCB group",
+    "Bacillota",
+    "Bacillota",
+    "FCB group"
+  ],
+  "Order": [
+    "Clostridia",
+    "Clostridia",
+    "Bacteroidota/Chlorobiota group",
+    "Clostridia",
+    "Clostridia",
+    "Bacteroidota/Chlorobiota group"
+  ],
+  "Family": [
+    "unclassified Clostridia",
+    "unclassified Clostridia",
+    "Bacteroidota",
+    "unclassified Clostridia",
+    "unclassified Clostridia",
+    "Bacteroidota"
+  ],
+  "Genus": [
+    "Clostridia bacterium",
+    "Clostridia bacterium",
+    "Bacteroidia",
+    "Clostridia bacterium",
+    "Clostridia bacterium",
+    "Bacteroidia"
+  ],
+  "Species": [
+    "Bacteroidales",
+    "Bacteroidales"
+  ]
+}

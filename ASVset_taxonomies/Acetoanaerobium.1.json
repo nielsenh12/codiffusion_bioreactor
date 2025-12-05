@@ -1,0 +1,44 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Campylobacterota",
+    "Campylobacterota",
+    "Campylobacterota",
+    "Campylobacterota"
+  ],
+  "Order": [
+    "Epsilonproteobacteria",
+    "Epsilonproteobacteria",
+    "Epsilonproteobacteria",
+    "Epsilonproteobacteria"
+  ],
+  "Family": [
+    "Campylobacterales",
+    "Campylobacterales",
+    "Campylobacterales",
+    "Campylobacterales"
+  ],
+  "Genus": [
+    "Sulfurimonadaceae",
+    "Sulfurimonadaceae",
+    "Sulfurimonadaceae",
+    "Sulfurimonadaceae"
+  ],
+  "Species": [
+    "Sulfurimonas",
+    "Sulfurimonas",
+    "Sulfurimonas",
+    "Sulfurimonas"
+  ]
+}

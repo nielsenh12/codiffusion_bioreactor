@@ -1,0 +1,58 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Actinomycetota",
+    "Actinomycetota",
+    "Actinomycetota",
+    "Actinomycetota",
+    "Actinomycetota",
+    "Actinomycetota"
+  ],
+  "Order": [
+    "Actinomycetes",
+    "Actinomycetes",
+    "Actinomycetes",
+    "Actinomycetes",
+    "Actinomycetes",
+    "Actinomycetes"
+  ],
+  "Family": [
+    "Mycobacteriales",
+    "Mycobacteriales",
+    "Mycobacteriales",
+    "Mycobacteriales",
+    "Mycobacteriales",
+    "Mycobacteriales"
+  ],
+  "Genus": [
+    "Gordoniaceae",
+    "Gordoniaceae",
+    "Gordoniaceae",
+    "Gordoniaceae",
+    "Gordoniaceae",
+    "Gordoniaceae"
+  ],
+  "Species": [
+    "Gordonia",
+    "Gordonia",
+    "Gordonia",
+    "Gordonia",
+    "Gordonia",
+    "Gordonia"
+  ]
+}

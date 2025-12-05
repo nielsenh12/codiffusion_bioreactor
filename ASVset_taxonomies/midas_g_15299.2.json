@@ -1,0 +1,30 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "FCB group",
+    "FCB group"
+  ],
+  "Order": [
+    "Bacteroidota/Chlorobiota group",
+    "Bacteroidota/Chlorobiota group"
+  ],
+  "Family": [
+    "Bacteroidota",
+    "Bacteroidota"
+  ],
+  "Genus": [
+    "Bacteroidia",
+    "Bacteroidia"
+  ],
+  "Species": [
+    "Bacteroidales",
+    "Bacteroidales"
+  ]
+}

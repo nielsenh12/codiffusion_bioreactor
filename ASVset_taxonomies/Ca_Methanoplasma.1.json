@@ -1,0 +1,37 @@
+{
+  "Kingdom": [
+    "Archaea",
+    "Archaea",
+    "Archaea"
+  ],
+  "Phylum": [
+    "Methanobacteriati",
+    "Methanobacteriati",
+    "Methanobacteriati"
+  ],
+  "Class": [
+    "Thermoplasmatota",
+    "Thermoplasmatota",
+    "Thermoplasmatota"
+  ],
+  "Order": [
+    "Thermoplasmata",
+    "Thermoplasmata",
+    "Thermoplasmata"
+  ],
+  "Family": [
+    "Methanomassiliicoccales",
+    "Methanomassiliicoccales",
+    "Methanomassiliicoccales"
+  ],
+  "Genus": [
+    "Methanomassiliicoccaceae",
+    "Methanomassiliicoccaceae",
+    "Methanomassiliicoccaceae"
+  ],
+  "Species": [
+    "Candidatus Methanoplasma",
+    "Candidatus Methanoplasma",
+    "Candidatus Methanoplasma"
+  ]
+}

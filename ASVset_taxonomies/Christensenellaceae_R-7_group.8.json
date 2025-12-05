@@ -1,0 +1,57 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota"
+  ],
+  "Order": [
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Negativicutes",
+    "Clostridia",
+    "Clostridia"
+  ],
+  "Family": [
+    "Christensenellales",
+    "Christensenellales",
+    "Clostridia incertae sedis",
+    "Acidaminococcales",
+    "environmental samples",
+    "Eubacteriales"
+  ],
+  "Genus": [
+    "unclassified Christensenellales",
+    "unclassified Christensenellales",
+    "Candidatus Pullichristensenella",
+    "Acidaminococcaceae",
+    "uncultured Clostridia bacterium",
+    "unclassified Eubacteriales"
+  ],
+  "Species": [
+    "Christensenellales bacterium",
+    "Christensenellales bacterium",
+    "unclassified Candidatus Pullichristensenella",
+    "Phascolarctobacterium",
+    "Eubacteriales bacterium"
+  ]
+}

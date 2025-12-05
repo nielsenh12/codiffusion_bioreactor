@@ -1,0 +1,51 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Pseudomonadati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Cyanobacteriota/Melainabacteria group",
+    "Cyanobacteriota/Melainabacteria group",
+    "Pseudomonadota",
+    "Cyanobacteriota/Melainabacteria group",
+    "Cyanobacteriota/Melainabacteria group"
+  ],
+  "Order": [
+    "Cyanobacteriota",
+    "Cyanobacteriota",
+    "Betaproteobacteria",
+    "Cyanobacteriota",
+    "Cyanobacteriota"
+  ],
+  "Family": [
+    "Cyanophyceae",
+    "Cyanophyceae",
+    "Burkholderiales",
+    "Cyanophyceae",
+    "Cyanophyceae"
+  ],
+  "Genus": [
+    "Oscillatoriophycideae",
+    "Oscillatoriophycideae",
+    "Comamonadaceae",
+    "Oscillatoriophycideae",
+    "Oscillatoriophycideae"
+  ],
+  "Species": [
+    "Oscillatoriales",
+    "Oscillatoriales",
+    "Hydrogenophaga",
+    "Oscillatoriales",
+    "Oscillatoriales"
+  ]
+}

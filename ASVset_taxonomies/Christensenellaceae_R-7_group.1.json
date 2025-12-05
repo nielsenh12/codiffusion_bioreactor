@@ -1,0 +1,85 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "unclassified Bacteria",
+    "Bacillati",
+    "unclassified Bacteria",
+    "Bacillati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Bacillati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "FCB group",
+    "FCB group",
+    "bacterium",
+    "Bacillota",
+    "bacterium",
+    "Bacillota",
+    "FCB group",
+    "FCB group",
+    "FCB group",
+    "Bacillota",
+    "FCB group"
+  ],
+  "Order": [
+    "Bacteroidota/Chlorobiota group",
+    "Bacteroidota/Chlorobiota group",
+    "Clostridia",
+    "Clostridia",
+    "Bacteroidota/Chlorobiota group",
+    "Bacteroidota/Chlorobiota group",
+    "Bacteroidota/Chlorobiota group",
+    "Clostridia",
+    "Bacteroidota/Chlorobiota group"
+  ],
+  "Family": [
+    "Bacteroidota",
+    "Bacteroidota",
+    "Eubacteriales",
+    "Christensenellales",
+    "Bacteroidota",
+    "Bacteroidota",
+    "Bacteroidota",
+    "Christensenellales",
+    "Bacteroidota"
+  ],
+  "Genus": [
+    "Bacteroidia",
+    "Bacteroidia",
+    "unclassified Eubacteriales",
+    "Christensenellaceae",
+    "Bacteroidia",
+    "Bacteroidia",
+    "Bacteroidia",
+    "Christensenellaceae",
+    "Bacteroidia"
+  ],
+  "Species": [
+    "Bacteroidales",
+    "Bacteroidales",
+    "Eubacteriales bacterium OttesenSCG-928-K08",
+    "unclassified Christensenellaceae",
+    "Bacteroidales",
+    "Bacteroidales",
+    "Bacteroidales",
+    "unclassified Christensenellaceae",
+    "Bacteroidales"
+  ]
+}

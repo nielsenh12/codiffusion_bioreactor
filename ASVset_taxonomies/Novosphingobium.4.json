@@ -1,0 +1,93 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota"
+  ],
+  "Order": [
+    "Alphaproteobacteria",
+    "Alphaproteobacteria",
+    "Alphaproteobacteria",
+    "Alphaproteobacteria",
+    "Alphaproteobacteria",
+    "Alphaproteobacteria",
+    "Alphaproteobacteria",
+    "Alphaproteobacteria",
+    "Alphaproteobacteria",
+    "Alphaproteobacteria",
+    "Gammaproteobacteria"
+  ],
+  "Family": [
+    "Sphingomonadales",
+    "Sphingomonadales",
+    "Sphingomonadales",
+    "Sphingomonadales",
+    "Sphingomonadales",
+    "Sphingomonadales",
+    "Sphingomonadales",
+    "Sphingomonadales",
+    "Sphingomonadales",
+    "Sphingomonadales",
+    "Enterobacterales"
+  ],
+  "Genus": [
+    "Sphingomonadaceae",
+    "Sphingomonadaceae",
+    "Sphingomonadaceae",
+    "Sphingomonadaceae",
+    "Sphingomonadaceae",
+    "Sphingomonadaceae",
+    "Sphingomonadaceae",
+    "Sphingomonadaceae",
+    "Sphingomonadaceae",
+    "Sphingomonadaceae",
+    "Enterobacteriaceae"
+  ],
+  "Species": [
+    "Novosphingobium",
+    "unclassified Sphingomonadaceae",
+    "Novosphingobium",
+    "unclassified Sphingomonadaceae",
+    "Novosphingobium",
+    "Novosphingobium",
+    "Novosphingobium",
+    "Novosphingobium",
+    "Novosphingobium",
+    "Novosphingobium",
+    "Cronobacter"
+  ]
+}

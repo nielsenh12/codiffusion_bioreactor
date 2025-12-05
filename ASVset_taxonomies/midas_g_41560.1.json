@@ -1,0 +1,55 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "delta/epsilon subdivisions",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Bdellovibrionota",
+    "Bdellovibrionota",
+    "Deltaproteobacteria",
+    "Bdellovibrionota",
+    "Bdellovibrionota",
+    "Bdellovibrionota"
+  ],
+  "Order": [
+    "Oligoflexia",
+    "Oligoflexia",
+    "environmental samples",
+    "Oligoflexia",
+    "Oligoflexia",
+    "Oligoflexia"
+  ],
+  "Family": [
+    "unclassified Oligoflexia",
+    "Oligoflexales",
+    "uncultured delta proteobacterium",
+    "Oligoflexales",
+    "Oligoflexales",
+    "Oligoflexales"
+  ],
+  "Genus": [
+    "Oligoflexia bacterium",
+    "unclassified Oligoflexales",
+    "Pseudobacteriovoracaceae",
+    "unclassified Oligoflexales",
+    "unclassified Oligoflexales"
+  ],
+  "Species": [
+    "Oligoflexales bacterium",
+    "Pseudobacteriovorax",
+    "Oligoflexales bacterium",
+    "Oligoflexales bacterium"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota"
+  ],
+  "Order": [
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia"
+  ],
+  "Family": [
+    "Eubacteriales",
+    "Eubacteriales",
+    "Eubacteriales",
+    "Eubacteriales"
+  ],
+  "Genus": [
+    "Acutalibacteraceae",
+    "Clostridiaceae",
+    "Eubacteriales incertae sedis",
+    "Clostridiaceae"
+  ],
+  "Species": [
+    "Hydrogeniiclostridium",
+    "Clostridium",
+    "Candidatus Ventricola",
+    "Clostridium"
+  ]
+}

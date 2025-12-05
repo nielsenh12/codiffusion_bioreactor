@@ -1,0 +1,57 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "environmental samples",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "environmental samples",
+    "Bacillati",
+    "Bacillati",
+    "environmental samples"
+  ],
+  "Class": [
+    "Armatimonadota",
+    "uncultured bacterium",
+    "Armatimonadota",
+    "Armatimonadota",
+    "Armatimonadota",
+    "uncultured bacterium",
+    "Armatimonadota",
+    "Chloroflexota",
+    "uncultured bacterium"
+  ],
+  "Order": [
+    "environmental samples",
+    "environmental samples",
+    "environmental samples",
+    "environmental samples",
+    "unclassified Armatimonadota",
+    "Dehalococcoidia"
+  ],
+  "Family": [
+    "uncultured Armatimonadetes bacterium",
+    "uncultured Armatimonadetes bacterium",
+    "uncultured Armatimonadetes bacterium",
+    "uncultured Armatimonadetes bacterium",
+    "Armatimonadota bacterium",
+    "Dehalococcoidales"
+  ],
+  "Genus": [
+    "unclassified Dehalococcoidales"
+  ],
+  "Species": [
+    "Dehalococcoidales bacterium"
+  ]
+}

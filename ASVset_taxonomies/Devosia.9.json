@@ -1,0 +1,43 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota"
+  ],
+  "Order": [
+    "Alphaproteobacteria",
+    "Alphaproteobacteria",
+    "Alphaproteobacteria",
+    "Alphaproteobacteria"
+  ],
+  "Family": [
+    "environmental samples",
+    "Hyphomicrobiales",
+    "Hyphomicrobiales",
+    "Hyphomicrobiales"
+  ],
+  "Genus": [
+    "uncultured Alphaproteobacteria bacterium",
+    "Devosiaceae",
+    "Devosiaceae",
+    "Devosiaceae"
+  ],
+  "Species": [
+    "Devosia",
+    "Devosia",
+    "Devosia"
+  ]
+}

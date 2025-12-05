@@ -1,0 +1,27 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Bacillota",
+    "Bacillota",
+    "Bacillota"
+  ],
+  "Order": [
+    "unclassified Bacillota",
+    "environmental samples",
+    "unclassified Bacillota"
+  ],
+  "Family": [
+    "Bacillota bacterium",
+    "uncultured Bacillota bacterium",
+    "Bacillota bacterium"
+  ]
+}

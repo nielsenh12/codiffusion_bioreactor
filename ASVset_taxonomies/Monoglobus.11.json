@@ -1,0 +1,58 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota"
+  ],
+  "Order": [
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Bacilli",
+    "Clostridia",
+    "Clostridia"
+  ],
+  "Family": [
+    "Eubacteriales",
+    "Eubacteriales",
+    "Eubacteriales",
+    "Lactobacillales",
+    "Eubacteriales",
+    "Eubacteriales"
+  ],
+  "Genus": [
+    "Oscillospiraceae",
+    "Oscillospiraceae",
+    "Oscillospiraceae",
+    "Lactobacillaceae",
+    "Oscillospiraceae",
+    "Oscillospiraceae"
+  ],
+  "Species": [
+    "unclassified Oscillospiraceae",
+    "unclassified Oscillospiraceae",
+    "Oscillospiraceae incertae sedis",
+    "Lactobacillus",
+    "unclassified Oscillospiraceae",
+    "unclassified Oscillospiraceae"
+  ]
+}

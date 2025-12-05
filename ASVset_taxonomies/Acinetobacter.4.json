@@ -1,0 +1,30 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Pseudomonadota",
+    "Pseudomonadota"
+  ],
+  "Order": [
+    "Gammaproteobacteria",
+    "Gammaproteobacteria"
+  ],
+  "Family": [
+    "Moraxellales",
+    "Moraxellales"
+  ],
+  "Genus": [
+    "Moraxellaceae",
+    "Moraxellaceae"
+  ],
+  "Species": [
+    "Acinetobacter",
+    "Acinetobacter"
+  ]
+}

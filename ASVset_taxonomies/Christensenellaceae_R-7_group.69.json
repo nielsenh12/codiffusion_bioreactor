@@ -1,0 +1,36 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Bacillota",
+    "Bacillota",
+    "Bacillota"
+  ],
+  "Order": [
+    "Clostridia",
+    "Clostridia",
+    "Clostridia"
+  ],
+  "Family": [
+    "Christensenellales",
+    "Christensenellales",
+    "environmental samples"
+  ],
+  "Genus": [
+    "Christensenellaceae",
+    "Christensenellaceae",
+    "uncultured Clostridia bacterium"
+  ],
+  "Species": [
+    "unclassified Christensenellaceae",
+    "unclassified Christensenellaceae"
+  ]
+}

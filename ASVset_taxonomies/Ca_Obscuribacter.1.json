@@ -1,0 +1,30 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacteria incertae sedis",
+    "Bacillati"
+  ],
+  "Class": [
+    "Bacteria candidate phyla",
+    "Cyanobacteriota/Melainabacteria group"
+  ],
+  "Order": [
+    "Patescibacteria group",
+    "Candidatus Melainabacteria"
+  ],
+  "Family": [
+    "Microgenomates group",
+    "Candidatus Obscuribacterales"
+  ],
+  "Genus": [
+    "Minisyncoccota",
+    "Candidatus Obscuribacteraceae"
+  ],
+  "Species": [
+    "unclassified Minisyncoccota",
+    "Candidatus Obscuribacter"
+  ]
+}

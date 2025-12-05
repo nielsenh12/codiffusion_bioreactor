@@ -1,0 +1,93 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "FCB group",
+    "Nitrospirota",
+    "Pseudomonadota"
+  ],
+  "Order": [
+    "Gammaproteobacteria",
+    "Gammaproteobacteria",
+    "Gammaproteobacteria",
+    "Gammaproteobacteria",
+    "Gammaproteobacteria",
+    "Gammaproteobacteria",
+    "Gammaproteobacteria",
+    "Gammaproteobacteria",
+    "Bacteroidota/Chlorobiota group",
+    "Nitrospiria",
+    "Gammaproteobacteria"
+  ],
+  "Family": [
+    "Lysobacterales",
+    "Lysobacterales",
+    "Lysobacterales",
+    "Lysobacterales",
+    "Lysobacterales",
+    "Lysobacterales",
+    "Lysobacterales",
+    "Lysobacterales",
+    "Ignavibacteriota",
+    "Nitrospirales",
+    "Lysobacterales"
+  ],
+  "Genus": [
+    "Rhodanobacteraceae",
+    "Rhodanobacteraceae",
+    "Rhodanobacteraceae",
+    "Rhodanobacteraceae",
+    "Rhodanobacteraceae",
+    "Rhodanobacteraceae",
+    "Rhodanobacteraceae",
+    "Rhodanobacteraceae",
+    "Ignavibacteria",
+    "Nitrospiraceae",
+    "Rhodanobacteraceae"
+  ],
+  "Species": [
+    "Rhodanobacter",
+    "Rhodanobacter",
+    "Rhodanobacter",
+    "Rhodanobacter",
+    "Rhodanobacter",
+    "Rhodanobacter",
+    "Rhodanobacter",
+    "Rhodanobacter",
+    "Ignavibacteriales",
+    "Nitrospira",
+    "Rhodanobacter"
+  ]
+}

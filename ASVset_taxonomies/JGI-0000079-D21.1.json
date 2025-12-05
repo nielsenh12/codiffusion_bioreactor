@@ -1,0 +1,56 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Thermotogati",
+    "Thermotogati",
+    "Thermotogati",
+    "Pseudomonadati",
+    "Bacillati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Synergistota",
+    "Synergistota",
+    "Synergistota",
+    "Spirochaetota",
+    "Chloroflexota",
+    "Spirochaetota"
+  ],
+  "Order": [
+    "Synergistia",
+    "Synergistia",
+    "Synergistia",
+    "Spirochaetia",
+    "unclassified Chloroflexota",
+    "Spirochaetia"
+  ],
+  "Family": [
+    "Synergistales",
+    "Synergistales",
+    "Synergistales",
+    "Spirochaetales",
+    "Chloroflexota bacterium",
+    "Spirochaetales"
+  ],
+  "Genus": [
+    "Acetomicrobiaceae",
+    "Acetomicrobiaceae",
+    "Synergistaceae",
+    "Spirochaetaceae",
+    "Spirochaetaceae"
+  ],
+  "Species": [
+    "Acetomicrobium",
+    "Acetomicrobium",
+    "unclassified Synergistaceae",
+    "unclassified Spirochaetaceae",
+    "unclassified Spirochaetaceae"
+  ]
+}

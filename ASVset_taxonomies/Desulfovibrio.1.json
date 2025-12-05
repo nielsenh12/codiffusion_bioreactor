@@ -1,0 +1,30 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Thermodesulfobacteriota",
+    "Thermodesulfobacteriota"
+  ],
+  "Order": [
+    "Desulfovibrionia",
+    "Desulfovibrionia"
+  ],
+  "Family": [
+    "Desulfovibrionales",
+    "Desulfovibrionales"
+  ],
+  "Genus": [
+    "Desulfovibrionaceae",
+    "Desulfovibrionaceae"
+  ],
+  "Species": [
+    "Nitratidesulfovibrio",
+    "Nitratidesulfovibrio"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Pseudomonadota",
+    "Pseudomonadota"
+  ],
+  "Order": [
+    "Alphaproteobacteria",
+    "Alphaproteobacteria"
+  ],
+  "Family": [
+    "Hyphomicrobiales",
+    "Hyphomicrobiales"
+  ],
+  "Genus": [
+    "Xanthobacteraceae",
+    "Xanthobacteraceae"
+  ],
+  "Species": [
+    "Xanthobacter",
+    "Xanthobacter"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "Kingdom": [
+    "Archaea",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Methanobacteriati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Methanobacteriota",
+    "Chloroflexota"
+  ],
+  "Order": [
+    "unclassified Methanobacteriota",
+    "Anaerolineae"
+  ],
+  "Family": [
+    "Methanobacteriota archaeon",
+    "Anaerolineales"
+  ],
+  "Genus": [
+    "Anaerolineaceae"
+  ],
+  "Species": [
+    "Flexilinea"
+  ]
+}

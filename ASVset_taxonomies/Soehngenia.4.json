@@ -1,0 +1,44 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota"
+  ],
+  "Order": [
+    "Tissierellia",
+    "Tissierellia",
+    "Tissierellia",
+    "Tissierellia"
+  ],
+  "Family": [
+    "Tissierellales",
+    "Tissierellales",
+    "Tissierellales",
+    "Tissierellales"
+  ],
+  "Genus": [
+    "Tissierellaceae",
+    "Tissierellaceae",
+    "Tissierellaceae",
+    "Tissierellaceae"
+  ],
+  "Species": [
+    "Gudongella",
+    "Gudongella",
+    "Gudongella",
+    "Gudongella"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Chloroflexota",
+    "Chloroflexota",
+    "Chloroflexota",
+    "Chloroflexota",
+    "Chloroflexota",
+    "Chloroflexota"
+  ],
+  "Order": [
+    "Anaerolineae",
+    "unclassified Chloroflexota",
+    "Anaerolineae",
+    "Anaerolineae",
+    "Anaerolineae",
+    "Anaerolineae"
+  ],
+  "Family": [
+    "Anaerolineales",
+    "Chloroflexota bacterium",
+    "Anaerolineales",
+    "unclassified Anaerolineae",
+    "unclassified Anaerolineae",
+    "unclassified Anaerolineae"
+  ],
+  "Genus": [
+    "environmental samples",
+    "environmental samples",
+    "Anaerolineae bacterium",
+    "Anaerolineae bacterium",
+    "Anaerolineae bacterium"
+  ],
+  "Species": [
+    "uncultured Anaerolineales bacterium",
+    "uncultured Anaerolineales bacterium"
+  ]
+}

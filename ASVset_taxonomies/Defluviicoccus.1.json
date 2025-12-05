@@ -1,0 +1,56 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Acidobacteriota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota"
+  ],
+  "Order": [
+    "Alphaproteobacteria",
+    "Alphaproteobacteria",
+    "Blastocatellia",
+    "Alphaproteobacteria",
+    "Alphaproteobacteria",
+    "Alphaproteobacteria"
+  ],
+  "Family": [
+    "environmental samples",
+    "Rhodospirillales",
+    "Blastocatellales",
+    "environmental samples",
+    "Rhodospirillales",
+    "Rhodospirillales"
+  ],
+  "Genus": [
+    "uncultured Alphaproteobacteria bacterium",
+    "unclassified Rhodospirillales",
+    "Pyrinomonadaceae",
+    "uncultured Alphaproteobacteria bacterium",
+    "unclassified Rhodospirillales",
+    "unclassified Rhodospirillales"
+  ],
+  "Species": [
+    "Rhodospirillales bacterium",
+    "unclassified Pyrinomonadaceae",
+    "Rhodospirillales bacterium",
+    "Rhodospirillales bacterium"
+  ]
+}

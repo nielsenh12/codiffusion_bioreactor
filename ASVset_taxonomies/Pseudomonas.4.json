@@ -1,0 +1,71 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota"
+  ],
+  "Order": [
+    "Gammaproteobacteria",
+    "Gammaproteobacteria",
+    "Gammaproteobacteria",
+    "Gammaproteobacteria",
+    "Gammaproteobacteria",
+    "Gammaproteobacteria",
+    "Gammaproteobacteria",
+    "Gammaproteobacteria"
+  ],
+  "Family": [
+    "Pseudomonadales",
+    "Pseudomonadales",
+    "Pseudomonadales",
+    "Pseudomonadales",
+    "Pseudomonadales",
+    "Pseudomonadales",
+    "Pseudomonadales",
+    "unclassified Gammaproteobacteria"
+  ],
+  "Genus": [
+    "Pseudomonadaceae",
+    "Pseudomonadaceae",
+    "Pseudomonadaceae",
+    "Pseudomonadaceae",
+    "Pseudomonadaceae",
+    "Pseudomonadaceae",
+    "Pseudomonadaceae",
+    "Gammaproteobacteria bacterium"
+  ],
+  "Species": [
+    "Stutzerimonas",
+    "Stutzerimonas",
+    "Stutzerimonas",
+    "Stutzerimonas",
+    "Stutzerimonas",
+    "Stutzerimonas",
+    "Stutzerimonas"
+  ]
+}

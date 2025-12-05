@@ -1,0 +1,72 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota"
+  ],
+  "Order": [
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia"
+  ],
+  "Family": [
+    "Peptostreptococcales",
+    "Peptostreptococcales",
+    "Peptostreptococcales",
+    "Peptostreptococcales",
+    "Eubacteriales",
+    "Peptostreptococcales",
+    "Peptostreptococcales",
+    "Peptostreptococcales"
+  ],
+  "Genus": [
+    "Anaerovoracaceae",
+    "Anaerovoracaceae",
+    "Anaerovoracaceae",
+    "Anaerovoracaceae",
+    "unclassified Eubacteriales",
+    "Anaerovoracaceae",
+    "Anaerovoracaceae",
+    "Anaerovoracaceae"
+  ],
+  "Species": [
+    "unclassified Anaerovoracaceae",
+    "unclassified Anaerovoracaceae",
+    "unclassified Anaerovoracaceae",
+    "Sinanaerobacter",
+    "Clostridiales bacterium",
+    "unclassified Anaerovoracaceae",
+    "unclassified Anaerovoracaceae",
+    "unclassified Anaerovoracaceae"
+  ]
+}

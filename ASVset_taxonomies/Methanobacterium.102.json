@@ -1,0 +1,51 @@
+{
+  "Kingdom": [
+    "Archaea",
+    "Archaea",
+    "Archaea",
+    "Archaea",
+    "Archaea"
+  ],
+  "Phylum": [
+    "Methanobacteriati",
+    "Methanobacteriati",
+    "Methanobacteriati",
+    "Methanobacteriati",
+    "Methanobacteriati"
+  ],
+  "Class": [
+    "Methanobacteriota",
+    "Methanobacteriota",
+    "Methanobacteriota",
+    "Methanobacteriota",
+    "Methanobacteriota"
+  ],
+  "Order": [
+    "Methanomada group",
+    "Methanomada group",
+    "Methanomada group",
+    "Methanomada group",
+    "Methanomada group"
+  ],
+  "Family": [
+    "Methanobacteria",
+    "Methanobacteria",
+    "Methanobacteria",
+    "Methanobacteria",
+    "Methanobacteria"
+  ],
+  "Genus": [
+    "Methanobacteriales",
+    "Methanobacteriales",
+    "Methanobacteriales",
+    "Methanobacteriales",
+    "Methanobacteriales"
+  ],
+  "Species": [
+    "Methanobacteriaceae",
+    "Methanobacteriaceae",
+    "Methanobacteriaceae",
+    "Methanobacteriaceae",
+    "Methanobacteriaceae"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Thermotogati",
+    "Thermotogati",
+    "unclassified Bacteria",
+    "Thermotogati",
+    "Thermotogati",
+    "Thermotogati"
+  ],
+  "Class": [
+    "Synergistota",
+    "Synergistota",
+    "bacterium",
+    "Synergistota",
+    "Synergistota",
+    "Synergistota"
+  ],
+  "Order": [
+    "Synergistia",
+    "Synergistia",
+    "Synergistia",
+    "Synergistia",
+    "Synergistia"
+  ],
+  "Family": [
+    "Synergistales",
+    "Synergistales",
+    "Synergistales",
+    "Synergistales",
+    "Synergistales"
+  ],
+  "Genus": [
+    "Aminobacteriaceae",
+    "Synergistaceae",
+    "Aminobacteriaceae",
+    "Aminobacteriaceae",
+    "unclassified Synergistales"
+  ],
+  "Species": [
+    "unclassified Aminobacteriaceae",
+    "unclassified Synergistaceae",
+    "unclassified Aminobacteriaceae",
+    "unclassified Aminobacteriaceae",
+    "Synergistales bacterium Syner_01"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Actinomycetota",
+    "Actinomycetota",
+    "Actinomycetota",
+    "Actinomycetota"
+  ],
+  "Order": [
+    "Thermoleophilia",
+    "Thermoleophilia",
+    "unclassified Actinomycetota",
+    "Thermoleophilia"
+  ],
+  "Family": [
+    "Solirubrobacterales",
+    "Solirubrobacterales",
+    "Actinomycetota bacterium",
+    "Solirubrobacterales"
+  ],
+  "Genus": [
+    "unclassified Solirubrobacterales",
+    "unclassified Solirubrobacterales",
+    "unclassified Solirubrobacterales"
+  ],
+  "Species": [
+    "Solirubrobacterales bacterium",
+    "Solirubrobacterales bacterium",
+    "Solirubrobacterales bacterium"
+  ]
+}

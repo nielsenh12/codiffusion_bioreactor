@@ -1498,13 +1498,13 @@ def main():
             genome_id = args.features
             output_file = args.output or f"{genome_id}_genome.json"
 
-            print(f"Mode: Load from local features directory")
-            print(f"Genome ID: {genome_id}")
-            print(f"Features dir: {args.features_dir}")
-            print(f"Genomes dir: {args.genomes_dir}")
-            print(f"Metadata dir: {args.metadata_dir}")
-            print(f"Output file: {output_file}")
-            print()
+            # print(f"Mode: Load from local features directory")
+            # print(f"Genome ID: {genome_id}")
+            # print(f"Features dir: {args.features_dir}")
+            # print(f"Genomes dir: {args.genomes_dir}")
+            # print(f"Metadata dir: {args.metadata_dir}")
+            # print(f"Output file: {output_file}")
+            # print()
 
             local_conv = LocalGenomeConverter()
             genome = local_conv.load_genome_from_features_dir(

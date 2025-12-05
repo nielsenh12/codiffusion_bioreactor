@@ -1,0 +1,29 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Chloroflexota",
+    "Pseudomonadota"
+  ],
+  "Order": [
+    "Anaerolineae",
+    "Gammaproteobacteria"
+  ],
+  "Family": [
+    "unclassified Anaerolineae",
+    "Enterobacterales"
+  ],
+  "Genus": [
+    "Anaerolineae bacterium clx_SAG45",
+    "Enterobacteriaceae"
+  ],
+  "Species": [
+    "Cronobacter"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Pseudomonadota",
+    "FCB group",
+    "Pseudomonadota",
+    "Actinomycetota"
+  ],
+  "Order": [
+    "Alphaproteobacteria",
+    "Bacteroidota/Chlorobiota group",
+    "Alphaproteobacteria",
+    "Actinomycetes"
+  ],
+  "Family": [
+    "Caulobacterales",
+    "Bacteroidota",
+    "Caulobacterales",
+    "Mycobacteriales"
+  ],
+  "Genus": [
+    "Caulobacteraceae",
+    "Cytophagia",
+    "Caulobacteraceae",
+    "Mycobacteriaceae"
+  ],
+  "Species": [
+    "Brevundimonas",
+    "Cytophagales",
+    "Brevundimonas",
+    "Mycobacterium"
+  ]
+}

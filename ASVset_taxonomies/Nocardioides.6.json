@@ -1,0 +1,28 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Pseudomonadota",
+    "Actinomycetota"
+  ],
+  "Order": [
+    "Alphaproteobacteria",
+    "environmental samples"
+  ],
+  "Family": [
+    "Hyphomicrobiales",
+    "uncultured Actinomycetota bacterium"
+  ],
+  "Genus": [
+    "Rhodoblastaceae"
+  ],
+  "Species": [
+    "Rhodoblastus"
+  ]
+}

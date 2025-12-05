@@ -1,0 +1,55 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Pseudomonadati",
+    "Bacillati",
+    "Pseudomonadati",
+    "Bacillati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Bacillota",
+    "Atribacterota",
+    "Bacillota",
+    "Atribacterota",
+    "Bacillota",
+    "Atribacterota"
+  ],
+  "Order": [
+    "Clostridia",
+    "Atribacteria",
+    "Clostridia",
+    "Atribacteria",
+    "Clostridia",
+    "Atribacteria"
+  ],
+  "Family": [
+    "Candidatus Darwinibacteriales",
+    "unclassified Atribacteria",
+    "Candidatus Darwinibacteriales",
+    "unclassified Atribacteria",
+    "Candidatus Darwinibacteriales",
+    "unclassified Atribacteria"
+  ],
+  "Genus": [
+    "Candidatus Darwinibacteriaceae",
+    "Candidatus Atribacteria bacterium",
+    "Candidatus Darwinibacteriaceae",
+    "Candidatus Atribacteria bacterium",
+    "Candidatus Darwinibacteriaceae",
+    "Candidatus Atribacteria bacterium"
+  ],
+  "Species": [
+    "Candidatus Darwinibacter",
+    "Candidatus Darwinibacter",
+    "Candidatus Darwinibacter"
+  ]
+}

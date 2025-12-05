@@ -1,0 +1,79 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Pseudomonadati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "FCB group",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "FCB group",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota"
+  ],
+  "Order": [
+    "Bacteroidota/Chlorobiota group",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Bacteroidota/Chlorobiota group",
+    "Clostridia",
+    "Bacilli",
+    "Clostridia"
+  ],
+  "Family": [
+    "Bacteroidota",
+    "Lachnospirales",
+    "Eubacteriales",
+    "Eubacteriales",
+    "Eubacteriales",
+    "Bacteroidota",
+    "Eubacteriales",
+    "Lactobacillales",
+    "Eubacteriales"
+  ],
+  "Genus": [
+    "Bacteroidia",
+    "Lachnospiraceae",
+    "Clostridiaceae",
+    "Clostridiaceae",
+    "Clostridiaceae",
+    "Bacteroidia",
+    "Clostridiaceae",
+    "Lactobacillaceae",
+    "Clostridiaceae"
+  ],
+  "Species": [
+    "Bacteroidales",
+    "Otoolea",
+    "Clostridium",
+    "Clostridium",
+    "environmental samples",
+    "Bacteroidales",
+    "Clostridium",
+    "Limosilactobacillus",
+    "Clostridium"
+  ]
+}

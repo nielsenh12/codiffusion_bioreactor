@@ -1,0 +1,30 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Bacillati"
+  ],
+  "Class": [
+    "FCB group",
+    "Actinomycetota"
+  ],
+  "Order": [
+    "Bacteroidota/Chlorobiota group",
+    "Thermoleophilia"
+  ],
+  "Family": [
+    "Bacteroidota",
+    "Solirubrobacterales"
+  ],
+  "Genus": [
+    "Sphingobacteriia",
+    "Patulibacteraceae"
+  ],
+  "Species": [
+    "Sphingobacteriales",
+    "Patulibacter"
+  ]
+}

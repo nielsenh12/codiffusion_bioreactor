@@ -1,0 +1,54 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Bacillati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "delta/epsilon subdivisions"
+  ],
+  "Class": [
+    "FCB group",
+    "FCB group",
+    "Chloroflexota",
+    "Spirochaetota",
+    "Spirochaetota",
+    "Deltaproteobacteria"
+  ],
+  "Order": [
+    "Candidatus Latescibacterota",
+    "Candidatus Latescibacterota",
+    "Dehalococcoidia",
+    "Spirochaetia",
+    "Spirochaetia",
+    "Candidatus Acidulodesulfobacterales"
+  ],
+  "Family": [
+    "unclassified Candidatus Latescibacterota",
+    "unclassified Candidatus Latescibacterota",
+    "unclassified Dehalococcoidia",
+    "Spirochaetales",
+    "unclassified Spirochaetia",
+    "Candidatus Acidulodesulfobacterium"
+  ],
+  "Genus": [
+    "Candidatus Latescibacterota bacterium",
+    "Candidatus Latescibacterota bacterium",
+    "Dehalococcoidia bacterium",
+    "environmental samples",
+    "Spirochaetia bacterium",
+    "unclassified Candidatus Acidulodesulfobacterium"
+  ],
+  "Species": [
+    "uncultured Spirochaetales bacterium",
+    "Candidatus Acidulodesulfobacterium sp."
+  ]
+}

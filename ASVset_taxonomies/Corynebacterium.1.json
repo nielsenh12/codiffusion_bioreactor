@@ -1,0 +1,30 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Actinomycetota",
+    "Actinomycetota"
+  ],
+  "Order": [
+    "Actinomycetes",
+    "Actinomycetes"
+  ],
+  "Family": [
+    "Mycobacteriales",
+    "Mycobacteriales"
+  ],
+  "Genus": [
+    "Corynebacteriaceae",
+    "Corynebacteriaceae"
+  ],
+  "Species": [
+    "Corynebacterium",
+    "Corynebacterium"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Pseudomonadota",
+    "Pseudomonadota"
+  ],
+  "Order": [
+    "Betaproteobacteria",
+    "Betaproteobacteria"
+  ],
+  "Family": [
+    "Nitrosomonadales",
+    "Nitrosomonadales"
+  ],
+  "Genus": [
+    "Thiobacillaceae",
+    "Thiobacillaceae"
+  ],
+  "Species": [
+    "Thiobacillus",
+    "Thiobacillus"
+  ]
+}

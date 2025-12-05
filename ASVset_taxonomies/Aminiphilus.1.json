@@ -1,0 +1,58 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Thermotogati",
+    "Thermotogati",
+    "Thermotogati",
+    "Thermotogati",
+    "Pseudomonadati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Synergistota",
+    "Synergistota",
+    "Synergistota",
+    "Synergistota",
+    "Spirochaetota",
+    "Bacillota"
+  ],
+  "Order": [
+    "Synergistia",
+    "Synergistia",
+    "Synergistia",
+    "Synergistia",
+    "Spirochaetia",
+    "Clostridia"
+  ],
+  "Family": [
+    "Synergistales",
+    "Synergistales",
+    "Synergistales",
+    "Synergistales",
+    "Spirochaetales",
+    "Eubacteriales"
+  ],
+  "Genus": [
+    "Aminiphilaceae",
+    "Aminiphilaceae",
+    "Synergistaceae",
+    "Aminiphilaceae",
+    "Spirochaetaceae",
+    "Desulfotomaculaceae"
+  ],
+  "Species": [
+    "Aminiphilus",
+    "Aminiphilus",
+    "unclassified Synergistaceae",
+    "Aminiphilus",
+    "unclassified Spirochaetaceae",
+    "Pelotomaculum"
+  ]
+}

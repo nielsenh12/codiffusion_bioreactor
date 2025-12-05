@@ -1,0 +1,57 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota"
+  ],
+  "Order": [
+    "Alphaproteobacteria",
+    "Betaproteobacteria",
+    "Betaproteobacteria",
+    "Betaproteobacteria",
+    "Betaproteobacteria",
+    "Betaproteobacteria"
+  ],
+  "Family": [
+    "unclassified Alphaproteobacteria",
+    "Burkholderiales",
+    "Burkholderiales",
+    "Burkholderiales",
+    "Burkholderiales",
+    "Burkholderiales"
+  ],
+  "Genus": [
+    "Alphaproteobacteria bacterium",
+    "Comamonadaceae",
+    "Comamonadaceae",
+    "Comamonadaceae",
+    "Comamonadaceae",
+    "Comamonadaceae"
+  ],
+  "Species": [
+    "Variovorax",
+    "Variovorax",
+    "Ottowia",
+    "Diaphorobacter",
+    "Diaphorobacter"
+  ]
+}

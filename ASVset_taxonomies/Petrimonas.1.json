@@ -1,0 +1,65 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "FCB group",
+    "FCB group",
+    "FCB group",
+    "FCB group",
+    "FCB group",
+    "FCB group",
+    "FCB group"
+  ],
+  "Order": [
+    "Bacteroidota/Chlorobiota group",
+    "Bacteroidota/Chlorobiota group",
+    "Bacteroidota/Chlorobiota group",
+    "Bacteroidota/Chlorobiota group",
+    "Bacteroidota/Chlorobiota group",
+    "Bacteroidota/Chlorobiota group",
+    "Bacteroidota/Chlorobiota group"
+  ],
+  "Family": [
+    "Bacteroidota",
+    "Bacteroidota",
+    "Bacteroidota",
+    "Bacteroidota",
+    "Bacteroidota",
+    "Bacteroidota",
+    "Bacteroidota"
+  ],
+  "Genus": [
+    "Bacteroidia",
+    "Bacteroidia",
+    "Bacteroidia",
+    "Bacteroidia",
+    "Bacteroidia",
+    "Bacteroidia",
+    "Bacteroidia"
+  ],
+  "Species": [
+    "Bacteroidales",
+    "Bacteroidales",
+    "Bacteroidales",
+    "Bacteroidales",
+    "Bacteroidales",
+    "Bacteroidales",
+    "Bacteroidales"
+  ]
+}

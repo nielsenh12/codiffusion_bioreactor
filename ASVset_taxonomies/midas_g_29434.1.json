@@ -1,0 +1,89 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "PVC group",
+    "PVC group",
+    "PVC group",
+    "PVC group",
+    "PVC group",
+    "PVC group",
+    "Nitrospirota",
+    "PVC group",
+    "PVC group",
+    "PVC group",
+    "PVC group"
+  ],
+  "Order": [
+    "Planctomycetota",
+    "Planctomycetota",
+    "Planctomycetota",
+    "Planctomycetota",
+    "Planctomycetota",
+    "Planctomycetota",
+    "Nitrospiria",
+    "Planctomycetota",
+    "Planctomycetota",
+    "Planctomycetota",
+    "Planctomycetota"
+  ],
+  "Family": [
+    "environmental samples",
+    "environmental samples",
+    "Planctomycetia",
+    "environmental samples",
+    "Planctomycetia",
+    "unclassified Planctomycetota",
+    "Nitrospirales",
+    "Planctomycetia",
+    "Planctomycetia",
+    "Planctomycetia",
+    "Planctomycetia"
+  ],
+  "Genus": [
+    "uncultured Planctomycetota bacterium",
+    "uncultured Planctomycetota bacterium",
+    "Pirellulales",
+    "uncultured Planctomycetota bacterium",
+    "Pirellulales",
+    "Planctomycetota bacterium",
+    "Nitrospiraceae",
+    "Pirellulales",
+    "Pirellulales",
+    "Pirellulales",
+    "Pirellulales"
+  ],
+  "Species": [
+    "unclassified Pirellulales",
+    "unclassified Pirellulales",
+    "unclassified Nitrospiraceae",
+    "unclassified Pirellulales",
+    "unclassified Pirellulales",
+    "Lacipirellulaceae",
+    "Lacipirellulaceae"
+  ]
+}

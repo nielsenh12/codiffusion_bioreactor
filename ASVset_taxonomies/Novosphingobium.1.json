@@ -1,0 +1,44 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Pseudomonadota",
+    "Nitrospirota",
+    "Pseudomonadota",
+    "Pseudomonadota"
+  ],
+  "Order": [
+    "Alphaproteobacteria",
+    "Nitrospiria",
+    "Alphaproteobacteria",
+    "Alphaproteobacteria"
+  ],
+  "Family": [
+    "Sphingomonadales",
+    "Nitrospirales",
+    "Sphingomonadales",
+    "Sphingomonadales"
+  ],
+  "Genus": [
+    "Sphingomonadaceae",
+    "Nitrospiraceae",
+    "Sphingomonadaceae",
+    "Sphingomonadaceae"
+  ],
+  "Species": [
+    "unclassified Sphingomonadaceae",
+    "Nitrospira",
+    "Novosphingobium",
+    "Novosphingobium"
+  ]
+}

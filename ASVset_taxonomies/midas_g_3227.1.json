@@ -1,0 +1,29 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacteria incertae sedis",
+    "Bacillati"
+  ],
+  "Class": [
+    "Bacteria candidate phyla",
+    "Bacillota"
+  ],
+  "Order": [
+    "Candidatus Saccharimonadota",
+    "Clostridia"
+  ],
+  "Family": [
+    "unclassified Candidatus Saccharimonadota",
+    "Christensenellales"
+  ],
+  "Genus": [
+    "Candidatus Saccharimonadota bacterium",
+    "unclassified Christensenellales"
+  ],
+  "Species": [
+    "Christensenellales bacterium"
+  ]
+}

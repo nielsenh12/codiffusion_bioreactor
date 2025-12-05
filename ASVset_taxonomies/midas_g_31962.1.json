@@ -1,0 +1,47 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Bacillota",
+    "Mycoplasmatota",
+    "Mycoplasmatota",
+    "Bacillota",
+    "Bacillota"
+  ],
+  "Order": [
+    "Bacilli",
+    "Mollicutes",
+    "Mollicutes",
+    "Bacilli",
+    "Bacilli"
+  ],
+  "Family": [
+    "environmental samples",
+    "environmental samples",
+    "environmental samples",
+    "unclassified Bacilli",
+    "Bacillales"
+  ],
+  "Genus": [
+    "uncultured Bacilli bacterium",
+    "uncultured Mollicutes bacterium",
+    "uncultured Mollicutes bacterium",
+    "Bacilli bacterium",
+    "environmental samples"
+  ],
+  "Species": [
+    "uncultured Bacillales bacterium"
+  ]
+}

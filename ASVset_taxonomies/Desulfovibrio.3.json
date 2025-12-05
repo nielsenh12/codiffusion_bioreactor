@@ -1,0 +1,44 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Thermodesulfobacteriota",
+    "Thermodesulfobacteriota",
+    "Thermodesulfobacteriota",
+    "Thermodesulfobacteriota"
+  ],
+  "Order": [
+    "Desulfovibrionia",
+    "Desulfovibrionia",
+    "Desulfovibrionia",
+    "Desulfovibrionia"
+  ],
+  "Family": [
+    "Desulfovibrionales",
+    "Desulfovibrionales",
+    "Desulfovibrionales",
+    "Desulfovibrionales"
+  ],
+  "Genus": [
+    "Desulfovibrionaceae",
+    "Desulfovibrionaceae",
+    "Desulfovibrionaceae",
+    "Desulfovibrionaceae"
+  ],
+  "Species": [
+    "Desulfovibrio",
+    "Desulfovibrio",
+    "Halodesulfovibrio",
+    "Desulfovibrio"
+  ]
+}

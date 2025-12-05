@@ -1,0 +1,93 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Thermotogati",
+    "Pseudomonadati",
+    "Thermotogati",
+    "Thermotogati",
+    "Pseudomonadati",
+    "Bacillati",
+    "Thermotogati",
+    "Thermotogati",
+    "Pseudomonadati",
+    "Thermotogati"
+  ],
+  "Class": [
+    "Pseudomonadota",
+    "Synergistota",
+    "Pseudomonadota",
+    "Synergistota",
+    "Synergistota",
+    "Pseudomonadota",
+    "Actinomycetota",
+    "Thermotogota",
+    "Thermotogota",
+    "Pseudomonadota",
+    "Synergistota"
+  ],
+  "Order": [
+    "Gammaproteobacteria",
+    "Synergistia",
+    "Gammaproteobacteria",
+    "Synergistia",
+    "Synergistia",
+    "Gammaproteobacteria",
+    "Actinomycetes",
+    "Thermotogae",
+    "Thermotogae",
+    "Gammaproteobacteria",
+    "Synergistia"
+  ],
+  "Family": [
+    "Enterobacterales",
+    "Synergistales",
+    "Enterobacterales",
+    "Synergistales",
+    "Synergistales",
+    "Enterobacterales",
+    "Micrococcales",
+    "Kosmotogales",
+    "Kosmotogales",
+    "Enterobacterales",
+    "Synergistales"
+  ],
+  "Genus": [
+    "Enterobacteriaceae",
+    "Synergistaceae",
+    "Enterobacteriaceae",
+    "Synergistaceae",
+    "Synergistaceae",
+    "Enterobacteriaceae",
+    "Dermatophilaceae",
+    "Kosmotogaceae",
+    "Kosmotogaceae",
+    "Enterobacteriaceae",
+    "Synergistaceae"
+  ],
+  "Species": [
+    "Cronobacter",
+    "unclassified Synergistaceae",
+    "Cronobacter",
+    "unclassified Synergistaceae",
+    "unclassified Synergistaceae",
+    "Cronobacter",
+    "unclassified Dermatophilaceae",
+    "Mesotoga",
+    "Mesotoga",
+    "Cronobacter",
+    "unclassified Synergistaceae"
+  ]
+}

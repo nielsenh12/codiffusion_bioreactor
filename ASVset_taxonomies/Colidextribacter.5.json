@@ -1,0 +1,70 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacteria incertae sedis",
+    "Bacillati",
+    "Bacillati",
+    "Bacteria incertae sedis"
+  ],
+  "Class": [
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacteria candidate phyla",
+    "Bacillota",
+    "Bacillota",
+    "Bacteria candidate phyla"
+  ],
+  "Order": [
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Candidatus Saccharimonadota",
+    "Clostridia",
+    "Clostridia",
+    "Candidatus Saccharimonadota"
+  ],
+  "Family": [
+    "Eubacteriales",
+    "Eubacteriales",
+    "Eubacteriales",
+    "Eubacteriales",
+    "environmental samples",
+    "Eubacteriales",
+    "Eubacteriales",
+    "environmental samples"
+  ],
+  "Genus": [
+    "Oscillospiraceae",
+    "Oscillospiraceae",
+    "Oscillospiraceae",
+    "Oscillospiraceae",
+    "uncultured Candidatus Saccharibacteria bacterium",
+    "Oscillospiraceae",
+    "Oscillospiraceae",
+    "uncultured Candidatus Saccharibacteria bacterium"
+  ],
+  "Species": [
+    "Pseudoflavonifractor",
+    "Vermiculatibacterium",
+    "Pseudoflavonifractor",
+    "environmental samples",
+    "Pseudoflavonifractor",
+    "Pseudoflavonifractor"
+  ]
+}

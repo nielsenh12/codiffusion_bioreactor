@@ -1,0 +1,61 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "unclassified Bacteria",
+    "Pseudomonadati",
+    "Bacteria incertae sedis",
+    "Bacillati",
+    "Bacillati",
+    "Bacteria incertae sedis",
+    "Bacillati"
+  ],
+  "Class": [
+    "Bacillota",
+    "bacterium",
+    "Pseudomonadota",
+    "Bacteria candidate phyla",
+    "Bacillota",
+    "Bacillota",
+    "Bacteria candidate phyla",
+    "Bacillota"
+  ],
+  "Order": [
+    "unclassified Bacillota",
+    "Gammaproteobacteria",
+    "Candidatus Methylomirabilota",
+    "Clostridia",
+    "unclassified Bacillota",
+    "Candidatus Methylomirabilota",
+    "Clostridia"
+  ],
+  "Family": [
+    "Bacillota bacterium",
+    "unclassified Gammaproteobacteria",
+    "environmental samples",
+    "Candidatus Darwinibacteriales",
+    "Bacillota bacterium",
+    "environmental samples",
+    "Candidatus Darwinibacteriales"
+  ],
+  "Genus": [
+    "Gammaproteobacteria bacterium",
+    "uncultured Methylomirabilota bacterium",
+    "Candidatus Darwinibacteriaceae",
+    "uncultured Methylomirabilota bacterium",
+    "Candidatus Darwinibacteriaceae"
+  ],
+  "Species": [
+    "Candidatus Darwinibacter",
+    "Candidatus Darwinibacter"
+  ]
+}

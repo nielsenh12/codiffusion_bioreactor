@@ -1,0 +1,51 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Archaea",
+    "Bacteria",
+    "Archaea",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Methanobacteriati",
+    "Pseudomonadati",
+    "Methanobacteriati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "FCB group",
+    "Methanobacteriota",
+    "FCB group",
+    "Methanobacteriota",
+    "FCB group"
+  ],
+  "Order": [
+    "Bacteroidota/Chlorobiota group",
+    "Stenosarchaea group",
+    "Bacteroidota/Chlorobiota group",
+    "Stenosarchaea group",
+    "Bacteroidota/Chlorobiota group"
+  ],
+  "Family": [
+    "Bacteroidota",
+    "Methanomicrobia",
+    "Bacteroidota",
+    "Methanomicrobia",
+    "Bacteroidota"
+  ],
+  "Genus": [
+    "Bacteroidia",
+    "Methanosarcinales",
+    "Bacteroidia",
+    "Methanosarcinales",
+    "Bacteroidia"
+  ],
+  "Species": [
+    "Bacteroidales",
+    "Methanosarcinaceae",
+    "Bacteroidales",
+    "Methanosarcinaceae",
+    "Bacteroidales"
+  ]
+}

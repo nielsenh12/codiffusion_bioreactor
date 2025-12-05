@@ -1,0 +1,72 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota"
+  ],
+  "Order": [
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia"
+  ],
+  "Family": [
+    "Eubacteriales",
+    "Eubacteriales",
+    "Eubacteriales",
+    "Eubacteriales",
+    "Eubacteriales",
+    "Eubacteriales",
+    "Eubacteriales",
+    "Eubacteriales"
+  ],
+  "Genus": [
+    "Peptococcaceae",
+    "Peptococcaceae",
+    "unclassified Eubacteriales",
+    "Peptococcaceae",
+    "Peptococcaceae",
+    "Peptococcaceae",
+    "unclassified Eubacteriales",
+    "unclassified Eubacteriales"
+  ],
+  "Species": [
+    "Dehalobacterium",
+    "Dehalobacterium",
+    "Clostridiales bacterium",
+    "Dehalobacterium",
+    "Dehalobacterium",
+    "Dehalobacterium",
+    "Clostridiales bacterium",
+    "Clostridiales bacterium"
+  ]
+}

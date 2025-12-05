@@ -1,0 +1,75 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Actinomycetota",
+    "Actinomycetota",
+    "FCB group",
+    "FCB group",
+    "Actinomycetota",
+    "Actinomycetota",
+    "Actinomycetota",
+    "Actinomycetota",
+    "Actinomycetota"
+  ],
+  "Order": [
+    "Actinomycetes",
+    "Actinomycetes",
+    "Bacteroidota/Chlorobiota group",
+    "Bacteroidota/Chlorobiota group",
+    "environmental samples",
+    "Actinomycetes",
+    "environmental samples",
+    "Actinomycetes",
+    "Actinomycetes"
+  ],
+  "Family": [
+    "Mycobacteriales",
+    "Mycobacteriales",
+    "Bacteroidota",
+    "Bacteroidota",
+    "uncultured Actinomycetota bacterium",
+    "Mycobacteriales",
+    "uncultured Actinomycetota bacterium",
+    "Mycobacteriales",
+    "Mycobacteriales"
+  ],
+  "Genus": [
+    "Mycobacteriaceae",
+    "Mycobacteriaceae",
+    "Chitinophagia",
+    "Bacteroidia",
+    "Mycobacteriaceae",
+    "Mycobacteriaceae",
+    "Mycobacteriaceae"
+  ],
+  "Species": [
+    "Mycolicibacterium",
+    "Mycolicibacterium",
+    "Chitinophagales",
+    "unclassified Bacteroidia",
+    "Mycolicibacterium",
+    "Mycolicibacterium",
+    "Mycolicibacterium"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota"
+  ],
+  "Order": [
+    "Alphaproteobacteria",
+    "Alphaproteobacteria",
+    "Alphaproteobacteria",
+    "Gammaproteobacteria"
+  ],
+  "Family": [
+    "Caulobacterales",
+    "Caulobacterales",
+    "Caulobacterales",
+    "Enterobacterales"
+  ],
+  "Genus": [
+    "Caulobacteraceae",
+    "Caulobacteraceae",
+    "Caulobacteraceae",
+    "Enterobacteriaceae"
+  ],
+  "Species": [
+    "Brevundimonas",
+    "Brevundimonas",
+    "Brevundimonas",
+    "Klebsiella/Raoultella group"
+  ]
+}

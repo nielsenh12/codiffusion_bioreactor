@@ -1,0 +1,30 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Bacillota",
+    "Bacillota"
+  ],
+  "Order": [
+    "Clostridia",
+    "Clostridia"
+  ],
+  "Family": [
+    "Eubacteriales",
+    "Lachnospirales"
+  ],
+  "Genus": [
+    "Oscillospiraceae",
+    "Lachnospiraceae"
+  ],
+  "Species": [
+    "Ruminococcus",
+    "Coprococcus"
+  ]
+}

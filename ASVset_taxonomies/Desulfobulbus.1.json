@@ -1,0 +1,35 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "delta/epsilon subdivisions",
+    "Pseudomonadati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Deltaproteobacteria",
+    "Thermodesulfobacteriota",
+    "FCB group"
+  ],
+  "Order": [
+    "environmental samples",
+    "Desulfobulbia",
+    "Bacteroidota/Chlorobiota group"
+  ],
+  "Family": [
+    "uncultured delta proteobacterium",
+    "Desulfobulbales",
+    "Bacteroidota"
+  ],
+  "Genus": [
+    "Desulfobulbaceae",
+    "unclassified Bacteroidota"
+  ],
+  "Species": [
+    "Desulfobulbus",
+    "Bacteroidota bacterium"
+  ]
+}

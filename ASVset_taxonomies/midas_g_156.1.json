@@ -1,0 +1,51 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Thermotogati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Chloroflexota",
+    "Chloroflexota",
+    "Chloroflexota",
+    "Synergistota",
+    "Chloroflexota"
+  ],
+  "Order": [
+    "Anaerolineae",
+    "Anaerolineae",
+    "Anaerolineae",
+    "Synergistia",
+    "Anaerolineae"
+  ],
+  "Family": [
+    "Anaerolineales",
+    "Anaerolineales",
+    "Anaerolineales",
+    "Synergistales",
+    "Anaerolineales"
+  ],
+  "Genus": [
+    "Anaerolineaceae",
+    "Anaerolineaceae",
+    "Anaerolineaceae",
+    "Aminobacteriaceae",
+    "Anaerolineaceae"
+  ],
+  "Species": [
+    "unclassified Anaerolineaceae",
+    "unclassified Anaerolineaceae",
+    "unclassified Anaerolineaceae",
+    "Aminobacterium",
+    "unclassified Anaerolineaceae"
+  ]
+}

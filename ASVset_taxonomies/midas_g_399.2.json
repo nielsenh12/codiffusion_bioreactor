@@ -1,0 +1,32 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Acidobacteriota",
+    "Acidobacteriota",
+    "Actinomycetota",
+    "Actinomycetota"
+  ],
+  "Order": [
+    "unclassified Acidobacteriota",
+    "unclassified Acidobacteriota",
+    "environmental samples",
+    "environmental samples"
+  ],
+  "Family": [
+    "Acidobacteriota bacterium",
+    "Acidobacteriota bacterium",
+    "uncultured Actinomycetota bacterium",
+    "uncultured Actinomycetota bacterium"
+  ]
+}

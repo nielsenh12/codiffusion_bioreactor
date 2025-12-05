@@ -1,0 +1,35 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota"
+  ],
+  "Order": [
+    "Alphaproteobacteria",
+    "Alphaproteobacteria",
+    "Alphaproteobacteria"
+  ],
+  "Family": [
+    "environmental samples",
+    "environmental samples",
+    "Rhodobacterales"
+  ],
+  "Genus": [
+    "uncultured Alphaproteobacteria bacterium",
+    "uncultured Alphaproteobacteria bacterium",
+    "Paracoccaceae"
+  ],
+  "Species": [
+    "Pseudogemmobacter"
+  ]
+}

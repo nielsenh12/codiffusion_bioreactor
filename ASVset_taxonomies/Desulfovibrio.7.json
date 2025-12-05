@@ -1,0 +1,51 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Bacillati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Actinomycetota",
+    "Thermodesulfobacteriota",
+    "Thermodesulfobacteriota",
+    "Actinomycetota",
+    "Thermodesulfobacteriota"
+  ],
+  "Order": [
+    "Actinomycetes",
+    "Desulfovibrionia",
+    "Desulfovibrionia",
+    "Actinomycetes",
+    "Desulfovibrionia"
+  ],
+  "Family": [
+    "Actinomycetales",
+    "Desulfovibrionales",
+    "Desulfovibrionales",
+    "Actinomycetales",
+    "Desulfovibrionales"
+  ],
+  "Genus": [
+    "unclassified Actinomycetales",
+    "Desulfovibrionaceae",
+    "Desulfovibrionaceae",
+    "unclassified Actinomycetales",
+    "Desulfovibrionaceae"
+  ],
+  "Species": [
+    "Actinomycetales bacterium",
+    "Nitratidesulfovibrio",
+    "Nitratidesulfovibrio",
+    "Actinomycetales bacterium",
+    "Nitratidesulfovibrio"
+  ]
+}

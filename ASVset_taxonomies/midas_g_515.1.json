@@ -1,0 +1,27 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Spirochaetota",
+    "Spirochaetota",
+    "Nitrospirota"
+  ],
+  "Order": [
+    "unclassified Spirochaetota",
+    "unclassified Spirochaetota",
+    "unclassified Nitrospirota"
+  ],
+  "Family": [
+    "Spirochaetota bacterium",
+    "Spirochaetota bacterium",
+    "Nitrospirota bacterium"
+  ]
+}

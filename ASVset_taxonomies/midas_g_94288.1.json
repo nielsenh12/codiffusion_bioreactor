@@ -1,0 +1,72 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota"
+  ],
+  "Order": [
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia"
+  ],
+  "Family": [
+    "Lutisporales",
+    "Lutisporales",
+    "Lutisporales",
+    "Lutisporales",
+    "Lutisporales",
+    "Lutisporales",
+    "Lutisporales",
+    "Lutisporales"
+  ],
+  "Genus": [
+    "Lutisporaceae",
+    "Lutisporaceae",
+    "Lutisporaceae",
+    "Lutisporaceae",
+    "Lutisporaceae",
+    "Lutisporaceae",
+    "Lutisporaceae",
+    "Lutisporaceae"
+  ],
+  "Species": [
+    "Lutispora",
+    "Lutispora",
+    "Lutispora",
+    "Lutispora",
+    "Lutispora",
+    "Lutispora",
+    "Lutispora",
+    "Lutispora"
+  ]
+}

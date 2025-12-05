@@ -1,0 +1,72 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota"
+  ],
+  "Order": [
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia"
+  ],
+  "Family": [
+    "Peptostreptococcales",
+    "Peptostreptococcales",
+    "Peptostreptococcales",
+    "Peptostreptococcales",
+    "Peptostreptococcales",
+    "Peptostreptococcales",
+    "Peptostreptococcales",
+    "Peptostreptococcales"
+  ],
+  "Genus": [
+    "Tepidibacteraceae",
+    "Tepidibacteraceae",
+    "Tepidibacteraceae",
+    "Tepidibacteraceae",
+    "Tepidibacteraceae",
+    "Tepidibacteraceae",
+    "Tepidibacteraceae",
+    "Tepidibacteraceae"
+  ],
+  "Species": [
+    "Alkalithermobacter",
+    "Alkalithermobacter",
+    "Alkalithermobacter",
+    "Alkalithermobacter",
+    "Alkalithermobacter",
+    "Alkalithermobacter",
+    "Alkalithermobacter",
+    "Alkalithermobacter"
+  ]
+}

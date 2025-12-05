@@ -1,0 +1,51 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota"
+  ],
+  "Order": [
+    "Alphaproteobacteria",
+    "Alphaproteobacteria",
+    "Betaproteobacteria",
+    "Alphaproteobacteria",
+    "Alphaproteobacteria"
+  ],
+  "Family": [
+    "Sphingomonadales",
+    "Sphingomonadales",
+    "Rhodocyclales",
+    "Sphingomonadales",
+    "Sphingomonadales"
+  ],
+  "Genus": [
+    "Sphingopyxidaceae",
+    "Sphingopyxidaceae",
+    "Azonexaceae",
+    "Sphingopyxidaceae",
+    "Sphingopyxidaceae"
+  ],
+  "Species": [
+    "Sphingopyxis",
+    "Sphingopyxis",
+    "Dechloromonas",
+    "Sphingopyxis",
+    "Sphingopyxis"
+  ]
+}

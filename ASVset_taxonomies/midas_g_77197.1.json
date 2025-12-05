@@ -1,0 +1,89 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota"
+  ],
+  "Order": [
+    "Clostridia",
+    "Negativicutes",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia"
+  ],
+  "Family": [
+    "Eubacteriales",
+    "Selenomonadales",
+    "unclassified Clostridia",
+    "Eubacteriales",
+    "unclassified Clostridia",
+    "unclassified Clostridia",
+    "Eubacteriales",
+    "Eubacteriales",
+    "Eubacteriales",
+    "unclassified Clostridia",
+    "Eubacteriales"
+  ],
+  "Genus": [
+    "Oscillospiraceae",
+    "Sporomusaceae",
+    "Clostridia bacterium",
+    "unclassified Eubacteriales",
+    "Clostridia bacterium",
+    "Clostridia bacterium",
+    "Oscillospiraceae",
+    "Oscillospiraceae",
+    "Oscillospiraceae",
+    "Clostridia bacterium",
+    "Clostridiaceae"
+  ],
+  "Species": [
+    "unclassified Oscillospiraceae",
+    "Anaeromusa",
+    "Eubacteriales bacterium",
+    "unclassified Oscillospiraceae",
+    "unclassified Oscillospiraceae",
+    "Pseudoflavonifractor",
+    "unclassified Clostridiaceae"
+  ]
+}

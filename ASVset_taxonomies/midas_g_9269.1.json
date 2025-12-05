@@ -1,0 +1,32 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacteria incertae sedis",
+    "Bacteria incertae sedis",
+    "Bacteria incertae sedis"
+  ],
+  "Class": [
+    "Bacteria candidate phyla",
+    "Bacteria candidate phyla",
+    "Bacteria candidate phyla"
+  ],
+  "Order": [
+    "candidate division WWE3",
+    "candidate division WWE3",
+    "candidate division WWE3"
+  ],
+  "Family": [
+    "environmental samples",
+    "environmental samples",
+    "environmental samples"
+  ],
+  "Genus": [
+    "uncultured candidate division WWE3 bacterium",
+    "uncultured candidate division WWE3 bacterium",
+    "uncultured candidate division WWE3 bacterium"
+  ]
+}

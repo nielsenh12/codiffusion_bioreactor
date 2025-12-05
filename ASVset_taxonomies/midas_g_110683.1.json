@@ -1,0 +1,43 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Thermotogati",
+    "Thermotogati",
+    "Thermotogati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Synergistota",
+    "Thermotogota",
+    "Synergistota",
+    "Bacillota"
+  ],
+  "Order": [
+    "Synergistia",
+    "Thermotogae",
+    "Synergistia",
+    "Clostridia"
+  ],
+  "Family": [
+    "Synergistales",
+    "Thermotogales",
+    "Synergistales",
+    "unclassified Clostridia"
+  ],
+  "Genus": [
+    "unclassified Synergistales",
+    "unclassified Thermotogales",
+    "unclassified Synergistales",
+    "Clostridia bacterium"
+  ],
+  "Species": [
+    "Synergistales bacterium",
+    "Thermotogales bacterium",
+    "Synergistales bacterium"
+  ]
+}

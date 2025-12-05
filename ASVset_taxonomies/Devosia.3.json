@@ -1,0 +1,43 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Pseudomonadota",
+    "Actinomycetota"
+  ],
+  "Order": [
+    "Alphaproteobacteria",
+    "Alphaproteobacteria",
+    "Alphaproteobacteria",
+    "Actinomycetes"
+  ],
+  "Family": [
+    "Hyphomicrobiales",
+    "Hyphomicrobiales",
+    "Rickettsiales",
+    "unclassified Actinomycetes"
+  ],
+  "Genus": [
+    "Devosiaceae",
+    "Devosiaceae",
+    "Anaplasmataceae",
+    "Actinomycetes bacterium"
+  ],
+  "Species": [
+    "Devosia",
+    "Devosia",
+    "Wolbachieae"
+  ]
+}

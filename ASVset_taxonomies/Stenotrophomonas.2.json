@@ -1,0 +1,37 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Pseudomonadota",
+    "Actinomycetota",
+    "Actinomycetota"
+  ],
+  "Order": [
+    "Gammaproteobacteria",
+    "Actinomycetes",
+    "Actinomycetes"
+  ],
+  "Family": [
+    "Lysobacterales",
+    "Kitasatosporales",
+    "Kitasatosporales"
+  ],
+  "Genus": [
+    "Lysobacteraceae",
+    "Streptomycetaceae",
+    "Streptomycetaceae"
+  ],
+  "Species": [
+    "Stenotrophomonas",
+    "Streptomyces",
+    "Streptomyces"
+  ]
+}

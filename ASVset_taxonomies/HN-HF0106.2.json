@@ -1,0 +1,56 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Bacillati",
+    "Bacillati",
+    "Pseudomonadati",
+    "Bacillati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Pseudomonadota",
+    "Bacillota",
+    "Bacillota",
+    "PVC group",
+    "Bacillota",
+    "Pseudomonadota"
+  ],
+  "Order": [
+    "Gammaproteobacteria",
+    "unclassified Bacillota",
+    "Clostridia",
+    "Planctomycetota",
+    "Clostridia",
+    "Gammaproteobacteria"
+  ],
+  "Family": [
+    "Enterobacterales",
+    "Bacillota bacterium",
+    "Eubacteriales",
+    "Candidatus Brocadiia",
+    "Eubacteriales",
+    "Enterobacterales"
+  ],
+  "Genus": [
+    "Enterobacteriaceae",
+    "Oscillospiraceae",
+    "Candidatus Brocadiales",
+    "Oscillospiraceae",
+    "Enterobacteriaceae"
+  ],
+  "Species": [
+    "Cronobacter",
+    "Ruminiclostridium",
+    "Candidatus Brocadiaceae",
+    "Thermoclostridium",
+    "Cronobacter"
+  ]
+}

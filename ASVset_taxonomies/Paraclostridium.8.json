@@ -1,0 +1,44 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Bacillati",
+    "Bacillati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Pseudomonadota",
+    "Bacillota",
+    "Bacillota",
+    "Pseudomonadota"
+  ],
+  "Order": [
+    "Gammaproteobacteria",
+    "Clostridia",
+    "Clostridia",
+    "Gammaproteobacteria"
+  ],
+  "Family": [
+    "Enterobacterales",
+    "Peptostreptococcales",
+    "Peptostreptococcales",
+    "Enterobacterales"
+  ],
+  "Genus": [
+    "Enterobacteriaceae",
+    "Peptostreptococcaceae",
+    "Peptostreptococcaceae",
+    "Enterobacteriaceae"
+  ],
+  "Species": [
+    "Escherichia",
+    "Paraclostridium",
+    "Paraclostridium",
+    "Escherichia"
+  ]
+}

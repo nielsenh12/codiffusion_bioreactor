@@ -1,0 +1,79 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota"
+  ],
+  "Order": [
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia"
+  ],
+  "Family": [
+    "Eubacteriales",
+    "Eubacteriales",
+    "Eubacteriales",
+    "Eubacteriales",
+    "Peptostreptococcales",
+    "Eubacteriales",
+    "Eubacteriales",
+    "Peptostreptococcales",
+    "Eubacteriales"
+  ],
+  "Genus": [
+    "Clostridiaceae",
+    "Clostridiaceae",
+    "Clostridiaceae",
+    "Clostridiaceae",
+    "Natronincolaceae",
+    "Clostridiaceae",
+    "Clostridiaceae",
+    "Natronincolaceae",
+    "Clostridiaceae"
+  ],
+  "Species": [
+    "Clostridium",
+    "Clostridium",
+    "Clostridium",
+    "Clostridium",
+    "Anaerovirgula",
+    "Clostridium",
+    "Clostridium",
+    "Natronincola",
+    "Clostridium"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Actinomycetota",
+    "Actinomycetota"
+  ],
+  "Order": [
+    "Actinomycetes",
+    "Actinomycetes"
+  ],
+  "Family": [
+    "Actinomycetales",
+    "Actinomycetales"
+  ],
+  "Genus": [
+    "Actinomycetaceae",
+    "Actinomycetaceae"
+  ],
+  "Species": [
+    "unclassified Actinomycetaceae",
+    "Arcanobacterium"
+  ]
+}

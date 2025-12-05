@@ -1,0 +1,89 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Pseudomonadati",
+    "Bacillati",
+    "unclassified Bacteria",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Pseudomonadati",
+    "unclassified Bacteria",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Armatimonadota",
+    "Pseudomonadota",
+    "Actinomycetota",
+    "bacterium",
+    "Actinomycetota",
+    "Actinomycetota",
+    "Actinomycetota",
+    "unclassified Bacillati",
+    "Actinomycetota",
+    "Armatimonadota",
+    "Pseudomonadota",
+    "bacterium",
+    "unclassified Bacillati",
+    "Armatimonadota"
+  ],
+  "Order": [
+    "unclassified Armatimonadota",
+    "Gammaproteobacteria",
+    "Actinomycetes",
+    "Actinomycetes",
+    "Thermoleophilia",
+    "Actinomycetes",
+    "Bacillati bacterium",
+    "Actinomycetes",
+    "unclassified Armatimonadota",
+    "Gammaproteobacteria",
+    "Bacillati bacterium",
+    "unclassified Armatimonadota"
+  ],
+  "Family": [
+    "Armatimonadota bacterium",
+    "Enterobacterales",
+    "environmental samples",
+    "environmental samples",
+    "environmental samples",
+    "environmental samples",
+    "environmental samples",
+    "Armatimonadota bacterium",
+    "Enterobacterales",
+    "Armatimonadota bacterium"
+  ],
+  "Genus": [
+    "Enterobacteriaceae",
+    "uncultured Actinomycetes bacterium",
+    "uncultured Actinomycetes bacterium",
+    "uncultured Thermoleophilia bacterium",
+    "uncultured Actinomycetes bacterium",
+    "uncultured Actinomycetes bacterium",
+    "Enterobacteriaceae"
+  ],
+  "Species": [
+    "Cronobacter",
+    "Cronobacter"
+  ]
+}

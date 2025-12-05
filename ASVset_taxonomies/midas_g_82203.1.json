@@ -1,0 +1,64 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota"
+  ],
+  "Order": [
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia"
+  ],
+  "Family": [
+    "Eubacteriales",
+    "unclassified Clostridia",
+    "Eubacteriales",
+    "Eubacteriales",
+    "Eubacteriales",
+    "Eubacteriales",
+    "Eubacteriales"
+  ],
+  "Genus": [
+    "Oscillospiraceae",
+    "Clostridia bacterium",
+    "Acutalibacteraceae",
+    "Oscillospiraceae",
+    "Oscillospiraceae",
+    "Oscillospiraceae",
+    "environmental samples"
+  ],
+  "Species": [
+    "Ruminococcus",
+    "unclassified Acutalibacteraceae",
+    "environmental samples",
+    "Ruminococcus",
+    "Ruminococcus",
+    "uncultured Eubacteriales bacterium"
+  ]
+}

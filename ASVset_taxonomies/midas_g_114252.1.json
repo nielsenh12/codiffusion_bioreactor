@@ -1,0 +1,32 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Chloroflexota",
+    "Chloroflexota",
+    "Chloroflexota"
+  ],
+  "Order": [
+    "Anaerolineae",
+    "Anaerolineae",
+    "Anaerolineae"
+  ],
+  "Family": [
+    "unclassified Anaerolineae",
+    "unclassified Anaerolineae",
+    "unclassified Anaerolineae"
+  ],
+  "Genus": [
+    "Anaerolineae bacterium",
+    "Anaerolineae bacterium",
+    "Anaerolineae bacterium"
+  ]
+}

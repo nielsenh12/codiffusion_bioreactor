@@ -1,0 +1,62 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Pseudomonadati",
+    "Bacillati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "FCB group",
+    "Bacillota",
+    "Bacillota",
+    "Actinomycetota",
+    "FCB group",
+    "Bacillota",
+    "FCB group"
+  ],
+  "Order": [
+    "Bacteroidota/Chlorobiota group",
+    "Clostridia",
+    "environmental samples",
+    "Actinomycetes",
+    "Bacteroidota/Chlorobiota group",
+    "Limnochordia",
+    "Bacteroidota/Chlorobiota group"
+  ],
+  "Family": [
+    "Bacteroidota",
+    "environmental samples",
+    "uncultured Bacillota bacterium",
+    "Streptosporangiales",
+    "Bacteroidota",
+    "Limnochordales",
+    "Bacteroidota"
+  ],
+  "Genus": [
+    "Bacteroidia",
+    "uncultured Clostridia bacterium",
+    "Nocardiopsidaceae",
+    "Bacteroidia",
+    "Limnochordaceae",
+    "Bacteroidia"
+  ],
+  "Species": [
+    "Bacteroidales",
+    "Thermobifida",
+    "Bacteroidales",
+    "Limnochorda",
+    "Bacteroidales"
+  ]
+}

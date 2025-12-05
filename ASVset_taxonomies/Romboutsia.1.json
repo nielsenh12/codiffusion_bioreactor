@@ -1,0 +1,58 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Bacillota",
+    "Vulcanimicrobiota",
+    "Bacillota"
+  ],
+  "Order": [
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Clostridia",
+    "Vulcanimicrobiia",
+    "Clostridia"
+  ],
+  "Family": [
+    "Peptostreptococcales",
+    "Peptostreptococcales",
+    "Peptostreptococcales",
+    "Peptostreptococcales",
+    "Vulcanimicrobiales",
+    "Peptostreptococcales"
+  ],
+  "Genus": [
+    "Peptostreptococcaceae",
+    "Peptostreptococcaceae",
+    "Peptostreptococcaceae",
+    "Peptostreptococcaceae",
+    "Vulcanimicrobiaceae",
+    "Peptostreptococcaceae"
+  ],
+  "Species": [
+    "Romboutsia",
+    "Romboutsia",
+    "Romboutsia",
+    "Romboutsia",
+    "unclassified Vulcanimicrobiaceae",
+    "Romboutsia"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacteria incertae sedis",
+    "Pseudomonadati",
+    "Bacteria incertae sedis",
+    "Pseudomonadati",
+    "Bacillati",
+    "Bacteria incertae sedis"
+  ],
+  "Class": [
+    "Chloroflexota",
+    "Bacteria candidate phyla",
+    "Thermomicrobiota",
+    "Bacteria candidate phyla",
+    "Thermomicrobiota",
+    "Chloroflexota",
+    "Bacteria candidate phyla"
+  ],
+  "Order": [
+    "unclassified Chloroflexota",
+    "Candidatus Berkelbacteria",
+    "Thermomicrobia",
+    "Candidatus Berkelbacteria",
+    "Thermomicrobia",
+    "unclassified Chloroflexota",
+    "Candidatus Berkelbacteria"
+  ],
+  "Family": [
+    "Chloroflexota bacterium",
+    "environmental samples",
+    "Thermomicrobiales",
+    "environmental samples",
+    "Thermomicrobiales",
+    "Chloroflexota bacterium",
+    "environmental samples"
+  ],
+  "Genus": [
+    "uncultured Candidatus Berkelbacteria bacterium",
+    "unclassified Thermomicrobiales",
+    "uncultured Candidatus Berkelbacteria bacterium",
+    "unclassified Thermomicrobiales",
+    "uncultured Candidatus Berkelbacteria bacterium"
+  ],
+  "Species": [
+    "Thermomicrobiales bacterium",
+    "Thermomicrobiales bacterium"
+  ]
+}

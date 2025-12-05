@@ -1,0 +1,80 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Thermotogati",
+    "Thermotogati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Thermotogati",
+    "Thermotogati",
+    "Pseudomonadati",
+    "Thermotogati"
+  ],
+  "Class": [
+    "FCB group",
+    "FCB group",
+    "Synergistota",
+    "Synergistota",
+    "FCB group",
+    "FCB group",
+    "Synergistota",
+    "Synergistota",
+    "Pseudomonadota",
+    "Synergistota"
+  ],
+  "Order": [
+    "Bacteroidota/Chlorobiota group",
+    "Candidatus Cloacimonadota",
+    "Synergistia",
+    "Synergistia",
+    "Bacteroidota/Chlorobiota group",
+    "Candidatus Cloacimonadota",
+    "unclassified Synergistota",
+    "unclassified Synergistota",
+    "Gammaproteobacteria",
+    "Synergistia"
+  ],
+  "Family": [
+    "Bacteroidota",
+    "unclassified Candidatus Cloacimonadota",
+    "Synergistales",
+    "Synergistales",
+    "Bacteroidota",
+    "unclassified Candidatus Cloacimonadota",
+    "Synergistota bacterium",
+    "Synergistota bacterium",
+    "Enterobacterales",
+    "Synergistales"
+  ],
+  "Genus": [
+    "Bacteroidia",
+    "Candidatus Cloacimonadota bacterium",
+    "unclassified Synergistales",
+    "unclassified Synergistales",
+    "Bacteroidia",
+    "Candidatus Cloacimonadota bacterium",
+    "Enterobacteriaceae",
+    "Synergistaceae"
+  ],
+  "Species": [
+    "Bacteroidales",
+    "Synergistales bacterium",
+    "Synergistales bacterium",
+    "Bacteroidales",
+    "Cronobacter",
+    "unclassified Synergistaceae"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Pseudomonadati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Actinomycetota",
+    "Pseudomonadota",
+    "Actinomycetota",
+    "Actinomycetota",
+    "Actinomycetota",
+    "Pseudomonadota"
+  ],
+  "Order": [
+    "Actinomycetes",
+    "Gammaproteobacteria",
+    "Actinomycetes",
+    "Actinomycetes",
+    "Actinomycetes",
+    "Gammaproteobacteria"
+  ],
+  "Family": [
+    "Micrococcales",
+    "unclassified Gammaproteobacteria",
+    "Micrococcales",
+    "Micrococcales",
+    "Micrococcales",
+    "unclassified Gammaproteobacteria"
+  ],
+  "Genus": [
+    "Microbacteriaceae",
+    "Gammaproteobacteria bacterium",
+    "Microbacteriaceae",
+    "Microbacteriaceae",
+    "Microbacteriaceae",
+    "Gammaproteobacteria bacterium"
+  ],
+  "Species": [
+    "Leucobacter",
+    "Leucobacter",
+    "Leucobacter",
+    "Leucobacter"
+  ]
+}

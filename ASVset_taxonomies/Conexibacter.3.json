@@ -1,0 +1,36 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Actinomycetota",
+    "Actinomycetota",
+    "Actinomycetota"
+  ],
+  "Order": [
+    "Actinomycetes",
+    "Thermoleophilia",
+    "Thermoleophilia"
+  ],
+  "Family": [
+    "environmental samples",
+    "Solirubrobacterales",
+    "Solirubrobacterales"
+  ],
+  "Genus": [
+    "uncultured Actinomycetes bacterium",
+    "Solirubrobacteraceae",
+    "Conexibacteraceae"
+  ],
+  "Species": [
+    "environmental samples",
+    "Conexibacter"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Thermodesulfobacteriota",
+    "Spirochaetota",
+    "Thermodesulfobacteriota",
+    "Spirochaetota",
+    "Thermodesulfobacteriota",
+    "Spirochaetota"
+  ],
+  "Order": [
+    "Desulfuromonadia",
+    "Spirochaetia",
+    "Desulfuromonadia",
+    "Spirochaetia",
+    "Desulfuromonadia",
+    "Spirochaetia"
+  ],
+  "Family": [
+    "Desulfuromonadales",
+    "Spirochaetales",
+    "Desulfuromonadales",
+    "Spirochaetales",
+    "Desulfuromonadales",
+    "Spirochaetales"
+  ],
+  "Genus": [
+    "Desulfuromonadaceae",
+    "Spirochaetaceae",
+    "Desulfuromonadaceae",
+    "Spirochaetaceae",
+    "Desulfuromonadaceae",
+    "Spirochaetaceae"
+  ],
+  "Species": [
+    "Desulfuromonas",
+    "unclassified Spirochaetaceae",
+    "Desulfuromonas",
+    "unclassified Spirochaetaceae",
+    "Desulfuromonas",
+    "unclassified Spirochaetaceae"
+  ]
+}

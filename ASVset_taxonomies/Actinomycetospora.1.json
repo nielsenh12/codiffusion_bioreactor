@@ -1,0 +1,43 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Actinomycetota",
+    "Actinomycetota",
+    "Actinomycetota",
+    "Actinomycetota",
+    "Actinomycetota"
+  ],
+  "Order": [
+    "environmental samples",
+    "Actinomycetes",
+    "environmental samples",
+    "environmental samples",
+    "environmental samples"
+  ],
+  "Family": [
+    "uncultured Actinomycetota bacterium",
+    "Pseudonocardiales",
+    "uncultured Actinomycetota bacterium",
+    "uncultured Actinomycetota bacterium",
+    "uncultured Actinomycetota bacterium"
+  ],
+  "Genus": [
+    "Pseudonocardiaceae"
+  ],
+  "Species": [
+    "Actinomycetospora"
+  ]
+}

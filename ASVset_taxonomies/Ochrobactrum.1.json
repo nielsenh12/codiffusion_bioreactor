@@ -1,0 +1,51 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Pseudomonadati",
+    "Bacillati",
+    "Pseudomonadati",
+    "Pseudomonadati"
+  ],
+  "Class": [
+    "Actinomycetota",
+    "Pseudomonadota",
+    "Bacillota",
+    "Pseudomonadota",
+    "Pseudomonadota"
+  ],
+  "Order": [
+    "Actinomycetes",
+    "Alphaproteobacteria",
+    "Bacilli",
+    "Alphaproteobacteria",
+    "Alphaproteobacteria"
+  ],
+  "Family": [
+    "Nakamurellales",
+    "Hyphomicrobiales",
+    "Bacillales",
+    "Hyphomicrobiales",
+    "Hyphomicrobiales"
+  ],
+  "Genus": [
+    "Nakamurellaceae",
+    "Brucellaceae",
+    "Staphylococcaceae",
+    "Brucellaceae",
+    "Brucellaceae"
+  ],
+  "Species": [
+    "Nakamurella",
+    "Brucella/Ochrobactrum group",
+    "Staphylococcus",
+    "Brucella/Ochrobactrum group",
+    "Brucella/Ochrobactrum group"
+  ]
+}

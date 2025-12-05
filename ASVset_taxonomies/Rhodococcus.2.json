@@ -1,0 +1,72 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Actinomycetota",
+    "Actinomycetota",
+    "Actinomycetota",
+    "Actinomycetota",
+    "Actinomycetota",
+    "Actinomycetota",
+    "Bacillota",
+    "Actinomycetota"
+  ],
+  "Order": [
+    "Actinomycetes",
+    "Actinomycetes",
+    "Actinomycetes",
+    "Actinomycetes",
+    "Actinomycetes",
+    "Actinomycetes",
+    "Bacilli",
+    "Actinomycetes"
+  ],
+  "Family": [
+    "Mycobacteriales",
+    "Mycobacteriales",
+    "Mycobacteriales",
+    "Mycobacteriales",
+    "Kitasatosporales",
+    "Mycobacteriales",
+    "Lactobacillales",
+    "Mycobacteriales"
+  ],
+  "Genus": [
+    "Nocardiaceae",
+    "Nocardiaceae",
+    "Nocardiaceae",
+    "Nocardiaceae",
+    "Streptomycetaceae",
+    "Nocardiaceae",
+    "Lactobacillaceae",
+    "Nocardiaceae"
+  ],
+  "Species": [
+    "Rhodococcus",
+    "Rhodococcus",
+    "Rhodococcus",
+    "Rhodococcus",
+    "Kitasatospora",
+    "Rhodococcus",
+    "Lactobacillus",
+    "Rhodococcus"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "Kingdom": [
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria",
+    "Bacteria"
+  ],
+  "Phylum": [
+    "Bacillati",
+    "Pseudomonadati",
+    "Bacillati",
+    "Bacillati",
+    "Bacillati"
+  ],
+  "Class": [
+    "Actinomycetota",
+    "Pseudomonadota",
+    "Actinomycetota",
+    "Actinomycetota",
+    "Actinomycetota"
+  ],
+  "Order": [
+    "Actinomycetes",
+    "Gammaproteobacteria",
+    "Actinomycetes",
+    "Actinomycetes",
+    "Actinomycetes"
+  ],
+  "Family": [
+    "Mycobacteriales",
+    "Enterobacterales",
+    "Mycobacteriales",
+    "Mycobacteriales",
+    "Mycobacteriales"
+  ],
+  "Genus": [
+    "Corynebacteriaceae",
+    "Enterobacteriaceae",
+    "Corynebacteriaceae",
+    "Corynebacteriaceae",
+    "Corynebacteriaceae"
+  ],
+  "Species": [
+    "Corynebacterium",
+    "Enterobacter",
+    "Corynebacterium",
+    "Corynebacterium",
+    "Corynebacterium"
+  ]
+}
