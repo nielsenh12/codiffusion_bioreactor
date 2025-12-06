@@ -1,0 +1,47 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "Leptolinea"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacillati": 2
+    },
+    "Class": {
+      "Chloroflexota": 2
+    },
+    "Order": {
+      "Chloroflexia": 1,
+      "Anaerolineae": 1
+    },
+    "Family": {
+      "environmental samples": 1,
+      "Anaerolineales": 1
+    },
+    "Genus": {
+      "uncultured Chloroflexia bacterium": 1,
+      "Anaerolineaceae": 1
+    },
+    "Species": {
+      "Leptolinea": 1
+    }
+  }
+}

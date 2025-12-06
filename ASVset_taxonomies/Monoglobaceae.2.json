@@ -1,0 +1,94 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "unclassified Spirochaetales",
+      "Species": "Spirochaetales bacterium Spiro_06"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Monoglobales",
+      "Genus": "Monoglobaceae",
+      "Species": "Monoglobus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Clostridia incertae sedis",
+      "Genus": "Candidatus Roslinia",
+      "Species": "Candidatus Roslinia caecavium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Clostridiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Monoglobales",
+      "Genus": "Monoglobaceae",
+      "Species": "Monoglobus"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Bacillati": 5,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Bacillota": 5,
+      "Spirochaetota": 1
+    },
+    "Order": {
+      "Clostridia": 5,
+      "Spirochaetia": 1
+    },
+    "Family": {
+      "unclassified Clostridia": 1,
+      "Spirochaetales": 1,
+      "Monoglobales": 2,
+      "Clostridia incertae sedis": 1,
+      "Eubacteriales": 1
+    },
+    "Genus": {
+      "Clostridia bacterium": 1,
+      "unclassified Spirochaetales": 1,
+      "Monoglobaceae": 2,
+      "Candidatus Roslinia": 1,
+      "unclassified Eubacteriales": 1
+    },
+    "Species": {
+      "Spirochaetales bacterium Spiro_06": 1,
+      "Monoglobus": 2,
+      "Candidatus Roslinia caecavium": 1,
+      "Clostridiales bacterium": 1
+    }
+  }
+}

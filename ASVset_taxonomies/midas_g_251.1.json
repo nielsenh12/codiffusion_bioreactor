@@ -1,0 +1,48 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Caulobacterales",
+      "Genus": "Caulobacteraceae",
+      "Species": "Phenylobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Nitrobacteraceae",
+      "Species": "Rhodopseudomonas"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Pseudomonadota": 2
+    },
+    "Order": {
+      "Alphaproteobacteria": 2
+    },
+    "Family": {
+      "Caulobacterales": 1,
+      "Hyphomicrobiales": 1
+    },
+    "Genus": {
+      "Caulobacteraceae": 1,
+      "Nitrobacteraceae": 1
+    },
+    "Species": {
+      "Phenylobacterium": 1,
+      "Rhodopseudomonas": 1
+    }
+  }
+}

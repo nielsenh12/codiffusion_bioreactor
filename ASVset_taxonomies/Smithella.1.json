@@ -1,99 +1,143 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Syntrophia",
+      "Family": "Syntrophales",
+      "Genus": "Smithellaceae",
+      "Species": "unclassified Smithellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Syntrophia",
+      "Family": "Syntrophales",
+      "Genus": "Syntrophaceae",
+      "Species": "unclassified Syntrophaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Syntrophia",
+      "Family": "Syntrophales",
+      "Genus": "Syntrophaceae",
+      "Species": "unclassified Syntrophaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Syntrophia",
+      "Family": "Syntrophales",
+      "Genus": "Smithellaceae",
+      "Species": "unclassified Smithellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Syntrophia",
+      "Family": "Syntrophales",
+      "Genus": "Syntrophaceae",
+      "Species": "unclassified Syntrophaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Syntrophia",
+      "Family": "Syntrophales",
+      "Genus": "Syntrophaceae",
+      "Species": "unclassified Syntrophaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Syntrophia",
+      "Family": "Syntrophales",
+      "Genus": "Syntrophaceae",
+      "Species": "unclassified Syntrophaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Syntrophia",
+      "Family": "Syntrophales",
+      "Genus": "Smithellaceae",
+      "Species": "Smithella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Syntrophia",
+      "Family": "Syntrophales",
+      "Genus": "Smithellaceae",
+      "Species": "unclassified Smithellaceae"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "delta/epsilon subdivisions",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "delta/epsilon subdivisions",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "delta/epsilon subdivisions",
-    "Pseudomonadati",
-    "delta/epsilon subdivisions",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Thermodesulfobacteriota",
-    "Thermodesulfobacteriota",
-    "Deltaproteobacteria",
-    "Thermodesulfobacteriota",
-    "Thermodesulfobacteriota",
-    "Thermodesulfobacteriota",
-    "Deltaproteobacteria",
-    "Thermodesulfobacteriota",
-    "Thermodesulfobacteriota",
-    "Deltaproteobacteria",
-    "Thermodesulfobacteriota",
-    "Deltaproteobacteria",
-    "Thermodesulfobacteriota"
-  ],
-  "Order": [
-    "Syntrophia",
-    "Syntrophia",
-    "environmental samples",
-    "Syntrophia",
-    "Syntrophia",
-    "Syntrophia",
-    "environmental samples",
-    "Syntrophia",
-    "Syntrophia",
-    "environmental samples",
-    "Syntrophia",
-    "environmental samples",
-    "Syntrophia"
-  ],
-  "Family": [
-    "Syntrophales",
-    "Syntrophales",
-    "uncultured delta proteobacterium",
-    "Syntrophales",
-    "Syntrophales",
-    "Syntrophales",
-    "uncultured delta proteobacterium",
-    "Syntrophales",
-    "Syntrophales",
-    "uncultured delta proteobacterium",
-    "Syntrophales",
-    "uncultured delta proteobacterium",
-    "Syntrophales"
-  ],
-  "Genus": [
-    "Smithellaceae",
-    "Syntrophaceae",
-    "Syntrophaceae",
-    "Smithellaceae",
-    "Syntrophaceae",
-    "Syntrophaceae",
-    "Syntrophaceae",
-    "Smithellaceae",
-    "Smithellaceae"
-  ],
-  "Species": [
-    "unclassified Smithellaceae",
-    "unclassified Syntrophaceae",
-    "unclassified Syntrophaceae",
-    "unclassified Smithellaceae",
-    "unclassified Syntrophaceae",
-    "unclassified Syntrophaceae",
-    "unclassified Syntrophaceae",
-    "Smithella",
-    "unclassified Smithellaceae"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 13
+    },
+    "Phylum": {
+      "Pseudomonadati": 9,
+      "delta/epsilon subdivisions": 4
+    },
+    "Class": {
+      "Thermodesulfobacteriota": 9,
+      "Deltaproteobacteria": 4
+    },
+    "Order": {
+      "Syntrophia": 9,
+      "environmental samples": 4
+    },
+    "Family": {
+      "Syntrophales": 9,
+      "uncultured delta proteobacterium": 4
+    },
+    "Genus": {
+      "Smithellaceae": 4,
+      "Syntrophaceae": 5
+    },
+    "Species": {
+      "unclassified Smithellaceae": 3,
+      "unclassified Syntrophaceae": 5,
+      "Smithella": 1
+    }
+  }
 }

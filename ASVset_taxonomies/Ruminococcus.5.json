@@ -1,0 +1,85 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Ruminococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Carnobacteriaceae",
+      "Species": "Carnobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Ruminococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Ruminococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Ruminococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Ruminococcus"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Bacillati": 6
+    },
+    "Class": {
+      "Bacillota": 6
+    },
+    "Order": {
+      "Clostridia": 5,
+      "Bacilli": 1
+    },
+    "Family": {
+      "Eubacteriales": 5,
+      "Lactobacillales": 1
+    },
+    "Genus": {
+      "Oscillospiraceae": 5,
+      "Carnobacteriaceae": 1
+    },
+    "Species": {
+      "Ruminococcus": 5,
+      "Carnobacterium": 1
+    }
+  }
+}

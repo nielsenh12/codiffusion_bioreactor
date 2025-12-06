@@ -1,70 +1,109 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Lysobacterales",
+      "Genus": "Lysobacteraceae",
+      "Species": "Stenotrophomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Lysobacterales",
+      "Genus": "Lysobacteraceae",
+      "Species": "Stenotrophomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Lysobacterales",
+      "Genus": "Lysobacteraceae",
+      "Species": "Stenotrophomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "unclassified Gammaproteobacteria",
+      "Genus": "Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Lysobacterales",
+      "Genus": "Lysobacteraceae",
+      "Species": "Stenotrophomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Lysobacterales",
+      "Genus": "Lysobacteraceae",
+      "Species": "Stenotrophomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Lysobacterales",
+      "Genus": "Lysobacteraceae",
+      "Species": "Stenotrophomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Lysobacterales",
+      "Genus": "Lysobacteraceae",
+      "Species": "Stenotrophomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Lysobacterales",
+      "Genus": "Lysobacteraceae",
+      "Species": "Stenotrophomonas"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "Gammaproteobacteria",
-    "Gammaproteobacteria",
-    "Gammaproteobacteria",
-    "Gammaproteobacteria",
-    "Gammaproteobacteria",
-    "Gammaproteobacteria",
-    "Gammaproteobacteria",
-    "Gammaproteobacteria"
-  ],
-  "Family": [
-    "Lysobacterales",
-    "unclassified Gammaproteobacteria",
-    "Lysobacterales",
-    "Lysobacterales",
-    "Lysobacterales",
-    "unclassified Gammaproteobacteria",
-    "Lysobacterales",
-    "Lysobacterales"
-  ],
-  "Genus": [
-    "Lysobacteraceae",
-    "Gammaproteobacteria bacterium",
-    "Lysobacteraceae",
-    "Lysobacteraceae",
-    "Lysobacteraceae",
-    "Gammaproteobacteria bacterium",
-    "Lysobacteraceae",
-    "Lysobacteraceae"
-  ],
-  "Species": [
-    "Stenotrophomonas",
-    "Stenotrophomonas",
-    "Stenotrophomonas",
-    "Stenotrophomonas",
-    "Stenotrophomonas",
-    "Stenotrophomonas"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 9
+    },
+    "Phylum": {
+      "Pseudomonadati": 9
+    },
+    "Class": {
+      "Pseudomonadota": 9
+    },
+    "Order": {
+      "Gammaproteobacteria": 9
+    },
+    "Family": {
+      "Lysobacterales": 8,
+      "unclassified Gammaproteobacteria": 1
+    },
+    "Genus": {
+      "Lysobacteraceae": 8,
+      "Gammaproteobacteria bacterium": 1
+    },
+    "Species": {
+      "Stenotrophomonas": 8
+    }
+  }
 }

@@ -1,32 +1,49 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "Gammaproteobacteria",
-    "Gammaproteobacteria",
-    "Gammaproteobacteria"
-  ],
-  "Family": [
-    "environmental samples",
-    "environmental samples",
-    "environmental samples"
-  ],
-  "Genus": [
-    "uncultured Gammaproteobacteria bacterium",
-    "uncultured Gammaproteobacteria bacterium",
-    "uncultured Gammaproteobacteria bacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "Pseudomonadota": 3
+    },
+    "Order": {
+      "Gammaproteobacteria": 3
+    },
+    "Family": {
+      "environmental samples": 3
+    },
+    "Genus": {
+      "uncultured Gammaproteobacteria bacterium": 3
+    },
+    "Species": {}
+  }
 }

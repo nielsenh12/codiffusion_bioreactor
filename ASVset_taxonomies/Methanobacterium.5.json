@@ -1,37 +1,54 @@
 {
-  "Kingdom": [
-    "Archaea",
-    "Archaea",
-    "Archaea"
+  "members": [
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    }
   ],
-  "Phylum": [
-    "Methanobacteriati",
-    "Methanobacteriati",
-    "Methanobacteriati"
-  ],
-  "Class": [
-    "Methanobacteriota",
-    "Methanobacteriota",
-    "Methanobacteriota"
-  ],
-  "Order": [
-    "Methanomada group",
-    "Methanomada group",
-    "Methanomada group"
-  ],
-  "Family": [
-    "Methanobacteria",
-    "Methanobacteria",
-    "Methanobacteria"
-  ],
-  "Genus": [
-    "Methanobacteriales",
-    "Methanobacteriales",
-    "Methanobacteriales"
-  ],
-  "Species": [
-    "Methanobacteriaceae",
-    "Methanobacteriaceae",
-    "Methanobacteriaceae"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Archaea": 3
+    },
+    "Phylum": {
+      "Methanobacteriati": 3
+    },
+    "Class": {
+      "Methanobacteriota": 3
+    },
+    "Order": {
+      "Methanomada group": 3
+    },
+    "Family": {
+      "Methanobacteria": 3
+    },
+    "Genus": {
+      "Methanobacteriales": 3
+    },
+    "Species": {
+      "Methanobacteriaceae": 3
+    }
+  }
 }

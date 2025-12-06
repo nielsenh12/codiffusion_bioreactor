@@ -1,0 +1,105 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "unclassified Oscillospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Oscillospiraceae incertae sedis"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Paludihabitans"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "unclassified Oscillospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Massiliimalia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "unclassified Oscillospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Clostridiales bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 8
+    },
+    "Phylum": {
+      "Bacillati": 8
+    },
+    "Class": {
+      "Bacillota": 8
+    },
+    "Order": {
+      "Clostridia": 8
+    },
+    "Family": {
+      "Eubacteriales": 8
+    },
+    "Genus": {
+      "Oscillospiraceae": 7,
+      "unclassified Eubacteriales": 1
+    },
+    "Species": {
+      "unclassified Oscillospiraceae": 3,
+      "Oscillospiraceae incertae sedis": 1,
+      "Paludihabitans": 1,
+      "environmental samples": 1,
+      "Massiliimalia": 1,
+      "Clostridiales bacterium": 1
+    }
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Aerococcaceae",
+      "Species": "Fundicoccus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Aerococcaceae",
+      "Species": "Facklamia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Vagococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Tetragenococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Tetragenococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Aerococcaceae",
+      "Species": "Aerococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Bacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Thalassobacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Thalassobacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Guptibacillaceae",
+      "Species": "Guptibacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Bacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Aerococcaceae",
+      "Species": "Facklamia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Bacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Aerococcaceae",
+      "Species": "Facklamia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Allobacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Tetragenococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Allobacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Aerococcaceae",
+      "Species": "Aerococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Carnobacteriaceae",
+      "Species": "Jeotgalibaca"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Tetragenococcus"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 20
+    },
+    "Phylum": {
+      "Bacillati": 20
+    },
+    "Class": {
+      "Bacillota": 20
+    },
+    "Order": {
+      "Bacilli": 20
+    },
+    "Family": {
+      "Lactobacillales": 12,
+      "Bacillales": 8
+    },
+    "Genus": {
+      "Aerococcaceae": 6,
+      "Enterococcaceae": 5,
+      "Bacillaceae": 7,
+      "Guptibacillaceae": 1,
+      "Carnobacteriaceae": 1
+    },
+    "Species": {
+      "Fundicoccus": 1,
+      "Facklamia": 3,
+      "Vagococcus": 1,
+      "Tetragenococcus": 4,
+      "Aerococcus": 2,
+      "Bacillus": 3,
+      "Thalassobacillus": 2,
+      "Guptibacillus": 1,
+      "Allobacillus": 2,
+      "Jeotgalibaca": 1
+    }
+  }
+}

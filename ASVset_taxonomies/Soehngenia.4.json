@@ -1,44 +1,63 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "Gudongella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "Gudongella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "Gudongella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "Gudongella"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota"
-  ],
-  "Order": [
-    "Tissierellia",
-    "Tissierellia",
-    "Tissierellia",
-    "Tissierellia"
-  ],
-  "Family": [
-    "Tissierellales",
-    "Tissierellales",
-    "Tissierellales",
-    "Tissierellales"
-  ],
-  "Genus": [
-    "Tissierellaceae",
-    "Tissierellaceae",
-    "Tissierellaceae",
-    "Tissierellaceae"
-  ],
-  "Species": [
-    "Gudongella",
-    "Gudongella",
-    "Gudongella",
-    "Gudongella"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Bacillati": 4
+    },
+    "Class": {
+      "Bacillota": 4
+    },
+    "Order": {
+      "Tissierellia": 4
+    },
+    "Family": {
+      "Tissierellales": 4
+    },
+    "Genus": {
+      "Tissierellaceae": 4
+    },
+    "Species": {
+      "Gudongella": 4
+    }
+  }
 }

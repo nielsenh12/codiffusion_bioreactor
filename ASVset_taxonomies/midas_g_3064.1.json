@@ -1,0 +1,114 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Caldilineae",
+      "Family": "unclassified Caldilineae",
+      "Genus": "Caldilineae bacterium clx_CAG3"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Caldilineae",
+      "Family": "Caldilineales",
+      "Genus": "Caldilineaceae",
+      "Species": "unclassified Caldilineaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 10
+    },
+    "Phylum": {
+      "Bacillati": 10
+    },
+    "Class": {
+      "Chloroflexota": 10
+    },
+    "Order": {
+      "unclassified Chloroflexota": 1,
+      "Chloroflexia": 7,
+      "Caldilineae": 2
+    },
+    "Family": {
+      "Chloroflexota bacterium": 1,
+      "environmental samples": 7,
+      "unclassified Caldilineae": 1,
+      "Caldilineales": 1
+    },
+    "Genus": {
+      "uncultured Chloroflexia bacterium": 7,
+      "Caldilineae bacterium clx_CAG3": 1,
+      "Caldilineaceae": 1
+    },
+    "Species": {
+      "unclassified Caldilineaceae": 1
+    }
+  }
+}

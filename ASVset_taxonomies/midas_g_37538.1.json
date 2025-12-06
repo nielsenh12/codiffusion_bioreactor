@@ -1,0 +1,43 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "unclassified Alphaproteobacteria",
+      "Genus": "Alphaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Alphaproteobacteria bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Pseudomonadota": 2
+    },
+    "Order": {
+      "Alphaproteobacteria": 2
+    },
+    "Family": {
+      "unclassified Alphaproteobacteria": 1,
+      "environmental samples": 1
+    },
+    "Genus": {
+      "Alphaproteobacteria bacterium": 1,
+      "uncultured Alphaproteobacteria bacterium": 1
+    },
+    "Species": {}
+  }
+}

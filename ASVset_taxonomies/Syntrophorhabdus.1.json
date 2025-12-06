@@ -1,0 +1,30 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "unclassified Deltaproteobacteria",
+      "Family": "Deltaproteobacteria bacterium ADurb.Bin135"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "delta/epsilon subdivisions": 1
+    },
+    "Class": {
+      "Deltaproteobacteria": 1
+    },
+    "Order": {
+      "unclassified Deltaproteobacteria": 1
+    },
+    "Family": {
+      "Deltaproteobacteria bacterium ADurb.Bin135": 1
+    },
+    "Genus": {},
+    "Species": {}
+  }
+}

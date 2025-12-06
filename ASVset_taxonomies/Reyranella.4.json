@@ -1,0 +1,65 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Flavobacteriia",
+      "Species": "Flavobacteriales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Reyranellaceae",
+      "Species": "Reyranella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Cyanobacteriota",
+      "Family": "Cyanophyceae",
+      "Genus": "Nostocales",
+      "Species": "Nostocaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Pseudomonadati": 2,
+      "Bacillati": 1
+    },
+    "Class": {
+      "FCB group": 1,
+      "Pseudomonadota": 1,
+      "Cyanobacteriota/Melainabacteria group": 1
+    },
+    "Order": {
+      "Bacteroidota/Chlorobiota group": 1,
+      "Alphaproteobacteria": 1,
+      "Cyanobacteriota": 1
+    },
+    "Family": {
+      "Bacteroidota": 1,
+      "Hyphomicrobiales": 1,
+      "Cyanophyceae": 1
+    },
+    "Genus": {
+      "Flavobacteriia": 1,
+      "Reyranellaceae": 1,
+      "Nostocales": 1
+    },
+    "Species": {
+      "Flavobacteriales": 1,
+      "Reyranella": 1,
+      "Nostocaceae": 1
+    }
+  }
+}

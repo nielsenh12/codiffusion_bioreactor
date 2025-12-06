@@ -1,0 +1,45 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Kaistiaceae",
+      "Species": "Kaistia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Kaistiaceae",
+      "Species": "Kaistia"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Pseudomonadota": 2
+    },
+    "Order": {
+      "Alphaproteobacteria": 2
+    },
+    "Family": {
+      "Hyphomicrobiales": 2
+    },
+    "Genus": {
+      "Kaistiaceae": 2
+    },
+    "Species": {
+      "Kaistia": 2
+    }
+  }
+}

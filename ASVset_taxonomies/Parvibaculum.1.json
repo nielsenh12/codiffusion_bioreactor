@@ -1,37 +1,54 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Parvibaculaceae",
+      "Species": "Parvibaculum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Parvibaculaceae",
+      "Species": "Parvibaculum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Parvibaculaceae",
+      "Species": "Parvibaculum"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "Alphaproteobacteria",
-    "Alphaproteobacteria",
-    "Alphaproteobacteria"
-  ],
-  "Family": [
-    "Hyphomicrobiales",
-    "Hyphomicrobiales",
-    "Hyphomicrobiales"
-  ],
-  "Genus": [
-    "Parvibaculaceae",
-    "Parvibaculaceae",
-    "Parvibaculaceae"
-  ],
-  "Species": [
-    "Parvibaculum",
-    "Parvibaculum",
-    "Parvibaculum"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "Pseudomonadota": 3
+    },
+    "Order": {
+      "Alphaproteobacteria": 3
+    },
+    "Family": {
+      "Hyphomicrobiales": 3
+    },
+    "Genus": {
+      "Parvibaculaceae": 3
+    },
+    "Species": {
+      "Parvibaculum": 3
+    }
+  }
 }

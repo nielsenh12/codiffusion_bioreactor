@@ -1,0 +1,51 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Patescibacteria group",
+      "Family": "Microgenomates group",
+      "Genus": "Minisyncoccota",
+      "Species": "unclassified Minisyncoccota"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 1,
+      "Bacteria incertae sedis": 1
+    },
+    "Class": {
+      "FCB group": 1,
+      "Bacteria candidate phyla": 1
+    },
+    "Order": {
+      "Bacteroidota/Chlorobiota group": 1,
+      "Patescibacteria group": 1
+    },
+    "Family": {
+      "Bacteroidota": 1,
+      "Microgenomates group": 1
+    },
+    "Genus": {
+      "Bacteroidia": 1,
+      "Minisyncoccota": 1
+    },
+    "Species": {
+      "Bacteroidales": 1,
+      "unclassified Minisyncoccota": 1
+    }
+  }
+}

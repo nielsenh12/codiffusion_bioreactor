@@ -1,0 +1,55 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Devosiaceae",
+      "Species": "Paradevosia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Devosiaceae",
+      "Species": "Arsenicitalea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Devosiaceae",
+      "Species": "Paradevosia"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "Pseudomonadota": 3
+    },
+    "Order": {
+      "Alphaproteobacteria": 3
+    },
+    "Family": {
+      "Hyphomicrobiales": 3
+    },
+    "Genus": {
+      "Devosiaceae": 3
+    },
+    "Species": {
+      "Paradevosia": 2,
+      "Arsenicitalea": 1
+    }
+  }
+}

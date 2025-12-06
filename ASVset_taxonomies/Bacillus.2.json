@@ -1,0 +1,129 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Halalkalibacterium (ex Joshi et al. 2022)"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Anaerobacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Halalkalibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Anaerobacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Alkalihalobacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Halalkalibacterium (ex Joshi et al. 2022)"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Anaerobacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Halalkalibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Halalkalibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Halalkalibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Halalkalibacter"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 11
+    },
+    "Phylum": {
+      "Bacillati": 11
+    },
+    "Class": {
+      "Bacillota": 11
+    },
+    "Order": {
+      "Bacilli": 11
+    },
+    "Family": {
+      "Bacillales": 11
+    },
+    "Genus": {
+      "Bacillaceae": 11
+    },
+    "Species": {
+      "Halalkalibacterium (ex Joshi et al. 2022)": 2,
+      "Anaerobacillus": 3,
+      "Halalkalibacter": 5,
+      "Alkalihalobacillus": 1
+    }
+  }
+}

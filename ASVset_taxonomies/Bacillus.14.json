@@ -1,0 +1,208 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Priestia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Priestia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Priestia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Priestia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Priestia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Priestia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Priestia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Priestia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Priestia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Priestia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Priestia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Priestia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Bacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Priestia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Priestia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Priestia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Priestia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Priestia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Bacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Priestia"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 20
+    },
+    "Phylum": {
+      "Bacillati": 20
+    },
+    "Class": {
+      "Bacillota": 20
+    },
+    "Order": {
+      "Bacilli": 20
+    },
+    "Family": {
+      "Bacillales": 20
+    },
+    "Genus": {
+      "Bacillaceae": 20
+    },
+    "Species": {
+      "Priestia": 18,
+      "Bacillus": 2
+    }
+  }
+}

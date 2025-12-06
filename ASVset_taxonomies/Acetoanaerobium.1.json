@@ -1,44 +1,63 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Campylobacterota",
+      "Order": "Epsilonproteobacteria",
+      "Family": "Campylobacterales",
+      "Genus": "Sulfurimonadaceae",
+      "Species": "Sulfurimonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Campylobacterota",
+      "Order": "Epsilonproteobacteria",
+      "Family": "Campylobacterales",
+      "Genus": "Sulfurimonadaceae",
+      "Species": "Sulfurimonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Campylobacterota",
+      "Order": "Epsilonproteobacteria",
+      "Family": "Campylobacterales",
+      "Genus": "Sulfurimonadaceae",
+      "Species": "Sulfurimonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Campylobacterota",
+      "Order": "Epsilonproteobacteria",
+      "Family": "Campylobacterales",
+      "Genus": "Sulfurimonadaceae",
+      "Species": "Sulfurimonas"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Campylobacterota",
-    "Campylobacterota",
-    "Campylobacterota",
-    "Campylobacterota"
-  ],
-  "Order": [
-    "Epsilonproteobacteria",
-    "Epsilonproteobacteria",
-    "Epsilonproteobacteria",
-    "Epsilonproteobacteria"
-  ],
-  "Family": [
-    "Campylobacterales",
-    "Campylobacterales",
-    "Campylobacterales",
-    "Campylobacterales"
-  ],
-  "Genus": [
-    "Sulfurimonadaceae",
-    "Sulfurimonadaceae",
-    "Sulfurimonadaceae",
-    "Sulfurimonadaceae"
-  ],
-  "Species": [
-    "Sulfurimonas",
-    "Sulfurimonas",
-    "Sulfurimonas",
-    "Sulfurimonas"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Pseudomonadati": 4
+    },
+    "Class": {
+      "Campylobacterota": 4
+    },
+    "Order": {
+      "Epsilonproteobacteria": 4
+    },
+    "Family": {
+      "Campylobacterales": 4
+    },
+    "Genus": {
+      "Sulfurimonadaceae": 4
+    },
+    "Species": {
+      "Sulfurimonas": 4
+    }
+  }
 }

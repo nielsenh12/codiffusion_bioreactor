@@ -1,0 +1,24 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium LRH843"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "unclassified Bacteria": 1
+    },
+    "Class": {
+      "bacterium LRH843": 1
+    },
+    "Order": {},
+    "Family": {},
+    "Genus": {},
+    "Species": {}
+  }
+}

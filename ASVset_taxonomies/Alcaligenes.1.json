@@ -1,0 +1,101 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Alcaligenaceae",
+      "Species": "Alcaligenes"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Alcaligenaceae",
+      "Species": "Alcaligenes"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Alcaligenaceae",
+      "Species": "Alcaligenes"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Comamonadaceae",
+      "Species": "Delftia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Alcaligenaceae",
+      "Species": "Alcaligenes"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Alcaligenaceae",
+      "Species": "Alcaligenes"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Alcaligenaceae",
+      "Species": "Alcaligenes"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Alcaligenaceae",
+      "Species": "Alcaligenes"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 8
+    },
+    "Phylum": {
+      "Pseudomonadati": 8
+    },
+    "Class": {
+      "Pseudomonadota": 8
+    },
+    "Order": {
+      "Betaproteobacteria": 8
+    },
+    "Family": {
+      "Burkholderiales": 8
+    },
+    "Genus": {
+      "Alcaligenaceae": 7,
+      "Comamonadaceae": 1
+    },
+    "Species": {
+      "Alcaligenes": 7,
+      "Delftia": 1
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Saccharofermentanales",
+      "Genus": "unclassified Saccharofermentanales",
+      "Species": "Saccharofermentanales bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Bacillati": 3
+    },
+    "Class": {
+      "Bacillota": 3
+    },
+    "Order": {
+      "unclassified Bacillota": 2,
+      "Clostridia": 1
+    },
+    "Family": {
+      "Bacillota bacterium": 2,
+      "Saccharofermentanales": 1
+    },
+    "Genus": {
+      "unclassified Saccharofermentanales": 1
+    },
+    "Species": {
+      "Saccharofermentanales bacterium": 1
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Ruminiclostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Candidatus Brocadiia",
+      "Genus": "Candidatus Brocadiales",
+      "Species": "Candidatus Brocadiaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacillati": 1,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Bacillota": 1,
+      "PVC group": 1
+    },
+    "Order": {
+      "Clostridia": 1,
+      "Planctomycetota": 1
+    },
+    "Family": {
+      "Eubacteriales": 1,
+      "Candidatus Brocadiia": 1
+    },
+    "Genus": {
+      "Oscillospiraceae": 1,
+      "Candidatus Brocadiales": 1
+    },
+    "Species": {
+      "Ruminiclostridium": 1,
+      "Candidatus Brocadiaceae": 1
+    }
+  }
+}

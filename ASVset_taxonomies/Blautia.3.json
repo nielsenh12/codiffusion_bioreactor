@@ -1,0 +1,72 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "Blautia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "Blautia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "Blautia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium UC5.1-1D4"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium UC5.1-1D4"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Bacillati": 5
+    },
+    "Class": {
+      "Bacillota": 5
+    },
+    "Order": {
+      "Clostridia": 5
+    },
+    "Family": {
+      "Lachnospirales": 3,
+      "unclassified Clostridia": 2
+    },
+    "Genus": {
+      "Lachnospiraceae": 3,
+      "Clostridia bacterium UC5.1-1D4": 2
+    },
+    "Species": {
+      "Blautia": 3
+    }
+  }
+}

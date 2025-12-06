@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Candidatus Melainabacteria",
+      "Family": "Candidatus Gastranaerophilales",
+      "Genus": "Candidatus Gastranaerophilaceae",
+      "Species": "unclassified Candidatus Gastranaerophilaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacillati": 1
+    },
+    "Class": {
+      "Cyanobacteriota/Melainabacteria group": 1
+    },
+    "Order": {
+      "Candidatus Melainabacteria": 1
+    },
+    "Family": {
+      "Candidatus Gastranaerophilales": 1
+    },
+    "Genus": {
+      "Candidatus Gastranaerophilaceae": 1
+    },
+    "Species": {
+      "unclassified Candidatus Gastranaerophilaceae": 1
+    }
+  }
+}

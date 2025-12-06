@@ -1,0 +1,51 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Lysobacterales",
+      "Genus": "Lysobacteraceae",
+      "Species": "Alkalisalibacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfitobacteriaceae",
+      "Species": "unclassified Desulfitobacteriaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 1,
+      "Bacillati": 1
+    },
+    "Class": {
+      "Pseudomonadota": 1,
+      "Bacillota": 1
+    },
+    "Order": {
+      "Gammaproteobacteria": 1,
+      "Clostridia": 1
+    },
+    "Family": {
+      "Lysobacterales": 1,
+      "Eubacteriales": 1
+    },
+    "Genus": {
+      "Lysobacteraceae": 1,
+      "Desulfitobacteriaceae": 1
+    },
+    "Species": {
+      "Alkalisalibacterium": 1,
+      "unclassified Desulfitobacteriaceae": 1
+    }
+  }
+}

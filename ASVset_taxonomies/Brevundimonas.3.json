@@ -1,44 +1,63 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Caulobacterales",
+      "Genus": "Caulobacteraceae",
+      "Species": "Brevundimonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Caulobacterales",
+      "Genus": "Caulobacteraceae",
+      "Species": "Brevundimonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Caulobacterales",
+      "Genus": "Caulobacteraceae",
+      "Species": "Brevundimonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Caulobacterales",
+      "Genus": "Caulobacteraceae",
+      "Species": "Brevundimonas"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "Alphaproteobacteria",
-    "Alphaproteobacteria",
-    "Alphaproteobacteria",
-    "Gammaproteobacteria"
-  ],
-  "Family": [
-    "Caulobacterales",
-    "Caulobacterales",
-    "Caulobacterales",
-    "Enterobacterales"
-  ],
-  "Genus": [
-    "Caulobacteraceae",
-    "Caulobacteraceae",
-    "Caulobacteraceae",
-    "Enterobacteriaceae"
-  ],
-  "Species": [
-    "Brevundimonas",
-    "Brevundimonas",
-    "Brevundimonas",
-    "Klebsiella/Raoultella group"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Pseudomonadati": 4
+    },
+    "Class": {
+      "Pseudomonadota": 4
+    },
+    "Order": {
+      "Alphaproteobacteria": 4
+    },
+    "Family": {
+      "Caulobacterales": 4
+    },
+    "Genus": {
+      "Caulobacteraceae": 4
+    },
+    "Species": {
+      "Brevundimonas": 4
+    }
+  }
 }

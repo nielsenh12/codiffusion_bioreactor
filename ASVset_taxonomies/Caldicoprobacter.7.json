@@ -1,0 +1,105 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Candidatus Darwinibacteriales",
+      "Genus": "Candidatus Darwinibacteriaceae",
+      "Species": "Candidatus Darwinibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Eubacteriales bacterium mix99"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Eubacteriales bacterium mix99"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Eubacteriales bacterium mix99"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Eubacteriales bacterium mix99"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 8
+    },
+    "Phylum": {
+      "Bacillati": 8
+    },
+    "Class": {
+      "Bacillota": 8
+    },
+    "Order": {
+      "Clostridia": 8
+    },
+    "Family": {
+      "Candidatus Darwinibacteriales": 1,
+      "unclassified Clostridia": 2,
+      "Eubacteriales": 4,
+      "Christensenellales": 1
+    },
+    "Genus": {
+      "Candidatus Darwinibacteriaceae": 1,
+      "Clostridia bacterium": 2,
+      "unclassified Eubacteriales": 4,
+      "Christensenellaceae": 1
+    },
+    "Species": {
+      "Candidatus Darwinibacter": 1,
+      "Eubacteriales bacterium mix99": 4,
+      "unclassified Christensenellaceae": 1
+    }
+  }
+}

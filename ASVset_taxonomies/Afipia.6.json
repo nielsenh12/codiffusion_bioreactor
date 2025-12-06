@@ -1,0 +1,45 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Nitrobacteraceae",
+      "Species": "Bradyrhizobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "unclassified Pseudomonadota",
+      "Family": "Pseudomonadota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Pseudomonadota": 2
+    },
+    "Order": {
+      "Alphaproteobacteria": 1,
+      "unclassified Pseudomonadota": 1
+    },
+    "Family": {
+      "Hyphomicrobiales": 1,
+      "Pseudomonadota bacterium": 1
+    },
+    "Genus": {
+      "Nitrobacteraceae": 1
+    },
+    "Species": {
+      "Bradyrhizobium": 1
+    }
+  }
+}

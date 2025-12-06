@@ -1,79 +1,112 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Clostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Clostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Clostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Clostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Natronincolaceae",
+      "Species": "Anaerovirgula"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Clostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Clostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Natronincolaceae",
+      "Species": "Natronincola"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Clostridium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota"
-  ],
-  "Order": [
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia"
-  ],
-  "Family": [
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Peptostreptococcales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Peptostreptococcales",
-    "Eubacteriales"
-  ],
-  "Genus": [
-    "Clostridiaceae",
-    "Clostridiaceae",
-    "Clostridiaceae",
-    "Clostridiaceae",
-    "Natronincolaceae",
-    "Clostridiaceae",
-    "Clostridiaceae",
-    "Natronincolaceae",
-    "Clostridiaceae"
-  ],
-  "Species": [
-    "Clostridium",
-    "Clostridium",
-    "Clostridium",
-    "Clostridium",
-    "Anaerovirgula",
-    "Clostridium",
-    "Clostridium",
-    "Natronincola",
-    "Clostridium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 9
+    },
+    "Phylum": {
+      "Bacillati": 9
+    },
+    "Class": {
+      "Bacillota": 9
+    },
+    "Order": {
+      "Clostridia": 9
+    },
+    "Family": {
+      "Eubacteriales": 7,
+      "Peptostreptococcales": 2
+    },
+    "Genus": {
+      "Clostridiaceae": 7,
+      "Natronincolaceae": 2
+    },
+    "Species": {
+      "Clostridium": 7,
+      "Anaerovirgula": 1,
+      "Natronincola": 1
+    }
+  }
 }

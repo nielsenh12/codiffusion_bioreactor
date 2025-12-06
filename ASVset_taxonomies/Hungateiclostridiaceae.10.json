@@ -1,0 +1,134 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Clostridiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Saccharofermentans"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Eubacteriales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "unclassified Christensenellales",
+      "Species": "Christensenellales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "unclassified Christensenellales",
+      "Species": "Christensenellales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 10
+    },
+    "Phylum": {
+      "Bacillati": 9,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Bacillota": 9,
+      "FCB group": 1
+    },
+    "Order": {
+      "Clostridia": 9,
+      "Bacteroidota/Chlorobiota group": 1
+    },
+    "Family": {
+      "Christensenellales": 5,
+      "Eubacteriales": 3,
+      "unclassified Clostridia": 1,
+      "Bacteroidota": 1
+    },
+    "Genus": {
+      "Christensenellaceae": 3,
+      "unclassified Eubacteriales": 1,
+      "Oscillospiraceae": 1,
+      "Clostridia bacterium": 1,
+      "environmental samples": 1,
+      "unclassified Christensenellales": 2,
+      "Bacteroidia": 1
+    },
+    "Species": {
+      "environmental samples": 1,
+      "Clostridiales bacterium": 1,
+      "unclassified Christensenellaceae": 2,
+      "Saccharofermentans": 1,
+      "uncultured Eubacteriales bacterium": 1,
+      "Christensenellales bacterium": 2,
+      "Bacteroidales": 1
+    }
+  }
+}

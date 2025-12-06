@@ -1,0 +1,111 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Thermotogota",
+      "Order": "Thermotogae",
+      "Family": "Thermotogales",
+      "Genus": "unclassified Thermotogales",
+      "Species": "Thermotogales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "unclassified Candidatus Cloacimonadota",
+      "Genus": "Candidatus Cloacimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "Candidatus Cloacimonadia",
+      "Genus": "Candidatus Cloacimonadales",
+      "Species": "Candidatus Cloacimonadaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Aminobacteriaceae",
+      "Species": "Aminobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Thermotogota",
+      "Order": "Thermotogae",
+      "Family": "Thermotogales",
+      "Genus": "unclassified Thermotogales",
+      "Species": "Thermotogales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Aminobacteriaceae",
+      "Species": "Aminobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "Candidatus Cloacimonadia",
+      "Genus": "Candidatus Cloacimonadales",
+      "Species": "Candidatus Cloacimonadaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Aminobacteriaceae",
+      "Species": "Aminobacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 8
+    },
+    "Phylum": {
+      "Thermotogati": 5,
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "Thermotogota": 2,
+      "FCB group": 3,
+      "Synergistota": 3
+    },
+    "Order": {
+      "Thermotogae": 2,
+      "Candidatus Cloacimonadota": 3,
+      "Synergistia": 3
+    },
+    "Family": {
+      "Thermotogales": 2,
+      "unclassified Candidatus Cloacimonadota": 1,
+      "Candidatus Cloacimonadia": 2,
+      "Synergistales": 3
+    },
+    "Genus": {
+      "unclassified Thermotogales": 2,
+      "Candidatus Cloacimonadota bacterium": 1,
+      "Candidatus Cloacimonadales": 2,
+      "Aminobacteriaceae": 3
+    },
+    "Species": {
+      "Thermotogales bacterium": 2,
+      "Candidatus Cloacimonadaceae": 2,
+      "Aminobacterium": 3
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Syntrophorhabdia",
+      "Family": "Syntrophorhabdales",
+      "Genus": "Syntrophorhabdaceae",
+      "Species": "unclassified Syntrophorhabdaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Syntrophorhabdia",
+      "Family": "Syntrophorhabdales",
+      "Genus": "Syntrophorhabdaceae",
+      "Species": "unclassified Syntrophorhabdaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Clostridia incertae sedis",
+      "Genus": "Candidatus Avichristensenella",
+      "Species": "Candidatus Avichristensenella intestinipullorum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "unclassified Oscillospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Eubacteriales bacterium OttesenSCG-928-A19"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Cellulomonadaceae",
+      "Species": "unclassified Cellulomonadaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 9
+    },
+    "Phylum": {
+      "Bacillati": 7,
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Bacillota": 6,
+      "Thermodesulfobacteriota": 2,
+      "Actinomycetota": 1
+    },
+    "Order": {
+      "Clostridia": 6,
+      "Syntrophorhabdia": 2,
+      "Actinomycetes": 1
+    },
+    "Family": {
+      "unclassified Clostridia": 3,
+      "Syntrophorhabdales": 2,
+      "Clostridia incertae sedis": 1,
+      "Eubacteriales": 2,
+      "Micrococcales": 1
+    },
+    "Genus": {
+      "Clostridia bacterium": 3,
+      "Syntrophorhabdaceae": 2,
+      "Candidatus Avichristensenella": 1,
+      "Oscillospiraceae": 1,
+      "unclassified Eubacteriales": 1,
+      "Cellulomonadaceae": 1
+    },
+    "Species": {
+      "unclassified Syntrophorhabdaceae": 2,
+      "Candidatus Avichristensenella intestinipullorum": 1,
+      "unclassified Oscillospiraceae": 1,
+      "Eubacteriales bacterium OttesenSCG-928-A19": 1,
+      "unclassified Cellulomonadaceae": 1
+    }
+  }
+}

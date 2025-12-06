@@ -1,0 +1,78 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Intrasporangiaceae",
+      "Species": "Phycicoccus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Intrasporangiaceae",
+      "Species": "Oryzobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Intrasporangiaceae",
+      "Species": "Phycicoccus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Bacillati": 6
+    },
+    "Class": {
+      "Actinomycetota": 6
+    },
+    "Order": {
+      "Actinomycetes": 3,
+      "environmental samples": 3
+    },
+    "Family": {
+      "Micrococcales": 3,
+      "uncultured Actinomycetota bacterium": 3
+    },
+    "Genus": {
+      "Intrasporangiaceae": 3
+    },
+    "Species": {
+      "Phycicoccus": 2,
+      "Oryzobacter": 1
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Mycoplasmatota",
+      "Order": "unclassified Mycoplasmatota",
+      "Family": "Tenericutes bacterium ADurb.BinA124"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacillati": 1
+    },
+    "Class": {
+      "Mycoplasmatota": 1
+    },
+    "Order": {
+      "unclassified Mycoplasmatota": 1
+    },
+    "Family": {
+      "Tenericutes bacterium ADurb.BinA124": 1
+    },
+    "Genus": {},
+    "Species": {}
+  }
+}

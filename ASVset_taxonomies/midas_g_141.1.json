@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "Candidatus Cloacimonadia",
+      "Genus": "Candidatus Cloacimonadales",
+      "Species": "Candidatus Cloacimonadaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "FCB group": 1
+    },
+    "Order": {
+      "Candidatus Cloacimonadota": 1
+    },
+    "Family": {
+      "Candidatus Cloacimonadia": 1
+    },
+    "Genus": {
+      "Candidatus Cloacimonadales": 1
+    },
+    "Species": {
+      "Candidatus Cloacimonadaceae": 1
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Phyllobacteriaceae",
+      "Species": "Aquamicrobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Phyllobacteriaceae",
+      "Species": "Pseudaminobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Phyllobacteriaceae",
+      "Species": "Pseudaminobacter"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "Pseudomonadota": 3
+    },
+    "Order": {
+      "Alphaproteobacteria": 3
+    },
+    "Family": {
+      "Hyphomicrobiales": 3
+    },
+    "Genus": {
+      "Phyllobacteriaceae": 3
+    },
+    "Species": {
+      "Aquamicrobium": 1,
+      "Pseudaminobacter": 2
+    }
+  }
+}

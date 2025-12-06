@@ -1,0 +1,58 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Nitrosomonadales",
+      "Genus": "unclassified Nitrosomonadales",
+      "Species": "Methylophilales bacterium LSUCC0135"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Methylococcales",
+      "Genus": "Methylococcaceae",
+      "Species": "Methylicorpusculum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Methylococcales",
+      "Genus": "Methylococcaceae",
+      "Species": "Methylicorpusculum"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "Pseudomonadota": 3
+    },
+    "Order": {
+      "Betaproteobacteria": 1,
+      "Gammaproteobacteria": 2
+    },
+    "Family": {
+      "Nitrosomonadales": 1,
+      "Methylococcales": 2
+    },
+    "Genus": {
+      "unclassified Nitrosomonadales": 1,
+      "Methylococcaceae": 2
+    },
+    "Species": {
+      "Methylophilales bacterium LSUCC0135": 1,
+      "Methylicorpusculum": 2
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Syntrophia",
+      "Family": "Syntrophales",
+      "Genus": "Smithellaceae",
+      "Species": "unclassified Smithellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Lentisphaerota",
+      "Family": "unclassified Lentisphaerota",
+      "Genus": "Lentisphaerota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Sphaerochaetaceae",
+      "Species": "Sphaerochaeta"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Lentisphaerota",
+      "Family": "unclassified Lentisphaerota",
+      "Genus": "Lentisphaerota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Syntrophia",
+      "Family": "Syntrophales",
+      "Genus": "Smithellaceae",
+      "Species": "unclassified Smithellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Sphaerochaetaceae",
+      "Species": "Sphaerochaeta"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "unclassified Verrucomicrobiota",
+      "Genus": "Verrucomicrobiota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Sphaerochaetaceae",
+      "Species": "Sphaerochaeta"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Synergistaceae",
+      "Species": "unclassified Synergistaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 9
+    },
+    "Phylum": {
+      "Pseudomonadati": 8,
+      "Thermotogati": 1
+    },
+    "Class": {
+      "Thermodesulfobacteriota": 2,
+      "PVC group": 3,
+      "Spirochaetota": 3,
+      "Synergistota": 1
+    },
+    "Order": {
+      "Syntrophia": 2,
+      "Lentisphaerota": 2,
+      "Spirochaetia": 3,
+      "Verrucomicrobiota": 1,
+      "Synergistia": 1
+    },
+    "Family": {
+      "Syntrophales": 2,
+      "unclassified Lentisphaerota": 2,
+      "Spirochaetales": 3,
+      "unclassified Verrucomicrobiota": 1,
+      "Synergistales": 1
+    },
+    "Genus": {
+      "Smithellaceae": 2,
+      "Lentisphaerota bacterium": 2,
+      "Sphaerochaetaceae": 3,
+      "Verrucomicrobiota bacterium": 1,
+      "Synergistaceae": 1
+    },
+    "Species": {
+      "unclassified Smithellaceae": 2,
+      "Sphaerochaeta": 3,
+      "unclassified Synergistaceae": 1
+    }
+  }
+}

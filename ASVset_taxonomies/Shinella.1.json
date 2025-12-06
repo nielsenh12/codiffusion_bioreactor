@@ -1,0 +1,48 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Rhizobiaceae",
+      "Species": "Shinella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rickettsiales",
+      "Genus": "Anaplasmataceae",
+      "Species": "Wolbachieae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Pseudomonadota": 2
+    },
+    "Order": {
+      "Alphaproteobacteria": 2
+    },
+    "Family": {
+      "Hyphomicrobiales": 1,
+      "Rickettsiales": 1
+    },
+    "Genus": {
+      "Rhizobiaceae": 1,
+      "Anaplasmataceae": 1
+    },
+    "Species": {
+      "Shinella": 1,
+      "Wolbachieae": 1
+    }
+  }
+}

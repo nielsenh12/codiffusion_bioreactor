@@ -1,0 +1,30 @@
+{
+  "members": [
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "unclassified Methanobacteriota",
+      "Family": "Methanobacteriota archaeon"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Archaea": 1
+    },
+    "Phylum": {
+      "Methanobacteriati": 1
+    },
+    "Class": {
+      "Methanobacteriota": 1
+    },
+    "Order": {
+      "unclassified Methanobacteriota": 1
+    },
+    "Family": {
+      "Methanobacteriota archaeon": 1
+    },
+    "Genus": {},
+    "Species": {}
+  }
+}

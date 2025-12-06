@@ -1,26 +1,44 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "unclassified Actinomycetes",
+      "Genus": "Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Coriobacteriia",
+      "Family": "unclassified Coriobacteriia",
+      "Genus": "Coriobacteriia bacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Actinomycetota",
-    "Actinomycetota"
-  ],
-  "Order": [
-    "Actinomycetes",
-    "Coriobacteriia"
-  ],
-  "Family": [
-    "unclassified Actinomycetes",
-    "unclassified Coriobacteriia"
-  ],
-  "Genus": [
-    "Actinomycetes bacterium",
-    "Coriobacteriia bacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacillati": 2
+    },
+    "Class": {
+      "Actinomycetota": 2
+    },
+    "Order": {
+      "Actinomycetes": 1,
+      "Coriobacteriia": 1
+    },
+    "Family": {
+      "unclassified Actinomycetes": 1,
+      "unclassified Coriobacteriia": 1
+    },
+    "Genus": {
+      "Actinomycetes bacterium": 1,
+      "Coriobacteriia bacterium": 1
+    },
+    "Species": {}
+  }
 }

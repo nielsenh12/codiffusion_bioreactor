@@ -1,0 +1,123 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Eubacteriales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "unclassified Christensenellales",
+      "Species": "Christensenellales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriales incertae sedis",
+      "Species": "Candidatus Limadaptatus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriales incertae sedis",
+      "Species": "Candidatus Limadaptatus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Acutalibacteraceae",
+      "Species": "unclassified Acutalibacteraceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 10
+    },
+    "Phylum": {
+      "Bacillati": 10
+    },
+    "Class": {
+      "Bacillota": 10
+    },
+    "Order": {
+      "Clostridia": 10
+    },
+    "Family": {
+      "environmental samples": 4,
+      "Eubacteriales": 4,
+      "Christensenellales": 1,
+      "unclassified Clostridia": 1
+    },
+    "Genus": {
+      "uncultured Clostridia bacterium": 4,
+      "unclassified Eubacteriales": 1,
+      "unclassified Christensenellales": 1,
+      "Eubacteriales incertae sedis": 2,
+      "Clostridia bacterium": 1,
+      "Acutalibacteraceae": 1
+    },
+    "Species": {
+      "Eubacteriales bacterium": 1,
+      "Christensenellales bacterium": 1,
+      "Candidatus Limadaptatus": 2,
+      "unclassified Acutalibacteraceae": 1
+    }
+  }
+}

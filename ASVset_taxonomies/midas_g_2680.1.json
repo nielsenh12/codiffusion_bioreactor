@@ -1,0 +1,79 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Alphaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Nitrobacteraceae",
+      "Species": "Bradyrhizobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Alphaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Alphaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Nitrobacteraceae",
+      "Species": "Bradyrhizobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Alphaproteobacteria bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Pseudomonadati": 6
+    },
+    "Class": {
+      "Pseudomonadota": 6
+    },
+    "Order": {
+      "Alphaproteobacteria": 6
+    },
+    "Family": {
+      "environmental samples": 4,
+      "Hyphomicrobiales": 2
+    },
+    "Genus": {
+      "uncultured Alphaproteobacteria bacterium": 4,
+      "Nitrobacteraceae": 2
+    },
+    "Species": {
+      "Bradyrhizobium": 2
+    }
+  }
+}

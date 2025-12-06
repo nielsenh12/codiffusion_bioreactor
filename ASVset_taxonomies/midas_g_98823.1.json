@@ -1,0 +1,75 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Spirochaetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Spirochaetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Spirochaetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Brevinematales",
+      "Genus": "Thermospiraceae",
+      "Species": "Thermospira"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Brevinematales",
+      "Genus": "Thermospiraceae",
+      "Species": "Thermospira"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Spirochaetota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Pseudomonadati": 6
+    },
+    "Class": {
+      "Spirochaetota": 6
+    },
+    "Order": {
+      "environmental samples": 4,
+      "Spirochaetia": 2
+    },
+    "Family": {
+      "uncultured Spirochaetota bacterium": 4,
+      "Brevinematales": 2
+    },
+    "Genus": {
+      "Thermospiraceae": 2
+    },
+    "Species": {
+      "Thermospira": 2
+    }
+  }
+}

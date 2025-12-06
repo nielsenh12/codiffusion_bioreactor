@@ -1,0 +1,154 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "unclassified Anaerolineaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Ignavibacteriota",
+      "Genus": "Ignavibacteria",
+      "Species": "Ignavibacteriales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "unclassified Anaerolineaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "Bellilinea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "unclassified Anaerolineae",
+      "Genus": "Anaerolineae bacterium clx_SAG17"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 13
+    },
+    "Phylum": {
+      "Pseudomonadati": 3,
+      "Bacillati": 9,
+      "unclassified Bacteria": 1
+    },
+    "Class": {
+      "Pseudomonadota": 2,
+      "Chloroflexota": 9,
+      "FCB group": 1,
+      "bacterium": 1
+    },
+    "Order": {
+      "Gammaproteobacteria": 2,
+      "Chloroflexia": 4,
+      "Anaerolineae": 4,
+      "unclassified Chloroflexota": 1,
+      "Bacteroidota/Chlorobiota group": 1
+    },
+    "Family": {
+      "Enterobacterales": 2,
+      "environmental samples": 4,
+      "Anaerolineales": 3,
+      "Chloroflexota bacterium": 1,
+      "Ignavibacteriota": 1,
+      "unclassified Anaerolineae": 1
+    },
+    "Genus": {
+      "Enterobacteriaceae": 2,
+      "uncultured Chloroflexia bacterium": 4,
+      "Anaerolineaceae": 3,
+      "Ignavibacteria": 1,
+      "Anaerolineae bacterium clx_SAG17": 1
+    },
+    "Species": {
+      "Cronobacter": 2,
+      "unclassified Anaerolineaceae": 2,
+      "Ignavibacteriales": 1,
+      "Bellilinea": 1
+    }
+  }
+}

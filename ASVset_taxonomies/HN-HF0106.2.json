@@ -1,56 +1,93 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Ruminiclostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Candidatus Brocadiia",
+      "Genus": "Candidatus Brocadiales",
+      "Species": "Candidatus Brocadiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Thermoclostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "Bacillota",
-    "Bacillota",
-    "PVC group",
-    "Bacillota",
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "Gammaproteobacteria",
-    "unclassified Bacillota",
-    "Clostridia",
-    "Planctomycetota",
-    "Clostridia",
-    "Gammaproteobacteria"
-  ],
-  "Family": [
-    "Enterobacterales",
-    "Bacillota bacterium",
-    "Eubacteriales",
-    "Candidatus Brocadiia",
-    "Eubacteriales",
-    "Enterobacterales"
-  ],
-  "Genus": [
-    "Enterobacteriaceae",
-    "Oscillospiraceae",
-    "Candidatus Brocadiales",
-    "Oscillospiraceae",
-    "Enterobacteriaceae"
-  ],
-  "Species": [
-    "Cronobacter",
-    "Ruminiclostridium",
-    "Candidatus Brocadiaceae",
-    "Thermoclostridium",
-    "Cronobacter"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Pseudomonadati": 3,
+      "Bacillati": 3
+    },
+    "Class": {
+      "Pseudomonadota": 2,
+      "Bacillota": 3,
+      "PVC group": 1
+    },
+    "Order": {
+      "Gammaproteobacteria": 2,
+      "unclassified Bacillota": 1,
+      "Clostridia": 2,
+      "Planctomycetota": 1
+    },
+    "Family": {
+      "Enterobacterales": 2,
+      "Bacillota bacterium": 1,
+      "Eubacteriales": 2,
+      "Candidatus Brocadiia": 1
+    },
+    "Genus": {
+      "Enterobacteriaceae": 2,
+      "Oscillospiraceae": 2,
+      "Candidatus Brocadiales": 1
+    },
+    "Species": {
+      "Cronobacter": 2,
+      "Ruminiclostridium": 1,
+      "Candidatus Brocadiaceae": 1,
+      "Thermoclostridium": 1
+    }
+  }
 }

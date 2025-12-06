@@ -1,0 +1,45 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "Isosphaerales",
+      "Species": "Isosphaeraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "Isosphaerales",
+      "Species": "Isosphaeraceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "PVC group": 2
+    },
+    "Order": {
+      "Planctomycetota": 2
+    },
+    "Family": {
+      "Planctomycetia": 2
+    },
+    "Genus": {
+      "Isosphaerales": 2
+    },
+    "Species": {
+      "Isosphaeraceae": 2
+    }
+  }
+}

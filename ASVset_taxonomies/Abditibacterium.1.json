@@ -1,0 +1,24 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "environmental samples",
+      "Class": "uncultured bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "environmental samples": 1
+    },
+    "Class": {
+      "uncultured bacterium": 1
+    },
+    "Order": {},
+    "Family": {},
+    "Genus": {},
+    "Species": {}
+  }
+}

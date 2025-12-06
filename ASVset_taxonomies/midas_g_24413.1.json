@@ -1,0 +1,109 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Babelota",
+      "Family": "Candidatus Babeliae",
+      "Genus": "Candidatus Babeliales",
+      "Species": "unclassified Candidatus Babeliales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Babelota",
+      "Family": "unclassified Candidatus Babelota",
+      "Genus": "Candidatus Babelota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "environmental samples",
+      "Class": "uncultured bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "environmental samples",
+      "Class": "uncultured bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "environmental samples",
+      "Class": "uncultured bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Babelota",
+      "Family": "Candidatus Babeliae",
+      "Genus": "Candidatus Babeliales",
+      "Species": "unclassified Candidatus Babeliales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Babelota",
+      "Family": "unclassified Candidatus Babelota",
+      "Genus": "Candidatus Babelota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Babelota",
+      "Family": "Candidatus Babeliae",
+      "Genus": "Candidatus Babeliales",
+      "Species": "unclassified Candidatus Babeliales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "environmental samples",
+      "Class": "uncultured bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Babelota",
+      "Family": "unclassified Candidatus Babelota",
+      "Genus": "Candidatus Babelota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 11
+    },
+    "Phylum": {
+      "unclassified Bacteria": 1,
+      "Bacteria incertae sedis": 6,
+      "environmental samples": 4
+    },
+    "Class": {
+      "bacterium": 1,
+      "Bacteria candidate phyla": 6,
+      "uncultured bacterium": 4
+    },
+    "Order": {
+      "Candidatus Babelota": 6
+    },
+    "Family": {
+      "Candidatus Babeliae": 3,
+      "unclassified Candidatus Babelota": 3
+    },
+    "Genus": {
+      "Candidatus Babeliales": 3,
+      "Candidatus Babelota bacterium": 3
+    },
+    "Species": {
+      "unclassified Candidatus Babeliales": 3
+    }
+  }
+}

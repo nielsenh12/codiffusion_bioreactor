@@ -1,0 +1,166 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Acetomicrobiaceae",
+      "Species": "Acetomicrobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Synergistaceae",
+      "Species": "unclassified Synergistaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "unclassified Synergistota",
+      "Family": "Synergistota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Acetomicrobiaceae",
+      "Species": "Acetomicrobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Vallitaleaceae",
+      "Species": "Vallitalea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Spirochaetaceae",
+      "Species": "unclassified Spirochaetaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "unclassified Synergistota",
+      "Family": "Synergistota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Caldicoprobacterales",
+      "Genus": "Caldicoprobacteraceae",
+      "Species": "Caldicoprobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Acetomicrobiaceae",
+      "Species": "Acetomicrobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lutisporales",
+      "Genus": "Lutisporaceae",
+      "Species": "Lutispora"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Syntrophomonadaceae",
+      "Species": "environmental samples"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 13
+    },
+    "Phylum": {
+      "Thermotogati": 6,
+      "Bacillati": 6,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Synergistota": 6,
+      "Bacillota": 6,
+      "Spirochaetota": 1
+    },
+    "Order": {
+      "Synergistia": 4,
+      "unclassified Synergistota": 2,
+      "Clostridia": 5,
+      "Spirochaetia": 1,
+      "unclassified Bacillota": 1
+    },
+    "Family": {
+      "Synergistales": 4,
+      "Synergistota bacterium": 2,
+      "Lachnospirales": 1,
+      "Spirochaetales": 1,
+      "Caldicoprobacterales": 1,
+      "unclassified Clostridia": 1,
+      "Lutisporales": 1,
+      "Bacillota bacterium": 1,
+      "Eubacteriales": 1
+    },
+    "Genus": {
+      "Acetomicrobiaceae": 3,
+      "Synergistaceae": 1,
+      "Vallitaleaceae": 1,
+      "Spirochaetaceae": 1,
+      "Caldicoprobacteraceae": 1,
+      "Clostridia bacterium": 1,
+      "Lutisporaceae": 1,
+      "Syntrophomonadaceae": 1
+    },
+    "Species": {
+      "Acetomicrobium": 3,
+      "unclassified Synergistaceae": 1,
+      "Vallitalea": 1,
+      "unclassified Spirochaetaceae": 1,
+      "Caldicoprobacter": 1,
+      "Lutispora": 1,
+      "environmental samples": 1
+    }
+  }
+}

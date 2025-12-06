@@ -1,0 +1,85 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Comamonadaceae",
+      "Species": "Rhodoferax"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Acetobacterales",
+      "Genus": "Roseomonadaceae",
+      "Species": "Roseomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Comamonadaceae",
+      "Species": "Rhodoferax"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Acetobacterales",
+      "Genus": "Roseomonadaceae",
+      "Species": "Roseomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Acetobacterales",
+      "Genus": "Roseomonadaceae",
+      "Species": "Roseomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Acetobacterales",
+      "Genus": "Roseomonadaceae",
+      "Species": "Roseomonas"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Pseudomonadati": 6
+    },
+    "Class": {
+      "Pseudomonadota": 6
+    },
+    "Order": {
+      "Betaproteobacteria": 2,
+      "Alphaproteobacteria": 4
+    },
+    "Family": {
+      "Burkholderiales": 2,
+      "Acetobacterales": 4
+    },
+    "Genus": {
+      "Comamonadaceae": 2,
+      "Roseomonadaceae": 4
+    },
+    "Species": {
+      "Rhodoferax": 2,
+      "Roseomonas": 4
+    }
+  }
+}

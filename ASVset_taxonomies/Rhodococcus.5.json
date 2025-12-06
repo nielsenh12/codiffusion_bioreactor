@@ -1,0 +1,74 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Nocardiaceae",
+      "Species": "Prescottella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Nocardiaceae",
+      "Species": "Nocardia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Nocardiaceae",
+      "Species": "Aldersonia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Nocardiaceae",
+      "Species": "Aldersonia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Nocardiaceae",
+      "Species": "Nocardia"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Bacillati": 5
+    },
+    "Class": {
+      "Actinomycetota": 5
+    },
+    "Order": {
+      "Actinomycetes": 5
+    },
+    "Family": {
+      "Mycobacteriales": 5
+    },
+    "Genus": {
+      "Nocardiaceae": 5
+    },
+    "Species": {
+      "Prescottella": 1,
+      "Nocardia": 2,
+      "Aldersonia": 2
+    }
+  }
+}

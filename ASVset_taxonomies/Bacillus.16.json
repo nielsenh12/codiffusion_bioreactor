@@ -1,156 +1,36 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "environmental samples"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota"
-  ],
-  "Order": [
-    "Bacilli",
-    "Bacilli",
-    "Bacilli",
-    "Bacilli",
-    "Bacilli",
-    "Bacilli",
-    "Bacilli",
-    "Bacilli",
-    "Bacilli",
-    "Bacilli",
-    "Bacilli",
-    "Bacilli",
-    "Bacilli",
-    "Bacilli",
-    "Bacilli",
-    "Bacilli",
-    "Bacilli",
-    "Bacilli",
-    "Bacilli",
-    "Bacilli"
-  ],
-  "Family": [
-    "Bacillales",
-    "Bacillales",
-    "Bacillales",
-    "Bacillales",
-    "Bacillales",
-    "Bacillales",
-    "Bacillales",
-    "Bacillales",
-    "Bacillales",
-    "Bacillales",
-    "Bacillales",
-    "Bacillales",
-    "Bacillales",
-    "Bacillales",
-    "Bacillales",
-    "Bacillales",
-    "Bacillales",
-    "Bacillales",
-    "Bacillales",
-    "Bacillales"
-  ],
-  "Genus": [
-    "Bacillaceae",
-    "Bacillaceae",
-    "Bacillaceae",
-    "Bacillaceae",
-    "Bacillaceae",
-    "Bacillaceae",
-    "Bacillaceae",
-    "Bacillaceae",
-    "Bacillaceae",
-    "Bacillaceae",
-    "Bacillaceae",
-    "Bacillaceae",
-    "Bacillaceae",
-    "Bacillaceae",
-    "Bacillaceae",
-    "Bacillaceae",
-    "Bacillaceae",
-    "Bacillaceae",
-    "Bacillaceae",
-    "Bacillaceae"
-  ],
-  "Species": [
-    "Priestia",
-    "Priestia",
-    "Priestia",
-    "Priestia",
-    "Priestia",
-    "Priestia",
-    "Priestia",
-    "Priestia",
-    "Priestia",
-    "Priestia",
-    "Priestia",
-    "Priestia",
-    "Bacillus",
-    "Priestia",
-    "Priestia",
-    "Priestia",
-    "Priestia",
-    "Priestia",
-    "Bacillus",
-    "Priestia"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacillati": 1
+    },
+    "Class": {
+      "Bacillota": 1
+    },
+    "Order": {
+      "Bacilli": 1
+    },
+    "Family": {
+      "Bacillales": 1
+    },
+    "Genus": {
+      "Bacillaceae": 1
+    },
+    "Species": {
+      "environmental samples": 1
+    }
+  }
 }

@@ -1,42 +1,63 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Thermoleophilia",
+      "Family": "Solirubrobacterales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Solirubrobacterales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Thermoleophilia",
+      "Family": "Solirubrobacterales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Solirubrobacterales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Thermoleophilia",
+      "Family": "Solirubrobacterales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Solirubrobacterales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Thermoleophilia",
+      "Family": "Solirubrobacterales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Solirubrobacterales bacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota"
-  ],
-  "Order": [
-    "Thermoleophilia",
-    "Thermoleophilia",
-    "unclassified Actinomycetota",
-    "Thermoleophilia"
-  ],
-  "Family": [
-    "Solirubrobacterales",
-    "Solirubrobacterales",
-    "Actinomycetota bacterium",
-    "Solirubrobacterales"
-  ],
-  "Genus": [
-    "unclassified Solirubrobacterales",
-    "unclassified Solirubrobacterales",
-    "unclassified Solirubrobacterales"
-  ],
-  "Species": [
-    "Solirubrobacterales bacterium",
-    "Solirubrobacterales bacterium",
-    "Solirubrobacterales bacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Bacillati": 4
+    },
+    "Class": {
+      "Actinomycetota": 4
+    },
+    "Order": {
+      "Thermoleophilia": 4
+    },
+    "Family": {
+      "Solirubrobacterales": 4
+    },
+    "Genus": {
+      "environmental samples": 4
+    },
+    "Species": {
+      "uncultured Solirubrobacterales bacterium": 4
+    }
+  }
 }

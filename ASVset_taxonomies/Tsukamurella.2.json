@@ -1,0 +1,150 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Gordoniaceae",
+      "Species": "Gordonia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Dermatophilaceae",
+      "Species": "unclassified Dermatophilaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Gordoniaceae",
+      "Species": "Gordonia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Gordoniaceae",
+      "Species": "Gordonia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Gordoniaceae",
+      "Species": "Gordonia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Gordoniaceae",
+      "Species": "Gordonia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Gordoniaceae",
+      "Species": "Gordonia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Gordoniaceae",
+      "Species": "Gordonia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Gordoniaceae",
+      "Species": "Gordonia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Gordoniaceae",
+      "Species": "Gordonia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycobacteroides"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Gordoniaceae",
+      "Species": "Gordonia"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 13
+    },
+    "Phylum": {
+      "Bacillati": 13
+    },
+    "Class": {
+      "Actinomycetota": 13
+    },
+    "Order": {
+      "Actinomycetes": 13
+    },
+    "Family": {
+      "Mycobacteriales": 12,
+      "Micrococcales": 1
+    },
+    "Genus": {
+      "Gordoniaceae": 10,
+      "Dermatophilaceae": 1,
+      "Mycobacteriaceae": 2
+    },
+    "Species": {
+      "Gordonia": 10,
+      "unclassified Dermatophilaceae": 1,
+      "Mycobacterium": 1,
+      "Mycobacteroides": 1
+    }
+  }
+}

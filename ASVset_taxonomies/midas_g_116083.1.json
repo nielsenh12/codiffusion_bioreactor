@@ -1,0 +1,129 @@
+{
+  "members": [
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Stenosarchaea group",
+      "Family": "Methanomicrobia",
+      "Genus": "Methanomicrobiales",
+      "Species": "Methanoregulaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "unclassified Actinomycetota",
+      "Family": "Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "unclassified Actinomycetes",
+      "Genus": "Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "unclassified Actinomycetota",
+      "Family": "Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "environmental samples",
+      "Class": "uncultured bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Candidatus Humimicrobiia",
+      "Family": "Candidatus Humimicrobiales",
+      "Genus": "Candidatus Humimicrobiaceae",
+      "Species": "unclassified Candidatus Humimicrobiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "unclassified Actinomycetota",
+      "Family": "Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "unclassified Actinomycetes",
+      "Genus": "Actinomycetes bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Archaea": 1,
+      "Bacteria": 10
+    },
+    "Phylum": {
+      "Methanobacteriati": 1,
+      "Bacillati": 9,
+      "environmental samples": 1
+    },
+    "Class": {
+      "Methanobacteriota": 1,
+      "Actinomycetota": 8,
+      "uncultured bacterium": 1,
+      "Chloroflexota": 1
+    },
+    "Order": {
+      "Stenosarchaea group": 1,
+      "unclassified Actinomycetota": 3,
+      "environmental samples": 2,
+      "Actinomycetes": 2,
+      "Candidatus Humimicrobiia": 1,
+      "Chloroflexia": 1
+    },
+    "Family": {
+      "Methanomicrobia": 1,
+      "Actinomycetota bacterium": 3,
+      "uncultured Actinomycetota bacterium": 2,
+      "unclassified Actinomycetes": 2,
+      "Candidatus Humimicrobiales": 1,
+      "environmental samples": 1
+    },
+    "Genus": {
+      "Methanomicrobiales": 1,
+      "Actinomycetes bacterium": 2,
+      "Candidatus Humimicrobiaceae": 1,
+      "uncultured Chloroflexia bacterium": 1
+    },
+    "Species": {
+      "Methanoregulaceae": 1,
+      "unclassified Candidatus Humimicrobiaceae": 1
+    }
+  }
+}

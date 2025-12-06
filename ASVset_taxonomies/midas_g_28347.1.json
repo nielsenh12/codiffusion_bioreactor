@@ -1,0 +1,30 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacillati": 1
+    },
+    "Class": {
+      "Armatimonadota": 1
+    },
+    "Order": {
+      "unclassified Armatimonadota": 1
+    },
+    "Family": {
+      "Armatimonadota bacterium": 1
+    },
+    "Genus": {},
+    "Species": {}
+  }
+}

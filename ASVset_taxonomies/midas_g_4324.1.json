@@ -1,0 +1,49 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Aminicenantota",
+      "Family": "unclassified Candidatus Aminicenantes",
+      "Genus": "Candidatus Aminicenantota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Aminicenantota",
+      "Family": "unclassified Candidatus Aminicenantes",
+      "Genus": "Candidatus Aminicenantota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Aminicenantota",
+      "Family": "unclassified Candidatus Aminicenantes",
+      "Genus": "Candidatus Aminicenantota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Bacteria incertae sedis": 3
+    },
+    "Class": {
+      "Bacteria candidate phyla": 3
+    },
+    "Order": {
+      "Candidatus Aminicenantota": 3
+    },
+    "Family": {
+      "unclassified Candidatus Aminicenantes": 3
+    },
+    "Genus": {
+      "Candidatus Aminicenantota bacterium": 3
+    },
+    "Species": {}
+  }
+}

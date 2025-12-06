@@ -1,0 +1,50 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "Terriglobia",
+      "Family": "Bryobacterales",
+      "Genus": "Bryobacteraceae",
+      "Species": "unclassified Bryobacteraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Nitrobacteraceae",
+      "Species": "Bradyrhizobium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Acidobacteriota": 1,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Terriglobia": 1,
+      "Alphaproteobacteria": 1
+    },
+    "Family": {
+      "Bryobacterales": 1,
+      "Hyphomicrobiales": 1
+    },
+    "Genus": {
+      "Bryobacteraceae": 1,
+      "Nitrobacteraceae": 1
+    },
+    "Species": {
+      "unclassified Bryobacteraceae": 1,
+      "Bradyrhizobium": 1
+    }
+  }
+}

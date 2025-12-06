@@ -1,0 +1,190 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Koleobacterales",
+      "Genus": "Koleobacteraceae",
+      "Species": "Koleobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Neomoorellaceae",
+      "Species": "Neomoorella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Neomoorellaceae",
+      "Species": "Neomoorella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Neomoorellaceae",
+      "Species": "Neomoorella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Koleobacterales",
+      "Genus": "Koleobacteraceae",
+      "Species": "Koleobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Synergistaceae",
+      "Species": "unclassified Synergistaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Halanaerobiales",
+      "Genus": "Halanaerobiaceae",
+      "Species": "Halanaerobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Bacillales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Koleobacterales",
+      "Genus": "Koleobacteraceae",
+      "Species": "Koleobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Neomoorellaceae",
+      "Species": "Neomoorella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Koleobacterales",
+      "Genus": "Koleobacteraceae",
+      "Species": "Koleobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 16
+    },
+    "Phylum": {
+      "Bacillati": 14,
+      "Thermotogati": 1,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Bacillota": 13,
+      "Chloroflexota": 1,
+      "Synergistota": 1,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Clostridia": 9,
+      "unclassified Chloroflexota": 1,
+      "Synergistia": 1,
+      "unclassified Bacillota": 3,
+      "Bacilli": 1,
+      "Gammaproteobacteria": 1
+    },
+    "Family": {
+      "Koleobacterales": 4,
+      "Neomoorellales": 4,
+      "Chloroflexota bacterium": 1,
+      "Synergistales": 1,
+      "Bacillota bacterium": 3,
+      "Halanaerobiales": 1,
+      "Bacillales": 1,
+      "Enterobacterales": 1
+    },
+    "Genus": {
+      "Koleobacteraceae": 4,
+      "Neomoorellaceae": 4,
+      "Synergistaceae": 1,
+      "Halanaerobiaceae": 1,
+      "environmental samples": 1,
+      "Enterobacteriaceae": 1
+    },
+    "Species": {
+      "Koleobacter": 4,
+      "Neomoorella": 4,
+      "unclassified Synergistaceae": 1,
+      "Halanaerobium": 1,
+      "uncultured Bacillales bacterium": 1,
+      "Cronobacter": 1
+    }
+  }
+}

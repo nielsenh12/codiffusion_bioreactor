@@ -1,0 +1,64 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "unclassified Anaerolineaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "Candidatus Brevifilum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "unclassified Anaerolineaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "Candidatus Brevifilum"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Bacillati": 4
+    },
+    "Class": {
+      "Chloroflexota": 4
+    },
+    "Order": {
+      "Anaerolineae": 4
+    },
+    "Family": {
+      "Anaerolineales": 4
+    },
+    "Genus": {
+      "Anaerolineaceae": 4
+    },
+    "Species": {
+      "unclassified Anaerolineaceae": 2,
+      "Candidatus Brevifilum": 2
+    }
+  }
+}

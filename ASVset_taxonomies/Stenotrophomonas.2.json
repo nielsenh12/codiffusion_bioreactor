@@ -1,37 +1,60 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Lysobacterales",
+      "Genus": "Lysobacteraceae",
+      "Species": "Stenotrophomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Kitasatosporales",
+      "Genus": "Streptomycetaceae",
+      "Species": "Streptomyces"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Kitasatosporales",
+      "Genus": "Streptomycetaceae",
+      "Species": "Streptomyces"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "Actinomycetota",
-    "Actinomycetota"
-  ],
-  "Order": [
-    "Gammaproteobacteria",
-    "Actinomycetes",
-    "Actinomycetes"
-  ],
-  "Family": [
-    "Lysobacterales",
-    "Kitasatosporales",
-    "Kitasatosporales"
-  ],
-  "Genus": [
-    "Lysobacteraceae",
-    "Streptomycetaceae",
-    "Streptomycetaceae"
-  ],
-  "Species": [
-    "Stenotrophomonas",
-    "Streptomyces",
-    "Streptomyces"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Pseudomonadati": 1,
+      "Bacillati": 2
+    },
+    "Class": {
+      "Pseudomonadota": 1,
+      "Actinomycetota": 2
+    },
+    "Order": {
+      "Gammaproteobacteria": 1,
+      "Actinomycetes": 2
+    },
+    "Family": {
+      "Lysobacterales": 1,
+      "Kitasatosporales": 2
+    },
+    "Genus": {
+      "Lysobacteraceae": 1,
+      "Streptomycetaceae": 2
+    },
+    "Species": {
+      "Stenotrophomonas": 1,
+      "Streptomyces": 2
+    }
+  }
 }

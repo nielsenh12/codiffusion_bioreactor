@@ -1,0 +1,78 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Firmicutes bacterium UBA994"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Dehalococcoidia",
+      "Family": "unclassified Dehalococcoidia",
+      "Genus": "Dehalococcoidia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Candidatus Darwinibacteriales",
+      "Genus": "Candidatus Darwinibacteriaceae",
+      "Species": "Candidatus Darwinibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfitobacteriaceae",
+      "Species": "Desulfosporosinus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfitobacteriaceae",
+      "Species": "Desulfosporosinus"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Bacillati": 5
+    },
+    "Class": {
+      "Bacillota": 4,
+      "Chloroflexota": 1
+    },
+    "Order": {
+      "unclassified Bacillota": 1,
+      "Dehalococcoidia": 1,
+      "Clostridia": 3
+    },
+    "Family": {
+      "Firmicutes bacterium UBA994": 1,
+      "unclassified Dehalococcoidia": 1,
+      "Candidatus Darwinibacteriales": 1,
+      "Eubacteriales": 2
+    },
+    "Genus": {
+      "Dehalococcoidia bacterium": 1,
+      "Candidatus Darwinibacteriaceae": 1,
+      "Desulfitobacteriaceae": 2
+    },
+    "Species": {
+      "Candidatus Darwinibacter": 1,
+      "Desulfosporosinus": 2
+    }
+  }
+}

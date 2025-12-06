@@ -1,0 +1,161 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "Kolteriales",
+      "Species": "Kolteriaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "Planctomycetales",
+      "Species": "Planctomycetaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "Pirellulales",
+      "Species": "unclassified Pirellulales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "Planctomycetales",
+      "Species": "Planctomycetaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "Pirellulales",
+      "Species": "Lacipirellulaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "Pirellulales",
+      "Species": "unclassified Pirellulales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "environmental samples",
+      "Species": "uncultured Planctomycetia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "Planctomycetales",
+      "Species": "Planctomycetaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "unclassified Planctomycetota",
+      "Genus": "Planctomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "unclassified Planctomycetota",
+      "Genus": "Planctomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "environmental samples",
+      "Genus": "uncultured Planctomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "environmental samples",
+      "Species": "uncultured Planctomycetia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "Pirellulales",
+      "Species": "Lacipirellulaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "environmental samples",
+      "Species": "uncultured Planctomycetia bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 14
+    },
+    "Phylum": {
+      "Pseudomonadati": 14
+    },
+    "Class": {
+      "PVC group": 14
+    },
+    "Order": {
+      "Planctomycetota": 14
+    },
+    "Family": {
+      "Planctomycetia": 11,
+      "unclassified Planctomycetota": 2,
+      "environmental samples": 1
+    },
+    "Genus": {
+      "Kolteriales": 1,
+      "Planctomycetales": 3,
+      "Pirellulales": 4,
+      "environmental samples": 3,
+      "Planctomycetota bacterium": 2,
+      "uncultured Planctomycetota bacterium": 1
+    },
+    "Species": {
+      "Kolteriaceae": 1,
+      "Planctomycetaceae": 3,
+      "unclassified Pirellulales": 2,
+      "Lacipirellulaceae": 2,
+      "uncultured Planctomycetia bacterium": 3
+    }
+  }
+}

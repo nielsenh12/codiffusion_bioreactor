@@ -1,0 +1,56 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Burkholderiales genera incertae sedis",
+      "Species": "Aquabacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Sphaerotilaceae",
+      "Species": "Azohydromonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Sphaerotilaceae",
+      "Species": "Azohydromonas"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "Pseudomonadota": 3
+    },
+    "Order": {
+      "Betaproteobacteria": 3
+    },
+    "Family": {
+      "Burkholderiales": 3
+    },
+    "Genus": {
+      "Burkholderiales genera incertae sedis": 1,
+      "Sphaerotilaceae": 2
+    },
+    "Species": {
+      "Aquabacterium": 1,
+      "Azohydromonas": 2
+    }
+  }
+}

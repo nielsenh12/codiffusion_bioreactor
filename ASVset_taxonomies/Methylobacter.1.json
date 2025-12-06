@@ -1,0 +1,85 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Methylococcales",
+      "Genus": "Methylococcaceae",
+      "Species": "Methylobacter"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "environmental samples",
+      "Class": "uncultured archaeon"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Methylococcales",
+      "Genus": "Methylococcaceae",
+      "Species": "Methylobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Methylococcales",
+      "Genus": "Methylococcaceae",
+      "Species": "Methylobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Methylococcales",
+      "Genus": "Methylococcaceae",
+      "Species": "Methylobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Methylococcales",
+      "Genus": "Methylococcaceae",
+      "Species": "Methylobacter"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "environmental samples",
+      "Class": "uncultured archaeon"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5,
+      "Archaea": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 5,
+      "environmental samples": 2
+    },
+    "Class": {
+      "Pseudomonadota": 5,
+      "uncultured archaeon": 2
+    },
+    "Order": {
+      "Gammaproteobacteria": 5
+    },
+    "Family": {
+      "Methylococcales": 5
+    },
+    "Genus": {
+      "Methylococcaceae": 5
+    },
+    "Species": {
+      "Methylobacter": 5
+    }
+  }
+}

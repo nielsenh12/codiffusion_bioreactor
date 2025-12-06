@@ -1,0 +1,63 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Legionellales",
+      "Genus": "Legionellaceae",
+      "Species": "Legionella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Legionellales",
+      "Genus": "Legionellaceae",
+      "Species": "Legionella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Legionellales",
+      "Genus": "Legionellaceae",
+      "Species": "Legionella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Legionellales",
+      "Genus": "Legionellaceae",
+      "Species": "Legionella"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Pseudomonadati": 4
+    },
+    "Class": {
+      "Pseudomonadota": 4
+    },
+    "Order": {
+      "Gammaproteobacteria": 4
+    },
+    "Family": {
+      "Legionellales": 4
+    },
+    "Genus": {
+      "Legionellaceae": 4
+    },
+    "Species": {
+      "Legionella": 4
+    }
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Enterococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Enterococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Enterococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Enterococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Enterococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Enterococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Enterococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Enterococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Enterococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Enterococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Enterococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Enterococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Enterococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Enterococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Lysobacterales",
+      "Genus": "Lysobacteraceae",
+      "Species": "Stenotrophomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Enterococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Enterococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Enterococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Enterococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Enterococcus"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 20
+    },
+    "Phylum": {
+      "Bacillati": 19,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Bacillota": 19,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Bacilli": 19,
+      "Gammaproteobacteria": 1
+    },
+    "Family": {
+      "Lactobacillales": 19,
+      "Lysobacterales": 1
+    },
+    "Genus": {
+      "Enterococcaceae": 19,
+      "Lysobacteraceae": 1
+    },
+    "Species": {
+      "Enterococcus": 19,
+      "Stenotrophomonas": 1
+    }
+  }
+}

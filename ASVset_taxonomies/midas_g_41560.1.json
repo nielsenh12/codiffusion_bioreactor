@@ -1,55 +1,86 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Bdellovibrionota",
+      "Order": "Oligoflexia",
+      "Family": "unclassified Oligoflexia",
+      "Genus": "Oligoflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Bdellovibrionota",
+      "Order": "Oligoflexia",
+      "Family": "Oligoflexales",
+      "Genus": "unclassified Oligoflexales",
+      "Species": "Oligoflexales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Bdellovibrionota",
+      "Order": "Oligoflexia",
+      "Family": "Oligoflexales",
+      "Genus": "Pseudobacteriovoracaceae",
+      "Species": "Pseudobacteriovorax"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Bdellovibrionota",
+      "Order": "Oligoflexia",
+      "Family": "Oligoflexales",
+      "Genus": "unclassified Oligoflexales",
+      "Species": "Oligoflexales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Bdellovibrionota",
+      "Order": "Oligoflexia",
+      "Family": "Oligoflexales",
+      "Genus": "unclassified Oligoflexales",
+      "Species": "Oligoflexales bacterium"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "delta/epsilon subdivisions",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Bdellovibrionota",
-    "Bdellovibrionota",
-    "Deltaproteobacteria",
-    "Bdellovibrionota",
-    "Bdellovibrionota",
-    "Bdellovibrionota"
-  ],
-  "Order": [
-    "Oligoflexia",
-    "Oligoflexia",
-    "environmental samples",
-    "Oligoflexia",
-    "Oligoflexia",
-    "Oligoflexia"
-  ],
-  "Family": [
-    "unclassified Oligoflexia",
-    "Oligoflexales",
-    "uncultured delta proteobacterium",
-    "Oligoflexales",
-    "Oligoflexales",
-    "Oligoflexales"
-  ],
-  "Genus": [
-    "Oligoflexia bacterium",
-    "unclassified Oligoflexales",
-    "Pseudobacteriovoracaceae",
-    "unclassified Oligoflexales",
-    "unclassified Oligoflexales"
-  ],
-  "Species": [
-    "Oligoflexales bacterium",
-    "Pseudobacteriovorax",
-    "Oligoflexales bacterium",
-    "Oligoflexales bacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Pseudomonadati": 5,
+      "delta/epsilon subdivisions": 1
+    },
+    "Class": {
+      "Bdellovibrionota": 5,
+      "Deltaproteobacteria": 1
+    },
+    "Order": {
+      "Oligoflexia": 5,
+      "environmental samples": 1
+    },
+    "Family": {
+      "unclassified Oligoflexia": 1,
+      "Oligoflexales": 4,
+      "uncultured delta proteobacterium": 1
+    },
+    "Genus": {
+      "Oligoflexia bacterium": 1,
+      "unclassified Oligoflexales": 3,
+      "Pseudobacteriovoracaceae": 1
+    },
+    "Species": {
+      "Oligoflexales bacterium": 3,
+      "Pseudobacteriovorax": 1
+    }
+  }
 }

@@ -1,0 +1,126 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Legionellales",
+      "Genus": "Legionellaceae",
+      "Species": "Legionella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Legionellales",
+      "Genus": "Legionellaceae",
+      "Species": "Legionella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Cyanobacteriota",
+      "Family": "Cyanophyceae",
+      "Genus": "Nostocales",
+      "Species": "Aphanizomenonaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 11
+    },
+    "Phylum": {
+      "Pseudomonadati": 10,
+      "Bacillati": 1
+    },
+    "Class": {
+      "Pseudomonadota": 10,
+      "Cyanobacteriota/Melainabacteria group": 1
+    },
+    "Order": {
+      "Gammaproteobacteria": 10,
+      "Cyanobacteriota": 1
+    },
+    "Family": {
+      "environmental samples": 8,
+      "Legionellales": 2,
+      "Cyanophyceae": 1
+    },
+    "Genus": {
+      "uncultured Gammaproteobacteria bacterium": 8,
+      "Legionellaceae": 2,
+      "Nostocales": 1
+    },
+    "Species": {
+      "Legionella": 2,
+      "Aphanizomenonaceae": 1
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Dehalococcoidia",
+      "Family": "unclassified Dehalococcoidia",
+      "Genus": "Dehalococcoidia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Tepidiformia",
+      "Family": "unclassified Tepidiformia",
+      "Genus": "Chloroflexi bacterium OLB14"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Dehalococcoidia",
+      "Family": "unclassified Dehalococcoidia",
+      "Genus": "Dehalococcoidia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Dehalococcoidia",
+      "Family": "unclassified Dehalococcoidia",
+      "Genus": "Dehalococcoidia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Dehalococcoidia",
+      "Family": "unclassified Dehalococcoidia",
+      "Genus": "Dehalococcoidia bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Bacillati": 5
+    },
+    "Class": {
+      "Chloroflexota": 5
+    },
+    "Order": {
+      "Dehalococcoidia": 4,
+      "Tepidiformia": 1
+    },
+    "Family": {
+      "unclassified Dehalococcoidia": 4,
+      "unclassified Tepidiformia": 1
+    },
+    "Genus": {
+      "Dehalococcoidia bacterium": 4,
+      "Chloroflexi bacterium OLB14": 1
+    },
+    "Species": {}
+  }
+}

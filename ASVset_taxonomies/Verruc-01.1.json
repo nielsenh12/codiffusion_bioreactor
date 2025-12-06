@@ -1,126 +1,182 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "Verrucomicrobiia",
+      "Genus": "unclassified Verrucomicrobiia",
+      "Species": "Verrucomicrobiia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "unclassified Verrucomicrobiota",
+      "Genus": "Verrucomicrobia bacterium CG1_02_43_26"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "Opitutia",
+      "Genus": "Puniceicoccales",
+      "Species": "Cerasicoccaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "unclassified Verrucomicrobiota",
+      "Genus": "Verrucomicrobiota bacterium JB024"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "Opitutia",
+      "Genus": "Puniceicoccales",
+      "Species": "Coraliomargaritaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "Opitutia",
+      "Genus": "Puniceicoccales",
+      "Species": "Coraliomargaritaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "Opitutia",
+      "Genus": "Opitutales",
+      "Species": "Opitutaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "Opitutia",
+      "Genus": "Opitutales",
+      "Species": "unclassified Opitutales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "Opitutia",
+      "Genus": "Puniceicoccales",
+      "Species": "Coraliomargaritaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "Opitutia",
+      "Genus": "environmental samples",
+      "Species": "uncultured Opitutia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "Opitutia",
+      "Genus": "Opitutales",
+      "Species": "Opitutaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "Opitutia",
+      "Genus": "Puniceicoccales",
+      "Species": "Cerasicoccaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "Opitutia",
+      "Genus": "Puniceicoccales",
+      "Species": "Cerasicoccaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "Opitutia",
+      "Genus": "environmental samples",
+      "Species": "uncultured Opitutia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "Opitutia",
+      "Genus": "Puniceicoccales",
+      "Species": "Puniceicoccaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "Opitutia",
+      "Genus": "Opitutales",
+      "Species": "unclassified Opitutales"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "PVC group",
-    "PVC group",
-    "PVC group",
-    "PVC group",
-    "PVC group",
-    "PVC group",
-    "PVC group",
-    "PVC group",
-    "PVC group",
-    "PVC group",
-    "PVC group",
-    "PVC group",
-    "PVC group",
-    "PVC group",
-    "PVC group",
-    "PVC group"
-  ],
-  "Order": [
-    "Verrucomicrobiota",
-    "Verrucomicrobiota",
-    "Verrucomicrobiota",
-    "Verrucomicrobiota",
-    "Verrucomicrobiota",
-    "Verrucomicrobiota",
-    "Verrucomicrobiota",
-    "Verrucomicrobiota",
-    "Verrucomicrobiota",
-    "Verrucomicrobiota",
-    "Verrucomicrobiota",
-    "Verrucomicrobiota",
-    "Verrucomicrobiota",
-    "Verrucomicrobiota",
-    "Verrucomicrobiota",
-    "Verrucomicrobiota"
-  ],
-  "Family": [
-    "Verrucomicrobiia",
-    "unclassified Verrucomicrobiota",
-    "Opitutia",
-    "unclassified Verrucomicrobiota",
-    "Opitutia",
-    "Opitutia",
-    "Opitutia",
-    "Opitutia",
-    "Opitutia",
-    "Opitutia",
-    "Opitutia",
-    "Opitutia",
-    "Opitutia",
-    "Opitutia",
-    "Opitutia",
-    "Opitutia"
-  ],
-  "Genus": [
-    "unclassified Verrucomicrobiia",
-    "Verrucomicrobia bacterium CG1_02_43_26",
-    "Puniceicoccales",
-    "Verrucomicrobiota bacterium JB024",
-    "Puniceicoccales",
-    "Puniceicoccales",
-    "Opitutales",
-    "Opitutales",
-    "Puniceicoccales",
-    "environmental samples",
-    "Opitutales",
-    "Puniceicoccales",
-    "Puniceicoccales",
-    "environmental samples",
-    "Puniceicoccales",
-    "Opitutales"
-  ],
-  "Species": [
-    "Verrucomicrobiia bacterium",
-    "Cerasicoccaceae",
-    "Coraliomargaritaceae",
-    "Coraliomargaritaceae",
-    "Opitutaceae",
-    "unclassified Opitutales",
-    "Coraliomargaritaceae",
-    "uncultured Opitutia bacterium",
-    "Opitutaceae",
-    "Cerasicoccaceae",
-    "Cerasicoccaceae",
-    "uncultured Opitutia bacterium",
-    "Puniceicoccaceae",
-    "unclassified Opitutales"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 16
+    },
+    "Phylum": {
+      "Pseudomonadati": 16
+    },
+    "Class": {
+      "PVC group": 16
+    },
+    "Order": {
+      "Verrucomicrobiota": 16
+    },
+    "Family": {
+      "Verrucomicrobiia": 1,
+      "unclassified Verrucomicrobiota": 2,
+      "Opitutia": 13
+    },
+    "Genus": {
+      "unclassified Verrucomicrobiia": 1,
+      "Verrucomicrobia bacterium CG1_02_43_26": 1,
+      "Puniceicoccales": 7,
+      "Verrucomicrobiota bacterium JB024": 1,
+      "Opitutales": 4,
+      "environmental samples": 2
+    },
+    "Species": {
+      "Verrucomicrobiia bacterium": 1,
+      "Cerasicoccaceae": 3,
+      "Coraliomargaritaceae": 3,
+      "Opitutaceae": 2,
+      "unclassified Opitutales": 2,
+      "uncultured Opitutia bacterium": 2,
+      "Puniceicoccaceae": 1
+    }
+  }
 }

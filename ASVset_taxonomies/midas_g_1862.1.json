@@ -1,0 +1,82 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Dehalococcoidia",
+      "Family": "unclassified Dehalococcoidia",
+      "Genus": "Dehalococcoidia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Dehalococcoidia",
+      "Family": "unclassified Dehalococcoidia",
+      "Genus": "Dehalococcoidia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Chromatiales",
+      "Genus": "Sedimenticolaceae",
+      "Species": "Sedimenticola"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "unclassified Pseudomonadota",
+      "Family": "Pseudomonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Bacillati": 4,
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Chloroflexota": 4,
+      "Pseudomonadota": 2
+    },
+    "Order": {
+      "Dehalococcoidia": 2,
+      "Gammaproteobacteria": 1,
+      "unclassified Pseudomonadota": 1,
+      "unclassified Chloroflexota": 2
+    },
+    "Family": {
+      "unclassified Dehalococcoidia": 2,
+      "Chromatiales": 1,
+      "Pseudomonadota bacterium": 1,
+      "Chloroflexota bacterium": 2
+    },
+    "Genus": {
+      "Dehalococcoidia bacterium": 2,
+      "Sedimenticolaceae": 1
+    },
+    "Species": {
+      "Sedimenticola": 1
+    }
+  }
+}

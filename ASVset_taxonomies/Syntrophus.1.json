@@ -1,20 +1,33 @@
 {
-  "Kingdom": [
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Candidatus Omnitrophota",
+      "Family": "unclassified Candidatus Omnitrophota",
+      "Genus": "Candidatus Omnitrophota bacterium"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "PVC group"
-  ],
-  "Order": [
-    "Candidatus Omnitrophota"
-  ],
-  "Family": [
-    "unclassified Candidatus Omnitrophota"
-  ],
-  "Genus": [
-    "Candidatus Omnitrophota bacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "PVC group": 1
+    },
+    "Order": {
+      "Candidatus Omnitrophota": 1
+    },
+    "Family": {
+      "unclassified Candidatus Omnitrophota": 1
+    },
+    "Genus": {
+      "Candidatus Omnitrophota bacterium": 1
+    },
+    "Species": {}
+  }
 }

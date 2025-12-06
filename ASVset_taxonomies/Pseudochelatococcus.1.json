@@ -1,23 +1,36 @@
 {
-  "Kingdom": [
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Chelatococcaceae",
+      "Species": "Pseudochelatococcus"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "Alphaproteobacteria"
-  ],
-  "Family": [
-    "Hyphomicrobiales"
-  ],
-  "Genus": [
-    "Chelatococcaceae"
-  ],
-  "Species": [
-    "Pseudochelatococcus"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Alphaproteobacteria": 1
+    },
+    "Family": {
+      "Hyphomicrobiales": 1
+    },
+    "Genus": {
+      "Chelatococcaceae": 1
+    },
+    "Species": {
+      "Pseudochelatococcus": 1
+    }
+  }
 }

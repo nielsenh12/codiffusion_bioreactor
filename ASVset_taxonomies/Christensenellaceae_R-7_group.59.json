@@ -1,23 +1,288 @@
 {
-  "Kingdom": [
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Candidatus Melainabacteria",
+      "Family": "Candidatus Gastranaerophilales",
+      "Genus": "Candidatus Gastranaerophilaceae",
+      "Species": "unclassified Candidatus Gastranaerophilaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Eubacteriales bacterium OttesenSCG-928-K08"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Candidatus Melainabacteria",
+      "Family": "Candidatus Gastranaerophilales",
+      "Genus": "Candidatus Gastranaerophilaceae",
+      "Species": "unclassified Candidatus Gastranaerophilaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Eubacteriales bacterium OttesenSCG-928-K08"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Candidatus Melainabacteria",
+      "Family": "Candidatus Gastranaerophilales",
+      "Genus": "Candidatus Gastranaerophilaceae",
+      "Species": "unclassified Candidatus Gastranaerophilaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Eubacteriales bacterium OttesenSCG-928-K08"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Clostridia bacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati"
-  ],
-  "Class": [
-    "Bacillota"
-  ],
-  "Order": [
-    "Clostridia"
-  ],
-  "Family": [
-    "Christensenellales"
-  ],
-  "Genus": [
-    "Christensenellaceae"
-  ],
-  "Species": [
-    "unclassified Christensenellaceae"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 28
+    },
+    "Phylum": {
+      "Bacillati": 28
+    },
+    "Class": {
+      "Bacillota": 25,
+      "Cyanobacteriota/Melainabacteria group": 3
+    },
+    "Order": {
+      "Clostridia": 25,
+      "Candidatus Melainabacteria": 3
+    },
+    "Family": {
+      "Christensenellales": 21,
+      "Candidatus Gastranaerophilales": 3,
+      "Eubacteriales": 3,
+      "environmental samples": 1
+    },
+    "Genus": {
+      "Christensenellaceae": 21,
+      "Candidatus Gastranaerophilaceae": 3,
+      "unclassified Eubacteriales": 3,
+      "uncultured Clostridia bacterium": 1
+    },
+    "Species": {
+      "unclassified Christensenellaceae": 21,
+      "unclassified Candidatus Gastranaerophilaceae": 3,
+      "Eubacteriales bacterium OttesenSCG-928-K08": 3
+    }
+  }
 }

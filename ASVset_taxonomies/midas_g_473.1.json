@@ -1,0 +1,82 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Thermoleophilia",
+      "Family": "Miltoncostaeales",
+      "Genus": "Miltoncostaeaceae",
+      "Species": "unclassified Miltoncostaeaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Thermoleophilia",
+      "Family": "Miltoncostaeales",
+      "Genus": "Miltoncostaeaceae",
+      "Species": "unclassified Miltoncostaeaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Thermoleophilia",
+      "Family": "unclassified Thermoleophilia",
+      "Genus": "Thermoleophilia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Thermoleophilia",
+      "Family": "Miltoncostaeales",
+      "Genus": "Miltoncostaeaceae",
+      "Species": "unclassified Miltoncostaeaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Thermoleophilia",
+      "Family": "Miltoncostaeales",
+      "Genus": "Miltoncostaeaceae",
+      "Species": "unclassified Miltoncostaeaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Thermoleophilia",
+      "Family": "Miltoncostaeales",
+      "Genus": "Miltoncostaeaceae",
+      "Species": "unclassified Miltoncostaeaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Bacillati": 6
+    },
+    "Class": {
+      "Actinomycetota": 6
+    },
+    "Order": {
+      "Thermoleophilia": 6
+    },
+    "Family": {
+      "Miltoncostaeales": 5,
+      "unclassified Thermoleophilia": 1
+    },
+    "Genus": {
+      "Miltoncostaeaceae": 5,
+      "Thermoleophilia bacterium": 1
+    },
+    "Species": {
+      "unclassified Miltoncostaeaceae": 5
+    }
+  }
+}

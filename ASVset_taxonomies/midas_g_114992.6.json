@@ -1,0 +1,594 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Dethiobacteria",
+      "Family": "Dethiobacterales",
+      "Genus": "Dethiobacteraceae",
+      "Species": "Candidatus Contubernalis"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "unclassified Christensenellales",
+      "Species": "Christensenellales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Neomoorellaceae",
+      "Species": "Neomoorella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Neomoorellaceae",
+      "Species": "Neomoorella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Natranaerobiales",
+      "Genus": "Natranaerobiaceae",
+      "Species": "Natranaerobius"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Neomoorellaceae",
+      "Species": "Neomoorella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Neomoorellaceae",
+      "Species": "Neomoorella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "unclassified Oscillospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Neomoorellaceae",
+      "Species": "Neomoorella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Gracilibacteraceae",
+      "Species": "Gracilibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Negativicutes",
+      "Family": "Acidaminococcales",
+      "Genus": "Acidaminococcaceae",
+      "Species": "Phascolarctobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lutisporales",
+      "Genus": "Lutisporaceae",
+      "Species": "Lutispora"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "unclassified Christensenellales",
+      "Species": "Christensenellales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "unclassified Oscillospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Neomoorellaceae",
+      "Species": "Neomoorella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Natranaerobiales",
+      "Genus": "Natranaerobiaceae",
+      "Species": "Natranaerobius"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Dethiobacteria",
+      "Family": "Dethiobacterales",
+      "Genus": "Dethiobacteraceae",
+      "Species": "Dethiobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Neomoorellaceae",
+      "Species": "Neomoorella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "unclassified Christensenellales",
+      "Species": "Christensenellales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Natranaerobiales",
+      "Genus": "Natranaerobiaceae",
+      "Species": "Natranaerobius"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "unclassified Clostridiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Neomoorellaceae",
+      "Species": "Neomoorella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Gracilibacteraceae",
+      "Species": "Gracilibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfallaceae",
+      "Species": "Desulfallas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Neomoorellaceae",
+      "Species": "Neomoorella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Neomoorellaceae",
+      "Species": "Neomoorella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Neomoorellaceae",
+      "Species": "Neomoorella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Neomoorellaceae",
+      "Species": "Neomoorella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Neomoorellaceae",
+      "Species": "Neomoorella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Dethiobacteria",
+      "Family": "Dethiobacterales",
+      "Genus": "Dethiobacteraceae",
+      "Species": "Dethiobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Neomoorellaceae",
+      "Species": "Neomoorella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "unclassified Oscillospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lutisporales",
+      "Genus": "Lutisporaceae",
+      "Species": "Lutispora"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Clostridiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "unclassified Oscillospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Clostridiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Dehalococcoidia",
+      "Family": "unclassified Dehalococcoidia",
+      "Genus": "Dehalococcoidia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "unclassified Christensenellales",
+      "Species": "Christensenellales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Dethiobacteria",
+      "Family": "Dethiobacterales",
+      "Genus": "Dethiobacteraceae",
+      "Species": "Dethiobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Neomoorellaceae",
+      "Species": "Neomoorella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Natranaerobiales",
+      "Genus": "Natranaerobiaceae",
+      "Species": "Natranaerobius"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Dehalococcoidia",
+      "Family": "unclassified Dehalococcoidia",
+      "Genus": "Dehalococcoidia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "unclassified Clostridiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Neomoorellaceae",
+      "Species": "Neomoorella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Dethiobacteria",
+      "Family": "Dethiobacterales",
+      "Genus": "Dethiobacteraceae",
+      "Species": "Candidatus Contubernalis"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "unclassified Christensenellales",
+      "Species": "Christensenellales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Natranaerobiales",
+      "Genus": "Natranaerobiaceae",
+      "Species": "Natranaerobius"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 60
+    },
+    "Phylum": {
+      "Bacillati": 58,
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Bacillota": 56,
+      "FCB group": 2,
+      "Chloroflexota": 2
+    },
+    "Order": {
+      "Dethiobacteria": 5,
+      "Clostridia": 43,
+      "Bacteroidota/Chlorobiota group": 2,
+      "unclassified Bacillota": 7,
+      "Negativicutes": 1,
+      "Dehalococcoidia": 2
+    },
+    "Family": {
+      "Dethiobacterales": 5,
+      "Christensenellales": 7,
+      "Neomoorellales": 16,
+      "Natranaerobiales": 5,
+      "Bacteroidota": 2,
+      "Bacillota bacterium": 7,
+      "Eubacteriales": 11,
+      "environmental samples": 2,
+      "Acidaminococcales": 1,
+      "Lutisporales": 2,
+      "unclassified Dehalococcoidia": 2
+    },
+    "Genus": {
+      "Dethiobacteraceae": 5,
+      "unclassified Christensenellales": 5,
+      "Neomoorellaceae": 16,
+      "Natranaerobiaceae": 5,
+      "Bacteroidia": 2,
+      "Oscillospiraceae": 4,
+      "Gracilibacteraceae": 2,
+      "uncultured Clostridia bacterium": 2,
+      "Acidaminococcaceae": 1,
+      "Lutisporaceae": 2,
+      "Christensenellaceae": 2,
+      "Clostridiaceae": 2,
+      "Desulfallaceae": 1,
+      "unclassified Eubacteriales": 2,
+      "Dehalococcoidia bacterium": 2
+    },
+    "Species": {
+      "Candidatus Contubernalis": 2,
+      "Christensenellales bacterium": 5,
+      "Neomoorella": 16,
+      "Natranaerobius": 5,
+      "Bacteroidales": 2,
+      "unclassified Oscillospiraceae": 4,
+      "Gracilibacter": 2,
+      "Phascolarctobacterium": 1,
+      "Lutispora": 2,
+      "unclassified Christensenellaceae": 2,
+      "Dethiobacter": 3,
+      "unclassified Clostridiaceae": 2,
+      "Desulfallas": 1,
+      "Clostridiales bacterium": 2
+    }
+  }
+}

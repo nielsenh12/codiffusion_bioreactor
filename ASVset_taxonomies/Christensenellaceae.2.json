@@ -1,0 +1,102 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Eubacteriales bacterium OttesenSCG-928-M02"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "unclassified Christensenellales",
+      "Species": "Christensenellales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "Christensenella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "Verrucomicrobiia",
+      "Genus": "Verrucomicrobiales",
+      "Species": "Akkermansiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "unclassified Christensenellales",
+      "Species": "Christensenellales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "unclassified Christensenellales",
+      "Species": "Christensenellales bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 7
+    },
+    "Phylum": {
+      "Bacillati": 6,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Bacillota": 6,
+      "PVC group": 1
+    },
+    "Order": {
+      "Clostridia": 6,
+      "Verrucomicrobiota": 1
+    },
+    "Family": {
+      "Eubacteriales": 1,
+      "Christensenellales": 5,
+      "Verrucomicrobiia": 1
+    },
+    "Genus": {
+      "unclassified Eubacteriales": 1,
+      "unclassified Christensenellales": 3,
+      "Christensenellaceae": 2,
+      "Verrucomicrobiales": 1
+    },
+    "Species": {
+      "Eubacteriales bacterium OttesenSCG-928-M02": 1,
+      "Christensenellales bacterium": 3,
+      "Christensenella": 1,
+      "unclassified Christensenellaceae": 1,
+      "Akkermansiaceae": 1
+    }
+  }
+}

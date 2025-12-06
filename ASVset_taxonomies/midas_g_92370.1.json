@@ -1,0 +1,224 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Beutenbergiaceae",
+      "Species": "unclassified Beutenbergiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "environmental samples",
+      "Family": "uncultured Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Streptosporangiales",
+      "Genus": "Nocardiopsidaceae",
+      "Species": "Thermobifida"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Limnochordia",
+      "Family": "Limnochordales",
+      "Genus": "Limnochordaceae",
+      "Species": "Limnochorda"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "environmental samples",
+      "Family": "uncultured Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Streptosporangiales",
+      "Genus": "Nocardiopsidaceae",
+      "Species": "Thermobifida"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Beutenbergiaceae",
+      "Species": "unclassified Beutenbergiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "unclassified Bacteroidota",
+      "Species": "Bacteroidota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Sporanaerobacteraceae",
+      "Species": "Anaerosalibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfitobacteriaceae",
+      "Species": "Desulfosporosinus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "unclassified Christensenellales",
+      "Species": "Christensenellales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Halanaerobiales",
+      "Genus": "Halothermotrichaceae",
+      "Species": "Halothermothrix"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Limnochordia",
+      "Family": "Limnochordales",
+      "Genus": "Limnochordaceae",
+      "Species": "Limnochorda"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfitobacteriaceae",
+      "Species": "Desulfosporosinus"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 19
+    },
+    "Phylum": {
+      "Bacillati": 17,
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Actinomycetota": 4,
+      "Bacillota": 13,
+      "FCB group": 2
+    },
+    "Order": {
+      "Actinomycetes": 4,
+      "environmental samples": 2,
+      "Clostridia": 6,
+      "Limnochordia": 2,
+      "Bacteroidota/Chlorobiota group": 2,
+      "Tissierellia": 1,
+      "unclassified Bacillota": 2
+    },
+    "Family": {
+      "Micrococcales": 2,
+      "uncultured Bacillota bacterium": 2,
+      "Streptosporangiales": 2,
+      "environmental samples": 2,
+      "Limnochordales": 2,
+      "Bacteroidota": 2,
+      "Tissierellales": 1,
+      "Bacillota bacterium": 2,
+      "Eubacteriales": 2,
+      "Christensenellales": 1,
+      "Halanaerobiales": 1
+    },
+    "Genus": {
+      "Beutenbergiaceae": 2,
+      "Nocardiopsidaceae": 2,
+      "uncultured Clostridia bacterium": 2,
+      "Limnochordaceae": 2,
+      "unclassified Bacteroidota": 1,
+      "Sporanaerobacteraceae": 1,
+      "Bacteroidia": 1,
+      "Desulfitobacteriaceae": 2,
+      "unclassified Christensenellales": 1,
+      "Halothermotrichaceae": 1
+    },
+    "Species": {
+      "unclassified Beutenbergiaceae": 2,
+      "Thermobifida": 2,
+      "Limnochorda": 2,
+      "Bacteroidota bacterium": 1,
+      "Anaerosalibacter": 1,
+      "Bacteroidales": 1,
+      "Desulfosporosinus": 2,
+      "Christensenellales bacterium": 1,
+      "Halothermothrix": 1
+    }
+  }
+}

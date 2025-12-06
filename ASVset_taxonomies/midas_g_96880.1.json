@@ -1,147 +1,225 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "unclassified Gammaproteobacteria",
+      "Genus": "Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Dehalococcoidia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Dehalococcoidia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "environmental samples",
+      "Family": "uncultured Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Vulcanimicrobiota",
+      "Order": "unclassified Vulcanimicrobiota",
+      "Family": "Vulcanimicrobiota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Dehalococcoidia",
+      "Family": "Dehalococcoidales",
+      "Genus": "unclassified Dehalococcoidales",
+      "Species": "Dehalococcoidales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Dehalococcoidia",
+      "Family": "unclassified Dehalococcoidia",
+      "Genus": "Dehalococcoidia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Vulcanimicrobiota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota"
-  ],
-  "Order": [
-    "Gammaproteobacteria",
-    "Gammaproteobacteria",
-    "Chloroflexia",
-    "Dehalococcoidia",
-    "unclassified Chloroflexota",
-    "Chloroflexia",
-    "Chloroflexia",
-    "unclassified Chloroflexota",
-    "unclassified Chloroflexota",
-    "Chloroflexia",
-    "environmental samples",
-    "unclassified Chloroflexota",
-    "Chloroflexia",
-    "unclassified Chloroflexota",
-    "Chloroflexia",
-    "unclassified Vulcanimicrobiota",
-    "Chloroflexia",
-    "Dehalococcoidia",
-    "Chloroflexia",
-    "Dehalococcoidia",
-    "Chloroflexia",
-    "unclassified Chloroflexota",
-    "unclassified Chloroflexota"
-  ],
-  "Family": [
-    "unclassified Gammaproteobacteria",
-    "Enterobacterales",
-    "environmental samples",
-    "environmental samples",
-    "Chloroflexota bacterium",
-    "environmental samples",
-    "environmental samples",
-    "Chloroflexota bacterium",
-    "Chloroflexota bacterium",
-    "environmental samples",
-    "uncultured Chloroflexota bacterium",
-    "Chloroflexota bacterium",
-    "environmental samples",
-    "Chloroflexota bacterium",
-    "environmental samples",
-    "Vulcanimicrobiota bacterium",
-    "environmental samples",
-    "Dehalococcoidales",
-    "environmental samples",
-    "unclassified Dehalococcoidia",
-    "environmental samples",
-    "Chloroflexota bacterium",
-    "Chloroflexota bacterium"
-  ],
-  "Genus": [
-    "Gammaproteobacteria bacterium",
-    "Enterobacteriaceae",
-    "uncultured Chloroflexia bacterium",
-    "uncultured Dehalococcoidia bacterium",
-    "uncultured Chloroflexia bacterium",
-    "uncultured Chloroflexia bacterium",
-    "uncultured Chloroflexia bacterium",
-    "uncultured Chloroflexia bacterium",
-    "uncultured Chloroflexia bacterium",
-    "uncultured Chloroflexia bacterium",
-    "unclassified Dehalococcoidales",
-    "uncultured Chloroflexia bacterium",
-    "Dehalococcoidia bacterium",
-    "uncultured Chloroflexia bacterium"
-  ],
-  "Species": [
-    "Cronobacter",
-    "Dehalococcoidales bacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 23
+    },
+    "Phylum": {
+      "Pseudomonadati": 2,
+      "Bacillati": 21
+    },
+    "Class": {
+      "Pseudomonadota": 2,
+      "Chloroflexota": 20,
+      "Vulcanimicrobiota": 1
+    },
+    "Order": {
+      "Gammaproteobacteria": 2,
+      "Chloroflexia": 9,
+      "Dehalococcoidia": 3,
+      "unclassified Chloroflexota": 7,
+      "environmental samples": 1,
+      "unclassified Vulcanimicrobiota": 1
+    },
+    "Family": {
+      "unclassified Gammaproteobacteria": 1,
+      "Enterobacterales": 1,
+      "environmental samples": 10,
+      "Chloroflexota bacterium": 7,
+      "uncultured Chloroflexota bacterium": 1,
+      "Vulcanimicrobiota bacterium": 1,
+      "Dehalococcoidales": 1,
+      "unclassified Dehalococcoidia": 1
+    },
+    "Genus": {
+      "Gammaproteobacteria bacterium": 1,
+      "Enterobacteriaceae": 1,
+      "uncultured Chloroflexia bacterium": 9,
+      "uncultured Dehalococcoidia bacterium": 1,
+      "unclassified Dehalococcoidales": 1,
+      "Dehalococcoidia bacterium": 1
+    },
+    "Species": {
+      "Cronobacter": 1,
+      "Dehalococcoidales bacterium": 1
+    }
+  }
 }

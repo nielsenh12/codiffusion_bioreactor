@@ -1,23 +1,81 @@
 {
-  "Kingdom": [
-    "Archaea"
+  "members": [
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    }
   ],
-  "Phylum": [
-    "Methanobacteriati"
-  ],
-  "Class": [
-    "Methanobacteriota"
-  ],
-  "Order": [
-    "Methanomada group"
-  ],
-  "Family": [
-    "Methanobacteria"
-  ],
-  "Genus": [
-    "Methanobacteriales"
-  ],
-  "Species": [
-    "Methanobacteriaceae"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Archaea": 6
+    },
+    "Phylum": {
+      "Methanobacteriati": 6
+    },
+    "Class": {
+      "Methanobacteriota": 6
+    },
+    "Order": {
+      "Methanomada group": 6
+    },
+    "Family": {
+      "Methanobacteria": 6
+    },
+    "Genus": {
+      "Methanobacteriales": 6
+    },
+    "Species": {
+      "Methanobacteriaceae": 6
+    }
+  }
 }

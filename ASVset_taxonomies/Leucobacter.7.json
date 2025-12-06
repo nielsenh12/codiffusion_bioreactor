@@ -1,0 +1,99 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Microbacteriaceae",
+      "Species": "Leucobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Microbacteriaceae",
+      "Species": "Leucobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Microbacteriaceae",
+      "Species": "Leucobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Microbacteriaceae",
+      "Species": "Leucobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Microbacteriaceae",
+      "Species": "Leucobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Microbacteriaceae",
+      "Species": "Leucobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Microbacteriaceae",
+      "Species": "Leucobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Microbacteriaceae",
+      "Species": "Leucobacter"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 8
+    },
+    "Phylum": {
+      "Bacillati": 8
+    },
+    "Class": {
+      "Actinomycetota": 8
+    },
+    "Order": {
+      "Actinomycetes": 8
+    },
+    "Family": {
+      "Micrococcales": 8
+    },
+    "Genus": {
+      "Microbacteriaceae": 8
+    },
+    "Species": {
+      "Leucobacter": 8
+    }
+  }
+}

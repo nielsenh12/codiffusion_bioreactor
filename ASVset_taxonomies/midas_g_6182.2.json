@@ -1,0 +1,76 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "unclassified Anaerolineae",
+      "Genus": "Anaerolineae bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexi bacterium RBG_13_54_9"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "unclassified Anaerolineae",
+      "Genus": "Anaerolineae bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "unclassified Anaerolineae",
+      "Genus": "Anaerolineae bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "unclassified Anaerolineae",
+      "Genus": "Anaerolineae bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Bacillati": 6
+    },
+    "Class": {
+      "Chloroflexota": 5,
+      "Bacillota": 1
+    },
+    "Order": {
+      "Anaerolineae": 4,
+      "unclassified Chloroflexota": 1,
+      "unclassified Bacillota": 1
+    },
+    "Family": {
+      "unclassified Anaerolineae": 4,
+      "Chloroflexi bacterium RBG_13_54_9": 1,
+      "Bacillota bacterium": 1
+    },
+    "Genus": {
+      "Anaerolineae bacterium": 4
+    },
+    "Species": {}
+  }
+}

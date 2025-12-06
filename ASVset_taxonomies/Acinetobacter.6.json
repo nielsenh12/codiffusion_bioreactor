@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "Holophagae",
+      "Family": "Holophagales",
+      "Genus": "Holophagaceae",
+      "Species": "unclassified Holophagaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Acidobacteriota": 1
+    },
+    "Order": {
+      "Holophagae": 1
+    },
+    "Family": {
+      "Holophagales": 1
+    },
+    "Genus": {
+      "Holophagaceae": 1
+    },
+    "Species": {
+      "unclassified Holophagaceae": 1
+    }
+  }
+}

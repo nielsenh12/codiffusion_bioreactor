@@ -1,75 +1,114 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycolicibacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycolicibacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Chitinophagia",
+      "Species": "Chitinophagales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "unclassified Bacteroidia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycolicibacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycolicibacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycolicibacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Actinomycetota",
-    "Actinomycetota",
-    "FCB group",
-    "FCB group",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota"
-  ],
-  "Order": [
-    "Actinomycetes",
-    "Actinomycetes",
-    "Bacteroidota/Chlorobiota group",
-    "Bacteroidota/Chlorobiota group",
-    "environmental samples",
-    "Actinomycetes",
-    "environmental samples",
-    "Actinomycetes",
-    "Actinomycetes"
-  ],
-  "Family": [
-    "Mycobacteriales",
-    "Mycobacteriales",
-    "Bacteroidota",
-    "Bacteroidota",
-    "uncultured Actinomycetota bacterium",
-    "Mycobacteriales",
-    "uncultured Actinomycetota bacterium",
-    "Mycobacteriales",
-    "Mycobacteriales"
-  ],
-  "Genus": [
-    "Mycobacteriaceae",
-    "Mycobacteriaceae",
-    "Chitinophagia",
-    "Bacteroidia",
-    "Mycobacteriaceae",
-    "Mycobacteriaceae",
-    "Mycobacteriaceae"
-  ],
-  "Species": [
-    "Mycolicibacterium",
-    "Mycolicibacterium",
-    "Chitinophagales",
-    "unclassified Bacteroidia",
-    "Mycolicibacterium",
-    "Mycolicibacterium",
-    "Mycolicibacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 9
+    },
+    "Phylum": {
+      "Bacillati": 7,
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Actinomycetota": 7,
+      "FCB group": 2
+    },
+    "Order": {
+      "Actinomycetes": 5,
+      "Bacteroidota/Chlorobiota group": 2,
+      "environmental samples": 2
+    },
+    "Family": {
+      "Mycobacteriales": 5,
+      "Bacteroidota": 2,
+      "uncultured Actinomycetota bacterium": 2
+    },
+    "Genus": {
+      "Mycobacteriaceae": 5,
+      "Chitinophagia": 1,
+      "Bacteroidia": 1
+    },
+    "Species": {
+      "Mycolicibacterium": 5,
+      "Chitinophagales": 1,
+      "unclassified Bacteroidia": 1
+    }
+  }
 }

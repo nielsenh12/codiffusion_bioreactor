@@ -1,0 +1,47 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "unclassified Bacteroidia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "unclassified Bacteroidota",
+      "Species": "Bacteroidetes bacterium OLB10"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "FCB group": 2
+    },
+    "Order": {
+      "Bacteroidota/Chlorobiota group": 2
+    },
+    "Family": {
+      "Bacteroidota": 2
+    },
+    "Genus": {
+      "Bacteroidia": 1,
+      "unclassified Bacteroidota": 1
+    },
+    "Species": {
+      "unclassified Bacteroidia": 1,
+      "Bacteroidetes bacterium OLB10": 1
+    }
+  }
+}

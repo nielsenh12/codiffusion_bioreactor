@@ -1,0 +1,163 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Burkholderiaceae",
+      "Species": "unclassified Burkholderiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured beta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Burkholderiaceae",
+      "Species": "unclassified Burkholderiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Comamonadaceae",
+      "Species": "Hydrogenophaga"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Burkholderiaceae",
+      "Species": "unclassified Burkholderiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Burkholderiaceae",
+      "Species": "unclassified Burkholderiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Burkholderiaceae",
+      "Species": "Zeimonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "unclassified Burkholderiales",
+      "Species": "Burkholderiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Lysobacterales",
+      "Genus": "Lysobacteraceae",
+      "Species": "Chiayiivirga"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Burkholderiaceae",
+      "Species": "unclassified Burkholderiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Burkholderiaceae",
+      "Species": "unclassified Burkholderiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Burkholderiaceae",
+      "Species": "Zeimonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Lysobacterales",
+      "Genus": "Lysobacteraceae",
+      "Species": "Chiayiivirga"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Burkholderiaceae",
+      "Species": "unclassified Burkholderiaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 14
+    },
+    "Phylum": {
+      "Pseudomonadati": 14
+    },
+    "Class": {
+      "Pseudomonadota": 14
+    },
+    "Order": {
+      "Betaproteobacteria": 12,
+      "Gammaproteobacteria": 2
+    },
+    "Family": {
+      "Burkholderiales": 11,
+      "environmental samples": 1,
+      "Lysobacterales": 2
+    },
+    "Genus": {
+      "Burkholderiaceae": 9,
+      "uncultured beta proteobacterium": 1,
+      "Comamonadaceae": 1,
+      "unclassified Burkholderiales": 1,
+      "Lysobacteraceae": 2
+    },
+    "Species": {
+      "unclassified Burkholderiaceae": 7,
+      "Hydrogenophaga": 1,
+      "Zeimonas": 2,
+      "Burkholderiales bacterium": 1,
+      "Chiayiivirga": 2
+    }
+  }
+}

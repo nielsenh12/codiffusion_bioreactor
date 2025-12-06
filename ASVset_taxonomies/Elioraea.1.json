@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Acetobacterales",
+      "Genus": "Elioraeaceae",
+      "Species": "Elioraea"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Alphaproteobacteria": 1
+    },
+    "Family": {
+      "Acetobacterales": 1
+    },
+    "Genus": {
+      "Elioraeaceae": 1
+    },
+    "Species": {
+      "Elioraea": 1
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Candidatus Darwinibacteriales",
+      "Genus": "Candidatus Darwinibacteriaceae",
+      "Species": "Candidatus Darwinibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Candidatus Darwinibacteriales",
+      "Genus": "Candidatus Darwinibacteriaceae",
+      "Species": "Candidatus Darwinibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Candidatus Darwinibacteriales",
+      "Genus": "Candidatus Darwinibacteriaceae",
+      "Species": "Candidatus Darwinibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Candidatus Darwinibacteriales",
+      "Genus": "Candidatus Darwinibacteriaceae",
+      "Species": "Candidatus Darwinibacter"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Bacillati": 4
+    },
+    "Class": {
+      "Bacillota": 4
+    },
+    "Order": {
+      "Clostridia": 4
+    },
+    "Family": {
+      "Candidatus Darwinibacteriales": 4
+    },
+    "Genus": {
+      "Candidatus Darwinibacteriaceae": 4
+    },
+    "Species": {
+      "Candidatus Darwinibacter": 4
+    }
+  }
+}

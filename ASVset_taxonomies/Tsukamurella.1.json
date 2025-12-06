@@ -1,0 +1,54 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Tsukamurellaceae",
+      "Species": "Tsukamurella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Tsukamurellaceae",
+      "Species": "Tsukamurella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Tsukamurellaceae",
+      "Species": "Tsukamurella"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Bacillati": 3
+    },
+    "Class": {
+      "Actinomycetota": 3
+    },
+    "Order": {
+      "Actinomycetes": 3
+    },
+    "Family": {
+      "Mycobacteriales": 3
+    },
+    "Genus": {
+      "Tsukamurellaceae": 3
+    },
+    "Species": {
+      "Tsukamurella": 3
+    }
+  }
+}

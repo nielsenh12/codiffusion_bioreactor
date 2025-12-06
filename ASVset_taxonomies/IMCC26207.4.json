@@ -1,0 +1,58 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "Microthrixaceae",
+      "Species": "unclassified Microthrixaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Bifidobacteriales",
+      "Genus": "Bifidobacteriaceae",
+      "Species": "Bifidobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "Microthrixaceae",
+      "Species": "unclassified Microthrixaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Bacillati": 3
+    },
+    "Class": {
+      "Actinomycetota": 3
+    },
+    "Order": {
+      "Acidimicrobiia": 2,
+      "Actinomycetes": 1
+    },
+    "Family": {
+      "Acidimicrobiales": 2,
+      "Bifidobacteriales": 1
+    },
+    "Genus": {
+      "Microthrixaceae": 2,
+      "Bifidobacteriaceae": 1
+    },
+    "Species": {
+      "unclassified Microthrixaceae": 2,
+      "Bifidobacterium": 1
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Thermoleophilia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Thermoleophilia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Thermoleophilia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Thermoleophilia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Thermoleophilia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Thermoleophilia bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Bacillati": 3
+    },
+    "Class": {
+      "Actinomycetota": 3
+    },
+    "Order": {
+      "Thermoleophilia": 3
+    },
+    "Family": {
+      "environmental samples": 3
+    },
+    "Genus": {
+      "uncultured Thermoleophilia bacterium": 3
+    },
+    "Species": {}
+  }
+}

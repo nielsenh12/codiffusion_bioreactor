@@ -1,0 +1,89 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "unclassified Anaerolineae",
+      "Genus": "Anaerolineae bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "unclassified Anaerolineales",
+      "Species": "Anaerolineales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "unclassified Anaerolineae",
+      "Genus": "Anaerolineae bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Bacillati": 5,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Chloroflexota": 5,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Chloroflexia": 1,
+      "Anaerolineae": 3,
+      "unclassified Chloroflexota": 1,
+      "Gammaproteobacteria": 1
+    },
+    "Family": {
+      "environmental samples": 1,
+      "unclassified Anaerolineae": 2,
+      "Chloroflexota bacterium": 1,
+      "Anaerolineales": 1,
+      "Enterobacterales": 1
+    },
+    "Genus": {
+      "uncultured Chloroflexia bacterium": 1,
+      "Anaerolineae bacterium": 2,
+      "unclassified Anaerolineales": 1,
+      "Enterobacteriaceae": 1
+    },
+    "Species": {
+      "Anaerolineales bacterium": 1,
+      "Cronobacter": 1
+    }
+  }
+}

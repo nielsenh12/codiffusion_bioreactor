@@ -1,0 +1,79 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Synergistaceae",
+      "Species": "unclassified Synergistaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Synergistaceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Synergistaceae",
+      "Species": "unclassified Synergistaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Synergistaceae",
+      "Species": "unclassified Synergistaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Thermotogati": 4,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Synergistota": 4,
+      "FCB group": 1
+    },
+    "Order": {
+      "Synergistia": 4,
+      "Bacteroidota/Chlorobiota group": 1
+    },
+    "Family": {
+      "Synergistales": 4,
+      "Bacteroidota": 1
+    },
+    "Genus": {
+      "Synergistaceae": 4,
+      "Bacteroidia": 1
+    },
+    "Species": {
+      "unclassified Synergistaceae": 3,
+      "environmental samples": 1,
+      "Bacteroidales": 1
+    }
+  }
+}

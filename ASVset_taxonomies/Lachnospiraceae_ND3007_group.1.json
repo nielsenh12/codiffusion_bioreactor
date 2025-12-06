@@ -1,0 +1,63 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "unclassified Lachnospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "unclassified Lachnospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "unclassified Lachnospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "unclassified Lachnospiraceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Bacillati": 4
+    },
+    "Class": {
+      "Bacillota": 4
+    },
+    "Order": {
+      "Clostridia": 4
+    },
+    "Family": {
+      "Lachnospirales": 4
+    },
+    "Genus": {
+      "Lachnospiraceae": 4
+    },
+    "Species": {
+      "unclassified Lachnospiraceae": 4
+    }
+  }
+}

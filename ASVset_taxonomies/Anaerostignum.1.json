@@ -1,28 +1,45 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Anaerotignaceae",
+      "Species": "Anaerotignum"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Bacillota",
-    "Bacillota"
-  ],
-  "Order": [
-    "unclassified Bacillota",
-    "Clostridia"
-  ],
-  "Family": [
-    "Bacillota bacterium",
-    "Lachnospirales"
-  ],
-  "Genus": [
-    "Anaerotignaceae"
-  ],
-  "Species": [
-    "Anaerotignum"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacillati": 2
+    },
+    "Class": {
+      "Bacillota": 2
+    },
+    "Order": {
+      "unclassified Bacillota": 1,
+      "Clostridia": 1
+    },
+    "Family": {
+      "Bacillota bacterium": 1,
+      "Lachnospirales": 1
+    },
+    "Genus": {
+      "Anaerotignaceae": 1
+    },
+    "Species": {
+      "Anaerotignum": 1
+    }
+  }
 }

@@ -1,0 +1,82 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Streptosporangiales",
+      "Genus": "Thermomonosporaceae",
+      "Species": "Actinomadura"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Streptosporangiales",
+      "Genus": "Thermomonosporaceae",
+      "Species": "Actinomadura"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Streptosporangiales",
+      "Genus": "Thermomonosporaceae",
+      "Species": "Actinomadura"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Streptosporangiales",
+      "Genus": "Thermomonosporaceae",
+      "Species": "Actinomadura"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Streptosporangiales",
+      "Genus": "Thermomonosporaceae",
+      "Species": "Actinomadura"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Streptosporangiales",
+      "Genus": "Thermomonosporaceae",
+      "Species": "Spirillospora"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Bacillati": 6
+    },
+    "Class": {
+      "Actinomycetota": 6
+    },
+    "Order": {
+      "Actinomycetes": 6
+    },
+    "Family": {
+      "Streptosporangiales": 6
+    },
+    "Genus": {
+      "Thermomonosporaceae": 6
+    },
+    "Species": {
+      "Actinomadura": 5,
+      "Spirillospora": 1
+    }
+  }
+}

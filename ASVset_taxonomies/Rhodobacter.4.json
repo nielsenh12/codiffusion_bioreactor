@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Rhodobacter group",
+      "Species": "Rhodobacter"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Alphaproteobacteria": 1
+    },
+    "Family": {
+      "Rhodobacterales": 1
+    },
+    "Genus": {
+      "Rhodobacter group": 1
+    },
+    "Species": {
+      "Rhodobacter": 1
+    }
+  }
+}

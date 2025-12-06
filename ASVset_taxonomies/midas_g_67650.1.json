@@ -1,0 +1,195 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Paenibacillaceae",
+      "Species": "Cohnella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Paenibacillaceae",
+      "Species": "Paenibacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Streptococcaceae",
+      "Species": "Streptococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Paenibacillaceae",
+      "Species": "Paenibacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Paenibacillaceae",
+      "Species": "Paenibacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Myxococcota",
+      "Order": "Myxococcia",
+      "Family": "unclassified Myxococcia",
+      "Genus": "Deltaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfuromonadia",
+      "Family": "Desulfuromonadales",
+      "Genus": "Geothermobacteraceae",
+      "Species": "Geothermobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Paenibacillaceae",
+      "Species": "Paenibacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Paenibacillaceae",
+      "Species": "Paenibacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Heliobacteriaceae",
+      "Species": "Heliorestis"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Spirochaetaceae",
+      "Species": "unclassified Spirochaetaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Candidatus Sericytochromatia",
+      "Family": "unclassified Candidatus Sericytochromatia",
+      "Genus": "Candidatus Sericytochromatia bacterium S15B-MN24 CBMW_12"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Paenibacillaceae",
+      "Species": "environmental samples"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 15
+    },
+    "Phylum": {
+      "Bacillati": 10,
+      "Pseudomonadati": 4,
+      "delta/epsilon subdivisions": 1
+    },
+    "Class": {
+      "Bacillota": 9,
+      "Myxococcota": 1,
+      "Pseudomonadota": 1,
+      "Deltaproteobacteria": 1,
+      "Thermodesulfobacteriota": 1,
+      "Spirochaetota": 1,
+      "Cyanobacteriota/Melainabacteria group": 1
+    },
+    "Order": {
+      "Bacilli": 8,
+      "Myxococcia": 1,
+      "Gammaproteobacteria": 1,
+      "environmental samples": 1,
+      "Desulfuromonadia": 1,
+      "Clostridia": 1,
+      "Spirochaetia": 1,
+      "Candidatus Sericytochromatia": 1
+    },
+    "Family": {
+      "Bacillales": 7,
+      "Lactobacillales": 1,
+      "unclassified Myxococcia": 1,
+      "Enterobacterales": 1,
+      "uncultured delta proteobacterium": 1,
+      "Desulfuromonadales": 1,
+      "Eubacteriales": 1,
+      "Spirochaetales": 1,
+      "unclassified Candidatus Sericytochromatia": 1
+    },
+    "Genus": {
+      "Paenibacillaceae": 7,
+      "Streptococcaceae": 1,
+      "Deltaproteobacteria bacterium": 1,
+      "Enterobacteriaceae": 1,
+      "Geothermobacteraceae": 1,
+      "Heliobacteriaceae": 1,
+      "Spirochaetaceae": 1,
+      "Candidatus Sericytochromatia bacterium S15B-MN24 CBMW_12": 1
+    },
+    "Species": {
+      "Cohnella": 1,
+      "Paenibacillus": 5,
+      "Streptococcus": 1,
+      "Cronobacter": 1,
+      "Geothermobacter": 1,
+      "Heliorestis": 1,
+      "unclassified Spirochaetaceae": 1,
+      "environmental samples": 1
+    }
+  }
+}

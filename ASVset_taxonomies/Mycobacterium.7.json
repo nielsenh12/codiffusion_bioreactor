@@ -1,0 +1,40 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacillati": 2
+    },
+    "Class": {
+      "Bacillota": 1,
+      "Actinomycetota": 1
+    },
+    "Order": {
+      "unclassified Bacillota": 1,
+      "environmental samples": 1
+    },
+    "Family": {
+      "Bacillota bacterium": 1,
+      "uncultured Actinomycetota bacterium": 1
+    },
+    "Genus": {},
+    "Species": {}
+  }
+}

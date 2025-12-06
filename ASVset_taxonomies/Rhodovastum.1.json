@@ -1,0 +1,63 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Alphaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Acetobacterales",
+      "Genus": "Acetobacteraceae",
+      "Species": "Limobrevibacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Alphaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "unclassified Pseudomonadota",
+      "Family": "Pseudomonadota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Pseudomonadati": 4
+    },
+    "Class": {
+      "Pseudomonadota": 4
+    },
+    "Order": {
+      "Alphaproteobacteria": 3,
+      "unclassified Pseudomonadota": 1
+    },
+    "Family": {
+      "environmental samples": 2,
+      "Acetobacterales": 1,
+      "Pseudomonadota bacterium": 1
+    },
+    "Genus": {
+      "uncultured Alphaproteobacteria bacterium": 2,
+      "Acetobacteraceae": 1
+    },
+    "Species": {
+      "Limobrevibacterium": 1
+    }
+  }
+}

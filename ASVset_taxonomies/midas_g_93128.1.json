@@ -1,120 +1,192 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Bacillales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Deinococcota",
+      "Order": "Deinococci",
+      "Family": "Deinococcales",
+      "Genus": "Deinococcaceae",
+      "Species": "Deinococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Sumerlaeota",
+      "Family": "unclassified Candidatus Sumerlaeota",
+      "Genus": "Candidatus Sumerlaeota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Zhaonellaceae",
+      "Species": "Zhaonella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfotomaculaceae",
+      "Species": "Pelotomaculum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfotomaculaceae",
+      "Species": "Pelotomaculum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Clostridiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Bacillales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Syntrophomonadaceae",
+      "Species": "Syntrophothermus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Sumerlaeota",
+      "Family": "unclassified Candidatus Sumerlaeota",
+      "Genus": "Candidatus Sumerlaeota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Zhaonellaceae",
+      "Species": "Zhaonella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Clostridiales bacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Thermotogati",
-    "Bacteria incertae sedis",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacteria incertae sedis",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Bacillota",
-    "Bacillota",
-    "Deinococcota",
-    "Bacteria candidate phyla",
-    "Chloroflexota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacteria candidate phyla",
-    "Bacillota",
-    "Bacillota"
-  ],
-  "Order": [
-    "Clostridia",
-    "Bacilli",
-    "Deinococci",
-    "Candidatus Sumerlaeota",
-    "unclassified Chloroflexota",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Bacilli",
-    "Clostridia",
-    "Clostridia",
-    "unclassified Bacillota",
-    "Candidatus Sumerlaeota",
-    "Clostridia",
-    "Clostridia"
-  ],
-  "Family": [
-    "unclassified Clostridia",
-    "Bacillales",
-    "Deinococcales",
-    "unclassified Candidatus Sumerlaeota",
-    "Chloroflexota bacterium",
-    "Neomoorellales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Bacillales",
-    "unclassified Clostridia",
-    "Eubacteriales",
-    "Bacillota bacterium",
-    "unclassified Candidatus Sumerlaeota",
-    "Neomoorellales",
-    "Eubacteriales"
-  ],
-  "Genus": [
-    "Clostridia bacterium",
-    "environmental samples",
-    "Deinococcaceae",
-    "Candidatus Sumerlaeota bacterium",
-    "Zhaonellaceae",
-    "Desulfotomaculaceae",
-    "Desulfotomaculaceae",
-    "unclassified Eubacteriales",
-    "environmental samples",
-    "Clostridia bacterium",
-    "Syntrophomonadaceae",
-    "Candidatus Sumerlaeota bacterium",
-    "Zhaonellaceae",
-    "unclassified Eubacteriales"
-  ],
-  "Species": [
-    "uncultured Bacillales bacterium",
-    "Deinococcus",
-    "Zhaonella",
-    "Pelotomaculum",
-    "Pelotomaculum",
-    "Clostridiales bacterium",
-    "uncultured Bacillales bacterium",
-    "Syntrophothermus",
-    "Zhaonella",
-    "Clostridiales bacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 16
+    },
+    "Phylum": {
+      "Bacillati": 13,
+      "Thermotogati": 1,
+      "Bacteria incertae sedis": 2
+    },
+    "Class": {
+      "Bacillota": 12,
+      "Deinococcota": 1,
+      "Bacteria candidate phyla": 2,
+      "Chloroflexota": 1
+    },
+    "Order": {
+      "Clostridia": 9,
+      "Bacilli": 2,
+      "Deinococci": 1,
+      "Candidatus Sumerlaeota": 2,
+      "unclassified Chloroflexota": 1,
+      "unclassified Bacillota": 1
+    },
+    "Family": {
+      "unclassified Clostridia": 2,
+      "Bacillales": 2,
+      "Deinococcales": 1,
+      "unclassified Candidatus Sumerlaeota": 2,
+      "Chloroflexota bacterium": 1,
+      "Neomoorellales": 2,
+      "Eubacteriales": 5,
+      "Bacillota bacterium": 1
+    },
+    "Genus": {
+      "Clostridia bacterium": 2,
+      "environmental samples": 2,
+      "Deinococcaceae": 1,
+      "Candidatus Sumerlaeota bacterium": 2,
+      "Zhaonellaceae": 2,
+      "Desulfotomaculaceae": 2,
+      "unclassified Eubacteriales": 2,
+      "Syntrophomonadaceae": 1
+    },
+    "Species": {
+      "uncultured Bacillales bacterium": 2,
+      "Deinococcus": 1,
+      "Zhaonella": 2,
+      "Pelotomaculum": 2,
+      "Clostridiales bacterium": 2,
+      "Syntrophothermus": 1
+    }
+  }
 }

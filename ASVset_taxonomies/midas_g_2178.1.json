@@ -1,181 +1,270 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "unclassified Thermodesulfobacteriota",
+      "Family": "Thermodesulfobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Aggregatilineales",
+      "Genus": "Aggregatilineaceae",
+      "Species": "Aggregatilinea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Aggregatilineales",
+      "Genus": "Aggregatilineaceae",
+      "Species": "unclassified Aggregatilineaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "unclassified Anaerolineae",
+      "Genus": "Anaerolineae bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "unclassified Anaerolineae",
+      "Genus": "Anaerolineae bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Synergistaceae",
+      "Species": "unclassified Synergistaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "unclassified Thermodesulfobacteriota",
+      "Family": "Thermodesulfobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Aggregatilineales",
+      "Genus": "Aggregatilineaceae",
+      "Species": "Aggregatilinea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Synergistaceae",
+      "Species": "unclassified Synergistaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "unclassified Thermodesulfobacteriota",
+      "Family": "Thermodesulfobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Aggregatilineales",
+      "Genus": "Aggregatilineaceae",
+      "Species": "Aggregatilinea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Aggregatilineales",
+      "Genus": "Aggregatilineaceae",
+      "Species": "unclassified Aggregatilineaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "unclassified Anaerolineae",
+      "Genus": "Anaerolineae bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "unclassified Anaerolineae",
+      "Genus": "Anaerolineae bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Synergistaceae",
+      "Species": "unclassified Synergistaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "unclassified Anaerolineae",
+      "Genus": "Anaerolineae bacterium"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Thermotogati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Thermotogati",
-    "Bacillati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Thermotogati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Thermodesulfobacteriota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Bacillota",
-    "Chloroflexota",
-    "Synergistota",
-    "Thermodesulfobacteriota",
-    "Bacillota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Synergistota",
-    "Chloroflexota",
-    "Thermodesulfobacteriota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Bacillota",
-    "Pseudomonadota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Synergistota",
-    "Chloroflexota",
-    "Chloroflexota"
-  ],
-  "Order": [
-    "unclassified Thermodesulfobacteriota",
-    "Anaerolineae",
-    "Chloroflexia",
-    "Chloroflexia",
-    "Anaerolineae",
-    "Anaerolineae",
-    "unclassified Bacillota",
-    "Anaerolineae",
-    "Synergistia",
-    "unclassified Thermodesulfobacteriota",
-    "unclassified Bacillota",
-    "Anaerolineae",
-    "Chloroflexia",
-    "Synergistia",
-    "Chloroflexia",
-    "unclassified Thermodesulfobacteriota",
-    "Anaerolineae",
-    "Anaerolineae",
-    "Anaerolineae",
-    "unclassified Bacillota",
-    "Gammaproteobacteria",
-    "Chloroflexia",
-    "Anaerolineae",
-    "Chloroflexia",
-    "Synergistia",
-    "Chloroflexia",
-    "Anaerolineae"
-  ],
-  "Family": [
-    "Thermodesulfobacteriota bacterium",
-    "Aggregatilineales",
-    "environmental samples",
-    "environmental samples",
-    "Aggregatilineales",
-    "unclassified Anaerolineae",
-    "Bacillota bacterium",
-    "unclassified Anaerolineae",
-    "Synergistales",
-    "Thermodesulfobacteriota bacterium",
-    "Bacillota bacterium",
-    "Aggregatilineales",
-    "environmental samples",
-    "Synergistales",
-    "environmental samples",
-    "Thermodesulfobacteriota bacterium",
-    "Aggregatilineales",
-    "Aggregatilineales",
-    "unclassified Anaerolineae",
-    "Bacillota bacterium",
-    "Enterobacterales",
-    "environmental samples",
-    "unclassified Anaerolineae",
-    "environmental samples",
-    "Synergistales",
-    "environmental samples",
-    "unclassified Anaerolineae"
-  ],
-  "Genus": [
-    "Aggregatilineaceae",
-    "uncultured Chloroflexia bacterium",
-    "uncultured Chloroflexia bacterium",
-    "Aggregatilineaceae",
-    "Anaerolineae bacterium",
-    "Anaerolineae bacterium",
-    "Synergistaceae",
-    "Aggregatilineaceae",
-    "uncultured Chloroflexia bacterium",
-    "Synergistaceae",
-    "uncultured Chloroflexia bacterium",
-    "Aggregatilineaceae",
-    "Aggregatilineaceae",
-    "Anaerolineae bacterium",
-    "Enterobacteriaceae",
-    "uncultured Chloroflexia bacterium",
-    "Anaerolineae bacterium",
-    "uncultured Chloroflexia bacterium",
-    "Synergistaceae",
-    "uncultured Chloroflexia bacterium",
-    "Anaerolineae bacterium"
-  ],
-  "Species": [
-    "Aggregatilinea",
-    "unclassified Aggregatilineaceae",
-    "unclassified Synergistaceae",
-    "Aggregatilinea",
-    "unclassified Synergistaceae",
-    "Aggregatilinea",
-    "unclassified Aggregatilineaceae",
-    "Cronobacter",
-    "unclassified Synergistaceae"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 27
+    },
+    "Phylum": {
+      "Pseudomonadati": 4,
+      "Bacillati": 20,
+      "Thermotogati": 3
+    },
+    "Class": {
+      "Thermodesulfobacteriota": 3,
+      "Chloroflexota": 17,
+      "Bacillota": 3,
+      "Synergistota": 3,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "unclassified Thermodesulfobacteriota": 3,
+      "Anaerolineae": 10,
+      "Chloroflexia": 7,
+      "unclassified Bacillota": 3,
+      "Synergistia": 3,
+      "Gammaproteobacteria": 1
+    },
+    "Family": {
+      "Thermodesulfobacteriota bacterium": 3,
+      "Aggregatilineales": 5,
+      "environmental samples": 7,
+      "unclassified Anaerolineae": 5,
+      "Bacillota bacterium": 3,
+      "Synergistales": 3,
+      "Enterobacterales": 1
+    },
+    "Genus": {
+      "Aggregatilineaceae": 5,
+      "uncultured Chloroflexia bacterium": 7,
+      "Anaerolineae bacterium": 5,
+      "Synergistaceae": 3,
+      "Enterobacteriaceae": 1
+    },
+    "Species": {
+      "Aggregatilinea": 3,
+      "unclassified Aggregatilineaceae": 2,
+      "unclassified Synergistaceae": 3,
+      "Cronobacter": 1
+    }
+  }
 }

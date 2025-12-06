@@ -1,0 +1,196 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriales incertae sedis",
+      "Species": "Proteiniborus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriales incertae sedis",
+      "Species": "Proteiniborus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriales incertae sedis",
+      "Species": "Proteiniborus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriales incertae sedis",
+      "Species": "Proteiniborus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriales incertae sedis",
+      "Species": "Proteiniborus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriales incertae sedis",
+      "Species": "Proteiniborus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriales incertae sedis",
+      "Species": "Proteiniborus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriales incertae sedis",
+      "Species": "Proteiniborus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriales incertae sedis",
+      "Species": "Proteiniborus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriales incertae sedis",
+      "Species": "Proteiniborus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriales incertae sedis",
+      "Species": "Proteiniborus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "unclassified Clostridiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriales incertae sedis",
+      "Species": "Proteiniborus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriales incertae sedis",
+      "Species": "Proteiniborus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriales incertae sedis",
+      "Species": "Proteiniborus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Sporanaerobacteraceae",
+      "Species": "Anaerosalibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriales incertae sedis",
+      "Species": "Proteiniborus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Abyssisolibacter"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 18
+    },
+    "Phylum": {
+      "Bacillati": 18
+    },
+    "Class": {
+      "Bacillota": 18
+    },
+    "Order": {
+      "Clostridia": 17,
+      "Tissierellia": 1
+    },
+    "Family": {
+      "Eubacteriales": 17,
+      "Tissierellales": 1
+    },
+    "Genus": {
+      "Eubacteriales incertae sedis": 15,
+      "Clostridiaceae": 2,
+      "Sporanaerobacteraceae": 1
+    },
+    "Species": {
+      "Proteiniborus": 15,
+      "unclassified Clostridiaceae": 1,
+      "Anaerosalibacter": 1,
+      "Abyssisolibacter": 1
+    }
+  }
+}

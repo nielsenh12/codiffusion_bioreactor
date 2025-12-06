@@ -1,0 +1,33 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Patescibacteria group",
+      "Family": "unclassified Patescibacteria group",
+      "Genus": "Patescibacteria group bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacteria incertae sedis": 1
+    },
+    "Class": {
+      "Bacteria candidate phyla": 1
+    },
+    "Order": {
+      "Patescibacteria group": 1
+    },
+    "Family": {
+      "unclassified Patescibacteria group": 1
+    },
+    "Genus": {
+      "Patescibacteria group bacterium": 1
+    },
+    "Species": {}
+  }
+}

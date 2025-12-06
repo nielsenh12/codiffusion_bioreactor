@@ -1,0 +1,178 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "environmental samples",
+      "Genus": "uncultured Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Jatrophihabitantales",
+      "Genus": "Jatrophihabitantaceae",
+      "Species": "Jatrophihabitans"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "environmental samples",
+      "Genus": "uncultured Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "unclassified Actinomycetes",
+      "Genus": "Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 20
+    },
+    "Phylum": {
+      "Bacillati": 20
+    },
+    "Class": {
+      "Actinomycetota": 20
+    },
+    "Order": {
+      "environmental samples": 16,
+      "Actinomycetes": 4
+    },
+    "Family": {
+      "uncultured Actinomycetota bacterium": 16,
+      "environmental samples": 2,
+      "Jatrophihabitantales": 1,
+      "unclassified Actinomycetes": 1
+    },
+    "Genus": {
+      "uncultured Actinomycetes bacterium": 2,
+      "Jatrophihabitantaceae": 1,
+      "Actinomycetes bacterium": 1
+    },
+    "Species": {
+      "Jatrophihabitans": 1
+    }
+  }
+}

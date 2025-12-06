@@ -1,0 +1,30 @@
+{
+  "members": [
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Nanobdellati",
+      "Class": "Candidatus Pacearchaeota",
+      "Order": "unclassified Candidatus Pacearchaeota",
+      "Family": "Candidatus Pacearchaeota archaeon"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Archaea": 1
+    },
+    "Phylum": {
+      "Nanobdellati": 1
+    },
+    "Class": {
+      "Candidatus Pacearchaeota": 1
+    },
+    "Order": {
+      "unclassified Candidatus Pacearchaeota": 1
+    },
+    "Family": {
+      "Candidatus Pacearchaeota archaeon": 1
+    },
+    "Genus": {},
+    "Species": {}
+  }
+}

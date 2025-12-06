@@ -1,0 +1,75 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Methylocystaceae",
+      "Species": "Methylosinus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Xanthobacteraceae",
+      "Species": "Ancylobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Methylocystaceae",
+      "Species": "unclassified Methylocystaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Alphaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Alphaproteobacteria bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Pseudomonadati": 5
+    },
+    "Class": {
+      "Pseudomonadota": 5
+    },
+    "Order": {
+      "Alphaproteobacteria": 5
+    },
+    "Family": {
+      "Hyphomicrobiales": 3,
+      "environmental samples": 2
+    },
+    "Genus": {
+      "Methylocystaceae": 2,
+      "Xanthobacteraceae": 1,
+      "uncultured Alphaproteobacteria bacterium": 2
+    },
+    "Species": {
+      "Methylosinus": 1,
+      "Ancylobacter": 1,
+      "unclassified Methylocystaceae": 1
+    }
+  }
+}

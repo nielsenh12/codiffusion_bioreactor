@@ -1,0 +1,54 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Streptosporangiales",
+      "Genus": "Streptosporangiaceae",
+      "Species": "Streptosporangium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Streptosporangiales",
+      "Genus": "Streptosporangiaceae",
+      "Species": "Streptosporangium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Streptosporangiales",
+      "Genus": "Streptosporangiaceae",
+      "Species": "Streptosporangium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Bacillati": 3
+    },
+    "Class": {
+      "Actinomycetota": 3
+    },
+    "Order": {
+      "Actinomycetes": 3
+    },
+    "Family": {
+      "Streptosporangiales": 3
+    },
+    "Genus": {
+      "Streptosporangiaceae": 3
+    },
+    "Species": {
+      "Streptosporangium": 3
+    }
+  }
+}

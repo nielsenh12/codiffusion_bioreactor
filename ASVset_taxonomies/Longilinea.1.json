@@ -1,0 +1,33 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Berkelbacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Candidatus Berkelbacteria bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacteria incertae sedis": 1
+    },
+    "Class": {
+      "Bacteria candidate phyla": 1
+    },
+    "Order": {
+      "Candidatus Berkelbacteria": 1
+    },
+    "Family": {
+      "environmental samples": 1
+    },
+    "Genus": {
+      "uncultured Candidatus Berkelbacteria bacterium": 1
+    },
+    "Species": {}
+  }
+}

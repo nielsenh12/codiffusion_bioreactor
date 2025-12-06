@@ -1,0 +1,92 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Enterococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Enterococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Enterococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Carnobacteriaceae",
+      "Species": "Isobaculum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Enterococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Enterococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Enterococcaceae",
+      "Species": "Enterococcus"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 7
+    },
+    "Phylum": {
+      "Bacillati": 7
+    },
+    "Class": {
+      "Bacillota": 7
+    },
+    "Order": {
+      "Bacilli": 7
+    },
+    "Family": {
+      "Lactobacillales": 7
+    },
+    "Genus": {
+      "Enterococcaceae": 6,
+      "Carnobacteriaceae": 1
+    },
+    "Species": {
+      "Enterococcus": 6,
+      "Isobaculum": 1
+    }
+  }
+}

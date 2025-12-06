@@ -1,50 +1,81 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Cellvibrionales",
+      "Genus": "Spongiibacteraceae",
+      "Species": "unclassified Spongiibacteraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "Verrucomicrobiia",
+      "Genus": "Verrucomicrobiales",
+      "Species": "Verrucomicrobiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Thiohalobacterales",
+      "Genus": "Thiohalobacteraceae",
+      "Species": "Thiohalobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Thiohalobacterales",
+      "Genus": "Thiohalobacteraceae",
+      "Species": "Thiohalobacter"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "PVC group",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "Gammaproteobacteria",
-    "Verrucomicrobiota",
-    "Gammaproteobacteria",
-    "Gammaproteobacteria",
-    "Gammaproteobacteria"
-  ],
-  "Family": [
-    "Cellvibrionales",
-    "Verrucomicrobiia",
-    "Thiohalobacterales",
-    "environmental samples",
-    "Thiohalobacterales"
-  ],
-  "Genus": [
-    "Spongiibacteraceae",
-    "Verrucomicrobiales",
-    "Thiohalobacteraceae",
-    "uncultured Gammaproteobacteria bacterium",
-    "Thiohalobacteraceae"
-  ],
-  "Species": [
-    "unclassified Spongiibacteraceae",
-    "Verrucomicrobiaceae",
-    "Thiohalobacter",
-    "Thiohalobacter"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Pseudomonadati": 5
+    },
+    "Class": {
+      "Pseudomonadota": 4,
+      "PVC group": 1
+    },
+    "Order": {
+      "Gammaproteobacteria": 4,
+      "Verrucomicrobiota": 1
+    },
+    "Family": {
+      "Cellvibrionales": 1,
+      "Verrucomicrobiia": 1,
+      "Thiohalobacterales": 2,
+      "environmental samples": 1
+    },
+    "Genus": {
+      "Spongiibacteraceae": 1,
+      "Verrucomicrobiales": 1,
+      "Thiohalobacteraceae": 2,
+      "uncultured Gammaproteobacteria bacterium": 1
+    },
+    "Species": {
+      "unclassified Spongiibacteraceae": 1,
+      "Verrucomicrobiaceae": 1,
+      "Thiohalobacter": 2
+    }
+  }
 }

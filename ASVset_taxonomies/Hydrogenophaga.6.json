@@ -1,51 +1,78 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Cyanobacteriota",
+      "Family": "Cyanophyceae",
+      "Genus": "Oscillatoriophycideae",
+      "Species": "Oscillatoriales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Cyanobacteriota",
+      "Family": "Cyanophyceae",
+      "Genus": "Oscillatoriophycideae",
+      "Species": "Oscillatoriales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Comamonadaceae",
+      "Species": "Hydrogenophaga"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Cyanobacteriota",
+      "Family": "Cyanophyceae",
+      "Genus": "Oscillatoriophycideae",
+      "Species": "Oscillatoriales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Cyanobacteriota",
+      "Family": "Cyanophyceae",
+      "Genus": "Oscillatoriophycideae",
+      "Species": "Oscillatoriales"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Cyanobacteriota/Melainabacteria group",
-    "Cyanobacteriota/Melainabacteria group",
-    "Pseudomonadota",
-    "Cyanobacteriota/Melainabacteria group",
-    "Cyanobacteriota/Melainabacteria group"
-  ],
-  "Order": [
-    "Cyanobacteriota",
-    "Cyanobacteriota",
-    "Betaproteobacteria",
-    "Cyanobacteriota",
-    "Cyanobacteriota"
-  ],
-  "Family": [
-    "Cyanophyceae",
-    "Cyanophyceae",
-    "Burkholderiales",
-    "Cyanophyceae",
-    "Cyanophyceae"
-  ],
-  "Genus": [
-    "Oscillatoriophycideae",
-    "Oscillatoriophycideae",
-    "Comamonadaceae",
-    "Oscillatoriophycideae",
-    "Oscillatoriophycideae"
-  ],
-  "Species": [
-    "Oscillatoriales",
-    "Oscillatoriales",
-    "Hydrogenophaga",
-    "Oscillatoriales",
-    "Oscillatoriales"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Bacillati": 4,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Cyanobacteriota/Melainabacteria group": 4,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Cyanobacteriota": 4,
+      "Betaproteobacteria": 1
+    },
+    "Family": {
+      "Cyanophyceae": 4,
+      "Burkholderiales": 1
+    },
+    "Genus": {
+      "Oscillatoriophycideae": 4,
+      "Comamonadaceae": 1
+    },
+    "Species": {
+      "Oscillatoriales": 4,
+      "Hydrogenophaga": 1
+    }
+  }
 }

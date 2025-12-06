@@ -1,0 +1,102 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Thermoproteati",
+      "Class": "Candidatus Bathyarchaeota",
+      "Order": "unclassified Candidatus Bathyarchaeota",
+      "Family": "Candidatus Bathyarchaeota archaeon"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Peptococcaceae",
+      "Species": "Desulfonispora"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Thermoplasmatota",
+      "Order": "Thermoplasmata",
+      "Family": "Methanomassiliicoccales",
+      "Genus": "Methanomethylophilaceae",
+      "Species": "unclassified Methanomethylophilaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Sphaerochaetaceae",
+      "Species": "unclassified Sphaerochaetaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Thermotogota",
+      "Order": "Thermotogae",
+      "Family": "Thermotogales",
+      "Genus": "unclassified Thermotogales",
+      "Species": "Thermotogales bacterium Thermo_01"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4,
+      "Archaea": 2
+    },
+    "Phylum": {
+      "Bacillati": 2,
+      "Thermoproteati": 1,
+      "Methanobacteriati": 1,
+      "Pseudomonadati": 1,
+      "Thermotogati": 1
+    },
+    "Class": {
+      "Bacillota": 2,
+      "Candidatus Bathyarchaeota": 1,
+      "Thermoplasmatota": 1,
+      "Spirochaetota": 1,
+      "Thermotogota": 1
+    },
+    "Order": {
+      "unclassified Bacillota": 1,
+      "unclassified Candidatus Bathyarchaeota": 1,
+      "Clostridia": 1,
+      "Thermoplasmata": 1,
+      "Spirochaetia": 1,
+      "Thermotogae": 1
+    },
+    "Family": {
+      "Bacillota bacterium": 1,
+      "Candidatus Bathyarchaeota archaeon": 1,
+      "Eubacteriales": 1,
+      "Methanomassiliicoccales": 1,
+      "Spirochaetales": 1,
+      "Thermotogales": 1
+    },
+    "Genus": {
+      "Peptococcaceae": 1,
+      "Methanomethylophilaceae": 1,
+      "Sphaerochaetaceae": 1,
+      "unclassified Thermotogales": 1
+    },
+    "Species": {
+      "Desulfonispora": 1,
+      "unclassified Methanomethylophilaceae": 1,
+      "unclassified Sphaerochaetaceae": 1,
+      "Thermotogales bacterium Thermo_01": 1
+    }
+  }
+}

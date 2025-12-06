@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Fictibacillaceae",
+      "Species": "Fictibacillus"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacillati": 1
+    },
+    "Class": {
+      "Bacillota": 1
+    },
+    "Order": {
+      "Bacilli": 1
+    },
+    "Family": {
+      "Bacillales": 1
+    },
+    "Genus": {
+      "Fictibacillaceae": 1
+    },
+    "Species": {
+      "Fictibacillus": 1
+    }
+  }
+}

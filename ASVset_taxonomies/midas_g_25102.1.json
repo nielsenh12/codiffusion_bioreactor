@@ -1,0 +1,69 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Nitrospinota/Tectimicrobiota group",
+      "Order": "Candidatus Tectimicrobiota",
+      "Family": "Candidatus Tectimicrobiota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Bacillati": 5,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Chloroflexota": 5,
+      "Nitrospinota/Tectimicrobiota group": 1
+    },
+    "Order": {
+      "unclassified Chloroflexota": 5,
+      "Candidatus Tectimicrobiota": 1
+    },
+    "Family": {
+      "Chloroflexota bacterium": 5,
+      "Candidatus Tectimicrobiota bacterium": 1
+    },
+    "Genus": {},
+    "Species": {}
+  }
+}

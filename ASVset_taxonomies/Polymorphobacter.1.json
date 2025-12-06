@@ -1,0 +1,57 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Sphingosinicellaceae",
+      "Species": "Polymorphobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "unclassified Sphingomonadales",
+      "Species": "Sphingomonadales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Sphingosinicellaceae",
+      "Species": "Sandarakinorhabdus"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "Pseudomonadota": 3
+    },
+    "Order": {
+      "Alphaproteobacteria": 3
+    },
+    "Family": {
+      "Sphingomonadales": 3
+    },
+    "Genus": {
+      "Sphingosinicellaceae": 2,
+      "unclassified Sphingomonadales": 1
+    },
+    "Species": {
+      "Polymorphobacter": 1,
+      "Sphingomonadales bacterium": 1,
+      "Sandarakinorhabdus": 1
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "members": [
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Thermoplasmatota",
+      "Order": "Thermoplasmata",
+      "Family": "Methanomassiliicoccales",
+      "Genus": "Methanomassiliicoccales incertae sedis",
+      "Species": "Candidatus Methanarcanum"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Thermoplasmatota",
+      "Order": "Thermoplasmata",
+      "Family": "Methanomassiliicoccales",
+      "Genus": "Methanomassiliicoccales incertae sedis",
+      "Species": "Candidatus Methanarcanum"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Thermoplasmatota",
+      "Order": "Thermoplasmata",
+      "Family": "Methanomassiliicoccales",
+      "Genus": "unclassified Methanomassiliicoccales",
+      "Species": "Methanomassiliicoccales archaeon"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Thermoplasmatota",
+      "Order": "Thermoplasmata",
+      "Family": "Methanomassiliicoccales",
+      "Genus": "Methanomethylophilaceae",
+      "Species": "unclassified Methanomethylophilaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Thermoplasmatota",
+      "Order": "Thermoplasmata",
+      "Family": "Methanomassiliicoccales",
+      "Genus": "Methanomethylophilaceae",
+      "Species": "unclassified Methanomethylophilaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Archaea": 5
+    },
+    "Phylum": {
+      "Methanobacteriati": 5
+    },
+    "Class": {
+      "Thermoplasmatota": 5
+    },
+    "Order": {
+      "Thermoplasmata": 5
+    },
+    "Family": {
+      "Methanomassiliicoccales": 5
+    },
+    "Genus": {
+      "Methanomassiliicoccales incertae sedis": 2,
+      "unclassified Methanomassiliicoccales": 1,
+      "Methanomethylophilaceae": 2
+    },
+    "Species": {
+      "Candidatus Methanarcanum": 2,
+      "Methanomassiliicoccales archaeon": 1,
+      "unclassified Methanomethylophilaceae": 2
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "unclassified Acidobacteriota",
+      "Family": "Acidobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "environmental samples",
+      "Family": "uncultured Acidobacteriota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Acidobacteriota": 2
+    },
+    "Order": {
+      "unclassified Acidobacteriota": 1,
+      "environmental samples": 1
+    },
+    "Family": {
+      "Acidobacteriota bacterium": 1,
+      "uncultured Acidobacteriota bacterium": 1
+    },
+    "Genus": {},
+    "Species": {}
+  }
+}

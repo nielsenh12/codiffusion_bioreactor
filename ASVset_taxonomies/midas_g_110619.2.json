@@ -1,0 +1,144 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rickettsiales",
+      "Genus": "Candidatus Midichloriaceae",
+      "Species": "Candidatus Cyrtobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "unclassified Pseudomonadota",
+      "Family": "Pseudomonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "unclassified Gammaproteobacteria",
+      "Genus": "Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Candidatus Melainabacteria",
+      "Family": "Vampirovibriophyceae",
+      "Genus": "Vampirovibrionales",
+      "Species": "Vampirovibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "unclassified Pseudomonadota",
+      "Family": "Pseudomonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "unclassified Gammaproteobacteria",
+      "Genus": "Gammaproteobacteria bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 13
+    },
+    "Phylum": {
+      "Pseudomonadati": 12,
+      "Bacillati": 1
+    },
+    "Class": {
+      "Pseudomonadota": 12,
+      "Cyanobacteriota/Melainabacteria group": 1
+    },
+    "Order": {
+      "Gammaproteobacteria": 9,
+      "Alphaproteobacteria": 1,
+      "unclassified Pseudomonadota": 2,
+      "Candidatus Melainabacteria": 1
+    },
+    "Family": {
+      "environmental samples": 7,
+      "Rickettsiales": 1,
+      "Pseudomonadota bacterium": 2,
+      "unclassified Gammaproteobacteria": 2,
+      "Vampirovibriophyceae": 1
+    },
+    "Genus": {
+      "uncultured Gammaproteobacteria bacterium": 7,
+      "Candidatus Midichloriaceae": 1,
+      "Gammaproteobacteria bacterium": 2,
+      "Vampirovibrionales": 1
+    },
+    "Species": {
+      "Candidatus Cyrtobacter": 1,
+      "Vampirovibrio": 1
+    }
+  }
+}

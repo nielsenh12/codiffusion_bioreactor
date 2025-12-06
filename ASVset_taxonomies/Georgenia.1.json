@@ -1,0 +1,74 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Allobogoriellales",
+      "Genus": "Allobogoriellaceae",
+      "Species": "Georgenia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Cellulomonadaceae",
+      "Species": "Actinotalea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Cellulomonadaceae",
+      "Species": "Cellulomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Bacillati": 5
+    },
+    "Class": {
+      "Actinomycetota": 5
+    },
+    "Order": {
+      "Actinomycetes": 3,
+      "environmental samples": 2
+    },
+    "Family": {
+      "Allobogoriellales": 1,
+      "Micrococcales": 2,
+      "uncultured Actinomycetota bacterium": 2
+    },
+    "Genus": {
+      "Allobogoriellaceae": 1,
+      "Cellulomonadaceae": 2
+    },
+    "Species": {
+      "Georgenia": 1,
+      "Actinotalea": 1,
+      "Cellulomonas": 1
+    }
+  }
+}

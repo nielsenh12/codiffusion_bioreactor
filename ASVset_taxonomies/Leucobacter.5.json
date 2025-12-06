@@ -1,56 +1,84 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Microbacteriaceae",
+      "Species": "Leucobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "unclassified Gammaproteobacteria",
+      "Genus": "Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Microbacteriaceae",
+      "Species": "Leucobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Microbacteriaceae",
+      "Species": "Leucobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Microbacteriaceae",
+      "Species": "Leucobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "unclassified Gammaproteobacteria",
+      "Genus": "Gammaproteobacteria bacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Actinomycetota",
-    "Pseudomonadota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "Actinomycetes",
-    "Gammaproteobacteria",
-    "Actinomycetes",
-    "Actinomycetes",
-    "Actinomycetes",
-    "Gammaproteobacteria"
-  ],
-  "Family": [
-    "Micrococcales",
-    "unclassified Gammaproteobacteria",
-    "Micrococcales",
-    "Micrococcales",
-    "Micrococcales",
-    "unclassified Gammaproteobacteria"
-  ],
-  "Genus": [
-    "Microbacteriaceae",
-    "Gammaproteobacteria bacterium",
-    "Microbacteriaceae",
-    "Microbacteriaceae",
-    "Microbacteriaceae",
-    "Gammaproteobacteria bacterium"
-  ],
-  "Species": [
-    "Leucobacter",
-    "Leucobacter",
-    "Leucobacter",
-    "Leucobacter"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Bacillati": 4,
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Actinomycetota": 4,
+      "Pseudomonadota": 2
+    },
+    "Order": {
+      "Actinomycetes": 4,
+      "Gammaproteobacteria": 2
+    },
+    "Family": {
+      "Micrococcales": 4,
+      "unclassified Gammaproteobacteria": 2
+    },
+    "Genus": {
+      "Microbacteriaceae": 4,
+      "Gammaproteobacteria bacterium": 2
+    },
+    "Species": {
+      "Leucobacter": 4
+    }
+  }
 }

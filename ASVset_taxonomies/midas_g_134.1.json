@@ -1,0 +1,33 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Myxococcota",
+      "Order": "Myxococcia",
+      "Family": "unclassified Myxococcia",
+      "Genus": "Deltaproteobacteria bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Myxococcota": 1
+    },
+    "Order": {
+      "Myxococcia": 1
+    },
+    "Family": {
+      "unclassified Myxococcia": 1
+    },
+    "Genus": {
+      "Deltaproteobacteria bacterium": 1
+    },
+    "Species": {}
+  }
+}

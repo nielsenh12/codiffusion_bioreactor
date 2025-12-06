@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Sumerlaeota",
+      "Family": "Candidatus Sumerlaeia",
+      "Genus": "Candidatus Sumerlaeales",
+      "Species": "unclassified Candidatus Sumerlaeales"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacteria incertae sedis": 1
+    },
+    "Class": {
+      "Bacteria candidate phyla": 1
+    },
+    "Order": {
+      "Candidatus Sumerlaeota": 1
+    },
+    "Family": {
+      "Candidatus Sumerlaeia": 1
+    },
+    "Genus": {
+      "Candidatus Sumerlaeales": 1
+    },
+    "Species": {
+      "unclassified Candidatus Sumerlaeales": 1
+    }
+  }
+}

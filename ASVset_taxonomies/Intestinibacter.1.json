@@ -1,0 +1,102 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Peptostreptococcaceae",
+      "Species": "Intestinibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Peptostreptococcaceae",
+      "Species": "Intestinibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Peptostreptococcaceae",
+      "Species": "Intestinibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Peptostreptococcaceae",
+      "Species": "Intestinibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Peptostreptococcaceae",
+      "Species": "Intestinibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Clostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Peptostreptococcaceae",
+      "Species": "Intestinibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Peptostreptococcaceae",
+      "Species": "Intestinibacter"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 8
+    },
+    "Phylum": {
+      "Bacillati": 8
+    },
+    "Class": {
+      "Bacillota": 8
+    },
+    "Order": {
+      "Clostridia": 8
+    },
+    "Family": {
+      "Peptostreptococcales": 7,
+      "Eubacteriales": 1
+    },
+    "Genus": {
+      "Peptostreptococcaceae": 7,
+      "Clostridiaceae": 1
+    },
+    "Species": {
+      "Intestinibacter": 7,
+      "Clostridium": 1
+    }
+  }
+}

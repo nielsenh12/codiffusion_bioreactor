@@ -1,0 +1,51 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Negativicutes",
+      "Family": "Selenomonadales",
+      "Genus": "Sporomusaceae",
+      "Species": "Propionispora"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Thermotogota",
+      "Order": "Thermotogae",
+      "Family": "Thermotogales",
+      "Genus": "unclassified Thermotogales",
+      "Species": "Thermotogales bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacillati": 1,
+      "Thermotogati": 1
+    },
+    "Class": {
+      "Bacillota": 1,
+      "Thermotogota": 1
+    },
+    "Order": {
+      "Negativicutes": 1,
+      "Thermotogae": 1
+    },
+    "Family": {
+      "Selenomonadales": 1,
+      "Thermotogales": 1
+    },
+    "Genus": {
+      "Sporomusaceae": 1,
+      "unclassified Thermotogales": 1
+    },
+    "Species": {
+      "Propionispora": 1,
+      "Thermotogales bacterium": 1
+    }
+  }
+}

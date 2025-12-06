@@ -1,0 +1,90 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "Bellilinea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "Bellilinea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "Bellilinea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "Bellilinea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "Bellilinea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "Bellilinea"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 7
+    },
+    "Phylum": {
+      "Bacillati": 7
+    },
+    "Class": {
+      "Chloroflexota": 7
+    },
+    "Order": {
+      "Anaerolineae": 6,
+      "unclassified Chloroflexota": 1
+    },
+    "Family": {
+      "Anaerolineales": 6,
+      "Chloroflexota bacterium": 1
+    },
+    "Genus": {
+      "Anaerolineaceae": 6
+    },
+    "Species": {
+      "Bellilinea": 6
+    }
+  }
+}

@@ -1,17 +1,30 @@
 {
-  "Kingdom": [
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "unclassified Deltaproteobacteria",
+      "Family": "Deltaproteobacteria bacterium HGW-Deltaproteobacteria-18"
+    }
   ],
-  "Phylum": [
-    "delta/epsilon subdivisions"
-  ],
-  "Class": [
-    "Deltaproteobacteria"
-  ],
-  "Order": [
-    "unclassified Deltaproteobacteria"
-  ],
-  "Family": [
-    "Deltaproteobacteria bacterium HGW-Deltaproteobacteria-18"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "delta/epsilon subdivisions": 1
+    },
+    "Class": {
+      "Deltaproteobacteria": 1
+    },
+    "Order": {
+      "unclassified Deltaproteobacteria": 1
+    },
+    "Family": {
+      "Deltaproteobacteria bacterium HGW-Deltaproteobacteria-18": 1
+    },
+    "Genus": {},
+    "Species": {}
+  }
 }

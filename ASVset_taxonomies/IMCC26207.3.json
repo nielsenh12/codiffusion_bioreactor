@@ -1,145 +1,205 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "unclassified Actinomycetes",
+      "Genus": "Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Bifidobacteriales",
+      "Genus": "Bifidobacteriaceae",
+      "Species": "Bifidobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Bifidobacteriales",
+      "Genus": "Bifidobacteriaceae",
+      "Species": "Bifidobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Bifidobacteriales",
+      "Genus": "Bifidobacteriaceae",
+      "Species": "Bifidobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "unclassified Actinomycetes",
+      "Genus": "Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "unclassified Actinomycetes",
+      "Genus": "Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Bifidobacteriales",
+      "Genus": "Bifidobacteriaceae",
+      "Species": "Bifidobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "Microthrixaceae",
+      "Species": "unclassified Microthrixaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Bifidobacteriales",
+      "Genus": "Bifidobacteriaceae",
+      "Species": "Bifidobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Bifidobacteriales",
+      "Genus": "Bifidobacteriaceae",
+      "Species": "Bifidobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "Microthrixaceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "Microthrixaceae",
+      "Species": "unclassified Microthrixaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "unclassified Actinomycetes",
+      "Genus": "Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "unclassified Actinomycetes",
+      "Genus": "Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Bifidobacteriales",
+      "Genus": "Bifidobacteriaceae",
+      "Species": "Bifidobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "Microthrixaceae",
+      "Species": "unclassified Microthrixaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Bifidobacteriales",
+      "Genus": "Bifidobacteriaceae",
+      "Species": "Bifidobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota"
-  ],
-  "Order": [
-    "Actinomycetes",
-    "Actinomycetes",
-    "Actinomycetes",
-    "environmental samples",
-    "Actinomycetes",
-    "Actinomycetes",
-    "Actinomycetes",
-    "Actinomycetes",
-    "Acidimicrobiia",
-    "Actinomycetes",
-    "environmental samples",
-    "Actinomycetes",
-    "Acidimicrobiia",
-    "Acidimicrobiia",
-    "Actinomycetes",
-    "Actinomycetes",
-    "Actinomycetes",
-    "Acidimicrobiia",
-    "Actinomycetes",
-    "environmental samples"
-  ],
-  "Family": [
-    "unclassified Actinomycetes",
-    "Bifidobacteriales",
-    "Bifidobacteriales",
-    "uncultured Actinomycetota bacterium",
-    "Bifidobacteriales",
-    "unclassified Actinomycetes",
-    "unclassified Actinomycetes",
-    "Bifidobacteriales",
-    "Acidimicrobiales",
-    "Bifidobacteriales",
-    "uncultured Actinomycetota bacterium",
-    "Bifidobacteriales",
-    "Acidimicrobiales",
-    "Acidimicrobiales",
-    "unclassified Actinomycetes",
-    "unclassified Actinomycetes",
-    "Bifidobacteriales",
-    "Acidimicrobiales",
-    "Bifidobacteriales",
-    "uncultured Actinomycetota bacterium"
-  ],
-  "Genus": [
-    "Actinomycetes bacterium",
-    "Bifidobacteriaceae",
-    "Bifidobacteriaceae",
-    "Bifidobacteriaceae",
-    "Actinomycetes bacterium",
-    "Actinomycetes bacterium",
-    "Bifidobacteriaceae",
-    "Microthrixaceae",
-    "Bifidobacteriaceae",
-    "Bifidobacteriaceae",
-    "Microthrixaceae",
-    "Microthrixaceae",
-    "Actinomycetes bacterium",
-    "Actinomycetes bacterium",
-    "Bifidobacteriaceae",
-    "Microthrixaceae",
-    "Bifidobacteriaceae"
-  ],
-  "Species": [
-    "Bifidobacterium",
-    "Bifidobacterium",
-    "Bifidobacterium",
-    "Bifidobacterium",
-    "unclassified Microthrixaceae",
-    "Bifidobacterium",
-    "Bifidobacterium",
-    "environmental samples",
-    "unclassified Microthrixaceae",
-    "Bifidobacterium",
-    "unclassified Microthrixaceae",
-    "Bifidobacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 20
+    },
+    "Phylum": {
+      "Bacillati": 20
+    },
+    "Class": {
+      "Actinomycetota": 20
+    },
+    "Order": {
+      "Actinomycetes": 13,
+      "environmental samples": 3,
+      "Acidimicrobiia": 4
+    },
+    "Family": {
+      "unclassified Actinomycetes": 5,
+      "Bifidobacteriales": 8,
+      "uncultured Actinomycetota bacterium": 3,
+      "Acidimicrobiales": 4
+    },
+    "Genus": {
+      "Actinomycetes bacterium": 5,
+      "Bifidobacteriaceae": 8,
+      "Microthrixaceae": 4
+    },
+    "Species": {
+      "Bifidobacterium": 8,
+      "unclassified Microthrixaceae": 3,
+      "environmental samples": 1
+    }
+  }
 }

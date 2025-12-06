@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "Longilinea"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacillati": 1
+    },
+    "Class": {
+      "Chloroflexota": 1
+    },
+    "Order": {
+      "Anaerolineae": 1
+    },
+    "Family": {
+      "Anaerolineales": 1
+    },
+    "Genus": {
+      "Anaerolineaceae": 1
+    },
+    "Species": {
+      "Longilinea": 1
+    }
+  }
+}

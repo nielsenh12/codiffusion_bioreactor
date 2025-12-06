@@ -1,0 +1,142 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Vallitaleaceae",
+      "Species": "Petrocella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Defluviitaleaceae",
+      "Species": "Defluviitalea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Defluviitaleaceae",
+      "Species": "Defluviitalea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Vallitaleaceae",
+      "Species": "Petrocella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Vallitaleaceae",
+      "Species": "Vallitalea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Clostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Defluviitaleaceae",
+      "Species": "Defluviitalea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Vallitaleaceae",
+      "Species": "Vallitalea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Defluviitaleaceae",
+      "Species": "Defluviitalea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Defluviitaleaceae",
+      "Species": "Defluviitalea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Defluviitaleaceae",
+      "Species": "Defluviitalea"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 12
+    },
+    "Phylum": {
+      "Bacillati": 12
+    },
+    "Class": {
+      "Bacillota": 12
+    },
+    "Order": {
+      "Clostridia": 12
+    },
+    "Family": {
+      "Lachnospirales": 10,
+      "unclassified Clostridia": 1,
+      "Eubacteriales": 1
+    },
+    "Genus": {
+      "Vallitaleaceae": 4,
+      "Clostridia bacterium": 1,
+      "Defluviitaleaceae": 6,
+      "Clostridiaceae": 1
+    },
+    "Species": {
+      "Petrocella": 2,
+      "Defluviitalea": 6,
+      "Vallitalea": 2,
+      "Clostridium": 1
+    }
+  }
+}

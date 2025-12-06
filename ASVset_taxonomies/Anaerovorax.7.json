@@ -1,0 +1,81 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "unclassified Anaerovoracaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "unclassified Anaerovoracaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "unclassified Anaerovoracaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "unclassified Anaerovoracaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "unclassified Anaerovoracaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Bacillati": 6
+    },
+    "Class": {
+      "Bacillota": 6
+    },
+    "Order": {
+      "unclassified Bacillota": 1,
+      "Clostridia": 5
+    },
+    "Family": {
+      "Bacillota bacterium": 1,
+      "Peptostreptococcales": 5
+    },
+    "Genus": {
+      "Anaerovoracaceae": 5
+    },
+    "Species": {
+      "unclassified Anaerovoracaceae": 5
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "environmental samples",
+      "Class": "uncultured bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "environmental samples",
+      "Class": "uncultured bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "environmental samples",
+      "Class": "uncultured bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "environmental samples",
+      "Class": "uncultured bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "environmental samples",
+      "Class": "uncultured bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "environmental samples": 5
+    },
+    "Class": {
+      "uncultured bacterium": 5
+    },
+    "Order": {},
+    "Family": {},
+    "Genus": {},
+    "Species": {}
+  }
+}

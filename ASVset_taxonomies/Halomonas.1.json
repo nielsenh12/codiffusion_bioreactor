@@ -1,0 +1,50 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Oceanospirillales",
+      "Genus": "Halomonadaceae",
+      "Species": "Halomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Flavobacteriia",
+      "Species": "Flavobacteriales"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Pseudomonadota": 1,
+      "FCB group": 1
+    },
+    "Order": {
+      "Gammaproteobacteria": 1,
+      "Bacteroidota/Chlorobiota group": 1
+    },
+    "Family": {
+      "Oceanospirillales": 1,
+      "Bacteroidota": 1
+    },
+    "Genus": {
+      "Halomonadaceae": 1,
+      "Flavobacteriia": 1
+    },
+    "Species": {
+      "Halomonas": 1,
+      "Flavobacteriales": 1
+    }
+  }
+}

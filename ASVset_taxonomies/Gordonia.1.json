@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Nocardiaceae",
+      "Species": "Williamsia"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacillati": 1
+    },
+    "Class": {
+      "Actinomycetota": 1
+    },
+    "Order": {
+      "Actinomycetes": 1
+    },
+    "Family": {
+      "Mycobacteriales": 1
+    },
+    "Genus": {
+      "Nocardiaceae": 1
+    },
+    "Species": {
+      "Williamsia": 1
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Aminicenantota",
+      "Family": "unclassified Candidatus Aminicenantes",
+      "Genus": "Candidatus Aminicenantota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Aminicenantota",
+      "Family": "unclassified Candidatus Aminicenantes",
+      "Genus": "Candidatus Aminicenantota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Aminicenantota",
+      "Family": "unclassified Candidatus Aminicenantes",
+      "Genus": "Candidatus Aminicenantota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Aminicenantota",
+      "Family": "unclassified Candidatus Aminicenantes",
+      "Genus": "Candidatus Aminicenantota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Aminicenantota",
+      "Family": "unclassified Candidatus Aminicenantes",
+      "Genus": "Candidatus Aminicenantota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Aminicenantota",
+      "Family": "unclassified Candidatus Aminicenantes",
+      "Genus": "Candidatus Aminicenantota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Bacteria incertae sedis": 6
+    },
+    "Class": {
+      "Bacteria candidate phyla": 6
+    },
+    "Order": {
+      "Candidatus Aminicenantota": 6
+    },
+    "Family": {
+      "unclassified Candidatus Aminicenantes": 6
+    },
+    "Genus": {
+      "Candidatus Aminicenantota bacterium": 6
+    },
+    "Species": {}
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Chitinophagia",
+      "Species": "Chitinophagales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "unclassified Bacteroidota",
+      "Species": "Bacteroidota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Chitinophagia",
+      "Species": "Chitinophagales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Chitinophagia",
+      "Species": "Chitinophagales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Sphingobacteriia",
+      "Species": "Sphingobacteriales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Chitinophagia",
+      "Species": "Chitinophagales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Chitinophagia",
+      "Species": "Chitinophagales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Chitinophagia",
+      "Species": "Chitinophagales"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 8
+    },
+    "Phylum": {
+      "Pseudomonadati": 8
+    },
+    "Class": {
+      "FCB group": 8
+    },
+    "Order": {
+      "Bacteroidota/Chlorobiota group": 8
+    },
+    "Family": {
+      "Bacteroidota": 8
+    },
+    "Genus": {
+      "Chitinophagia": 6,
+      "unclassified Bacteroidota": 1,
+      "Sphingobacteriia": 1
+    },
+    "Species": {
+      "Chitinophagales": 6,
+      "Bacteroidota bacterium": 1,
+      "Sphingobacteriales": 1
+    }
+  }
+}

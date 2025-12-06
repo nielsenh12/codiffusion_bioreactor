@@ -1,0 +1,65 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Bacillati": 5,
+      "unclassified Bacteria": 1
+    },
+    "Class": {
+      "Armatimonadota": 5,
+      "bacterium": 1
+    },
+    "Order": {
+      "unclassified Armatimonadota": 5
+    },
+    "Family": {
+      "Armatimonadota bacterium": 5
+    },
+    "Genus": {},
+    "Species": {}
+  }
+}

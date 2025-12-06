@@ -1,0 +1,101 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Solibaculum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Acutalibacteraceae",
+      "Species": "Anaeromassilibacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Clostridiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "environmental samples"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 7
+    },
+    "Phylum": {
+      "Bacillati": 6,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Bacillota": 6,
+      "FCB group": 1
+    },
+    "Order": {
+      "Clostridia": 6,
+      "Bacteroidota/Chlorobiota group": 1
+    },
+    "Family": {
+      "Eubacteriales": 6,
+      "Bacteroidota": 1
+    },
+    "Genus": {
+      "Oscillospiraceae": 4,
+      "Acutalibacteraceae": 1,
+      "Bacteroidia": 1,
+      "unclassified Eubacteriales": 1
+    },
+    "Species": {
+      "Solibaculum": 1,
+      "Anaeromassilibacillus": 1,
+      "environmental samples": 3,
+      "Bacteroidales": 1,
+      "Clostridiales bacterium": 1
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Comamonadaceae",
+      "Species": "Hydrogenophaga"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Campylobacterota",
+      "Order": "Epsilonproteobacteria",
+      "Family": "Campylobacterales",
+      "Genus": "Sulfurimonadaceae",
+      "Species": "Sulfuricurvum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Cyanobacteriota",
+      "Family": "Cyanophyceae",
+      "Genus": "Oscillatoriophycideae",
+      "Species": "Oscillatoriales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Comamonadaceae",
+      "Species": "Hydrogenophaga"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Comamonadaceae",
+      "Species": "Hydrogenophaga"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Comamonadaceae",
+      "Species": "Hydrogenophaga"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 7
+    },
+    "Phylum": {
+      "Pseudomonadati": 6,
+      "Bacillati": 1
+    },
+    "Class": {
+      "Pseudomonadota": 5,
+      "Campylobacterota": 1,
+      "Cyanobacteriota/Melainabacteria group": 1
+    },
+    "Order": {
+      "Betaproteobacteria": 4,
+      "Epsilonproteobacteria": 1,
+      "Cyanobacteriota": 1,
+      "Gammaproteobacteria": 1
+    },
+    "Family": {
+      "Burkholderiales": 4,
+      "Campylobacterales": 1,
+      "Cyanophyceae": 1,
+      "Enterobacterales": 1
+    },
+    "Genus": {
+      "Comamonadaceae": 4,
+      "Sulfurimonadaceae": 1,
+      "Oscillatoriophycideae": 1,
+      "Enterobacteriaceae": 1
+    },
+    "Species": {
+      "Hydrogenophaga": 4,
+      "Sulfuricurvum": 1,
+      "Oscillatoriales": 1,
+      "Cronobacter": 1
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Nitrobacteraceae",
+      "Species": "Bradyrhizobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Nitrobacteraceae",
+      "Species": "Bradyrhizobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Alteromonadales",
+      "Genus": "Pseudoalteromonadaceae",
+      "Species": "Pseudoalteromonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Nitrobacteraceae",
+      "Species": "Bradyrhizobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Nitrobacteraceae",
+      "Species": "Bradyrhizobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Alphaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Alphaproteobacteria bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 7
+    },
+    "Phylum": {
+      "Pseudomonadati": 7
+    },
+    "Class": {
+      "Pseudomonadota": 7
+    },
+    "Order": {
+      "Alphaproteobacteria": 6,
+      "Gammaproteobacteria": 1
+    },
+    "Family": {
+      "Hyphomicrobiales": 4,
+      "Alteromonadales": 1,
+      "environmental samples": 2
+    },
+    "Genus": {
+      "Nitrobacteraceae": 4,
+      "Pseudoalteromonadaceae": 1,
+      "uncultured Alphaproteobacteria bacterium": 2
+    },
+    "Species": {
+      "Bradyrhizobium": 4,
+      "Pseudoalteromonas": 1
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium LX-D"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Zhaonellaceae",
+      "Species": "Zhaonella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Zhaonellaceae",
+      "Species": "Zhaonella"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Bacillati": 5
+    },
+    "Class": {
+      "Bacillota": 5
+    },
+    "Order": {
+      "unclassified Bacillota": 3,
+      "Clostridia": 2
+    },
+    "Family": {
+      "Bacillota bacterium LX-D": 1,
+      "Bacillota bacterium": 2,
+      "Neomoorellales": 2
+    },
+    "Genus": {
+      "Zhaonellaceae": 2
+    },
+    "Species": {
+      "Zhaonella": 2
+    }
+  }
+}

@@ -1,37 +1,54 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Propionibacteriaceae",
+      "Species": "Cutibacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Propionibacteriaceae",
+      "Species": "Cutibacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Propionibacteriaceae",
+      "Species": "Cutibacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota"
-  ],
-  "Order": [
-    "Actinomycetes",
-    "Actinomycetes",
-    "Actinomycetes"
-  ],
-  "Family": [
-    "Propionibacteriales",
-    "Propionibacteriales",
-    "Propionibacteriales"
-  ],
-  "Genus": [
-    "Propionibacteriaceae",
-    "Propionibacteriaceae",
-    "Propionibacteriaceae"
-  ],
-  "Species": [
-    "Cutibacterium",
-    "Cutibacterium",
-    "Cutibacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Bacillati": 3
+    },
+    "Class": {
+      "Actinomycetota": 3
+    },
+    "Order": {
+      "Actinomycetes": 3
+    },
+    "Family": {
+      "Propionibacteriales": 3
+    },
+    "Genus": {
+      "Propionibacteriaceae": 3
+    },
+    "Species": {
+      "Cutibacterium": 3
+    }
+  }
 }

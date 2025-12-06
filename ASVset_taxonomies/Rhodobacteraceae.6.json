@@ -1,0 +1,110 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Cyanobacteriota",
+      "Family": "Cyanophyceae",
+      "Genus": "Oscillatoriophycideae",
+      "Species": "Chroococcales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "unclassified Verrucomicrobiota",
+      "Genus": "Verrucomicrobiota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Cyanobacteriota",
+      "Family": "Cyanophyceae",
+      "Genus": "Oscillatoriophycideae",
+      "Species": "Chroococcales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "unclassified Verrucomicrobiota",
+      "Genus": "Verrucomicrobiota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "unclassified Pseudomonadota",
+      "Family": "Pseudomonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Cyanobacteriota",
+      "Family": "Cyanophyceae",
+      "Genus": "Oscillatoriophycideae",
+      "Species": "Chroococcales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "unclassified Verrucomicrobiota",
+      "Genus": "Verrucomicrobiota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Cyanobacteriota",
+      "Family": "Cyanophyceae",
+      "Genus": "Oscillatoriophycideae",
+      "Species": "Chroococcales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "unclassified Verrucomicrobiota",
+      "Genus": "Verrucomicrobiota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 9
+    },
+    "Phylum": {
+      "Bacillati": 4,
+      "Pseudomonadati": 5
+    },
+    "Class": {
+      "Cyanobacteriota/Melainabacteria group": 4,
+      "PVC group": 4,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Cyanobacteriota": 4,
+      "Verrucomicrobiota": 4,
+      "unclassified Pseudomonadota": 1
+    },
+    "Family": {
+      "Cyanophyceae": 4,
+      "unclassified Verrucomicrobiota": 4,
+      "Pseudomonadota bacterium": 1
+    },
+    "Genus": {
+      "Oscillatoriophycideae": 4,
+      "Verrucomicrobiota bacterium": 4
+    },
+    "Species": {
+      "Chroococcales": 4
+    }
+  }
+}

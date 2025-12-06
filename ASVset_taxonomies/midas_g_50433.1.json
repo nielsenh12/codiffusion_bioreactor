@@ -1,0 +1,49 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Legionellales",
+      "Genus": "Legionellaceae",
+      "Species": "Legionella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Acetobacterales",
+      "Genus": "Acetobacteraceae",
+      "Species": "Asaia"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Pseudomonadota": 2
+    },
+    "Order": {
+      "Gammaproteobacteria": 1,
+      "Alphaproteobacteria": 1
+    },
+    "Family": {
+      "Legionellales": 1,
+      "Acetobacterales": 1
+    },
+    "Genus": {
+      "Legionellaceae": 1,
+      "Acetobacteraceae": 1
+    },
+    "Species": {
+      "Legionella": 1,
+      "Asaia": 1
+    }
+  }
+}

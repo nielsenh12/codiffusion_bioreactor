@@ -1,17 +1,30 @@
 {
-  "Kingdom": [
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati"
-  ],
-  "Class": [
-    "Bacillota"
-  ],
-  "Order": [
-    "unclassified Bacillota"
-  ],
-  "Family": [
-    "Bacillota bacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacillati": 1
+    },
+    "Class": {
+      "Bacillota": 1
+    },
+    "Order": {
+      "unclassified Bacillota": 1
+    },
+    "Family": {
+      "Bacillota bacterium": 1
+    },
+    "Genus": {},
+    "Species": {}
+  }
 }

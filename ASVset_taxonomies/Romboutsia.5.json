@@ -1,0 +1,68 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Peptostreptococcaceae",
+      "Species": "Romboutsia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "Thermoanaerobaculia",
+      "Family": "unclassified Thermoanaerobaculia",
+      "Genus": "Thermoanaerobaculia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Peptostreptococcaceae",
+      "Species": "Romboutsia"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Bacillati": 3,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Bacillota": 3,
+      "Acidobacteriota": 1
+    },
+    "Order": {
+      "Clostridia": 3,
+      "Thermoanaerobaculia": 1
+    },
+    "Family": {
+      "Peptostreptococcales": 2,
+      "unclassified Clostridia": 1,
+      "unclassified Thermoanaerobaculia": 1
+    },
+    "Genus": {
+      "Peptostreptococcaceae": 2,
+      "Clostridia bacterium": 1,
+      "Thermoanaerobaculia bacterium": 1
+    },
+    "Species": {
+      "Romboutsia": 2
+    }
+  }
+}

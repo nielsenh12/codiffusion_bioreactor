@@ -1,0 +1,687 @@
+{
+  "members": [
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Thermoproteati",
+      "Class": "Candidatus Bathyarchaeota",
+      "Order": "unclassified Candidatus Bathyarchaeota",
+      "Family": "Candidatus Bathyarchaeota archaeon"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "unclassified Thermodesulfobacteriota",
+      "Family": "Thermodesulfobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Stenosarchaea group",
+      "Family": "Methanomicrobia",
+      "Genus": "Methanomicrobiales",
+      "Species": "Methanomicrobiaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycobacterium"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "unclassified Thermodesulfobacteriota",
+      "Family": "Thermodesulfobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycobacterium"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Thermoproteati",
+      "Class": "Candidatus Bathyarchaeota",
+      "Order": "unclassified Candidatus Bathyarchaeota",
+      "Family": "Candidatus Bathyarchaeota archaeon"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "unclassified Thermodesulfobacteriota",
+      "Family": "Thermodesulfobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "unclassified Methanobacteriota",
+      "Family": "Methanobacteriota archaeon"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycobacterium"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Thermoproteati",
+      "Class": "Candidatus Bathyarchaeota",
+      "Order": "unclassified Candidatus Bathyarchaeota",
+      "Family": "Candidatus Bathyarchaeota archaeon"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycobacterium"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Archaea": 62,
+      "Bacteria": 10
+    },
+    "Phylum": {
+      "Thermoproteati": 3,
+      "Pseudomonadati": 6,
+      "Methanobacteriati": 59,
+      "Bacillati": 4
+    },
+    "Class": {
+      "Candidatus Bathyarchaeota": 3,
+      "Pseudomonadota": 3,
+      "Methanobacteriota": 59,
+      "Thermodesulfobacteriota": 3,
+      "Actinomycetota": 4
+    },
+    "Order": {
+      "unclassified Candidatus Bathyarchaeota": 3,
+      "Gammaproteobacteria": 3,
+      "Methanomada group": 57,
+      "unclassified Thermodesulfobacteriota": 3,
+      "Stenosarchaea group": 1,
+      "Actinomycetes": 4,
+      "unclassified Methanobacteriota": 1
+    },
+    "Family": {
+      "Candidatus Bathyarchaeota archaeon": 3,
+      "Enterobacterales": 3,
+      "Methanobacteria": 57,
+      "Thermodesulfobacteriota bacterium": 3,
+      "Methanomicrobia": 1,
+      "Mycobacteriales": 4,
+      "Methanobacteriota archaeon": 1
+    },
+    "Genus": {
+      "Enterobacteriaceae": 3,
+      "Methanobacteriales": 57,
+      "Methanomicrobiales": 1,
+      "Mycobacteriaceae": 4
+    },
+    "Species": {
+      "Cronobacter": 3,
+      "Methanobacteriaceae": 57,
+      "Methanomicrobiaceae": 1,
+      "Mycobacterium": 4
+    }
+  }
+}

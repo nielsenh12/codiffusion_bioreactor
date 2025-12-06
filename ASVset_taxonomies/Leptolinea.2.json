@@ -1,29 +1,49 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "unclassified Anaerolineae",
+      "Genus": "Anaerolineae bacterium clx_SAG45"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Chloroflexota",
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "Anaerolineae",
-    "Gammaproteobacteria"
-  ],
-  "Family": [
-    "unclassified Anaerolineae",
-    "Enterobacterales"
-  ],
-  "Genus": [
-    "Anaerolineae bacterium clx_SAG45",
-    "Enterobacteriaceae"
-  ],
-  "Species": [
-    "Cronobacter"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacillati": 1,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Chloroflexota": 1,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Anaerolineae": 1,
+      "Gammaproteobacteria": 1
+    },
+    "Family": {
+      "unclassified Anaerolineae": 1,
+      "Enterobacterales": 1
+    },
+    "Genus": {
+      "Anaerolineae bacterium clx_SAG45": 1,
+      "Enterobacteriaceae": 1
+    },
+    "Species": {
+      "Cronobacter": 1
+    }
+  }
 }

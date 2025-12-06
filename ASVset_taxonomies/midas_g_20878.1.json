@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Caldisericota/Cryosericota group",
+      "Order": "Caldisericota",
+      "Family": "Caldisericia",
+      "Genus": "unclassified Caldisericia",
+      "Species": "Caldisericia bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Caldisericota/Cryosericota group": 1
+    },
+    "Order": {
+      "Caldisericota": 1
+    },
+    "Family": {
+      "Caldisericia": 1
+    },
+    "Genus": {
+      "unclassified Caldisericia": 1
+    },
+    "Species": {
+      "Caldisericia bacterium": 1
+    }
+  }
+}

@@ -1,30 +1,46 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Actinomycetales",
+      "Genus": "Actinomycetaceae",
+      "Species": "unclassified Actinomycetaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Actinomycetales",
+      "Genus": "Actinomycetaceae",
+      "Species": "Arcanobacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Actinomycetota",
-    "Actinomycetota"
-  ],
-  "Order": [
-    "Actinomycetes",
-    "Actinomycetes"
-  ],
-  "Family": [
-    "Actinomycetales",
-    "Actinomycetales"
-  ],
-  "Genus": [
-    "Actinomycetaceae",
-    "Actinomycetaceae"
-  ],
-  "Species": [
-    "unclassified Actinomycetaceae",
-    "Arcanobacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacillati": 2
+    },
+    "Class": {
+      "Actinomycetota": 2
+    },
+    "Order": {
+      "Actinomycetes": 2
+    },
+    "Family": {
+      "Actinomycetales": 2
+    },
+    "Genus": {
+      "Actinomycetaceae": 2
+    },
+    "Species": {
+      "unclassified Actinomycetaceae": 1,
+      "Arcanobacterium": 1
+    }
+  }
 }

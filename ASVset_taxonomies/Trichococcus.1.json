@@ -1,0 +1,54 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Carnobacteriaceae",
+      "Species": "Trichococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Carnobacteriaceae",
+      "Species": "Trichococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Carnobacteriaceae",
+      "Species": "Trichococcus"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Bacillati": 3
+    },
+    "Class": {
+      "Bacillota": 3
+    },
+    "Order": {
+      "Bacilli": 3
+    },
+    "Family": {
+      "Lactobacillales": 3
+    },
+    "Genus": {
+      "Carnobacteriaceae": 3
+    },
+    "Species": {
+      "Trichococcus": 3
+    }
+  }
+}

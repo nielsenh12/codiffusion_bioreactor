@@ -1,0 +1,122 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Acetobacterales",
+      "Genus": "Roseomonadaceae",
+      "Species": "Roseomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Acetobacterales",
+      "Genus": "Roseomonadaceae",
+      "Species": "Roseomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Acetobacterales",
+      "Genus": "Roseomonadaceae",
+      "Species": "Roseomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Acetobacterales",
+      "Genus": "Roseomonadaceae",
+      "Species": "Siccirubricoccus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Acetobacterales",
+      "Genus": "Roseomonadaceae",
+      "Species": "Roseomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Acetobacterales",
+      "Genus": "Elioraeaceae",
+      "Species": "Elioraea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Acetobacterales",
+      "Genus": "Acetobacteraceae",
+      "Species": "unclassified Acetobacteraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Acetobacterales",
+      "Genus": "Elioraeaceae",
+      "Species": "Elioraea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Acetobacterales",
+      "Genus": "Roseomonadaceae",
+      "Species": "Roseomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "environmental samples",
+      "Family": "uncultured Pseudomonadota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 10
+    },
+    "Phylum": {
+      "Pseudomonadati": 10
+    },
+    "Class": {
+      "Pseudomonadota": 10
+    },
+    "Order": {
+      "Alphaproteobacteria": 9,
+      "environmental samples": 1
+    },
+    "Family": {
+      "Acetobacterales": 9,
+      "uncultured Pseudomonadota bacterium": 1
+    },
+    "Genus": {
+      "Roseomonadaceae": 6,
+      "Elioraeaceae": 2,
+      "Acetobacteraceae": 1
+    },
+    "Species": {
+      "Roseomonas": 5,
+      "Siccirubricoccus": 1,
+      "Elioraea": 2,
+      "unclassified Acetobacteraceae": 1
+    }
+  }
+}

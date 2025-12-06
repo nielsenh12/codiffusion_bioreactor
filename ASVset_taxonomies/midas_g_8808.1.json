@@ -1,0 +1,33 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "unclassified Verrucomicrobiota",
+      "Genus": "Verrucomicrobia bacterium ADurb.Bin474"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "PVC group": 1
+    },
+    "Order": {
+      "Verrucomicrobiota": 1
+    },
+    "Family": {
+      "unclassified Verrucomicrobiota": 1
+    },
+    "Genus": {
+      "Verrucomicrobia bacterium ADurb.Bin474": 1
+    },
+    "Species": {}
+  }
+}

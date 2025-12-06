@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "Terriglobia",
+      "Family": "Terriglobales",
+      "Genus": "Acidobacteriaceae",
+      "Species": "Granulicella"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Acidobacteriota": 1
+    },
+    "Order": {
+      "Terriglobia": 1
+    },
+    "Family": {
+      "Terriglobales": 1
+    },
+    "Genus": {
+      "Acidobacteriaceae": 1
+    },
+    "Species": {
+      "Granulicella": 1
+    }
+  }
+}

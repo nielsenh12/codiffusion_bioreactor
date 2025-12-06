@@ -1,51 +1,78 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "unclassified Anaerolineaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "unclassified Anaerolineaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "unclassified Anaerolineaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Chloroflexota",
-    "FCB group",
-    "Chloroflexota",
-    "Chloroflexota",
-    "FCB group"
-  ],
-  "Order": [
-    "Anaerolineae",
-    "Bacteroidota/Chlorobiota group",
-    "Anaerolineae",
-    "Anaerolineae",
-    "Bacteroidota/Chlorobiota group"
-  ],
-  "Family": [
-    "Anaerolineales",
-    "Bacteroidota",
-    "Anaerolineales",
-    "Anaerolineales",
-    "Bacteroidota"
-  ],
-  "Genus": [
-    "Anaerolineaceae",
-    "Bacteroidia",
-    "Anaerolineaceae",
-    "Anaerolineaceae",
-    "Bacteroidia"
-  ],
-  "Species": [
-    "unclassified Anaerolineaceae",
-    "Bacteroidales",
-    "unclassified Anaerolineaceae",
-    "unclassified Anaerolineaceae",
-    "Bacteroidales"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Bacillati": 3,
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Chloroflexota": 3,
+      "FCB group": 2
+    },
+    "Order": {
+      "Anaerolineae": 3,
+      "Bacteroidota/Chlorobiota group": 2
+    },
+    "Family": {
+      "Anaerolineales": 3,
+      "Bacteroidota": 2
+    },
+    "Genus": {
+      "Anaerolineaceae": 3,
+      "Bacteroidia": 2
+    },
+    "Species": {
+      "unclassified Anaerolineaceae": 3,
+      "Bacteroidales": 2
+    }
+  }
 }

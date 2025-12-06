@@ -1,56 +1,91 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Acetomicrobiaceae",
+      "Species": "Acetomicrobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Acetomicrobiaceae",
+      "Species": "Acetomicrobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Synergistaceae",
+      "Species": "unclassified Synergistaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Spirochaetaceae",
+      "Species": "unclassified Spirochaetaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Spirochaetaceae",
+      "Species": "unclassified Spirochaetaceae"
+    }
   ],
-  "Phylum": [
-    "Thermotogati",
-    "Thermotogati",
-    "Thermotogati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Synergistota",
-    "Synergistota",
-    "Synergistota",
-    "Spirochaetota",
-    "Chloroflexota",
-    "Spirochaetota"
-  ],
-  "Order": [
-    "Synergistia",
-    "Synergistia",
-    "Synergistia",
-    "Spirochaetia",
-    "unclassified Chloroflexota",
-    "Spirochaetia"
-  ],
-  "Family": [
-    "Synergistales",
-    "Synergistales",
-    "Synergistales",
-    "Spirochaetales",
-    "Chloroflexota bacterium",
-    "Spirochaetales"
-  ],
-  "Genus": [
-    "Acetomicrobiaceae",
-    "Acetomicrobiaceae",
-    "Synergistaceae",
-    "Spirochaetaceae",
-    "Spirochaetaceae"
-  ],
-  "Species": [
-    "Acetomicrobium",
-    "Acetomicrobium",
-    "unclassified Synergistaceae",
-    "unclassified Spirochaetaceae",
-    "unclassified Spirochaetaceae"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Thermotogati": 3,
+      "Pseudomonadati": 2,
+      "Bacillati": 1
+    },
+    "Class": {
+      "Synergistota": 3,
+      "Spirochaetota": 2,
+      "Chloroflexota": 1
+    },
+    "Order": {
+      "Synergistia": 3,
+      "Spirochaetia": 2,
+      "unclassified Chloroflexota": 1
+    },
+    "Family": {
+      "Synergistales": 3,
+      "Spirochaetales": 2,
+      "Chloroflexota bacterium": 1
+    },
+    "Genus": {
+      "Acetomicrobiaceae": 2,
+      "Synergistaceae": 1,
+      "Spirochaetaceae": 2
+    },
+    "Species": {
+      "Acetomicrobium": 2,
+      "unclassified Synergistaceae": 1,
+      "unclassified Spirochaetaceae": 2
+    }
+  }
 }

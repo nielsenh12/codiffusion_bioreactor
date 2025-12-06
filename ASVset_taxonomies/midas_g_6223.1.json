@@ -1,0 +1,33 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Dehalococcoidia",
+      "Family": "unclassified Dehalococcoidia",
+      "Genus": "Dehalococcoidia bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacillati": 1
+    },
+    "Class": {
+      "Chloroflexota": 1
+    },
+    "Order": {
+      "Dehalococcoidia": 1
+    },
+    "Family": {
+      "unclassified Dehalococcoidia": 1
+    },
+    "Genus": {
+      "Dehalococcoidia bacterium": 1
+    },
+    "Species": {}
+  }
+}

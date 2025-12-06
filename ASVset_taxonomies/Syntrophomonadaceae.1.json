@@ -1,0 +1,69 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Clostridiales bacterium PH28_bin88"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Pseudomonadati": 3,
+      "Bacillati": 1
+    },
+    "Class": {
+      "FCB group": 3,
+      "Bacillota": 1
+    },
+    "Order": {
+      "Bacteroidota/Chlorobiota group": 3,
+      "Clostridia": 1
+    },
+    "Family": {
+      "Bacteroidota": 3,
+      "Eubacteriales": 1
+    },
+    "Genus": {
+      "Bacteroidia": 3,
+      "unclassified Eubacteriales": 1
+    },
+    "Species": {
+      "Bacteroidales": 3,
+      "Clostridiales bacterium PH28_bin88": 1
+    }
+  }
+}

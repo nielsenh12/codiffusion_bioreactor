@@ -1,0 +1,160 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "unclassified Spirochaetota",
+      "Family": "Spirochaetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Nitrospirota",
+      "Order": "unclassified Nitrospirota",
+      "Family": "Nitrospirota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "unclassified Christensenellales",
+      "Species": "Christensenellales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Clostridiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Eubacteriales bacterium OttesenSCG-928-K08"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "unclassified Christensenellales",
+      "Species": "Christensenellales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Clostridiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Firmicutes bacterium ADurb.Bin506"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Ignavibacteriota",
+      "Genus": "Ignavibacteria",
+      "Species": "Ignavibacteriales"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 14
+    },
+    "Phylum": {
+      "Pseudomonadati": 3,
+      "Bacillati": 10,
+      "unclassified Bacteria": 1
+    },
+    "Class": {
+      "Spirochaetota": 1,
+      "Nitrospirota": 1,
+      "Bacillota": 10,
+      "bacterium": 1,
+      "FCB group": 1
+    },
+    "Order": {
+      "unclassified Spirochaetota": 1,
+      "unclassified Nitrospirota": 1,
+      "unclassified Bacillota": 4,
+      "Clostridia": 6,
+      "Bacteroidota/Chlorobiota group": 1
+    },
+    "Family": {
+      "Spirochaetota bacterium": 1,
+      "Nitrospirota bacterium": 1,
+      "Bacillota bacterium": 3,
+      "Christensenellales": 3,
+      "Eubacteriales": 3,
+      "Firmicutes bacterium ADurb.Bin506": 1,
+      "Ignavibacteriota": 1
+    },
+    "Genus": {
+      "unclassified Christensenellales": 2,
+      "Christensenellaceae": 1,
+      "unclassified Eubacteriales": 3,
+      "Ignavibacteria": 1
+    },
+    "Species": {
+      "Christensenellales bacterium": 2,
+      "unclassified Christensenellaceae": 1,
+      "Clostridiales bacterium": 2,
+      "Eubacteriales bacterium OttesenSCG-928-K08": 1,
+      "Ignavibacteriales": 1
+    }
+  }
+}

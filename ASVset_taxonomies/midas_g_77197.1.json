@@ -1,89 +1,133 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "unclassified Oscillospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Negativicutes",
+      "Family": "Selenomonadales",
+      "Genus": "Sporomusaceae",
+      "Species": "Anaeromusa"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Eubacteriales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "unclassified Oscillospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "unclassified Oscillospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Pseudoflavonifractor"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "unclassified Clostridiaceae"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota"
-  ],
-  "Order": [
-    "Clostridia",
-    "Negativicutes",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia"
-  ],
-  "Family": [
-    "Eubacteriales",
-    "Selenomonadales",
-    "unclassified Clostridia",
-    "Eubacteriales",
-    "unclassified Clostridia",
-    "unclassified Clostridia",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "unclassified Clostridia",
-    "Eubacteriales"
-  ],
-  "Genus": [
-    "Oscillospiraceae",
-    "Sporomusaceae",
-    "Clostridia bacterium",
-    "unclassified Eubacteriales",
-    "Clostridia bacterium",
-    "Clostridia bacterium",
-    "Oscillospiraceae",
-    "Oscillospiraceae",
-    "Oscillospiraceae",
-    "Clostridia bacterium",
-    "Clostridiaceae"
-  ],
-  "Species": [
-    "unclassified Oscillospiraceae",
-    "Anaeromusa",
-    "Eubacteriales bacterium",
-    "unclassified Oscillospiraceae",
-    "unclassified Oscillospiraceae",
-    "Pseudoflavonifractor",
-    "unclassified Clostridiaceae"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 11
+    },
+    "Phylum": {
+      "Bacillati": 11
+    },
+    "Class": {
+      "Bacillota": 11
+    },
+    "Order": {
+      "Clostridia": 10,
+      "Negativicutes": 1
+    },
+    "Family": {
+      "Eubacteriales": 6,
+      "Selenomonadales": 1,
+      "unclassified Clostridia": 4
+    },
+    "Genus": {
+      "Oscillospiraceae": 4,
+      "Sporomusaceae": 1,
+      "Clostridia bacterium": 4,
+      "unclassified Eubacteriales": 1,
+      "Clostridiaceae": 1
+    },
+    "Species": {
+      "unclassified Oscillospiraceae": 3,
+      "Anaeromusa": 1,
+      "Eubacteriales bacterium": 1,
+      "Pseudoflavonifractor": 1,
+      "unclassified Clostridiaceae": 1
+    }
+  }
 }

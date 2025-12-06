@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Negativicutes",
+      "Family": "Veillonellales",
+      "Genus": "Veillonellaceae",
+      "Species": "unclassified Veillonellaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacillati": 1
+    },
+    "Class": {
+      "Bacillota": 1
+    },
+    "Order": {
+      "Negativicutes": 1
+    },
+    "Family": {
+      "Veillonellales": 1
+    },
+    "Genus": {
+      "Veillonellaceae": 1
+    },
+    "Species": {
+      "unclassified Veillonellaceae": 1
+    }
+  }
+}

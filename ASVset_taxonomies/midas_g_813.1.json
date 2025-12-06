@@ -1,41 +1,65 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "unclassified Anaerolineae",
+      "Genus": "Anaerolineae bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "unclassified Anaerolineales",
+      "Species": "Anaerolineales bacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota"
-  ],
-  "Order": [
-    "Anaerolineae",
-    "Chloroflexia",
-    "Chloroflexia",
-    "Anaerolineae"
-  ],
-  "Family": [
-    "unclassified Anaerolineae",
-    "environmental samples",
-    "environmental samples",
-    "Anaerolineales"
-  ],
-  "Genus": [
-    "Anaerolineae bacterium",
-    "uncultured Chloroflexia bacterium",
-    "uncultured Chloroflexia bacterium",
-    "unclassified Anaerolineales"
-  ],
-  "Species": [
-    "Anaerolineales bacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Bacillati": 4
+    },
+    "Class": {
+      "Chloroflexota": 4
+    },
+    "Order": {
+      "Anaerolineae": 2,
+      "Chloroflexia": 2
+    },
+    "Family": {
+      "unclassified Anaerolineae": 1,
+      "environmental samples": 2,
+      "Anaerolineales": 1
+    },
+    "Genus": {
+      "Anaerolineae bacterium": 1,
+      "uncultured Chloroflexia bacterium": 2,
+      "unclassified Anaerolineales": 1
+    },
+    "Species": {
+      "Anaerolineales bacterium": 1
+    }
+  }
 }

@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Phycisphaerae",
+      "Genus": "unclassified Phycisphaerae",
+      "Species": "Phycisphaerae bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "PVC group": 1
+    },
+    "Order": {
+      "Planctomycetota": 1
+    },
+    "Family": {
+      "Phycisphaerae": 1
+    },
+    "Genus": {
+      "unclassified Phycisphaerae": 1
+    },
+    "Species": {
+      "Phycisphaerae bacterium": 1
+    }
+  }
+}

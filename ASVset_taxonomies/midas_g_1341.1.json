@@ -1,0 +1,41 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured beta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured beta proteobacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Pseudomonadota": 2
+    },
+    "Order": {
+      "Betaproteobacteria": 2
+    },
+    "Family": {
+      "environmental samples": 2
+    },
+    "Genus": {
+      "uncultured beta proteobacterium": 2
+    },
+    "Species": {}
+  }
+}

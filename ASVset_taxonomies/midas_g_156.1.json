@@ -1,51 +1,78 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "unclassified Anaerolineaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "unclassified Anaerolineaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "unclassified Anaerolineaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Aminobacteriaceae",
+      "Species": "Aminobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "unclassified Anaerolineaceae"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Thermotogati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Synergistota",
-    "Chloroflexota"
-  ],
-  "Order": [
-    "Anaerolineae",
-    "Anaerolineae",
-    "Anaerolineae",
-    "Synergistia",
-    "Anaerolineae"
-  ],
-  "Family": [
-    "Anaerolineales",
-    "Anaerolineales",
-    "Anaerolineales",
-    "Synergistales",
-    "Anaerolineales"
-  ],
-  "Genus": [
-    "Anaerolineaceae",
-    "Anaerolineaceae",
-    "Anaerolineaceae",
-    "Aminobacteriaceae",
-    "Anaerolineaceae"
-  ],
-  "Species": [
-    "unclassified Anaerolineaceae",
-    "unclassified Anaerolineaceae",
-    "unclassified Anaerolineaceae",
-    "Aminobacterium",
-    "unclassified Anaerolineaceae"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Bacillati": 4,
+      "Thermotogati": 1
+    },
+    "Class": {
+      "Chloroflexota": 4,
+      "Synergistota": 1
+    },
+    "Order": {
+      "Anaerolineae": 4,
+      "Synergistia": 1
+    },
+    "Family": {
+      "Anaerolineales": 4,
+      "Synergistales": 1
+    },
+    "Genus": {
+      "Anaerolineaceae": 4,
+      "Aminobacteriaceae": 1
+    },
+    "Species": {
+      "unclassified Anaerolineaceae": 4,
+      "Aminobacterium": 1
+    }
+  }
 }

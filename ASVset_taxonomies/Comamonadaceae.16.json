@@ -1,0 +1,66 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Comamonadaceae",
+      "Species": "Rhodoferax"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Comamonadaceae",
+      "Species": "Acidovorax"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "environmental samples",
+      "Family": "uncultured Pseudomonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "unclassified Burkholderiales",
+      "Species": "Burkholderiales bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Pseudomonadati": 4
+    },
+    "Class": {
+      "Pseudomonadota": 4
+    },
+    "Order": {
+      "Betaproteobacteria": 3,
+      "environmental samples": 1
+    },
+    "Family": {
+      "Burkholderiales": 3,
+      "uncultured Pseudomonadota bacterium": 1
+    },
+    "Genus": {
+      "Comamonadaceae": 2,
+      "unclassified Burkholderiales": 1
+    },
+    "Species": {
+      "Rhodoferax": 1,
+      "Acidovorax": 1,
+      "Burkholderiales bacterium": 1
+    }
+  }
+}

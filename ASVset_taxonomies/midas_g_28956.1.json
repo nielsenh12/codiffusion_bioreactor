@@ -1,0 +1,88 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Candidatus Kapaibacteriota",
+      "Genus": "Candidatus Kapaibacteriia",
+      "Species": "Candidatus Kapaibacteriales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Saccharimonadota",
+      "Family": "Candidatus Saccharimonadia",
+      "Genus": "Candidatus Nanosynbacterales",
+      "Species": "Candidatus Nanosynbacteraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Ignavibacteriota",
+      "Genus": "Ignavibacteria",
+      "Species": "unclassified Ignavibacteria"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Ignavibacteriota",
+      "Genus": "Ignavibacteria",
+      "Species": "unclassified Ignavibacteria"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Candidatus Kapaibacteriota",
+      "Genus": "Candidatus Kapaibacteriia",
+      "Species": "Candidatus Kapaibacteriales"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Pseudomonadati": 4,
+      "unclassified Bacteria": 1,
+      "Bacteria incertae sedis": 1
+    },
+    "Class": {
+      "FCB group": 4,
+      "bacterium": 1,
+      "Bacteria candidate phyla": 1
+    },
+    "Order": {
+      "Bacteroidota/Chlorobiota group": 4,
+      "Candidatus Saccharimonadota": 1
+    },
+    "Family": {
+      "Candidatus Kapaibacteriota": 2,
+      "Candidatus Saccharimonadia": 1,
+      "Ignavibacteriota": 2
+    },
+    "Genus": {
+      "Candidatus Kapaibacteriia": 2,
+      "Candidatus Nanosynbacterales": 1,
+      "Ignavibacteria": 2
+    },
+    "Species": {
+      "Candidatus Kapaibacteriales": 2,
+      "Candidatus Nanosynbacteraceae": 1,
+      "unclassified Ignavibacteria": 2
+    }
+  }
+}

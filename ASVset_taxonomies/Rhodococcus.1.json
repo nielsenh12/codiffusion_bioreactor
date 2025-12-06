@@ -1,37 +1,54 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Nocardiaceae",
+      "Species": "Rhodococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Nocardiaceae",
+      "Species": "Rhodococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Nocardiaceae",
+      "Species": "Rhodococcus"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota"
-  ],
-  "Order": [
-    "Actinomycetes",
-    "Actinomycetes",
-    "Actinomycetes"
-  ],
-  "Family": [
-    "Mycobacteriales",
-    "Mycobacteriales",
-    "Mycobacteriales"
-  ],
-  "Genus": [
-    "Nocardiaceae",
-    "Nocardiaceae",
-    "Nocardiaceae"
-  ],
-  "Species": [
-    "Rhodococcus",
-    "Rhodococcus",
-    "Rhodococcus"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Bacillati": 3
+    },
+    "Class": {
+      "Actinomycetota": 3
+    },
+    "Order": {
+      "Actinomycetes": 3
+    },
+    "Family": {
+      "Mycobacteriales": 3
+    },
+    "Genus": {
+      "Nocardiaceae": 3
+    },
+    "Species": {
+      "Rhodococcus": 3
+    }
+  }
 }

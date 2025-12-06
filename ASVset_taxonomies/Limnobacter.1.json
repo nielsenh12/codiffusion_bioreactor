@@ -1,23 +1,36 @@
 {
-  "Kingdom": [
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Lysobacterales",
+      "Genus": "Lysobacteraceae",
+      "Species": "Chiayiivirga"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "Gammaproteobacteria"
-  ],
-  "Family": [
-    "Lysobacterales"
-  ],
-  "Genus": [
-    "Lysobacteraceae"
-  ],
-  "Species": [
-    "Chiayiivirga"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Gammaproteobacteria": 1
+    },
+    "Family": {
+      "Lysobacterales": 1
+    },
+    "Genus": {
+      "Lysobacteraceae": 1
+    },
+    "Species": {
+      "Chiayiivirga": 1
+    }
+  }
 }

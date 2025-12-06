@@ -1,0 +1,126 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Propionibacteriaceae",
+      "Species": "Naumannella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Campylobacterota",
+      "Order": "unclassified Campylobacterota",
+      "Family": "Campylobacterota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "unclassified Mycobacteriales",
+      "Species": "Mycobacteriales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "unclassified Actinomycetota",
+      "Family": "Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 12
+    },
+    "Phylum": {
+      "Bacillati": 11,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Actinomycetota": 11,
+      "Campylobacterota": 1
+    },
+    "Order": {
+      "Actinomycetes": 2,
+      "environmental samples": 8,
+      "unclassified Campylobacterota": 1,
+      "unclassified Actinomycetota": 1
+    },
+    "Family": {
+      "Propionibacteriales": 1,
+      "uncultured Actinomycetota bacterium": 8,
+      "Campylobacterota bacterium": 1,
+      "Mycobacteriales": 1,
+      "Actinomycetota bacterium": 1
+    },
+    "Genus": {
+      "Propionibacteriaceae": 1,
+      "unclassified Mycobacteriales": 1
+    },
+    "Species": {
+      "Naumannella": 1,
+      "Mycobacteriales bacterium": 1
+    }
+  }
+}

@@ -1,95 +1,161 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Thermovirgaceae",
+      "Species": "unclassified Thermovirgaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Thermovirgaceae",
+      "Species": "unclassified Thermovirgaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Thermovirgaceae",
+      "Species": "unclassified Thermovirgaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Spirochaetaceae",
+      "Species": "unclassified Spirochaetaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium M3-1"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "unclassified Planctomycetota",
+      "Genus": "Planctomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "unclassified Synergistales",
+      "Species": "Synergistales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Thermovirgaceae",
+      "Species": "unclassified Thermovirgaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriaceae",
+      "Species": "Eubacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriaceae",
+      "Species": "unclassified Eubacteriaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    }
   ],
-  "Phylum": [
-    "Thermotogati",
-    "Thermotogati",
-    "Thermotogati",
-    "Pseudomonadati",
-    "unclassified Bacteria",
-    "Pseudomonadati",
-    "Thermotogati",
-    "Pseudomonadati",
-    "Thermotogati",
-    "Bacillati",
-    "Bacillati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Synergistota",
-    "Synergistota",
-    "Synergistota",
-    "Spirochaetota",
-    "bacterium M3-1",
-    "PVC group",
-    "Synergistota",
-    "FCB group",
-    "Synergistota",
-    "Bacillota",
-    "Bacillota",
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "Synergistia",
-    "Synergistia",
-    "Synergistia",
-    "Spirochaetia",
-    "Planctomycetota",
-    "Synergistia",
-    "Bacteroidota/Chlorobiota group",
-    "Synergistia",
-    "Clostridia",
-    "Clostridia",
-    "Gammaproteobacteria"
-  ],
-  "Family": [
-    "Synergistales",
-    "Synergistales",
-    "Synergistales",
-    "Spirochaetales",
-    "unclassified Planctomycetota",
-    "Synergistales",
-    "Bacteroidota",
-    "Synergistales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Enterobacterales"
-  ],
-  "Genus": [
-    "Thermovirgaceae",
-    "Thermovirgaceae",
-    "Thermovirgaceae",
-    "Spirochaetaceae",
-    "Planctomycetota bacterium",
-    "unclassified Synergistales",
-    "Bacteroidia",
-    "Thermovirgaceae",
-    "Eubacteriaceae",
-    "Eubacteriaceae",
-    "Enterobacteriaceae"
-  ],
-  "Species": [
-    "unclassified Thermovirgaceae",
-    "unclassified Thermovirgaceae",
-    "unclassified Thermovirgaceae",
-    "unclassified Spirochaetaceae",
-    "Synergistales bacterium",
-    "Bacteroidales",
-    "unclassified Thermovirgaceae",
-    "Eubacterium",
-    "unclassified Eubacteriaceae",
-    "Cronobacter"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 12
+    },
+    "Phylum": {
+      "Thermotogati": 5,
+      "Pseudomonadati": 4,
+      "unclassified Bacteria": 1,
+      "Bacillati": 2
+    },
+    "Class": {
+      "Synergistota": 5,
+      "Spirochaetota": 1,
+      "bacterium M3-1": 1,
+      "PVC group": 1,
+      "FCB group": 1,
+      "Bacillota": 2,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Synergistia": 5,
+      "Spirochaetia": 1,
+      "Planctomycetota": 1,
+      "Bacteroidota/Chlorobiota group": 1,
+      "Clostridia": 2,
+      "Gammaproteobacteria": 1
+    },
+    "Family": {
+      "Synergistales": 5,
+      "Spirochaetales": 1,
+      "unclassified Planctomycetota": 1,
+      "Bacteroidota": 1,
+      "Eubacteriales": 2,
+      "Enterobacterales": 1
+    },
+    "Genus": {
+      "Thermovirgaceae": 4,
+      "Spirochaetaceae": 1,
+      "Planctomycetota bacterium": 1,
+      "unclassified Synergistales": 1,
+      "Bacteroidia": 1,
+      "Eubacteriaceae": 2,
+      "Enterobacteriaceae": 1
+    },
+    "Species": {
+      "unclassified Thermovirgaceae": 4,
+      "unclassified Spirochaetaceae": 1,
+      "Synergistales bacterium": 1,
+      "Bacteroidales": 1,
+      "Eubacterium": 1,
+      "unclassified Eubacteriaceae": 1,
+      "Cronobacter": 1
+    }
+  }
 }

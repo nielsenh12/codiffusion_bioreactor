@@ -1,0 +1,201 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Methylococcales",
+      "Genus": "Methylococcaceae",
+      "Species": "Methylomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Thiotrichales",
+      "Genus": "Fastidiosibacteraceae",
+      "Species": "Cysteiniphilum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Methylococcales",
+      "Genus": "Methylococcaceae",
+      "Species": "Methylomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Methylococcales",
+      "Genus": "Methylococcaceae",
+      "Species": "Methylomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Methylococcales",
+      "Genus": "Methylococcaceae",
+      "Species": "Methylomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Candidatus Melainabacteria",
+      "Family": "Vampirovibriophyceae",
+      "Genus": "Vampirovibrionales",
+      "Species": "Vampirovibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "environmental samples",
+      "Family": "uncultured Pseudomonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Legionellales",
+      "Genus": "Legionellaceae",
+      "Species": "Legionella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Legionellales",
+      "Genus": "Legionellaceae",
+      "Species": "Legionella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Methylococcales",
+      "Genus": "Methylococcaceae",
+      "Species": "Methylomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Methylococcales",
+      "Genus": "Methylococcaceae",
+      "Species": "Methylomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Thiotrichales",
+      "Genus": "Francisellaceae",
+      "Species": "unclassified Francisellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Methylococcales",
+      "Genus": "Methylococcaceae",
+      "Species": "Methylocucumis"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 18
+    },
+    "Phylum": {
+      "Pseudomonadati": 17,
+      "Bacillati": 1
+    },
+    "Class": {
+      "Pseudomonadota": 17,
+      "Cyanobacteriota/Melainabacteria group": 1
+    },
+    "Order": {
+      "Gammaproteobacteria": 16,
+      "Candidatus Melainabacteria": 1,
+      "environmental samples": 1
+    },
+    "Family": {
+      "environmental samples": 5,
+      "Methylococcales": 7,
+      "Thiotrichales": 2,
+      "Vampirovibriophyceae": 1,
+      "uncultured Pseudomonadota bacterium": 1,
+      "Legionellales": 2
+    },
+    "Genus": {
+      "uncultured Gammaproteobacteria bacterium": 5,
+      "Methylococcaceae": 7,
+      "Fastidiosibacteraceae": 1,
+      "Vampirovibrionales": 1,
+      "Legionellaceae": 2,
+      "Francisellaceae": 1
+    },
+    "Species": {
+      "Methylomonas": 6,
+      "Cysteiniphilum": 1,
+      "Vampirovibrio": 1,
+      "Legionella": 2,
+      "unclassified Francisellaceae": 1,
+      "Methylocucumis": 1
+    }
+  }
+}

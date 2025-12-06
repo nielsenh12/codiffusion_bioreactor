@@ -1,100 +1,137 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Sphingomonadaceae",
+      "Species": "Sphingomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Sphingomonadaceae",
+      "Species": "Sphingomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Sphingomonadaceae",
+      "Species": "Sphingomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Rhizorhabdaceae",
+      "Species": "Rhizorhabdus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Rhizorhabdaceae",
+      "Species": "Rhizorhabdus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Sphingomonadaceae",
+      "Species": "Sphingomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Rhizorhabdaceae",
+      "Species": "Rhizorhabdus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Rhizorhabdaceae",
+      "Species": "Rhizorhabdus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Sphingomonadaceae",
+      "Species": "Sphingomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Rhizorhabdaceae",
+      "Species": "Rhizorhabdus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Sphingomonadaceae",
+      "Species": "Sphingomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Rhizorhabdaceae",
+      "Species": "Rhizorhabdus"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "Alphaproteobacteria",
-    "Alphaproteobacteria",
-    "Alphaproteobacteria",
-    "Alphaproteobacteria",
-    "Alphaproteobacteria",
-    "Alphaproteobacteria",
-    "Alphaproteobacteria",
-    "Alphaproteobacteria",
-    "Alphaproteobacteria",
-    "Alphaproteobacteria",
-    "Alphaproteobacteria",
-    "Alphaproteobacteria"
-  ],
-  "Family": [
-    "Sphingomonadales",
-    "Sphingomonadales",
-    "Sphingomonadales",
-    "Sphingomonadales",
-    "Sphingomonadales",
-    "Sphingomonadales",
-    "Sphingomonadales",
-    "Sphingomonadales",
-    "Sphingomonadales",
-    "Sphingomonadales",
-    "Sphingomonadales",
-    "Sphingomonadales"
-  ],
-  "Genus": [
-    "Sphingomonadaceae",
-    "Sphingomonadaceae",
-    "Sphingomonadaceae",
-    "Rhizorhabdaceae",
-    "Rhizorhabdaceae",
-    "Sphingomonadaceae",
-    "Rhizorhabdaceae",
-    "Rhizorhabdaceae",
-    "Sphingomonadaceae",
-    "Rhizorhabdaceae",
-    "Sphingomonadaceae",
-    "Rhizorhabdaceae"
-  ],
-  "Species": [
-    "Sphingomonas",
-    "Sphingomonas",
-    "Sphingomonas",
-    "Rhizorhabdus",
-    "Rhizorhabdus",
-    "Sphingomonas",
-    "Rhizorhabdus",
-    "Rhizorhabdus",
-    "Sphingomonas",
-    "Rhizorhabdus",
-    "Sphingomonas",
-    "Rhizorhabdus"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 12
+    },
+    "Phylum": {
+      "Pseudomonadati": 12
+    },
+    "Class": {
+      "Pseudomonadota": 12
+    },
+    "Order": {
+      "Alphaproteobacteria": 12
+    },
+    "Family": {
+      "Sphingomonadales": 12
+    },
+    "Genus": {
+      "Sphingomonadaceae": 6,
+      "Rhizorhabdaceae": 6
+    },
+    "Species": {
+      "Sphingomonas": 6,
+      "Rhizorhabdus": 6
+    }
+  }
 }

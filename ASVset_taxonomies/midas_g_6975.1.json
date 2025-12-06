@@ -1,0 +1,51 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "unclassified Hyphomicrobiales",
+      "Species": "Hyphomicrobiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Saccharimonadota",
+      "Family": "Candidatus Saccharimonadota incertae sedis",
+      "Genus": "Candidatus Minimicrobia",
+      "Species": "Candidatus Minimicrobia vallesae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 1,
+      "Bacteria incertae sedis": 1
+    },
+    "Class": {
+      "Pseudomonadota": 1,
+      "Bacteria candidate phyla": 1
+    },
+    "Order": {
+      "Alphaproteobacteria": 1,
+      "Candidatus Saccharimonadota": 1
+    },
+    "Family": {
+      "Hyphomicrobiales": 1,
+      "Candidatus Saccharimonadota incertae sedis": 1
+    },
+    "Genus": {
+      "unclassified Hyphomicrobiales": 1,
+      "Candidatus Minimicrobia": 1
+    },
+    "Species": {
+      "Hyphomicrobiales bacterium": 1,
+      "Candidatus Minimicrobia vallesae": 1
+    }
+  }
+}

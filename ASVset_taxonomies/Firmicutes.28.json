@@ -1,0 +1,245 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Clostridiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Peptococcaceae",
+      "Species": "Thermanaerosceptrum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Clostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Petroclostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "unclassified Candidatus Cloacimonadota",
+      "Genus": "Candidatus Cloacimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Gracilibacteraceae",
+      "Species": "Gracilibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Nitrobacteraceae",
+      "Species": "Rhodopseudomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Zhaonellaceae",
+      "Species": "Zhaonella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Dehalococcoidia",
+      "Family": "Dehalococcoidales",
+      "Genus": "unclassified Dehalococcoidales",
+      "Species": "Dehalococcoidales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Clostridiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "environmental samples"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 20
+    },
+    "Phylum": {
+      "Bacillati": 16,
+      "Pseudomonadati": 4
+    },
+    "Class": {
+      "Bacillota": 14,
+      "FCB group": 3,
+      "Actinomycetota": 1,
+      "Pseudomonadota": 1,
+      "Chloroflexota": 1
+    },
+    "Order": {
+      "Clostridia": 13,
+      "unclassified Bacillota": 1,
+      "Bacteroidota/Chlorobiota group": 2,
+      "Candidatus Cloacimonadota": 1,
+      "Actinomycetes": 1,
+      "Alphaproteobacteria": 1,
+      "Dehalococcoidia": 1
+    },
+    "Family": {
+      "Eubacteriales": 7,
+      "Bacillota bacterium": 1,
+      "environmental samples": 3,
+      "Christensenellales": 1,
+      "Bacteroidota": 2,
+      "unclassified Candidatus Cloacimonadota": 1,
+      "unclassified Clostridia": 1,
+      "Mycobacteriales": 1,
+      "Hyphomicrobiales": 1,
+      "Neomoorellales": 1,
+      "Dehalococcoidales": 1
+    },
+    "Genus": {
+      "unclassified Eubacteriales": 2,
+      "uncultured Clostridia bacterium": 3,
+      "Christensenellaceae": 1,
+      "Peptococcaceae": 1,
+      "Bacteroidia": 2,
+      "Clostridiaceae": 2,
+      "Oscillospiraceae": 1,
+      "Candidatus Cloacimonadota bacterium": 1,
+      "Clostridia bacterium": 1,
+      "Mycobacteriaceae": 1,
+      "Gracilibacteraceae": 1,
+      "Nitrobacteraceae": 1,
+      "Zhaonellaceae": 1,
+      "unclassified Dehalococcoidales": 1
+    },
+    "Species": {
+      "Clostridiales bacterium": 2,
+      "unclassified Christensenellaceae": 1,
+      "Thermanaerosceptrum": 1,
+      "Bacteroidales": 2,
+      "Clostridium": 1,
+      "Petroclostridium": 1,
+      "Mycobacterium": 1,
+      "Gracilibacter": 1,
+      "Rhodopseudomonas": 1,
+      "Zhaonella": 1,
+      "Dehalococcoidales bacterium": 1,
+      "environmental samples": 1
+    }
+  }
+}

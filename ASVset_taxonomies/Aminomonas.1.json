@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Synergistaceae",
+      "Species": "Aminomonas"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Thermotogati": 1
+    },
+    "Class": {
+      "Synergistota": 1
+    },
+    "Order": {
+      "Synergistia": 1
+    },
+    "Family": {
+      "Synergistales": 1
+    },
+    "Genus": {
+      "Synergistaceae": 1
+    },
+    "Species": {
+      "Aminomonas": 1
+    }
+  }
+}

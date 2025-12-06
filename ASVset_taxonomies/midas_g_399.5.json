@@ -1,20 +1,33 @@
 {
-  "Kingdom": [
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "unclassified Actinomycetes",
+      "Genus": "Actinomycetes bacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati"
-  ],
-  "Class": [
-    "Actinomycetota"
-  ],
-  "Order": [
-    "Actinomycetes"
-  ],
-  "Family": [
-    "unclassified Actinomycetes"
-  ],
-  "Genus": [
-    "Actinomycetes bacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacillati": 1
+    },
+    "Class": {
+      "Actinomycetota": 1
+    },
+    "Order": {
+      "Actinomycetes": 1
+    },
+    "Family": {
+      "unclassified Actinomycetes": 1
+    },
+    "Genus": {
+      "Actinomycetes bacterium": 1
+    },
+    "Species": {}
+  }
 }

@@ -1,0 +1,102 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "unclassified Planctomycetota",
+      "Genus": "Planctomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Phycisphaerae",
+      "Genus": "environmental samples",
+      "Species": "uncultured Phycisphaerae bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Phycisphaerae",
+      "Genus": "environmental samples",
+      "Species": "uncultured Phycisphaerae bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Phycisphaerae",
+      "Genus": "environmental samples",
+      "Species": "uncultured Phycisphaerae bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Phycisphaerae",
+      "Genus": "unclassified Phycisphaerae",
+      "Species": "Phycisphaerae bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Phycisphaerae",
+      "Genus": "unclassified Phycisphaerae",
+      "Species": "Phycisphaerae bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Phycisphaerae",
+      "Genus": "unclassified Phycisphaerae",
+      "Species": "Phycisphaerae bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Phycisphaerae",
+      "Genus": "unclassified Phycisphaerae",
+      "Species": "Phycisphaerae bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 8
+    },
+    "Phylum": {
+      "Pseudomonadati": 8
+    },
+    "Class": {
+      "PVC group": 8
+    },
+    "Order": {
+      "Planctomycetota": 8
+    },
+    "Family": {
+      "unclassified Planctomycetota": 1,
+      "Phycisphaerae": 7
+    },
+    "Genus": {
+      "Planctomycetota bacterium": 1,
+      "environmental samples": 3,
+      "unclassified Phycisphaerae": 4
+    },
+    "Species": {
+      "uncultured Phycisphaerae bacterium": 3,
+      "Phycisphaerae bacterium": 4
+    }
+  }
+}

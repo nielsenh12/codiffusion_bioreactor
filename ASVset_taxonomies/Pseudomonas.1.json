@@ -1,0 +1,45 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Pseudomonadales",
+      "Genus": "Pseudomonadaceae",
+      "Species": "Pseudomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Pseudomonadales",
+      "Genus": "Pseudomonadaceae",
+      "Species": "Pseudomonas"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Pseudomonadota": 2
+    },
+    "Order": {
+      "Gammaproteobacteria": 2
+    },
+    "Family": {
+      "Pseudomonadales": 2
+    },
+    "Genus": {
+      "Pseudomonadaceae": 2
+    },
+    "Species": {
+      "Pseudomonas": 2
+    }
+  }
+}

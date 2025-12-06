@@ -1,0 +1,98 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Candidatus Kapaibacteriota",
+      "Genus": "Candidatus Kapaibacteriia",
+      "Species": "Candidatus Kapaibacteriales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Ignavibacteriota",
+      "Genus": "Ignavibacteria",
+      "Species": "unclassified Ignavibacteria"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Ignavibacteriota",
+      "Genus": "Ignavibacteria",
+      "Species": "unclassified Ignavibacteria"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Candidatus Kapaibacteriota",
+      "Genus": "Candidatus Kapaibacteriia",
+      "Species": "Candidatus Kapaibacteriales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Candidatus Kapaibacteriota",
+      "Genus": "Candidatus Kapaibacteriia",
+      "Species": "Candidatus Kapaibacteriales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Hyphomicrobiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Candidatus Kapaibacteriota",
+      "Genus": "Candidatus Kapaibacteriia",
+      "Species": "Candidatus Kapaibacteriales"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 7
+    },
+    "Phylum": {
+      "Pseudomonadati": 7
+    },
+    "Class": {
+      "FCB group": 6,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Bacteroidota/Chlorobiota group": 6,
+      "Alphaproteobacteria": 1
+    },
+    "Family": {
+      "Candidatus Kapaibacteriota": 4,
+      "Ignavibacteriota": 2,
+      "Hyphomicrobiales": 1
+    },
+    "Genus": {
+      "Candidatus Kapaibacteriia": 4,
+      "Ignavibacteria": 2,
+      "environmental samples": 1
+    },
+    "Species": {
+      "Candidatus Kapaibacteriales": 4,
+      "unclassified Ignavibacteria": 2,
+      "uncultured Hyphomicrobiales bacterium": 1
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Bdellovibrionota",
+      "Order": "Bdellovibrionia",
+      "Family": "Bdellovibrionales",
+      "Genus": "Pseudobdellovibrionaceae",
+      "Species": "Bdellovibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Bdellovibrionota",
+      "Order": "Bdellovibrionia",
+      "Family": "Bdellovibrionales",
+      "Genus": "Pseudobdellovibrionaceae",
+      "Species": "Bdellovibrio"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Bdellovibrionota": 2
+    },
+    "Order": {
+      "Bdellovibrionia": 2
+    },
+    "Family": {
+      "Bdellovibrionales": 2
+    },
+    "Genus": {
+      "Pseudobdellovibrionaceae": 2
+    },
+    "Species": {
+      "Bdellovibrio": 2
+    }
+  }
+}

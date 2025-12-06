@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Coriobacteriia",
+      "Family": "Eggerthellales",
+      "Genus": "Eggerthellaceae",
+      "Species": "Gordonibacter"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacillati": 1
+    },
+    "Class": {
+      "Actinomycetota": 1
+    },
+    "Order": {
+      "Coriobacteriia": 1
+    },
+    "Family": {
+      "Eggerthellales": 1
+    },
+    "Genus": {
+      "Eggerthellaceae": 1
+    },
+    "Species": {
+      "Gordonibacter": 1
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "members": [
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Stenosarchaea group",
+      "Family": "Candidatus Methanofastidiosia",
+      "Genus": "Candidatus Methanofastidiosales",
+      "Species": "Candidatus Methanofastidiosaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Moraxellales",
+      "Genus": "Moraxellaceae",
+      "Species": "Acinetobacter"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Stenosarchaea group",
+      "Family": "Candidatus Methanofastidiosia",
+      "Genus": "Candidatus Methanofastidiosales",
+      "Species": "Candidatus Methanofastidiosaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Archaea": 2,
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Methanobacteriati": 2,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Methanobacteriota": 2,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Stenosarchaea group": 2,
+      "Gammaproteobacteria": 1
+    },
+    "Family": {
+      "Candidatus Methanofastidiosia": 2,
+      "Moraxellales": 1
+    },
+    "Genus": {
+      "Candidatus Methanofastidiosales": 2,
+      "Moraxellaceae": 1
+    },
+    "Species": {
+      "Candidatus Methanofastidiosaceae": 2,
+      "Acinetobacter": 1
+    }
+  }
+}

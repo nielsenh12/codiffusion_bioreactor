@@ -1,129 +1,190 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "unclassified Anaerolineae",
+      "Genus": "Anaerolineae bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "unclassified Anaerolineae",
+      "Genus": "Anaerolineae bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "unclassified Anaerolineae",
+      "Genus": "Anaerolineae bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Patescibacteria group",
+      "Family": "Microgenomates group",
+      "Genus": "Minisyncoccota",
+      "Species": "unclassified Minisyncoccota"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "unclassified Anaerolineae",
+      "Genus": "Anaerolineae bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "unclassified Anaerolineae",
+      "Genus": "Anaerolineae bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "delta/epsilon subdivisions",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacteria incertae sedis",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "delta/epsilon subdivisions",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Deltaproteobacteria",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Bacteria candidate phyla",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Deltaproteobacteria",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota"
-  ],
-  "Order": [
-    "Chloroflexia",
-    "Chloroflexia",
-    "Chloroflexia",
-    "Anaerolineae",
-    "environmental samples",
-    "Chloroflexia",
-    "Anaerolineae",
-    "Anaerolineae",
-    "Chloroflexia",
-    "Patescibacteria group",
-    "Chloroflexia",
-    "Chloroflexia",
-    "Chloroflexia",
-    "Anaerolineae",
-    "Chloroflexia",
-    "environmental samples",
-    "Chloroflexia",
-    "Anaerolineae",
-    "Chloroflexia"
-  ],
-  "Family": [
-    "environmental samples",
-    "environmental samples",
-    "environmental samples",
-    "unclassified Anaerolineae",
-    "uncultured delta proteobacterium",
-    "environmental samples",
-    "unclassified Anaerolineae",
-    "unclassified Anaerolineae",
-    "environmental samples",
-    "Microgenomates group",
-    "environmental samples",
-    "environmental samples",
-    "environmental samples",
-    "unclassified Anaerolineae",
-    "environmental samples",
-    "uncultured delta proteobacterium",
-    "environmental samples",
-    "unclassified Anaerolineae",
-    "environmental samples"
-  ],
-  "Genus": [
-    "uncultured Chloroflexia bacterium",
-    "uncultured Chloroflexia bacterium",
-    "uncultured Chloroflexia bacterium",
-    "Anaerolineae bacterium",
-    "uncultured Chloroflexia bacterium",
-    "Anaerolineae bacterium",
-    "Anaerolineae bacterium",
-    "uncultured Chloroflexia bacterium",
-    "Minisyncoccota",
-    "uncultured Chloroflexia bacterium",
-    "uncultured Chloroflexia bacterium",
-    "uncultured Chloroflexia bacterium",
-    "Anaerolineae bacterium",
-    "uncultured Chloroflexia bacterium",
-    "uncultured Chloroflexia bacterium",
-    "Anaerolineae bacterium",
-    "uncultured Chloroflexia bacterium"
-  ],
-  "Species": [
-    "unclassified Minisyncoccota"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 19
+    },
+    "Phylum": {
+      "Bacillati": 16,
+      "delta/epsilon subdivisions": 2,
+      "Bacteria incertae sedis": 1
+    },
+    "Class": {
+      "Chloroflexota": 16,
+      "Deltaproteobacteria": 2,
+      "Bacteria candidate phyla": 1
+    },
+    "Order": {
+      "Chloroflexia": 11,
+      "Anaerolineae": 5,
+      "environmental samples": 2,
+      "Patescibacteria group": 1
+    },
+    "Family": {
+      "environmental samples": 11,
+      "unclassified Anaerolineae": 5,
+      "uncultured delta proteobacterium": 2,
+      "Microgenomates group": 1
+    },
+    "Genus": {
+      "uncultured Chloroflexia bacterium": 11,
+      "Anaerolineae bacterium": 5,
+      "Minisyncoccota": 1
+    },
+    "Species": {
+      "unclassified Minisyncoccota": 1
+    }
+  }
 }

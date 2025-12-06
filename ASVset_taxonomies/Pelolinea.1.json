@@ -1,103 +1,158 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "Pelolinea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "unclassified Anaerolineae",
+      "Genus": "Anaerolineae bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Patescibacteria group",
+      "Family": "unclassified Patescibacteria group",
+      "Genus": "Patescibacteria group bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "Pelolinea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Dehalococcoidia",
+      "Family": "unclassified Dehalococcoidia",
+      "Genus": "Dehalococcoidia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "Pelolinea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "Pelolinea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "Pelolinea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Patescibacteria group",
+      "Family": "unclassified Patescibacteria group",
+      "Genus": "Patescibacteria group bacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacteria incertae sedis",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacteria incertae sedis"
-  ],
-  "Class": [
-    "Chloroflexota",
-    "Chloroflexota",
-    "Bacteria candidate phyla",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Bacteria candidate phyla"
-  ],
-  "Order": [
-    "Anaerolineae",
-    "Anaerolineae",
-    "Patescibacteria group",
-    "Anaerolineae",
-    "Anaerolineae",
-    "unclassified Chloroflexota",
-    "Dehalococcoidia",
-    "Chloroflexia",
-    "unclassified Chloroflexota",
-    "unclassified Chloroflexota",
-    "Anaerolineae",
-    "Anaerolineae",
-    "Anaerolineae",
-    "Patescibacteria group"
-  ],
-  "Family": [
-    "Anaerolineales",
-    "unclassified Anaerolineae",
-    "unclassified Patescibacteria group",
-    "Anaerolineales",
-    "Anaerolineales",
-    "Chloroflexota bacterium",
-    "unclassified Dehalococcoidia",
-    "environmental samples",
-    "Chloroflexota bacterium",
-    "Chloroflexota bacterium",
-    "Anaerolineales",
-    "Anaerolineales",
-    "Anaerolineales",
-    "unclassified Patescibacteria group"
-  ],
-  "Genus": [
-    "Anaerolineaceae",
-    "Anaerolineae bacterium",
-    "Patescibacteria group bacterium",
-    "Anaerolineaceae",
-    "Anaerolineaceae",
-    "Dehalococcoidia bacterium",
-    "uncultured Chloroflexia bacterium",
-    "Anaerolineaceae",
-    "Anaerolineaceae",
-    "Anaerolineaceae",
-    "Patescibacteria group bacterium"
-  ],
-  "Species": [
-    "Pelolinea",
-    "Pelolinea",
-    "environmental samples",
-    "Pelolinea",
-    "Pelolinea",
-    "Pelolinea"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 14
+    },
+    "Phylum": {
+      "Bacillati": 12,
+      "Bacteria incertae sedis": 2
+    },
+    "Class": {
+      "Chloroflexota": 12,
+      "Bacteria candidate phyla": 2
+    },
+    "Order": {
+      "Anaerolineae": 7,
+      "Patescibacteria group": 2,
+      "unclassified Chloroflexota": 3,
+      "Dehalococcoidia": 1,
+      "Chloroflexia": 1
+    },
+    "Family": {
+      "Anaerolineales": 6,
+      "unclassified Anaerolineae": 1,
+      "unclassified Patescibacteria group": 2,
+      "Chloroflexota bacterium": 3,
+      "unclassified Dehalococcoidia": 1,
+      "environmental samples": 1
+    },
+    "Genus": {
+      "Anaerolineaceae": 6,
+      "Anaerolineae bacterium": 1,
+      "Patescibacteria group bacterium": 2,
+      "Dehalococcoidia bacterium": 1,
+      "uncultured Chloroflexia bacterium": 1
+    },
+    "Species": {
+      "Pelolinea": 5,
+      "environmental samples": 1
+    }
+  }
 }

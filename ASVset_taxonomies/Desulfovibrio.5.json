@@ -1,0 +1,89 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "Desulfovibrionaceae",
+      "Species": "Desulfovibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "Desulfovibrionaceae",
+      "Species": "Nitratidesulfovibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Actinomycetales",
+      "Genus": "unclassified Actinomycetales",
+      "Species": "Actinomycetales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "Desulfovibrionaceae",
+      "Species": "Nitratidesulfovibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "Desulfovibrionaceae",
+      "Species": "unclassified Desulfovibrionaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "Desulfovibrionaceae",
+      "Species": "Nitratidesulfovibrio"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Pseudomonadati": 5,
+      "Bacillati": 1
+    },
+    "Class": {
+      "Thermodesulfobacteriota": 5,
+      "Actinomycetota": 1
+    },
+    "Order": {
+      "Desulfovibrionia": 5,
+      "Actinomycetes": 1
+    },
+    "Family": {
+      "Desulfovibrionales": 5,
+      "Actinomycetales": 1
+    },
+    "Genus": {
+      "Desulfovibrionaceae": 5,
+      "unclassified Actinomycetales": 1
+    },
+    "Species": {
+      "Desulfovibrio": 1,
+      "Nitratidesulfovibrio": 3,
+      "Actinomycetales bacterium": 1,
+      "unclassified Desulfovibrionaceae": 1
+    }
+  }
+}

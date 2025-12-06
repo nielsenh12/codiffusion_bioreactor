@@ -1,0 +1,167 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Syntrophomonadaceae",
+      "Species": "Syntrophothermus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "unclassified Actinomycetes",
+      "Genus": "Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Deinococcota",
+      "Order": "Deinococci",
+      "Family": "Deinococcales",
+      "Genus": "Deinococcaceae",
+      "Species": "Deinococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Coprothermobacterota",
+      "Order": "unclassified Coprothermobacterota",
+      "Family": "Coprothermobacterota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Synergistaceae",
+      "Species": "unclassified Synergistaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "unclassified Actinomycetes",
+      "Genus": "Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Deinococcota",
+      "Order": "Deinococci",
+      "Family": "Deinococcales",
+      "Genus": "Deinococcaceae",
+      "Species": "Deinococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Bacillales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Syntrophomonadaceae",
+      "Species": "Syntrophothermus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "unclassified Pseudomonadota",
+      "Family": "Pseudomonadota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 14
+    },
+    "Phylum": {
+      "Bacillati": 8,
+      "Thermotogati": 3,
+      "Pseudomonadati": 2,
+      "unclassified Bacteria": 1
+    },
+    "Class": {
+      "Bacillota": 6,
+      "Actinomycetota": 2,
+      "Deinococcota": 2,
+      "Coprothermobacterota": 1,
+      "Synergistota": 1,
+      "bacterium": 1,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Clostridia": 2,
+      "Actinomycetes": 2,
+      "Deinococci": 2,
+      "unclassified Coprothermobacterota": 1,
+      "Synergistia": 1,
+      "unclassified Bacillota": 3,
+      "Bacilli": 1,
+      "unclassified Pseudomonadota": 1
+    },
+    "Family": {
+      "Eubacteriales": 2,
+      "unclassified Actinomycetes": 2,
+      "Deinococcales": 2,
+      "Coprothermobacterota bacterium": 1,
+      "Synergistales": 1,
+      "Bacillota bacterium": 3,
+      "Bacillales": 1,
+      "Pseudomonadota bacterium": 1
+    },
+    "Genus": {
+      "Syntrophomonadaceae": 2,
+      "Actinomycetes bacterium": 2,
+      "Deinococcaceae": 2,
+      "Synergistaceae": 1,
+      "environmental samples": 1
+    },
+    "Species": {
+      "Syntrophothermus": 2,
+      "Deinococcus": 2,
+      "unclassified Synergistaceae": 1,
+      "uncultured Bacillales bacterium": 1
+    }
+  }
+}

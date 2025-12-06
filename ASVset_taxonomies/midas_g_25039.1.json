@@ -1,0 +1,180 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Bdellovibrionota",
+      "Order": "Bdellovibrionia",
+      "Family": "Bdellovibrionales",
+      "Genus": "Pseudobdellovibrionaceae",
+      "Species": "Micavibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Bdellovibrionota",
+      "Order": "Bdellovibrionia",
+      "Family": "Bdellovibrionales",
+      "Genus": "Pseudobdellovibrionaceae",
+      "Species": "Micavibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Bdellovibrionota",
+      "Order": "Bdellovibrionia",
+      "Family": "Bdellovibrionales",
+      "Genus": "Pseudobdellovibrionaceae",
+      "Species": "Micavibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "unclassified Alphaproteobacteria",
+      "Genus": "Alphaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "unclassified Alphaproteobacteria",
+      "Genus": "Alphaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Bdellovibrionota",
+      "Order": "Bdellovibrionia",
+      "Family": "Bdellovibrionales",
+      "Genus": "Pseudobdellovibrionaceae",
+      "Species": "Micavibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodospirillales",
+      "Genus": "unclassified Rhodospirillales",
+      "Species": "Kiloniellales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "unclassified Anaerovoracaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodospirillales",
+      "Genus": "Azospirillaceae",
+      "Species": "Oleisolibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "unclassified Gammaproteobacteria",
+      "Genus": "Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Alteromonadales",
+      "Genus": "Alteromonadaceae",
+      "Species": "Alteromonas/Salinimonas group"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodospirillales",
+      "Genus": "Roseiterribacteraceae",
+      "Species": "Roseiterribacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "unclassified Alphaproteobacteria",
+      "Genus": "Alphaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "unclassified Alphaproteobacteria",
+      "Genus": "Alphaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Bdellovibrionota",
+      "Order": "Bdellovibrionia",
+      "Family": "Bdellovibrionales",
+      "Genus": "Pseudobdellovibrionaceae",
+      "Species": "Micavibrio"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 15
+    },
+    "Phylum": {
+      "Pseudomonadati": 14,
+      "Bacillati": 1
+    },
+    "Class": {
+      "Bdellovibrionota": 5,
+      "Pseudomonadota": 9,
+      "Bacillota": 1
+    },
+    "Order": {
+      "Bdellovibrionia": 5,
+      "Alphaproteobacteria": 7,
+      "Clostridia": 1,
+      "Gammaproteobacteria": 2
+    },
+    "Family": {
+      "Bdellovibrionales": 5,
+      "unclassified Alphaproteobacteria": 4,
+      "Rhodospirillales": 3,
+      "Peptostreptococcales": 1,
+      "unclassified Gammaproteobacteria": 1,
+      "Alteromonadales": 1
+    },
+    "Genus": {
+      "Pseudobdellovibrionaceae": 5,
+      "Alphaproteobacteria bacterium": 4,
+      "unclassified Rhodospirillales": 1,
+      "Anaerovoracaceae": 1,
+      "Azospirillaceae": 1,
+      "Gammaproteobacteria bacterium": 1,
+      "Alteromonadaceae": 1,
+      "Roseiterribacteraceae": 1
+    },
+    "Species": {
+      "Micavibrio": 5,
+      "Kiloniellales bacterium": 1,
+      "unclassified Anaerovoracaceae": 1,
+      "Oleisolibacter": 1,
+      "Alteromonas/Salinimonas group": 1,
+      "Roseiterribacter": 1
+    }
+  }
+}

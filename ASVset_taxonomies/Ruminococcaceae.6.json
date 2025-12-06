@@ -1,0 +1,65 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Thermovirgaceae",
+      "Species": "unclassified Thermovirgaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Thermotogati": 1,
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Synergistota": 1,
+      "FCB group": 1,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Synergistia": 1,
+      "Bacteroidota/Chlorobiota group": 1,
+      "Gammaproteobacteria": 1
+    },
+    "Family": {
+      "Synergistales": 1,
+      "Bacteroidota": 1,
+      "Enterobacterales": 1
+    },
+    "Genus": {
+      "Thermovirgaceae": 1,
+      "Bacteroidia": 1,
+      "Enterobacteriaceae": 1
+    },
+    "Species": {
+      "unclassified Thermovirgaceae": 1,
+      "Bacteroidales": 1,
+      "Cronobacter": 1
+    }
+  }
+}

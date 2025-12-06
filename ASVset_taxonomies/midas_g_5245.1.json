@@ -1,0 +1,49 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Patescibacteria group",
+      "Family": "unclassified Patescibacteria group",
+      "Genus": "Patescibacteria group bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "unclassified Bacteroidota",
+      "Species": "Bacteroidota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacteria incertae sedis": 1,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Bacteria candidate phyla": 1,
+      "FCB group": 1
+    },
+    "Order": {
+      "Patescibacteria group": 1,
+      "Bacteroidota/Chlorobiota group": 1
+    },
+    "Family": {
+      "unclassified Patescibacteria group": 1,
+      "Bacteroidota": 1
+    },
+    "Genus": {
+      "Patescibacteria group bacterium": 1,
+      "unclassified Bacteroidota": 1
+    },
+    "Species": {
+      "Bacteroidota bacterium": 1
+    }
+  }
+}

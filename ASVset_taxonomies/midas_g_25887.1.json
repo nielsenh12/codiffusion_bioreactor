@@ -1,126 +1,198 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Clostridia incertae sedis",
+      "Genus": "Helicovermis",
+      "Species": "Helicovermis profundi"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellia incertae sedis",
+      "Genus": "Dethiosulfatibacter",
+      "Species": "Dethiosulfatibacter aminovorans"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Crassaminicella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriales incertae sedis",
+      "Species": "Eubacteriales Family XII. Incertae Sedis"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Natronincolaceae",
+      "Species": "Alkaliphilus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriales incertae sedis",
+      "Species": "Eubacteriales Family XII. Incertae Sedis"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Peptoclostridiaceae",
+      "Species": "Peptoclostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Anoxynatronum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Crassaminicella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Firmicutes bacterium HGW-Firmicutes-11"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Oceanospirillales",
+      "Genus": "Halomonadaceae",
+      "Species": "Halomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriales incertae sedis",
+      "Species": "Eubacteriales Family XII. Incertae Sedis"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Isachenkonia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Natronincolaceae",
+      "Species": "Alkaliphilus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Peptoclostridiaceae",
+      "Species": "Peptoclostridium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Actinomycetota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Pseudomonadota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota"
-  ],
-  "Order": [
-    "Clostridia",
-    "Tissierellia",
-    "Clostridia",
-    "Actinomycetes",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "unclassified Bacillota",
-    "Gammaproteobacteria",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia"
-  ],
-  "Family": [
-    "Clostridia incertae sedis",
-    "Tissierellia incertae sedis",
-    "Eubacteriales",
-    "Mycobacteriales",
-    "Eubacteriales",
-    "Peptostreptococcales",
-    "Eubacteriales",
-    "Peptostreptococcales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Firmicutes bacterium HGW-Firmicutes-11",
-    "Oceanospirillales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Peptostreptococcales",
-    "Peptostreptococcales"
-  ],
-  "Genus": [
-    "Helicovermis",
-    "Dethiosulfatibacter",
-    "Clostridiaceae",
-    "Mycobacteriaceae",
-    "Eubacteriales incertae sedis",
-    "Natronincolaceae",
-    "Eubacteriales incertae sedis",
-    "Peptoclostridiaceae",
-    "Clostridiaceae",
-    "Clostridiaceae",
-    "Halomonadaceae",
-    "Eubacteriales incertae sedis",
-    "Clostridiaceae",
-    "Natronincolaceae",
-    "Peptoclostridiaceae"
-  ],
-  "Species": [
-    "Helicovermis profundi",
-    "Dethiosulfatibacter aminovorans",
-    "Crassaminicella",
-    "Mycobacterium",
-    "Eubacteriales Family XII. Incertae Sedis",
-    "Alkaliphilus",
-    "Eubacteriales Family XII. Incertae Sedis",
-    "Peptoclostridium",
-    "Anoxynatronum",
-    "Crassaminicella",
-    "Halomonas",
-    "Eubacteriales Family XII. Incertae Sedis",
-    "Isachenkonia",
-    "Alkaliphilus",
-    "Peptoclostridium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 16
+    },
+    "Phylum": {
+      "Bacillati": 15,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Bacillota": 14,
+      "Actinomycetota": 1,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Clostridia": 12,
+      "Tissierellia": 1,
+      "Actinomycetes": 1,
+      "unclassified Bacillota": 1,
+      "Gammaproteobacteria": 1
+    },
+    "Family": {
+      "Clostridia incertae sedis": 1,
+      "Tissierellia incertae sedis": 1,
+      "Eubacteriales": 7,
+      "Mycobacteriales": 1,
+      "Peptostreptococcales": 4,
+      "Firmicutes bacterium HGW-Firmicutes-11": 1,
+      "Oceanospirillales": 1
+    },
+    "Genus": {
+      "Helicovermis": 1,
+      "Dethiosulfatibacter": 1,
+      "Clostridiaceae": 4,
+      "Mycobacteriaceae": 1,
+      "Eubacteriales incertae sedis": 3,
+      "Natronincolaceae": 2,
+      "Peptoclostridiaceae": 2,
+      "Halomonadaceae": 1
+    },
+    "Species": {
+      "Helicovermis profundi": 1,
+      "Dethiosulfatibacter aminovorans": 1,
+      "Crassaminicella": 2,
+      "Mycobacterium": 1,
+      "Eubacteriales Family XII. Incertae Sedis": 3,
+      "Alkaliphilus": 2,
+      "Peptoclostridium": 2,
+      "Anoxynatronum": 1,
+      "Halomonas": 1,
+      "Isachenkonia": 1
+    }
+  }
 }

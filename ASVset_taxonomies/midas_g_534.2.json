@@ -1,0 +1,93 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Roseiarcaceae",
+      "Species": "Terripilifer"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Beijerinckiaceae",
+      "Species": "unclassified Beijerinckiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "unclassified Pseudomonadota",
+      "Family": "Pseudomonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Alphaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Alphaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Hyphomicrobiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Alphaproteobacteria bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 7
+    },
+    "Phylum": {
+      "Pseudomonadati": 7
+    },
+    "Class": {
+      "Pseudomonadota": 7
+    },
+    "Order": {
+      "Alphaproteobacteria": 6,
+      "unclassified Pseudomonadota": 1
+    },
+    "Family": {
+      "Hyphomicrobiales": 3,
+      "Pseudomonadota bacterium": 1,
+      "environmental samples": 3
+    },
+    "Genus": {
+      "Roseiarcaceae": 1,
+      "Beijerinckiaceae": 1,
+      "uncultured Alphaproteobacteria bacterium": 3,
+      "environmental samples": 1
+    },
+    "Species": {
+      "Terripilifer": 1,
+      "unclassified Beijerinckiaceae": 1,
+      "uncultured Hyphomicrobiales bacterium": 1
+    }
+  }
+}

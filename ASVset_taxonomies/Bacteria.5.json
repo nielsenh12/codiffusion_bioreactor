@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Nitriliruptoria",
+      "Family": "Nitriliruptorales",
+      "Genus": "Nitriliruptoraceae",
+      "Species": "environmental samples"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacillati": 1
+    },
+    "Class": {
+      "Actinomycetota": 1
+    },
+    "Order": {
+      "Nitriliruptoria": 1
+    },
+    "Family": {
+      "Nitriliruptorales": 1
+    },
+    "Genus": {
+      "Nitriliruptoraceae": 1
+    },
+    "Species": {
+      "environmental samples": 1
+    }
+  }
+}

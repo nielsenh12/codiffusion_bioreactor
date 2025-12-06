@@ -1,0 +1,144 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Moraxellales",
+      "Genus": "Moraxellaceae",
+      "Species": "Acinetobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "unclassified Lachnospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "unclassified Lachnospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "Mediterraneibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "unclassified Lachnospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "Acetatifactor"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Campylobacterota",
+      "Order": "Epsilonproteobacteria",
+      "Family": "Campylobacterales",
+      "Genus": "Helicobacteraceae",
+      "Species": "Helicobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "Lacrimispora"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "unclassified Lachnospiraceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 11
+    },
+    "Phylum": {
+      "Pseudomonadati": 3,
+      "Bacillati": 8
+    },
+    "Class": {
+      "Pseudomonadota": 2,
+      "Bacillota": 8,
+      "Campylobacterota": 1
+    },
+    "Order": {
+      "Gammaproteobacteria": 2,
+      "Clostridia": 8,
+      "Epsilonproteobacteria": 1
+    },
+    "Family": {
+      "Moraxellales": 1,
+      "Enterobacterales": 1,
+      "Lachnospirales": 8,
+      "Campylobacterales": 1
+    },
+    "Genus": {
+      "Moraxellaceae": 1,
+      "Enterobacteriaceae": 1,
+      "Lachnospiraceae": 8,
+      "Helicobacteraceae": 1
+    },
+    "Species": {
+      "Acinetobacter": 1,
+      "Cronobacter": 1,
+      "unclassified Lachnospiraceae": 4,
+      "Mediterraneibacter": 1,
+      "Acetatifactor": 1,
+      "Helicobacter": 1,
+      "Lacrimispora": 1,
+      "environmental samples": 1
+    }
+  }
+}

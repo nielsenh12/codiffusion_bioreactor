@@ -1,47 +1,73 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Propionibacteriaceae",
+      "Species": "Naumannella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Propionibacteriaceae",
+      "Species": "Propionibacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Kribbellaceae",
+      "Species": "Kribbella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota"
-  ],
-  "Order": [
-    "Actinomycetes",
-    "environmental samples",
-    "Actinomycetes",
-    "Actinomycetes",
-    "environmental samples"
-  ],
-  "Family": [
-    "Propionibacteriales",
-    "uncultured Actinomycetota bacterium",
-    "Propionibacteriales",
-    "Propionibacteriales",
-    "uncultured Actinomycetota bacterium"
-  ],
-  "Genus": [
-    "Propionibacteriaceae",
-    "Propionibacteriaceae",
-    "Kribbellaceae"
-  ],
-  "Species": [
-    "Naumannella",
-    "Propionibacterium",
-    "Kribbella"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Bacillati": 5
+    },
+    "Class": {
+      "Actinomycetota": 5
+    },
+    "Order": {
+      "Actinomycetes": 3,
+      "environmental samples": 2
+    },
+    "Family": {
+      "Propionibacteriales": 3,
+      "uncultured Actinomycetota bacterium": 2
+    },
+    "Genus": {
+      "Propionibacteriaceae": 2,
+      "Kribbellaceae": 1
+    },
+    "Species": {
+      "Naumannella": 1,
+      "Propionibacterium": 1,
+      "Kribbella": 1
+    }
+  }
 }

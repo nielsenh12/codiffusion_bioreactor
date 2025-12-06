@@ -1,35 +1,54 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "unclassified Candidatus Cloacimonadota",
+      "Genus": "Candidatus Cloacimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "unclassified Candidatus Cloacimonadota",
+      "Genus": "Candidatus Cloacimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "Candidatus Cloacimonadia",
+      "Genus": "Candidatus Cloacimonadales",
+      "Species": "Candidatus Cloacimonadaceae"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "FCB group",
-    "FCB group",
-    "FCB group"
-  ],
-  "Order": [
-    "Candidatus Cloacimonadota",
-    "Candidatus Cloacimonadota",
-    "Candidatus Cloacimonadota"
-  ],
-  "Family": [
-    "unclassified Candidatus Cloacimonadota",
-    "unclassified Candidatus Cloacimonadota",
-    "Candidatus Cloacimonadia"
-  ],
-  "Genus": [
-    "Candidatus Cloacimonadota bacterium",
-    "Candidatus Cloacimonadota bacterium",
-    "Candidatus Cloacimonadales"
-  ],
-  "Species": [
-    "Candidatus Cloacimonadaceae"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "FCB group": 3
+    },
+    "Order": {
+      "Candidatus Cloacimonadota": 3
+    },
+    "Family": {
+      "unclassified Candidatus Cloacimonadota": 2,
+      "Candidatus Cloacimonadia": 1
+    },
+    "Genus": {
+      "Candidatus Cloacimonadota bacterium": 2,
+      "Candidatus Cloacimonadales": 1
+    },
+    "Species": {
+      "Candidatus Cloacimonadaceae": 1
+    }
+  }
 }

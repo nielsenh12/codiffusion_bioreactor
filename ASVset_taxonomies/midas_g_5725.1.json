@@ -1,0 +1,33 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Hydrogenedentota",
+      "Family": "unclassified Candidatus Hydrogenedentota",
+      "Genus": "Candidatus Hydrogenedentota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "FCB group": 1
+    },
+    "Order": {
+      "Candidatus Hydrogenedentota": 1
+    },
+    "Family": {
+      "unclassified Candidatus Hydrogenedentota": 1
+    },
+    "Genus": {
+      "Candidatus Hydrogenedentota bacterium": 1
+    },
+    "Species": {}
+  }
+}

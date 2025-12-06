@@ -1,0 +1,217 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Cyanobacteriota",
+      "Family": "Cyanophyceae",
+      "Genus": "Oculatellales",
+      "Species": "Oculatellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Burkholderiaceae",
+      "Species": "Polynucleobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Paracoccaceae",
+      "Species": "Marivivens group"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "unclassified Verrucomicrobiota",
+      "Genus": "Verrucomicrobiota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "unclassified Actinomycetota",
+      "Family": "Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "unclassified Actinomycetota",
+      "Family": "Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "environmental samples",
+      "Species": "uncultured Bacteroidota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Vulcanimicrobiota",
+      "Order": "unclassified Vulcanimicrobiota",
+      "Family": "Vulcanimicrobiota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Paracoccaceae",
+      "Species": "Marivivens group"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Alteromonadales",
+      "Genus": "Alteromonadaceae",
+      "Species": "Alteromonas/Salinimonas group"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "unclassified Bacteroidota",
+      "Species": "Bacteroidota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "environmental samples",
+      "Genus": "uncultured Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "Verrucomicrobiia",
+      "Genus": "Verrucomicrobiales",
+      "Species": "unclassified Verrucomicrobiales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Patescibacteria group",
+      "Family": "Parcubacteria group",
+      "Genus": "Candidatus Parcubacteria",
+      "Species": "unclassified Candidatus Parcubacteria"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 18
+    },
+    "Phylum": {
+      "unclassified Bacteria": 2,
+      "Pseudomonadati": 10,
+      "Bacillati": 5,
+      "Bacteria incertae sedis": 1
+    },
+    "Class": {
+      "bacterium": 2,
+      "Pseudomonadota": 6,
+      "Cyanobacteriota/Melainabacteria group": 1,
+      "PVC group": 2,
+      "Actinomycetota": 3,
+      "FCB group": 2,
+      "Vulcanimicrobiota": 1,
+      "Bacteria candidate phyla": 1
+    },
+    "Order": {
+      "Gammaproteobacteria": 3,
+      "Cyanobacteriota": 1,
+      "Betaproteobacteria": 1,
+      "Alphaproteobacteria": 2,
+      "Verrucomicrobiota": 2,
+      "unclassified Actinomycetota": 2,
+      "Bacteroidota/Chlorobiota group": 2,
+      "unclassified Vulcanimicrobiota": 1,
+      "Actinomycetes": 1,
+      "Patescibacteria group": 1
+    },
+    "Family": {
+      "environmental samples": 3,
+      "Cyanophyceae": 1,
+      "Burkholderiales": 1,
+      "Rhodobacterales": 2,
+      "unclassified Verrucomicrobiota": 1,
+      "Actinomycetota bacterium": 2,
+      "Bacteroidota": 2,
+      "Vulcanimicrobiota bacterium": 1,
+      "Alteromonadales": 1,
+      "Verrucomicrobiia": 1,
+      "Parcubacteria group": 1
+    },
+    "Genus": {
+      "uncultured Gammaproteobacteria bacterium": 2,
+      "Oculatellales": 1,
+      "Burkholderiaceae": 1,
+      "Paracoccaceae": 2,
+      "Verrucomicrobiota bacterium": 1,
+      "environmental samples": 1,
+      "Alteromonadaceae": 1,
+      "unclassified Bacteroidota": 1,
+      "uncultured Actinomycetes bacterium": 1,
+      "Verrucomicrobiales": 1,
+      "Candidatus Parcubacteria": 1
+    },
+    "Species": {
+      "Oculatellaceae": 1,
+      "Polynucleobacter": 1,
+      "Marivivens group": 2,
+      "uncultured Bacteroidota bacterium": 1,
+      "Alteromonas/Salinimonas group": 1,
+      "Bacteroidota bacterium": 1,
+      "unclassified Verrucomicrobiales": 1,
+      "unclassified Candidatus Parcubacteria": 1
+    }
+  }
+}

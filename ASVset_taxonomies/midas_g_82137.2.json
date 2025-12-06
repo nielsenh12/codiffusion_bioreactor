@@ -1,103 +1,156 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Eubacteriales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Flavonifractor"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriales incertae sedis",
+      "Species": "Intestinimonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Pseudoflavonifractor"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Flavonifractor"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Pseudoflavonifractor"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriales incertae sedis",
+      "Species": "Intestinimonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Eubacteriales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriales incertae sedis",
+      "Species": "Intestinimonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "environmental samples",
+      "Class": "uncultured bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "environmental samples",
-    "Bacillati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "uncultured bacterium",
-    "Bacillota",
-    "FCB group"
-  ],
-  "Order": [
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Bacteroidota/Chlorobiota group"
-  ],
-  "Family": [
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Lachnospirales",
-    "Bacteroidota"
-  ],
-  "Genus": [
-    "unclassified Eubacteriales",
-    "Oscillospiraceae",
-    "Eubacteriales incertae sedis",
-    "Oscillospiraceae",
-    "Oscillospiraceae",
-    "Oscillospiraceae",
-    "Eubacteriales incertae sedis",
-    "unclassified Eubacteriales",
-    "Oscillospiraceae",
-    "Eubacteriales incertae sedis",
-    "Lachnospiraceae",
-    "Bacteroidia"
-  ],
-  "Species": [
-    "Eubacteriales bacterium",
-    "Flavonifractor",
-    "Intestinimonas",
-    "Pseudoflavonifractor",
-    "Flavonifractor",
-    "Pseudoflavonifractor",
-    "Intestinimonas",
-    "Eubacteriales bacterium",
-    "environmental samples",
-    "Intestinimonas",
-    "environmental samples",
-    "Bacteroidales"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 13
+    },
+    "Phylum": {
+      "Bacillati": 11,
+      "environmental samples": 1,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Bacillota": 11,
+      "uncultured bacterium": 1,
+      "FCB group": 1
+    },
+    "Order": {
+      "Clostridia": 11,
+      "Bacteroidota/Chlorobiota group": 1
+    },
+    "Family": {
+      "Eubacteriales": 10,
+      "Lachnospirales": 1,
+      "Bacteroidota": 1
+    },
+    "Genus": {
+      "unclassified Eubacteriales": 2,
+      "Oscillospiraceae": 5,
+      "Eubacteriales incertae sedis": 3,
+      "Lachnospiraceae": 1,
+      "Bacteroidia": 1
+    },
+    "Species": {
+      "Eubacteriales bacterium": 2,
+      "Flavonifractor": 2,
+      "Intestinimonas": 3,
+      "Pseudoflavonifractor": 2,
+      "environmental samples": 2,
+      "Bacteroidales": 1
+    }
+  }
 }

@@ -1,44 +1,69 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Sphingomonadaceae",
+      "Species": "unclassified Sphingomonadaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Nitrospirota",
+      "Order": "Nitrospiria",
+      "Family": "Nitrospirales",
+      "Genus": "Nitrospiraceae",
+      "Species": "Nitrospira"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Sphingomonadaceae",
+      "Species": "Novosphingobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Sphingomonadaceae",
+      "Species": "Novosphingobium"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "Nitrospirota",
-    "Pseudomonadota",
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "Alphaproteobacteria",
-    "Nitrospiria",
-    "Alphaproteobacteria",
-    "Alphaproteobacteria"
-  ],
-  "Family": [
-    "Sphingomonadales",
-    "Nitrospirales",
-    "Sphingomonadales",
-    "Sphingomonadales"
-  ],
-  "Genus": [
-    "Sphingomonadaceae",
-    "Nitrospiraceae",
-    "Sphingomonadaceae",
-    "Sphingomonadaceae"
-  ],
-  "Species": [
-    "unclassified Sphingomonadaceae",
-    "Nitrospira",
-    "Novosphingobium",
-    "Novosphingobium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Pseudomonadati": 4
+    },
+    "Class": {
+      "Pseudomonadota": 3,
+      "Nitrospirota": 1
+    },
+    "Order": {
+      "Alphaproteobacteria": 3,
+      "Nitrospiria": 1
+    },
+    "Family": {
+      "Sphingomonadales": 3,
+      "Nitrospirales": 1
+    },
+    "Genus": {
+      "Sphingomonadaceae": 3,
+      "Nitrospiraceae": 1
+    },
+    "Species": {
+      "unclassified Sphingomonadaceae": 1,
+      "Nitrospira": 1,
+      "Novosphingobium": 2
+    }
+  }
 }

@@ -1,89 +1,142 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "environmental samples",
+      "Genus": "uncultured Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "environmental samples",
+      "Genus": "uncultured Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Thermoleophilia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Thermoleophilia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "environmental samples",
+      "Genus": "uncultured Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "unclassified Bacillati",
+      "Order": "Bacillati bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "environmental samples",
+      "Genus": "uncultured Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "unclassified Bacillati",
+      "Order": "Bacillati bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Pseudomonadati",
-    "Bacillati",
-    "unclassified Bacteria",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Pseudomonadati",
-    "unclassified Bacteria",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Armatimonadota",
-    "Pseudomonadota",
-    "Actinomycetota",
-    "bacterium",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "unclassified Bacillati",
-    "Actinomycetota",
-    "Armatimonadota",
-    "Pseudomonadota",
-    "bacterium",
-    "unclassified Bacillati",
-    "Armatimonadota"
-  ],
-  "Order": [
-    "unclassified Armatimonadota",
-    "Gammaproteobacteria",
-    "Actinomycetes",
-    "Actinomycetes",
-    "Thermoleophilia",
-    "Actinomycetes",
-    "Bacillati bacterium",
-    "Actinomycetes",
-    "unclassified Armatimonadota",
-    "Gammaproteobacteria",
-    "Bacillati bacterium",
-    "unclassified Armatimonadota"
-  ],
-  "Family": [
-    "Armatimonadota bacterium",
-    "Enterobacterales",
-    "environmental samples",
-    "environmental samples",
-    "environmental samples",
-    "environmental samples",
-    "environmental samples",
-    "Armatimonadota bacterium",
-    "Enterobacterales",
-    "Armatimonadota bacterium"
-  ],
-  "Genus": [
-    "Enterobacteriaceae",
-    "uncultured Actinomycetes bacterium",
-    "uncultured Actinomycetes bacterium",
-    "uncultured Thermoleophilia bacterium",
-    "uncultured Actinomycetes bacterium",
-    "uncultured Actinomycetes bacterium",
-    "Enterobacteriaceae"
-  ],
-  "Species": [
-    "Cronobacter",
-    "Cronobacter"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 14
+    },
+    "Phylum": {
+      "Bacillati": 10,
+      "Pseudomonadati": 2,
+      "unclassified Bacteria": 2
+    },
+    "Class": {
+      "Armatimonadota": 3,
+      "Pseudomonadota": 2,
+      "Actinomycetota": 5,
+      "bacterium": 2,
+      "unclassified Bacillati": 2
+    },
+    "Order": {
+      "unclassified Armatimonadota": 3,
+      "Gammaproteobacteria": 2,
+      "Actinomycetes": 4,
+      "Thermoleophilia": 1,
+      "Bacillati bacterium": 2
+    },
+    "Family": {
+      "Armatimonadota bacterium": 3,
+      "Enterobacterales": 2,
+      "environmental samples": 5
+    },
+    "Genus": {
+      "Enterobacteriaceae": 2,
+      "uncultured Actinomycetes bacterium": 4,
+      "uncultured Thermoleophilia bacterium": 1
+    },
+    "Species": {
+      "Cronobacter": 2
+    }
+  }
 }

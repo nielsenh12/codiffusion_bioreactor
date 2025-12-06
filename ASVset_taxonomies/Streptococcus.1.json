@@ -1,23 +1,36 @@
 {
-  "Kingdom": [
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Streptococcaceae",
+      "Species": "Streptococcus"
+    }
   ],
-  "Phylum": [
-    "Bacillati"
-  ],
-  "Class": [
-    "Bacillota"
-  ],
-  "Order": [
-    "Bacilli"
-  ],
-  "Family": [
-    "Lactobacillales"
-  ],
-  "Genus": [
-    "Streptococcaceae"
-  ],
-  "Species": [
-    "Streptococcus"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacillati": 1
+    },
+    "Class": {
+      "Bacillota": 1
+    },
+    "Order": {
+      "Bacilli": 1
+    },
+    "Family": {
+      "Lactobacillales": 1
+    },
+    "Genus": {
+      "Streptococcaceae": 1
+    },
+    "Species": {
+      "Streptococcus": 1
+    }
+  }
 }

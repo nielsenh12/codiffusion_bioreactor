@@ -1,0 +1,49 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Saccharimonadota",
+      "Family": "environmental samples",
+      "Genus": "uncultured Candidatus Saccharibacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Kordiimonadales",
+      "Genus": "Kordiimonadaceae",
+      "Species": "unclassified Kordiimonadaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacteria incertae sedis": 1,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Bacteria candidate phyla": 1,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Candidatus Saccharimonadota": 1,
+      "Alphaproteobacteria": 1
+    },
+    "Family": {
+      "environmental samples": 1,
+      "Kordiimonadales": 1
+    },
+    "Genus": {
+      "uncultured Candidatus Saccharibacteria bacterium": 1,
+      "Kordiimonadaceae": 1
+    },
+    "Species": {
+      "unclassified Kordiimonadaceae": 1
+    }
+  }
+}

@@ -1,100 +1,141 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Escherichia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Peptostreptococcaceae",
+      "Species": "Paraclostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Peptostreptococcaceae",
+      "Species": "Paraclostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Peptostreptococcaceae",
+      "Species": "Paraclostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Escherichia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Peptostreptococcaceae",
+      "Species": "Paraclostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Peptostreptococcaceae",
+      "Species": "Paraclostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Peptostreptococcaceae",
+      "Species": "Paraclostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Peptostreptococcaceae",
+      "Species": "Paraclostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Peptostreptococcaceae",
+      "Species": "Paraclostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Peptostreptococcaceae",
+      "Species": "Paraclostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Peptostreptococcaceae",
+      "Species": "Paraclostridium"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Pseudomonadota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota"
-  ],
-  "Order": [
-    "Gammaproteobacteria",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Gammaproteobacteria",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia"
-  ],
-  "Family": [
-    "Enterobacterales",
-    "Peptostreptococcales",
-    "Peptostreptococcales",
-    "Peptostreptococcales",
-    "Enterobacterales",
-    "Peptostreptococcales",
-    "Peptostreptococcales",
-    "Peptostreptococcales",
-    "Peptostreptococcales",
-    "Peptostreptococcales",
-    "Peptostreptococcales",
-    "Peptostreptococcales"
-  ],
-  "Genus": [
-    "Enterobacteriaceae",
-    "Peptostreptococcaceae",
-    "Peptostreptococcaceae",
-    "Peptostreptococcaceae",
-    "Enterobacteriaceae",
-    "Peptostreptococcaceae",
-    "Peptostreptococcaceae",
-    "Peptostreptococcaceae",
-    "Peptostreptococcaceae",
-    "Peptostreptococcaceae",
-    "Peptostreptococcaceae",
-    "Peptostreptococcaceae"
-  ],
-  "Species": [
-    "Escherichia",
-    "Paraclostridium",
-    "Paraclostridium",
-    "Paraclostridium",
-    "Escherichia",
-    "Paraclostridium",
-    "Paraclostridium",
-    "Paraclostridium",
-    "Paraclostridium",
-    "Paraclostridium",
-    "Paraclostridium",
-    "Paraclostridium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 12
+    },
+    "Phylum": {
+      "Pseudomonadati": 2,
+      "Bacillati": 10
+    },
+    "Class": {
+      "Pseudomonadota": 2,
+      "Bacillota": 10
+    },
+    "Order": {
+      "Gammaproteobacteria": 2,
+      "Clostridia": 10
+    },
+    "Family": {
+      "Enterobacterales": 2,
+      "Peptostreptococcales": 10
+    },
+    "Genus": {
+      "Enterobacteriaceae": 2,
+      "Peptostreptococcaceae": 10
+    },
+    "Species": {
+      "Escherichia": 2,
+      "Paraclostridium": 10
+    }
+  }
 }

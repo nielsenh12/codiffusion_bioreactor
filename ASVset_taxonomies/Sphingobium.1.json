@@ -1,30 +1,45 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Sphingomonadaceae",
+      "Species": "Sphingomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Sphingomonadaceae",
+      "Species": "Sphingomonas"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "Alphaproteobacteria",
-    "Alphaproteobacteria"
-  ],
-  "Family": [
-    "Sphingomonadales",
-    "Sphingomonadales"
-  ],
-  "Genus": [
-    "Sphingomonadaceae",
-    "Sphingomonadaceae"
-  ],
-  "Species": [
-    "Sphingomonas",
-    "Sphingomonas"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Pseudomonadota": 2
+    },
+    "Order": {
+      "Alphaproteobacteria": 2
+    },
+    "Family": {
+      "Sphingomonadales": 2
+    },
+    "Genus": {
+      "Sphingomonadaceae": 2
+    },
+    "Species": {
+      "Sphingomonas": 2
+    }
+  }
 }

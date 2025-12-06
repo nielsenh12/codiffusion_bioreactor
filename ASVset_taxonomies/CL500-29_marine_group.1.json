@@ -1,0 +1,80 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "unclassified Actinomycetes",
+      "Genus": "Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Nitrospirota",
+      "Order": "Nitrospiria",
+      "Family": "Nitrospirales",
+      "Genus": "Nitrospiraceae",
+      "Species": "unclassified Nitrospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "Ilumatobacteraceae",
+      "Species": "Ilumatobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "Ilumatobacteraceae",
+      "Species": "Ilumatobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "Ilumatobacteraceae",
+      "Species": "Ilumatobacter"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Bacillati": 4,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Actinomycetota": 4,
+      "Nitrospirota": 1
+    },
+    "Order": {
+      "Actinomycetes": 1,
+      "Nitrospiria": 1,
+      "Acidimicrobiia": 3
+    },
+    "Family": {
+      "unclassified Actinomycetes": 1,
+      "Nitrospirales": 1,
+      "Acidimicrobiales": 3
+    },
+    "Genus": {
+      "Actinomycetes bacterium": 1,
+      "Nitrospiraceae": 1,
+      "Ilumatobacteraceae": 3
+    },
+    "Species": {
+      "unclassified Nitrospiraceae": 1,
+      "Ilumatobacter": 3
+    }
+  }
+}

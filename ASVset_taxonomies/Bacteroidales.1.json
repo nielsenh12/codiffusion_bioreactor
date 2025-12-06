@@ -1,0 +1,102 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Negativicutes",
+      "Family": "Acidaminococcales",
+      "Genus": "Acidaminococcaceae",
+      "Species": "Succiniclasticum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "unclassified Christensenellales",
+      "Species": "Christensenellales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "environmental samples",
+      "Species": "uncultured Bacteroidota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "environmental samples",
+      "Species": "uncultured Bacteroidota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 7
+    },
+    "Phylum": {
+      "Bacillati": 2,
+      "Pseudomonadati": 5
+    },
+    "Class": {
+      "Bacillota": 2,
+      "FCB group": 5
+    },
+    "Order": {
+      "Negativicutes": 1,
+      "Clostridia": 1,
+      "Bacteroidota/Chlorobiota group": 5
+    },
+    "Family": {
+      "Acidaminococcales": 1,
+      "Christensenellales": 1,
+      "Bacteroidota": 5
+    },
+    "Genus": {
+      "Acidaminococcaceae": 1,
+      "unclassified Christensenellales": 1,
+      "Bacteroidia": 3,
+      "environmental samples": 2
+    },
+    "Species": {
+      "Succiniclasticum": 1,
+      "Christensenellales bacterium": 1,
+      "Bacteroidales": 3,
+      "uncultured Bacteroidota bacterium": 2
+    }
+  }
+}

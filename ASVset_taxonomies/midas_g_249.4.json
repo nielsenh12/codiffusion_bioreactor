@@ -1,17 +1,30 @@
 {
-  "Kingdom": [
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "unclassified Pseudomonadota",
+      "Family": "Pseudomonadota bacterium"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "unclassified Pseudomonadota"
-  ],
-  "Family": [
-    "Pseudomonadota bacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "unclassified Pseudomonadota": 1
+    },
+    "Family": {
+      "Pseudomonadota bacterium": 1
+    },
+    "Genus": {},
+    "Species": {}
+  }
 }

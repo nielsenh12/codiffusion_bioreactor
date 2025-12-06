@@ -1,0 +1,45 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Microbacteriaceae",
+      "Species": "Microbacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Microbacteriaceae",
+      "Species": "Microbacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacillati": 2
+    },
+    "Class": {
+      "Actinomycetota": 2
+    },
+    "Order": {
+      "Actinomycetes": 2
+    },
+    "Family": {
+      "Micrococcales": 2
+    },
+    "Genus": {
+      "Microbacteriaceae": 2
+    },
+    "Species": {
+      "Microbacterium": 2
+    }
+  }
+}

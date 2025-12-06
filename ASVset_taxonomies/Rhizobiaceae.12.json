@@ -1,0 +1,93 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Rhizobiaceae",
+      "Species": "Shinella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Xanthobacteraceae",
+      "Species": "unclassified Xanthobacteraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Rhizobiaceae",
+      "Species": "Rhizobium/Agrobacterium group"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Rhizobiaceae",
+      "Species": "Rhizobium/Agrobacterium group"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Rhizobiaceae",
+      "Species": "Shinella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Rhizobiaceae",
+      "Species": "Shinella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Rhizobiaceae",
+      "Species": "Rhizobium/Agrobacterium group"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 7
+    },
+    "Phylum": {
+      "Pseudomonadati": 7
+    },
+    "Class": {
+      "Pseudomonadota": 7
+    },
+    "Order": {
+      "Alphaproteobacteria": 7
+    },
+    "Family": {
+      "Hyphomicrobiales": 7
+    },
+    "Genus": {
+      "Rhizobiaceae": 6,
+      "Xanthobacteraceae": 1
+    },
+    "Species": {
+      "Shinella": 3,
+      "unclassified Xanthobacteraceae": 1,
+      "Rhizobium/Agrobacterium group": 3
+    }
+  }
+}

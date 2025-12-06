@@ -1,0 +1,50 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Rhodocyclales",
+      "Genus": "Zoogloeaceae",
+      "Species": "Thauera"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfuromonadia",
+      "Family": "Geobacterales",
+      "Genus": "Geobacteraceae",
+      "Species": "Geobacter"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Pseudomonadota": 1,
+      "Thermodesulfobacteriota": 1
+    },
+    "Order": {
+      "Betaproteobacteria": 1,
+      "Desulfuromonadia": 1
+    },
+    "Family": {
+      "Rhodocyclales": 1,
+      "Geobacterales": 1
+    },
+    "Genus": {
+      "Zoogloeaceae": 1,
+      "Geobacteraceae": 1
+    },
+    "Species": {
+      "Thauera": 1,
+      "Geobacter": 1
+    }
+  }
+}

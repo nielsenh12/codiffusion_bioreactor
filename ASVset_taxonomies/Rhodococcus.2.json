@@ -1,72 +1,107 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Nocardiaceae",
+      "Species": "Rhodococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Nocardiaceae",
+      "Species": "Rhodococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Nocardiaceae",
+      "Species": "Rhodococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Nocardiaceae",
+      "Species": "Rhodococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Kitasatosporales",
+      "Genus": "Streptomycetaceae",
+      "Species": "Kitasatospora"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Nocardiaceae",
+      "Species": "Rhodococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Lactobacillaceae",
+      "Species": "Lactobacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Nocardiaceae",
+      "Species": "Rhodococcus"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Bacillota",
-    "Actinomycetota"
-  ],
-  "Order": [
-    "Actinomycetes",
-    "Actinomycetes",
-    "Actinomycetes",
-    "Actinomycetes",
-    "Actinomycetes",
-    "Actinomycetes",
-    "Bacilli",
-    "Actinomycetes"
-  ],
-  "Family": [
-    "Mycobacteriales",
-    "Mycobacteriales",
-    "Mycobacteriales",
-    "Mycobacteriales",
-    "Kitasatosporales",
-    "Mycobacteriales",
-    "Lactobacillales",
-    "Mycobacteriales"
-  ],
-  "Genus": [
-    "Nocardiaceae",
-    "Nocardiaceae",
-    "Nocardiaceae",
-    "Nocardiaceae",
-    "Streptomycetaceae",
-    "Nocardiaceae",
-    "Lactobacillaceae",
-    "Nocardiaceae"
-  ],
-  "Species": [
-    "Rhodococcus",
-    "Rhodococcus",
-    "Rhodococcus",
-    "Rhodococcus",
-    "Kitasatospora",
-    "Rhodococcus",
-    "Lactobacillus",
-    "Rhodococcus"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 8
+    },
+    "Phylum": {
+      "Bacillati": 8
+    },
+    "Class": {
+      "Actinomycetota": 7,
+      "Bacillota": 1
+    },
+    "Order": {
+      "Actinomycetes": 7,
+      "Bacilli": 1
+    },
+    "Family": {
+      "Mycobacteriales": 6,
+      "Kitasatosporales": 1,
+      "Lactobacillales": 1
+    },
+    "Genus": {
+      "Nocardiaceae": 6,
+      "Streptomycetaceae": 1,
+      "Lactobacillaceae": 1
+    },
+    "Species": {
+      "Rhodococcus": 6,
+      "Kitasatospora": 1,
+      "Lactobacillus": 1
+    }
+  }
 }

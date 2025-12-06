@@ -1,0 +1,75 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodospirillales",
+      "Genus": "Rhodospirillaceae",
+      "Species": "Telmatospirillum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodospirillales",
+      "Genus": "Rhodospirillaceae",
+      "Species": "unclassified Rhodospirillaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "unclassified Alphaproteobacteria",
+      "Genus": "Alphaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "unclassified Thermodesulfobacteriota",
+      "Family": "Thermodesulfobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "unclassified Pseudomonadota",
+      "Family": "Pseudomonadota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Pseudomonadati": 5
+    },
+    "Class": {
+      "Pseudomonadota": 4,
+      "Thermodesulfobacteriota": 1
+    },
+    "Order": {
+      "Alphaproteobacteria": 3,
+      "unclassified Thermodesulfobacteriota": 1,
+      "unclassified Pseudomonadota": 1
+    },
+    "Family": {
+      "Rhodospirillales": 2,
+      "unclassified Alphaproteobacteria": 1,
+      "Thermodesulfobacteriota bacterium": 1,
+      "Pseudomonadota bacterium": 1
+    },
+    "Genus": {
+      "Rhodospirillaceae": 2,
+      "Alphaproteobacteria bacterium": 1
+    },
+    "Species": {
+      "Telmatospirillum": 1,
+      "unclassified Rhodospirillaceae": 1
+    }
+  }
+}

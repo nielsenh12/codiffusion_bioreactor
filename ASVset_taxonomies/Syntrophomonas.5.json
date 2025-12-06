@@ -1,0 +1,125 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Syntrophomonadaceae",
+      "Species": "Thermosyntropha"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Stenosarchaea group",
+      "Family": "Methanomicrobia",
+      "Genus": "Methanosarcinales",
+      "Species": "Methanosarcinaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Syntrophomonadaceae",
+      "Species": "unclassified Syntrophomonadaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Syntrophomonadaceae",
+      "Species": "Syntrophomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Syntrophomonadaceae",
+      "Species": "Syntrophomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Clostridiales bacterium PH28_bin88"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Syntrophomonadaceae",
+      "Species": "unclassified Syntrophomonadaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 8,
+      "Archaea": 1
+    },
+    "Phylum": {
+      "Bacillati": 7,
+      "Methanobacteriati": 1,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Bacillota": 7,
+      "Methanobacteriota": 1,
+      "FCB group": 1
+    },
+    "Order": {
+      "Clostridia": 6,
+      "Stenosarchaea group": 1,
+      "unclassified Bacillota": 1,
+      "Bacteroidota/Chlorobiota group": 1
+    },
+    "Family": {
+      "Eubacteriales": 6,
+      "Methanomicrobia": 1,
+      "Bacillota bacterium": 1,
+      "Bacteroidota": 1
+    },
+    "Genus": {
+      "Syntrophomonadaceae": 5,
+      "Methanosarcinales": 1,
+      "unclassified Eubacteriales": 1,
+      "Bacteroidia": 1
+    },
+    "Species": {
+      "Thermosyntropha": 1,
+      "Methanosarcinaceae": 1,
+      "unclassified Syntrophomonadaceae": 2,
+      "Syntrophomonas": 2,
+      "Clostridiales bacterium PH28_bin88": 1,
+      "Bacteroidales": 1
+    }
+  }
+}

@@ -1,142 +1,201 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Spirochaetaceae",
+      "Species": "unclassified Spirochaetaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "Lacrimispora"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "Lacrimispora"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "Lacrimispora"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Spirochaetaceae",
+      "Species": "unclassified Spirochaetaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Clostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "Lacrimispora"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "Lacrimispora"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "Lacrimispora"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "Hungatella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "Lacrimispora"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Clostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "Lacrimispora"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "unclassified Clostridiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Clostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "unclassified Lachnospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Spirochaetaceae",
+      "Species": "unclassified Spirochaetaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "Lacrimispora"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Pseudomonadati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Spirochaetota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Spirochaetota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Spirochaetota",
-    "Bacillota"
-  ],
-  "Order": [
-    "Spirochaetia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Spirochaetia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Spirochaetia",
-    "Clostridia"
-  ],
-  "Family": [
-    "Spirochaetales",
-    "Lachnospirales",
-    "Lachnospirales",
-    "Lachnospirales",
-    "Spirochaetales",
-    "Eubacteriales",
-    "Lachnospirales",
-    "Lachnospirales",
-    "Lachnospirales",
-    "Lachnospirales",
-    "Lachnospirales",
-    "Eubacteriales",
-    "Lachnospirales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Lachnospirales",
-    "Spirochaetales",
-    "Lachnospirales"
-  ],
-  "Genus": [
-    "Spirochaetaceae",
-    "Lachnospiraceae",
-    "Lachnospiraceae",
-    "Lachnospiraceae",
-    "Spirochaetaceae",
-    "Clostridiaceae",
-    "Lachnospiraceae",
-    "Lachnospiraceae",
-    "Lachnospiraceae",
-    "Lachnospiraceae",
-    "Lachnospiraceae",
-    "Clostridiaceae",
-    "Lachnospiraceae",
-    "Clostridiaceae",
-    "Clostridiaceae",
-    "Lachnospiraceae",
-    "Spirochaetaceae",
-    "Lachnospiraceae"
-  ],
-  "Species": [
-    "unclassified Spirochaetaceae",
-    "Lacrimispora",
-    "Lacrimispora",
-    "Lacrimispora",
-    "unclassified Spirochaetaceae",
-    "Clostridium",
-    "Lacrimispora",
-    "Lacrimispora",
-    "Lacrimispora",
-    "Hungatella",
-    "Lacrimispora",
-    "Clostridium",
-    "Lacrimispora",
-    "unclassified Clostridiaceae",
-    "Clostridium",
-    "unclassified Lachnospiraceae",
-    "unclassified Spirochaetaceae",
-    "Lacrimispora"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 18
+    },
+    "Phylum": {
+      "Pseudomonadati": 3,
+      "Bacillati": 15
+    },
+    "Class": {
+      "Spirochaetota": 3,
+      "Bacillota": 15
+    },
+    "Order": {
+      "Spirochaetia": 3,
+      "Clostridia": 15
+    },
+    "Family": {
+      "Spirochaetales": 3,
+      "Lachnospirales": 11,
+      "Eubacteriales": 4
+    },
+    "Genus": {
+      "Spirochaetaceae": 3,
+      "Lachnospiraceae": 11,
+      "Clostridiaceae": 4
+    },
+    "Species": {
+      "unclassified Spirochaetaceae": 3,
+      "Lacrimispora": 9,
+      "Clostridium": 3,
+      "Hungatella": 1,
+      "unclassified Clostridiaceae": 1,
+      "unclassified Lachnospiraceae": 1
+    }
+  }
 }

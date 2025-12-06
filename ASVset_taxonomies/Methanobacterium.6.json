@@ -1,72 +1,99 @@
 {
-  "Kingdom": [
-    "Archaea",
-    "Archaea",
-    "Archaea",
-    "Archaea",
-    "Archaea",
-    "Archaea",
-    "Archaea",
-    "Archaea"
+  "members": [
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    }
   ],
-  "Phylum": [
-    "Methanobacteriati",
-    "Methanobacteriati",
-    "Methanobacteriati",
-    "Methanobacteriati",
-    "Methanobacteriati",
-    "Methanobacteriati",
-    "Methanobacteriati",
-    "Methanobacteriati"
-  ],
-  "Class": [
-    "Methanobacteriota",
-    "Methanobacteriota",
-    "Methanobacteriota",
-    "Methanobacteriota",
-    "Methanobacteriota",
-    "Methanobacteriota",
-    "Methanobacteriota",
-    "Methanobacteriota"
-  ],
-  "Order": [
-    "Methanomada group",
-    "Methanomada group",
-    "Methanomada group",
-    "Methanomada group",
-    "Methanomada group",
-    "Methanomada group",
-    "Methanomada group",
-    "Methanomada group"
-  ],
-  "Family": [
-    "Methanobacteria",
-    "Methanobacteria",
-    "Methanobacteria",
-    "Methanobacteria",
-    "Methanobacteria",
-    "Methanobacteria",
-    "Methanobacteria",
-    "Methanobacteria"
-  ],
-  "Genus": [
-    "Methanobacteriales",
-    "Methanobacteriales",
-    "Methanobacteriales",
-    "Methanobacteriales",
-    "Methanobacteriales",
-    "Methanobacteriales",
-    "Methanobacteriales",
-    "Methanobacteriales"
-  ],
-  "Species": [
-    "Methanobacteriaceae",
-    "Methanobacteriaceae",
-    "Methanobacteriaceae",
-    "Methanobacteriaceae",
-    "Methanobacteriaceae",
-    "Methanobacteriaceae",
-    "Methanobacteriaceae",
-    "Methanobacteriaceae"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Archaea": 8
+    },
+    "Phylum": {
+      "Methanobacteriati": 8
+    },
+    "Class": {
+      "Methanobacteriota": 8
+    },
+    "Order": {
+      "Methanomada group": 8
+    },
+    "Family": {
+      "Methanobacteria": 8
+    },
+    "Genus": {
+      "Methanobacteriales": 8
+    },
+    "Species": {
+      "Methanobacteriaceae": 8
+    }
+  }
 }

@@ -1,0 +1,214 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Myxococcota",
+      "Order": "Myxococcia",
+      "Family": "Myxococcales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Myxococcales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Myxococcota",
+      "Order": "Myxococcia",
+      "Family": "Myxococcales",
+      "Genus": "Cystobacterineae",
+      "Species": "Anaeromyxobacteraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "environmental samples",
+      "Family": "uncultured Pseudomonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Myxococcota",
+      "Order": "Myxococcia",
+      "Family": "Myxococcales",
+      "Genus": "Cystobacterineae",
+      "Species": "Anaeromyxobacteraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Myxococcota",
+      "Order": "Myxococcia",
+      "Family": "Myxococcales",
+      "Genus": "Cystobacterineae",
+      "Species": "Myxococcaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Myxococcota",
+      "Order": "Myxococcia",
+      "Family": "Myxococcales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Myxococcales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Myxococcota",
+      "Order": "Myxococcia",
+      "Family": "unclassified Myxococcia",
+      "Genus": "Deltaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Myxococcota",
+      "Order": "Myxococcia",
+      "Family": "Myxococcales",
+      "Genus": "Cystobacterineae",
+      "Species": "Anaeromyxobacteraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Myxococcota",
+      "Order": "Myxococcia",
+      "Family": "Myxococcales",
+      "Genus": "Cystobacterineae",
+      "Species": "Myxococcaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 23
+    },
+    "Phylum": {
+      "delta/epsilon subdivisions": 14,
+      "Pseudomonadati": 9
+    },
+    "Class": {
+      "Deltaproteobacteria": 14,
+      "Myxococcota": 8,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "environmental samples": 15,
+      "Myxococcia": 8
+    },
+    "Family": {
+      "uncultured delta proteobacterium": 14,
+      "Myxococcales": 7,
+      "uncultured Pseudomonadota bacterium": 1,
+      "unclassified Myxococcia": 1
+    },
+    "Genus": {
+      "environmental samples": 2,
+      "Cystobacterineae": 5,
+      "Deltaproteobacteria bacterium": 1
+    },
+    "Species": {
+      "uncultured Myxococcales bacterium": 2,
+      "Anaeromyxobacteraceae": 3,
+      "Myxococcaceae": 2
+    }
+  }
+}

@@ -1,37 +1,54 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Chelatococcaceae",
+      "Species": "Camelimonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Chelatococcaceae",
+      "Species": "Camelimonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Chelatococcaceae",
+      "Species": "Camelimonas"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "Alphaproteobacteria",
-    "Alphaproteobacteria",
-    "Alphaproteobacteria"
-  ],
-  "Family": [
-    "Hyphomicrobiales",
-    "Hyphomicrobiales",
-    "Hyphomicrobiales"
-  ],
-  "Genus": [
-    "Chelatococcaceae",
-    "Chelatococcaceae",
-    "Chelatococcaceae"
-  ],
-  "Species": [
-    "Camelimonas",
-    "Camelimonas",
-    "Camelimonas"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "Pseudomonadota": 3
+    },
+    "Order": {
+      "Alphaproteobacteria": 3
+    },
+    "Family": {
+      "Hyphomicrobiales": 3
+    },
+    "Genus": {
+      "Chelatococcaceae": 3
+    },
+    "Species": {
+      "Camelimonas": 3
+    }
+  }
 }

@@ -1,0 +1,50 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Nitrospirota",
+      "Order": "Nitrospiria",
+      "Family": "Nitrospirales",
+      "Genus": "Nitrospiraceae",
+      "Species": "unclassified Nitrospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "Verrucomicrobiia",
+      "Genus": "Verrucomicrobiales",
+      "Species": "unclassified Verrucomicrobiales"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Nitrospirota": 1,
+      "PVC group": 1
+    },
+    "Order": {
+      "Nitrospiria": 1,
+      "Verrucomicrobiota": 1
+    },
+    "Family": {
+      "Nitrospirales": 1,
+      "Verrucomicrobiia": 1
+    },
+    "Genus": {
+      "Nitrospiraceae": 1,
+      "Verrucomicrobiales": 1
+    },
+    "Species": {
+      "unclassified Nitrospiraceae": 1,
+      "unclassified Verrucomicrobiales": 1
+    }
+  }
+}

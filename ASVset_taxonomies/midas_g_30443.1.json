@@ -1,0 +1,86 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfuromonadia",
+      "Family": "Desulfuromonadales",
+      "Genus": "Desulfuromonadaceae",
+      "Species": "Desulfuromonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Spirochaetaceae",
+      "Species": "unclassified Spirochaetaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfuromonadia",
+      "Family": "Desulfuromonadales",
+      "Genus": "Desulfuromonadaceae",
+      "Species": "Desulfuromonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Spirochaetaceae",
+      "Species": "unclassified Spirochaetaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfuromonadia",
+      "Family": "Desulfuromonadales",
+      "Genus": "Desulfuromonadaceae",
+      "Species": "Desulfuromonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Spirochaetaceae",
+      "Species": "unclassified Spirochaetaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Pseudomonadati": 6
+    },
+    "Class": {
+      "Thermodesulfobacteriota": 3,
+      "Spirochaetota": 3
+    },
+    "Order": {
+      "Desulfuromonadia": 3,
+      "Spirochaetia": 3
+    },
+    "Family": {
+      "Desulfuromonadales": 3,
+      "Spirochaetales": 3
+    },
+    "Genus": {
+      "Desulfuromonadaceae": 3,
+      "Spirochaetaceae": 3
+    },
+    "Species": {
+      "Desulfuromonas": 3,
+      "unclassified Spirochaetaceae": 3
+    }
+  }
+}

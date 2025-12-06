@@ -1,58 +1,83 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "unclassified Bacteroidota",
+      "Species": "Bacteroidota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "FCB group",
-    "FCB group",
-    "FCB group",
-    "FCB group",
-    "FCB group",
-    "FCB group"
-  ],
-  "Order": [
-    "Bacteroidota/Chlorobiota group",
-    "Bacteroidota/Chlorobiota group",
-    "Bacteroidota/Chlorobiota group",
-    "Bacteroidota/Chlorobiota group",
-    "Bacteroidota/Chlorobiota group",
-    "Bacteroidota/Chlorobiota group"
-  ],
-  "Family": [
-    "Bacteroidota",
-    "Bacteroidota",
-    "Bacteroidota",
-    "Bacteroidota",
-    "Bacteroidota",
-    "Bacteroidota"
-  ],
-  "Genus": [
-    "Bacteroidia",
-    "unclassified Bacteroidota",
-    "Bacteroidia",
-    "Bacteroidia",
-    "Bacteroidia",
-    "Bacteroidia"
-  ],
-  "Species": [
-    "Bacteroidales",
-    "Bacteroidota bacterium",
-    "Bacteroidales",
-    "Bacteroidales",
-    "Bacteroidales",
-    "Bacteroidales"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Pseudomonadati": 6
+    },
+    "Class": {
+      "FCB group": 6
+    },
+    "Order": {
+      "Bacteroidota/Chlorobiota group": 6
+    },
+    "Family": {
+      "Bacteroidota": 6
+    },
+    "Genus": {
+      "Bacteroidia": 5,
+      "unclassified Bacteroidota": 1
+    },
+    "Species": {
+      "Bacteroidales": 5,
+      "Bacteroidota bacterium": 1
+    }
+  }
 }

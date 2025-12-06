@@ -1,0 +1,134 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Saccharimonadota",
+      "Family": "environmental samples",
+      "Genus": "uncultured Candidatus Saccharibacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Saccharimonadota",
+      "Family": "Candidatus Saccharimonadia",
+      "Genus": "Candidatus Saccharimonadales",
+      "Species": "unclassified Candidatus Saccharimonadales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Saccharimonadota",
+      "Family": "Candidatus Saccharimonadota incertae sedis",
+      "Genus": "Candidatus Minimicrobia",
+      "Species": "Candidatus Minimicrobia vallesae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "environmental samples",
+      "Class": "uncultured bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Patescibacteria group",
+      "Family": "unclassified Patescibacteria group",
+      "Genus": "Patescibacteria group bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Saccharimonadota",
+      "Family": "Candidatus Saccharimonadia",
+      "Genus": "unclassified Candidatus Saccharimonadia",
+      "Species": "Candidatus Saccharimonadia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Saccharimonadota",
+      "Family": "environmental samples",
+      "Genus": "uncultured Candidatus Saccharibacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "Candidatus Polarisedimenticolia",
+      "Family": "Candidatus Polarisedimenticolales",
+      "Genus": "Candidatus Polarisedimenticolaceae",
+      "Species": "unclassified Candidatus Polarisedimenticolaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 10
+    },
+    "Phylum": {
+      "Bacteria incertae sedis": 6,
+      "Bacillati": 2,
+      "environmental samples": 1,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Bacteria candidate phyla": 6,
+      "Chloroflexota": 1,
+      "uncultured bacterium": 1,
+      "Bacillota": 1,
+      "Acidobacteriota": 1
+    },
+    "Order": {
+      "Candidatus Saccharimonadota": 5,
+      "Chloroflexia": 1,
+      "Patescibacteria group": 1,
+      "Clostridia": 1,
+      "Candidatus Polarisedimenticolia": 1
+    },
+    "Family": {
+      "environmental samples": 3,
+      "Candidatus Saccharimonadia": 2,
+      "Candidatus Saccharimonadota incertae sedis": 1,
+      "unclassified Patescibacteria group": 1,
+      "unclassified Clostridia": 1,
+      "Candidatus Polarisedimenticolales": 1
+    },
+    "Genus": {
+      "uncultured Candidatus Saccharibacteria bacterium": 2,
+      "Candidatus Saccharimonadales": 1,
+      "uncultured Chloroflexia bacterium": 1,
+      "Candidatus Minimicrobia": 1,
+      "Patescibacteria group bacterium": 1,
+      "unclassified Candidatus Saccharimonadia": 1,
+      "Clostridia bacterium": 1,
+      "Candidatus Polarisedimenticolaceae": 1
+    },
+    "Species": {
+      "unclassified Candidatus Saccharimonadales": 1,
+      "Candidatus Minimicrobia vallesae": 1,
+      "Candidatus Saccharimonadia bacterium": 1,
+      "unclassified Candidatus Polarisedimenticolaceae": 1
+    }
+  }
+}

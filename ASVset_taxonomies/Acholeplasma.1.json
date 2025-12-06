@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Mycoplasmatota",
+      "Order": "Mollicutes",
+      "Family": "Acholeplasmatales",
+      "Genus": "Acholeplasmataceae",
+      "Species": "environmental samples"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacillati": 1
+    },
+    "Class": {
+      "Mycoplasmatota": 1
+    },
+    "Order": {
+      "Mollicutes": 1
+    },
+    "Family": {
+      "Acholeplasmatales": 1
+    },
+    "Genus": {
+      "Acholeplasmataceae": 1
+    },
+    "Species": {
+      "environmental samples": 1
+    }
+  }
+}

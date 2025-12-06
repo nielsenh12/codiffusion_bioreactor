@@ -1,0 +1,177 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Chlamydiota",
+      "Family": "Chlamydiia",
+      "Genus": "Chlamydiales",
+      "Species": "Chlamydiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Chlamydiota",
+      "Family": "Chlamydiia",
+      "Genus": "Chlamydiales",
+      "Species": "Chlamydiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Chlamydiota",
+      "Family": "Chlamydiia",
+      "Genus": "Chlamydiales",
+      "Species": "Chlamydiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Chlamydiota",
+      "Family": "Chlamydiia",
+      "Genus": "Chlamydiales",
+      "Species": "Chlamydiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Zixiibacteriota",
+      "Family": "environmental samples",
+      "Genus": "uncultured candidate division Zixibacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Nitrospirota",
+      "Order": "unclassified Nitrospirota",
+      "Family": "Nitrospirae bacterium CG2_30_70_394"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Zixiibacteriota",
+      "Family": "environmental samples",
+      "Genus": "uncultured candidate division Zixibacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Chlamydiota",
+      "Family": "Chlamydiia",
+      "Genus": "Chlamydiales",
+      "Species": "Chlamydiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Zixiibacteriota",
+      "Family": "environmental samples",
+      "Genus": "uncultured candidate division Zixibacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Borreliaceae",
+      "Species": "Borreliella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Candidatus Auribacterota",
+      "Family": "Candidatus Ancaeobacteria",
+      "Genus": "Candidatus Ancaeobacterales",
+      "Species": "Candidatus Ancaeobacteraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfobacteria",
+      "Family": "Desulfobacterales",
+      "Genus": "unclassified Desulfobacterales",
+      "Species": "Desulfobacterales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Zixiibacteriota",
+      "Family": "environmental samples",
+      "Genus": "uncultured candidate division Zixibacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 15
+    },
+    "Phylum": {
+      "Pseudomonadati": 13,
+      "Bacillati": 2
+    },
+    "Class": {
+      "PVC group": 6,
+      "FCB group": 4,
+      "Nitrospirota": 1,
+      "Bacillota": 2,
+      "Spirochaetota": 1,
+      "Thermodesulfobacteriota": 1
+    },
+    "Order": {
+      "Chlamydiota": 5,
+      "Candidatus Zixiibacteriota": 4,
+      "unclassified Nitrospirota": 1,
+      "unclassified Bacillota": 2,
+      "Spirochaetia": 1,
+      "Candidatus Auribacterota": 1,
+      "Desulfobacteria": 1
+    },
+    "Family": {
+      "Chlamydiia": 5,
+      "environmental samples": 4,
+      "Nitrospirae bacterium CG2_30_70_394": 1,
+      "Bacillota bacterium": 2,
+      "Spirochaetales": 1,
+      "Candidatus Ancaeobacteria": 1,
+      "Desulfobacterales": 1
+    },
+    "Genus": {
+      "Chlamydiales": 5,
+      "uncultured candidate division Zixibacteria bacterium": 4,
+      "Borreliaceae": 1,
+      "Candidatus Ancaeobacterales": 1,
+      "unclassified Desulfobacterales": 1
+    },
+    "Species": {
+      "Chlamydiaceae": 5,
+      "Borreliella": 1,
+      "Candidatus Ancaeobacteraceae": 1,
+      "Desulfobacterales bacterium": 1
+    }
+  }
+}

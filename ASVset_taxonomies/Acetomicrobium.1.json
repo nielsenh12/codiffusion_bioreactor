@@ -1,0 +1,51 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Acetomicrobiaceae",
+      "Species": "Acetomicrobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Spirochaetaceae",
+      "Species": "unclassified Spirochaetaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Thermotogati": 1,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Synergistota": 1,
+      "Spirochaetota": 1
+    },
+    "Order": {
+      "Synergistia": 1,
+      "Spirochaetia": 1
+    },
+    "Family": {
+      "Synergistales": 1,
+      "Spirochaetales": 1
+    },
+    "Genus": {
+      "Acetomicrobiaceae": 1,
+      "Spirochaetaceae": 1
+    },
+    "Species": {
+      "Acetomicrobium": 1,
+      "unclassified Spirochaetaceae": 1
+    }
+  }
+}

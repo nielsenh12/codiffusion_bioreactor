@@ -1,0 +1,159 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Patescibacteria group",
+      "Family": "unclassified Patescibacteria group",
+      "Genus": "Patescibacteria group bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Roseobacteraceae",
+      "Species": "Loktanella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Paracoccaceae",
+      "Species": "Limimaricola"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Roseobacteraceae",
+      "Species": "Rubellimicrobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Roseobacteraceae",
+      "Species": "Wenxinia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Paracoccaceae",
+      "Species": "Paracoccus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Roseobacteraceae",
+      "Species": "Roseovarius"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Roseobacteraceae",
+      "Species": "Loktanella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Comamonadaceae",
+      "Species": "Hydrogenophaga"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Roseobacteraceae",
+      "Species": "Rubellimicrobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Roseobacteraceae",
+      "Species": "Wenxinia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Roseobacteraceae",
+      "Species": "Rubellimicrobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Paracoccaceae",
+      "Species": "Marivivens group"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 13
+    },
+    "Phylum": {
+      "Bacteria incertae sedis": 1,
+      "Pseudomonadati": 12
+    },
+    "Class": {
+      "Bacteria candidate phyla": 1,
+      "Pseudomonadota": 12
+    },
+    "Order": {
+      "Patescibacteria group": 1,
+      "Alphaproteobacteria": 11,
+      "Betaproteobacteria": 1
+    },
+    "Family": {
+      "unclassified Patescibacteria group": 1,
+      "Rhodobacterales": 11,
+      "Burkholderiales": 1
+    },
+    "Genus": {
+      "Patescibacteria group bacterium": 1,
+      "Roseobacteraceae": 8,
+      "Paracoccaceae": 3,
+      "Comamonadaceae": 1
+    },
+    "Species": {
+      "Loktanella": 2,
+      "Limimaricola": 1,
+      "Rubellimicrobium": 3,
+      "Wenxinia": 2,
+      "Paracoccus": 1,
+      "Roseovarius": 1,
+      "Hydrogenophaga": 1,
+      "Marivivens group": 1
+    }
+  }
+}

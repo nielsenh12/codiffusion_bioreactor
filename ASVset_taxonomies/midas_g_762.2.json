@@ -1,0 +1,47 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Synergistaceae",
+      "Species": "unclassified Synergistaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Aminobacteriaceae",
+      "Species": "Aminivibrio"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Thermotogati": 2
+    },
+    "Class": {
+      "Synergistota": 2
+    },
+    "Order": {
+      "Synergistia": 2
+    },
+    "Family": {
+      "Synergistales": 2
+    },
+    "Genus": {
+      "Synergistaceae": 1,
+      "Aminobacteriaceae": 1
+    },
+    "Species": {
+      "unclassified Synergistaceae": 1,
+      "Aminivibrio": 1
+    }
+  }
+}

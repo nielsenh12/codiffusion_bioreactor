@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "Terrimicrobiia",
+      "Genus": "Terrimicrobiales",
+      "Species": "Terrimicrobiaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "PVC group": 1
+    },
+    "Order": {
+      "Verrucomicrobiota": 1
+    },
+    "Family": {
+      "Terrimicrobiia": 1
+    },
+    "Genus": {
+      "Terrimicrobiales": 1
+    },
+    "Species": {
+      "Terrimicrobiaceae": 1
+    }
+  }
+}

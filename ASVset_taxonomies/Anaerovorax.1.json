@@ -1,72 +1,103 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "unclassified Anaerovoracaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "unclassified Anaerovoracaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "unclassified Anaerovoracaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "Sinanaerobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Clostridiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "unclassified Anaerovoracaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "unclassified Anaerovoracaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "unclassified Anaerovoracaceae"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota"
-  ],
-  "Order": [
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia"
-  ],
-  "Family": [
-    "Peptostreptococcales",
-    "Peptostreptococcales",
-    "Peptostreptococcales",
-    "Peptostreptococcales",
-    "Eubacteriales",
-    "Peptostreptococcales",
-    "Peptostreptococcales",
-    "Peptostreptococcales"
-  ],
-  "Genus": [
-    "Anaerovoracaceae",
-    "Anaerovoracaceae",
-    "Anaerovoracaceae",
-    "Anaerovoracaceae",
-    "unclassified Eubacteriales",
-    "Anaerovoracaceae",
-    "Anaerovoracaceae",
-    "Anaerovoracaceae"
-  ],
-  "Species": [
-    "unclassified Anaerovoracaceae",
-    "unclassified Anaerovoracaceae",
-    "unclassified Anaerovoracaceae",
-    "Sinanaerobacter",
-    "Clostridiales bacterium",
-    "unclassified Anaerovoracaceae",
-    "unclassified Anaerovoracaceae",
-    "unclassified Anaerovoracaceae"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 8
+    },
+    "Phylum": {
+      "Bacillati": 8
+    },
+    "Class": {
+      "Bacillota": 8
+    },
+    "Order": {
+      "Clostridia": 8
+    },
+    "Family": {
+      "Peptostreptococcales": 7,
+      "Eubacteriales": 1
+    },
+    "Genus": {
+      "Anaerovoracaceae": 7,
+      "unclassified Eubacteriales": 1
+    },
+    "Species": {
+      "unclassified Anaerovoracaceae": 6,
+      "Sinanaerobacter": 1,
+      "Clostridiales bacterium": 1
+    }
+  }
 }

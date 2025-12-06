@@ -1,0 +1,45 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "unclassified Pseudomonadota",
+      "Family": "Pseudomonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Caulobacterales",
+      "Genus": "Caulobacteraceae",
+      "Species": "unclassified Caulobacteraceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Pseudomonadota": 2
+    },
+    "Order": {
+      "unclassified Pseudomonadota": 1,
+      "Alphaproteobacteria": 1
+    },
+    "Family": {
+      "Pseudomonadota bacterium": 1,
+      "Caulobacterales": 1
+    },
+    "Genus": {
+      "Caulobacteraceae": 1
+    },
+    "Species": {
+      "unclassified Caulobacteraceae": 1
+    }
+  }
+}

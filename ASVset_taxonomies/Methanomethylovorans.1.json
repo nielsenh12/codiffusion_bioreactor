@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Stenosarchaea group",
+      "Family": "Methanomicrobia",
+      "Genus": "Methanosarcinales",
+      "Species": "Methanosarcinaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Archaea": 1
+    },
+    "Phylum": {
+      "Methanobacteriati": 1
+    },
+    "Class": {
+      "Methanobacteriota": 1
+    },
+    "Order": {
+      "Stenosarchaea group": 1
+    },
+    "Family": {
+      "Methanomicrobia": 1
+    },
+    "Genus": {
+      "Methanosarcinales": 1
+    },
+    "Species": {
+      "Methanosarcinaceae": 1
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Rhodocyclales",
+      "Genus": "Azonexaceae",
+      "Species": "Azonexus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Comamonadaceae",
+      "Species": "Alicycliphilus"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Pseudomonadota": 2
+    },
+    "Order": {
+      "Betaproteobacteria": 2
+    },
+    "Family": {
+      "Rhodocyclales": 1,
+      "Burkholderiales": 1
+    },
+    "Genus": {
+      "Azonexaceae": 1,
+      "Comamonadaceae": 1
+    },
+    "Species": {
+      "Azonexus": 1,
+      "Alicycliphilus": 1
+    }
+  }
+}

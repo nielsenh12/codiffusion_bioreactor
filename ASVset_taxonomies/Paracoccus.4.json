@@ -1,0 +1,135 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Paracoccaceae",
+      "Species": "Paracoccus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Paracoccaceae",
+      "Species": "Paracoccus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Paracoccaceae",
+      "Species": "Paracoccus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Paracoccaceae",
+      "Species": "Paracoccus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Paracoccaceae",
+      "Species": "Paracoccus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Paracoccaceae",
+      "Species": "Paracoccus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Paracoccaceae",
+      "Species": "Paracoccus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Paracoccaceae",
+      "Species": "Paracoccus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Paracoccaceae",
+      "Species": "Paracoccus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Paracoccaceae",
+      "Species": "Paracoccus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Paracoccaceae",
+      "Species": "Paracoccus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Paracoccaceae",
+      "Species": "Paracoccus"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 12
+    },
+    "Phylum": {
+      "Pseudomonadati": 12
+    },
+    "Class": {
+      "Pseudomonadota": 12
+    },
+    "Order": {
+      "Alphaproteobacteria": 12
+    },
+    "Family": {
+      "Rhodobacterales": 12
+    },
+    "Genus": {
+      "Paracoccaceae": 12
+    },
+    "Species": {
+      "Paracoccus": 12
+    }
+  }
+}

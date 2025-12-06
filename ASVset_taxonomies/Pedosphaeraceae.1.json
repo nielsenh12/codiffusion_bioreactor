@@ -1,0 +1,103 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "unclassified Verrucomicrobiota",
+      "Genus": "Verrucomicrobiota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "unclassified Verrucomicrobiota",
+      "Genus": "Verrucomicrobiota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "Verrucomicrobiia",
+      "Genus": "Verrucomicrobiales",
+      "Species": "unclassified Verrucomicrobiales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "unclassified Verrucomicrobiota",
+      "Genus": "Verrucomicrobiota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "Blastocatellia",
+      "Family": "Blastocatellales",
+      "Genus": "Pyrinomonadaceae",
+      "Species": "unclassified Pyrinomonadaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "unclassified Verrucomicrobiota",
+      "Genus": "Verrucomicrobiota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "unclassified Verrucomicrobiota",
+      "Genus": "Verrucomicrobiota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "Verrucomicrobiia",
+      "Genus": "environmental samples",
+      "Species": "uncultured Verrucomicrobiae bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 8
+    },
+    "Phylum": {
+      "Pseudomonadati": 8
+    },
+    "Class": {
+      "PVC group": 7,
+      "Acidobacteriota": 1
+    },
+    "Order": {
+      "Verrucomicrobiota": 7,
+      "Blastocatellia": 1
+    },
+    "Family": {
+      "unclassified Verrucomicrobiota": 5,
+      "Verrucomicrobiia": 2,
+      "Blastocatellales": 1
+    },
+    "Genus": {
+      "Verrucomicrobiota bacterium": 5,
+      "Verrucomicrobiales": 1,
+      "Pyrinomonadaceae": 1,
+      "environmental samples": 1
+    },
+    "Species": {
+      "unclassified Verrucomicrobiales": 1,
+      "unclassified Pyrinomonadaceae": 1,
+      "uncultured Verrucomicrobiae bacterium": 1
+    }
+  }
+}

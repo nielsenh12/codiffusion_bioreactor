@@ -1,30 +1,48 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Ruminococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "Coprococcus"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Bacillota",
-    "Bacillota"
-  ],
-  "Order": [
-    "Clostridia",
-    "Clostridia"
-  ],
-  "Family": [
-    "Eubacteriales",
-    "Lachnospirales"
-  ],
-  "Genus": [
-    "Oscillospiraceae",
-    "Lachnospiraceae"
-  ],
-  "Species": [
-    "Ruminococcus",
-    "Coprococcus"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacillati": 2
+    },
+    "Class": {
+      "Bacillota": 2
+    },
+    "Order": {
+      "Clostridia": 2
+    },
+    "Family": {
+      "Eubacteriales": 1,
+      "Lachnospirales": 1
+    },
+    "Genus": {
+      "Oscillospiraceae": 1,
+      "Lachnospiraceae": 1
+    },
+    "Species": {
+      "Ruminococcus": 1,
+      "Coprococcus": 1
+    }
+  }
 }

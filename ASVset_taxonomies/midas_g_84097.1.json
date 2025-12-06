@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "Planctomycetales",
+      "Species": "unclassified Planctomycetales"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "PVC group": 1
+    },
+    "Order": {
+      "Planctomycetota": 1
+    },
+    "Family": {
+      "Planctomycetia": 1
+    },
+    "Genus": {
+      "Planctomycetales": 1
+    },
+    "Species": {
+      "unclassified Planctomycetales": 1
+    }
+  }
+}

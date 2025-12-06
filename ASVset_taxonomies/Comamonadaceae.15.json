@@ -1,0 +1,46 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured beta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Comamonadaceae",
+      "Species": "Limnohabitans"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Pseudomonadota": 2
+    },
+    "Order": {
+      "Betaproteobacteria": 2
+    },
+    "Family": {
+      "environmental samples": 1,
+      "Burkholderiales": 1
+    },
+    "Genus": {
+      "uncultured beta proteobacterium": 1,
+      "Comamonadaceae": 1
+    },
+    "Species": {
+      "Limnohabitans": 1
+    }
+  }
+}

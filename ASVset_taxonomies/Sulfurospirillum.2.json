@@ -1,84 +1,122 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Campylobacterota",
+      "Order": "Epsilonproteobacteria",
+      "Family": "Campylobacterales",
+      "Genus": "Sulfurospirillaceae",
+      "Species": "Sulfurospirillum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Campylobacterota",
+      "Order": "Epsilonproteobacteria",
+      "Family": "Campylobacterales",
+      "Genus": "Sulfurospirillaceae",
+      "Species": "Sulfurospirillum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Campylobacterota",
+      "Order": "Epsilonproteobacteria",
+      "Family": "Campylobacterales",
+      "Genus": "Sulfurospirillaceae",
+      "Species": "Sulfurospirillum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Campylobacterota",
+      "Order": "Epsilonproteobacteria",
+      "Family": "Campylobacterales",
+      "Genus": "Sulfurospirillaceae",
+      "Species": "Sulfurospirillum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "unclassified Pseudomonadota",
+      "Family": "Pseudomonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Campylobacterota",
+      "Order": "Epsilonproteobacteria",
+      "Family": "Campylobacterales",
+      "Genus": "Sulfurospirillaceae",
+      "Species": "Sulfurospirillum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Campylobacterota",
+      "Order": "Epsilonproteobacteria",
+      "Family": "Campylobacterales",
+      "Genus": "Sulfurospirillaceae",
+      "Species": "Sulfurospirillum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Campylobacterota",
+      "Order": "Epsilonproteobacteria",
+      "Family": "Campylobacterales",
+      "Genus": "Sulfurospirillaceae",
+      "Species": "Sulfurospirillum"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Campylobacterota",
-    "Pseudomonadota",
-    "Campylobacterota",
-    "Pseudomonadota",
-    "Campylobacterota",
-    "Campylobacterota",
-    "Pseudomonadota",
-    "Campylobacterota",
-    "Campylobacterota",
-    "Campylobacterota"
-  ],
-  "Order": [
-    "Epsilonproteobacteria",
-    "Gammaproteobacteria",
-    "Epsilonproteobacteria",
-    "Gammaproteobacteria",
-    "Epsilonproteobacteria",
-    "Epsilonproteobacteria",
-    "unclassified Pseudomonadota",
-    "Epsilonproteobacteria",
-    "Epsilonproteobacteria",
-    "Epsilonproteobacteria"
-  ],
-  "Family": [
-    "Campylobacterales",
-    "Enterobacterales",
-    "Campylobacterales",
-    "Enterobacterales",
-    "Campylobacterales",
-    "Campylobacterales",
-    "Pseudomonadota bacterium",
-    "Campylobacterales",
-    "Campylobacterales",
-    "Campylobacterales"
-  ],
-  "Genus": [
-    "Sulfurospirillaceae",
-    "Enterobacteriaceae",
-    "Sulfurospirillaceae",
-    "Enterobacteriaceae",
-    "Sulfurospirillaceae",
-    "Sulfurospirillaceae",
-    "Sulfurospirillaceae",
-    "Sulfurospirillaceae",
-    "Sulfurospirillaceae"
-  ],
-  "Species": [
-    "Sulfurospirillum",
-    "Cronobacter",
-    "Sulfurospirillum",
-    "Cronobacter",
-    "Sulfurospirillum",
-    "Sulfurospirillum",
-    "Sulfurospirillum",
-    "Sulfurospirillum",
-    "Sulfurospirillum"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 10
+    },
+    "Phylum": {
+      "Pseudomonadati": 10
+    },
+    "Class": {
+      "Campylobacterota": 7,
+      "Pseudomonadota": 3
+    },
+    "Order": {
+      "Epsilonproteobacteria": 7,
+      "Gammaproteobacteria": 2,
+      "unclassified Pseudomonadota": 1
+    },
+    "Family": {
+      "Campylobacterales": 7,
+      "Enterobacterales": 2,
+      "Pseudomonadota bacterium": 1
+    },
+    "Genus": {
+      "Sulfurospirillaceae": 7,
+      "Enterobacteriaceae": 2
+    },
+    "Species": {
+      "Sulfurospirillum": 7,
+      "Cronobacter": 2
+    }
+  }
 }

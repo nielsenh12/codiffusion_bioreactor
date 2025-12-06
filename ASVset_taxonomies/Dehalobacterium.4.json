@@ -1,0 +1,79 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Sumerlaeota",
+      "Family": "unclassified Candidatus Sumerlaeota",
+      "Genus": "Candidatus Sumerlaeota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Sumerlaeota",
+      "Family": "unclassified Candidatus Sumerlaeota",
+      "Genus": "Candidatus Sumerlaeota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Clostridiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Thermincolaceae",
+      "Species": "Thermincola"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Peptococcaceae",
+      "Species": "Dehalobacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Bacteria incertae sedis": 2,
+      "Bacillati": 3
+    },
+    "Class": {
+      "Bacteria candidate phyla": 2,
+      "Bacillota": 3
+    },
+    "Order": {
+      "Candidatus Sumerlaeota": 2,
+      "Clostridia": 3
+    },
+    "Family": {
+      "unclassified Candidatus Sumerlaeota": 2,
+      "Eubacteriales": 3
+    },
+    "Genus": {
+      "Candidatus Sumerlaeota bacterium": 2,
+      "unclassified Eubacteriales": 1,
+      "Thermincolaceae": 1,
+      "Peptococcaceae": 1
+    },
+    "Species": {
+      "Clostridiales bacterium": 1,
+      "Thermincola": 1,
+      "Dehalobacterium": 1
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Hydrogenedentota",
+      "Family": "unclassified Candidatus Hydrogenedentota",
+      "Genus": "Candidatus Hydrogenedentota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "unclassified Spirochaetota",
+      "Family": "Spirochaetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Pseudomonadati": 2,
+      "unclassified Bacteria": 1
+    },
+    "Class": {
+      "FCB group": 1,
+      "Spirochaetota": 1,
+      "bacterium": 1
+    },
+    "Order": {
+      "Candidatus Hydrogenedentota": 1,
+      "unclassified Spirochaetota": 1
+    },
+    "Family": {
+      "unclassified Candidatus Hydrogenedentota": 1,
+      "Spirochaetota bacterium": 1
+    },
+    "Genus": {
+      "Candidatus Hydrogenedentota bacterium": 1
+    },
+    "Species": {}
+  }
+}

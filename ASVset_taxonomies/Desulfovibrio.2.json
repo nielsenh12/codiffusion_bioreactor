@@ -1,63 +1,98 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "Desulfovibrionaceae",
+      "Species": "Solidesulfovibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "Desulfovibrionaceae",
+      "Species": "Solidesulfovibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Negativicutes",
+      "Family": "Selenomonadales",
+      "Genus": "Sporomusaceae",
+      "Species": "Anaeromusa"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "Desulfovibrionaceae",
+      "Species": "Desulfovibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "unclassified Pseudomonadota",
+      "Family": "Pseudomonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "Desulfovibrionaceae",
+      "Species": "Desulfovibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "Desulfovibrionaceae",
+      "Species": "Solidesulfovibrio"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Thermodesulfobacteriota",
-    "Thermodesulfobacteriota",
-    "Bacillota",
-    "Thermodesulfobacteriota",
-    "Pseudomonadota",
-    "Thermodesulfobacteriota",
-    "Thermodesulfobacteriota"
-  ],
-  "Order": [
-    "Desulfovibrionia",
-    "Desulfovibrionia",
-    "Negativicutes",
-    "Desulfovibrionia",
-    "unclassified Pseudomonadota",
-    "Desulfovibrionia",
-    "Desulfovibrionia"
-  ],
-  "Family": [
-    "Desulfovibrionales",
-    "Desulfovibrionales",
-    "Selenomonadales",
-    "Desulfovibrionales",
-    "Pseudomonadota bacterium",
-    "Desulfovibrionales",
-    "Desulfovibrionales"
-  ],
-  "Genus": [
-    "Desulfovibrionaceae",
-    "Desulfovibrionaceae",
-    "Sporomusaceae",
-    "Desulfovibrionaceae",
-    "Desulfovibrionaceae",
-    "Desulfovibrionaceae"
-  ],
-  "Species": [
-    "Solidesulfovibrio",
-    "Solidesulfovibrio",
-    "Anaeromusa",
-    "Desulfovibrio",
-    "Desulfovibrio",
-    "Solidesulfovibrio"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 7
+    },
+    "Phylum": {
+      "Pseudomonadati": 6,
+      "Bacillati": 1
+    },
+    "Class": {
+      "Thermodesulfobacteriota": 5,
+      "Bacillota": 1,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Desulfovibrionia": 5,
+      "Negativicutes": 1,
+      "unclassified Pseudomonadota": 1
+    },
+    "Family": {
+      "Desulfovibrionales": 5,
+      "Selenomonadales": 1,
+      "Pseudomonadota bacterium": 1
+    },
+    "Genus": {
+      "Desulfovibrionaceae": 5,
+      "Sporomusaceae": 1
+    },
+    "Species": {
+      "Solidesulfovibrio": 3,
+      "Anaeromusa": 1,
+      "Desulfovibrio": 2
+    }
+  }
 }

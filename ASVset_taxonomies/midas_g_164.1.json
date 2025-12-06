@@ -1,0 +1,457 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Propionibacteriaceae",
+      "Species": "Naumannella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Propionibacteriaceae",
+      "Species": "Propionibacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "unclassified Propionibacteriales",
+      "Species": "Propionibacteriales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Peptostreptococcaceae",
+      "Species": "Clostridioides"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Tsukamurellaceae",
+      "Species": "Tsukamurella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Pseudonocardiales",
+      "Genus": "Pseudonocardiaceae",
+      "Species": "Actinokineospora"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Nocardioidaceae",
+      "Species": "Nocardioides"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Pseudonocardiales",
+      "Genus": "Pseudonocardiaceae",
+      "Species": "Actinokineospora"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Pseudonocardiales",
+      "Genus": "Pseudonocardiaceae",
+      "Species": "Actinokineospora"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "environmental samples",
+      "Genus": "uncultured Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Nocardioidaceae",
+      "Species": "Nocardioides"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Nocardioidaceae",
+      "Species": "Nocardioides"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Pseudonocardiales",
+      "Genus": "Pseudonocardiaceae",
+      "Species": "Alloactinosynnema"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "unclassified Acidobacteriota",
+      "Family": "Acidobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Propionibacteriaceae",
+      "Species": "Naumannella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Propionibacteriaceae",
+      "Species": "Propionibacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "unclassified Micrococcales",
+      "Species": "Micrococcales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Nocardioidaceae",
+      "Species": "Aeromicrobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Pseudonocardiales",
+      "Genus": "Pseudonocardiaceae",
+      "Species": "Allokutzneria"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Nocardioidaceae",
+      "Species": "Aeromicrobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Pseudonocardiales",
+      "Genus": "Pseudonocardiaceae",
+      "Species": "Crossiella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Pseudonocardiales",
+      "Genus": "Pseudonocardiaceae",
+      "Species": "Allokutzneria"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Pseudonocardiales",
+      "Genus": "Pseudonocardiaceae",
+      "Species": "Crossiella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "unclassified Propionibacteriales",
+      "Species": "Propionibacteriales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Kribbellaceae",
+      "Species": "Kribbella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Nocardioidaceae",
+      "Species": "Aeromicrobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Nocardioidaceae",
+      "Species": "Aeromicrobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Pseudonocardiales",
+      "Genus": "Pseudonocardiaceae",
+      "Species": "Allokutzneria"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Nocardioidaceae",
+      "Species": "Aeromicrobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Actinopolymorphaceae",
+      "Species": "Actinopolymorpha"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Nocardioidaceae",
+      "Species": "Aeromicrobium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 47
+    },
+    "Phylum": {
+      "Bacillati": 45,
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Actinomycetota": 44,
+      "Bacillota": 1,
+      "Pseudomonadota": 1,
+      "Acidobacteriota": 1
+    },
+    "Order": {
+      "Actinomycetes": 29,
+      "Clostridia": 1,
+      "environmental samples": 15,
+      "Gammaproteobacteria": 1,
+      "unclassified Acidobacteriota": 1
+    },
+    "Family": {
+      "Propionibacteriales": 17,
+      "Peptostreptococcales": 1,
+      "uncultured Actinomycetota bacterium": 15,
+      "Mycobacteriales": 1,
+      "Pseudonocardiales": 9,
+      "environmental samples": 1,
+      "Enterobacterales": 1,
+      "Acidobacteriota bacterium": 1,
+      "Micrococcales": 1
+    },
+    "Genus": {
+      "Propionibacteriaceae": 4,
+      "unclassified Propionibacteriales": 2,
+      "Peptostreptococcaceae": 1,
+      "Tsukamurellaceae": 1,
+      "Pseudonocardiaceae": 9,
+      "Nocardioidaceae": 9,
+      "uncultured Actinomycetes bacterium": 1,
+      "Enterobacteriaceae": 1,
+      "unclassified Micrococcales": 1,
+      "Kribbellaceae": 1,
+      "Actinopolymorphaceae": 1
+    },
+    "Species": {
+      "Naumannella": 2,
+      "Propionibacterium": 2,
+      "Propionibacteriales bacterium": 2,
+      "Clostridioides": 1,
+      "Tsukamurella": 1,
+      "Actinokineospora": 3,
+      "Nocardioides": 3,
+      "Alloactinosynnema": 1,
+      "Cronobacter": 1,
+      "Micrococcales bacterium": 1,
+      "Aeromicrobium": 6,
+      "Allokutzneria": 3,
+      "Crossiella": 2,
+      "Kribbella": 1,
+      "Actinopolymorpha": 1
+    }
+  }
+}

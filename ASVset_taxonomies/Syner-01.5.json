@@ -1,0 +1,135 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Aminobacteriaceae",
+      "Species": "Aminivibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Synergistaceae",
+      "Species": "unclassified Synergistaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Aminobacteriaceae",
+      "Species": "Aminivibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Aminobacteriaceae",
+      "Species": "Aminivibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Aminobacteriaceae",
+      "Species": "Aminivibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Aminobacteriaceae",
+      "Species": "unclassified Aminobacteriaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "unclassified Synergistales",
+      "Species": "Synergistales bacterium"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Stenosarchaea group",
+      "Family": "Methanomicrobia",
+      "Genus": "Methanomicrobiales",
+      "Species": "Methanomicrobiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Aminobacteriaceae",
+      "Species": "unclassified Aminobacteriaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 9,
+      "Archaea": 1
+    },
+    "Phylum": {
+      "Thermotogati": 8,
+      "Methanobacteriati": 1,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Synergistota": 8,
+      "Methanobacteriota": 1,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Synergistia": 8,
+      "Stenosarchaea group": 1,
+      "Gammaproteobacteria": 1
+    },
+    "Family": {
+      "Synergistales": 8,
+      "Methanomicrobia": 1,
+      "Enterobacterales": 1
+    },
+    "Genus": {
+      "Aminobacteriaceae": 6,
+      "Synergistaceae": 1,
+      "unclassified Synergistales": 1,
+      "Methanomicrobiales": 1,
+      "Enterobacteriaceae": 1
+    },
+    "Species": {
+      "Aminivibrio": 4,
+      "unclassified Synergistaceae": 1,
+      "unclassified Aminobacteriaceae": 2,
+      "Synergistales bacterium": 1,
+      "Methanomicrobiaceae": 1,
+      "Cronobacter": 1
+    }
+  }
+}

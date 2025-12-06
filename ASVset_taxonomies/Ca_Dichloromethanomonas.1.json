@@ -1,0 +1,65 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Gracilibacteraceae",
+      "Species": "Gracilibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Gracilibacteraceae",
+      "Species": "Gracilibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Peptococcaceae",
+      "Species": "unclassified Peptococcaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Gracilibacteraceae",
+      "Species": "Gracilibacter"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Bacillati": 4
+    },
+    "Class": {
+      "Bacillota": 4
+    },
+    "Order": {
+      "Clostridia": 4
+    },
+    "Family": {
+      "Eubacteriales": 4
+    },
+    "Genus": {
+      "Gracilibacteraceae": 3,
+      "Peptococcaceae": 1
+    },
+    "Species": {
+      "Gracilibacter": 3,
+      "unclassified Peptococcaceae": 1
+    }
+  }
+}

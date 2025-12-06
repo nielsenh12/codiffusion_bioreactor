@@ -1,0 +1,45 @@
+{
+  "members": [
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Archaea": 2
+    },
+    "Phylum": {
+      "Methanobacteriati": 2
+    },
+    "Class": {
+      "Methanobacteriota": 2
+    },
+    "Order": {
+      "Methanomada group": 2
+    },
+    "Family": {
+      "Methanobacteria": 2
+    },
+    "Genus": {
+      "Methanobacteriales": 2
+    },
+    "Species": {
+      "Methanobacteriaceae": 2
+    }
+  }
+}

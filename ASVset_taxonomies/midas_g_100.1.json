@@ -1,0 +1,45 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Candidatus Nanopelagicales",
+      "Genus": "unclassified Candidatus Nanopelagicales",
+      "Species": "Candidatus Nanopelagicales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Candidatus Nanopelagicales",
+      "Genus": "unclassified Candidatus Nanopelagicales",
+      "Species": "Candidatus Nanopelagicales bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacillati": 2
+    },
+    "Class": {
+      "Actinomycetota": 2
+    },
+    "Order": {
+      "Actinomycetes": 2
+    },
+    "Family": {
+      "Candidatus Nanopelagicales": 2
+    },
+    "Genus": {
+      "unclassified Candidatus Nanopelagicales": 2
+    },
+    "Species": {
+      "Candidatus Nanopelagicales bacterium": 2
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Atribacterota",
+      "Order": "Atribacteria",
+      "Family": "unclassified Atribacteria",
+      "Genus": "Candidatus Atribacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Atribacterota",
+      "Order": "unclassified Atribacterota",
+      "Family": "Atribacterota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Atribacterota": 2
+    },
+    "Order": {
+      "Atribacteria": 1,
+      "unclassified Atribacterota": 1
+    },
+    "Family": {
+      "unclassified Atribacteria": 1,
+      "Atribacterota bacterium": 1
+    },
+    "Genus": {
+      "Candidatus Atribacteria bacterium": 1
+    },
+    "Species": {}
+  }
+}

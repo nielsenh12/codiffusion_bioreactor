@@ -1,0 +1,51 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Aminobacteriaceae",
+      "Species": "Aminobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "unclassified Anaerolineaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Thermotogati": 1,
+      "Bacillati": 1
+    },
+    "Class": {
+      "Synergistota": 1,
+      "Chloroflexota": 1
+    },
+    "Order": {
+      "Synergistia": 1,
+      "Anaerolineae": 1
+    },
+    "Family": {
+      "Synergistales": 1,
+      "Anaerolineales": 1
+    },
+    "Genus": {
+      "Aminobacteriaceae": 1,
+      "Anaerolineaceae": 1
+    },
+    "Species": {
+      "Aminobacterium": 1,
+      "unclassified Anaerolineaceae": 1
+    }
+  }
+}

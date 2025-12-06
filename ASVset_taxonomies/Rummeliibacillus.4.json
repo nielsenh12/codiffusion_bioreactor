@@ -1,0 +1,55 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Caryophanaceae",
+      "Species": "Rummeliibacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Caryophanaceae",
+      "Species": "Rummeliibacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Caryophanaceae",
+      "Species": "environmental samples"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Bacillati": 3
+    },
+    "Class": {
+      "Bacillota": 3
+    },
+    "Order": {
+      "Bacilli": 3
+    },
+    "Family": {
+      "Bacillales": 3
+    },
+    "Genus": {
+      "Caryophanaceae": 3
+    },
+    "Species": {
+      "Rummeliibacillus": 2,
+      "environmental samples": 1
+    }
+  }
+}

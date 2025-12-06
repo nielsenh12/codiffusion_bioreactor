@@ -1,0 +1,119 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Rhodocyclales",
+      "Genus": "Azonexaceae",
+      "Species": "Dechloromonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured beta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Rhodocyclales",
+      "Genus": "Azonexaceae",
+      "Species": "Quatrionicoccus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Rhodocyclales",
+      "Genus": "Azonexaceae",
+      "Species": "Azonexus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Rhodocyclales",
+      "Genus": "Azonexaceae",
+      "Species": "Azonexus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Rhodocyclales",
+      "Genus": "Azonexaceae",
+      "Species": "Dechloromonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Rhodocyclales",
+      "Genus": "Azonexaceae",
+      "Species": "Dechloromonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Rhodocyclales",
+      "Genus": "Azonexaceae",
+      "Species": "Azonexus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured beta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Rhodocyclales",
+      "Genus": "Azonexaceae",
+      "Species": "Azonexus"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 10
+    },
+    "Phylum": {
+      "Pseudomonadati": 10
+    },
+    "Class": {
+      "Pseudomonadota": 10
+    },
+    "Order": {
+      "Betaproteobacteria": 10
+    },
+    "Family": {
+      "Rhodocyclales": 8,
+      "environmental samples": 2
+    },
+    "Genus": {
+      "Azonexaceae": 8,
+      "uncultured beta proteobacterium": 2
+    },
+    "Species": {
+      "Dechloromonas": 3,
+      "Quatrionicoccus": 1,
+      "Azonexus": 4
+    }
+  }
+}

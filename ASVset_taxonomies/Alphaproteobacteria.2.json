@@ -1,0 +1,97 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodospirillales",
+      "Genus": "Rhodospirillaceae",
+      "Species": "unclassified Rhodospirillaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodospirillales",
+      "Genus": "Novispirillaceae",
+      "Species": "Haematospirillum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodospirillales",
+      "Genus": "Oleispirillaceae",
+      "Species": "Oleispirillum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodospirillales",
+      "Genus": "Rhodospirillaceae",
+      "Species": "unclassified Rhodospirillaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodospirillales",
+      "Genus": "Novispirillaceae",
+      "Species": "Insolitispirillum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodospirillales",
+      "Genus": "Novispirillaceae",
+      "Species": "Novispirillum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Alphaproteobacteria bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 7
+    },
+    "Phylum": {
+      "Pseudomonadati": 7
+    },
+    "Class": {
+      "Pseudomonadota": 7
+    },
+    "Order": {
+      "Alphaproteobacteria": 7
+    },
+    "Family": {
+      "Rhodospirillales": 6,
+      "environmental samples": 1
+    },
+    "Genus": {
+      "Rhodospirillaceae": 2,
+      "Novispirillaceae": 3,
+      "Oleispirillaceae": 1,
+      "uncultured Alphaproteobacteria bacterium": 1
+    },
+    "Species": {
+      "unclassified Rhodospirillaceae": 2,
+      "Haematospirillum": 1,
+      "Oleispirillum": 1,
+      "Insolitispirillum": 1,
+      "Novispirillum": 1
+    }
+  }
+}

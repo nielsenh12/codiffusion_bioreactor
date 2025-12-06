@@ -1,0 +1,80 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "unclassified Deltaproteobacteria",
+      "Family": "Deltaproteobacteria bacterium ADurb.Bin207"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Myxococcota",
+      "Order": "Polyangia",
+      "Family": "Polyangiales",
+      "Genus": "Polyangiaceae",
+      "Species": "unclassified Polyangiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "unclassified Spirochaetia",
+      "Genus": "Spirochaetia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured beta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Myxococcota",
+      "Order": "Polyangia",
+      "Family": "Polyangiales",
+      "Genus": "Polyangiaceae",
+      "Species": "unclassified Polyangiaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "delta/epsilon subdivisions": 1,
+      "Pseudomonadati": 4
+    },
+    "Class": {
+      "Deltaproteobacteria": 1,
+      "Myxococcota": 2,
+      "Spirochaetota": 1,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "unclassified Deltaproteobacteria": 1,
+      "Polyangia": 2,
+      "Spirochaetia": 1,
+      "Betaproteobacteria": 1
+    },
+    "Family": {
+      "Deltaproteobacteria bacterium ADurb.Bin207": 1,
+      "Polyangiales": 2,
+      "unclassified Spirochaetia": 1,
+      "environmental samples": 1
+    },
+    "Genus": {
+      "Polyangiaceae": 2,
+      "Spirochaetia bacterium": 1,
+      "uncultured beta proteobacterium": 1
+    },
+    "Species": {
+      "unclassified Polyangiaceae": 2
+    }
+  }
+}

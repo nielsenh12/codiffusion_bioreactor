@@ -1,30 +1,51 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Patescibacteria group",
+      "Family": "Microgenomates group",
+      "Genus": "Minisyncoccota",
+      "Species": "unclassified Minisyncoccota"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Candidatus Melainabacteria",
+      "Family": "Candidatus Obscuribacterales",
+      "Genus": "Candidatus Obscuribacteraceae",
+      "Species": "Candidatus Obscuribacter"
+    }
   ],
-  "Phylum": [
-    "Bacteria incertae sedis",
-    "Bacillati"
-  ],
-  "Class": [
-    "Bacteria candidate phyla",
-    "Cyanobacteriota/Melainabacteria group"
-  ],
-  "Order": [
-    "Patescibacteria group",
-    "Candidatus Melainabacteria"
-  ],
-  "Family": [
-    "Microgenomates group",
-    "Candidatus Obscuribacterales"
-  ],
-  "Genus": [
-    "Minisyncoccota",
-    "Candidatus Obscuribacteraceae"
-  ],
-  "Species": [
-    "unclassified Minisyncoccota",
-    "Candidatus Obscuribacter"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacteria incertae sedis": 1,
+      "Bacillati": 1
+    },
+    "Class": {
+      "Bacteria candidate phyla": 1,
+      "Cyanobacteriota/Melainabacteria group": 1
+    },
+    "Order": {
+      "Patescibacteria group": 1,
+      "Candidatus Melainabacteria": 1
+    },
+    "Family": {
+      "Microgenomates group": 1,
+      "Candidatus Obscuribacterales": 1
+    },
+    "Genus": {
+      "Minisyncoccota": 1,
+      "Candidatus Obscuribacteraceae": 1
+    },
+    "Species": {
+      "unclassified Minisyncoccota": 1,
+      "Candidatus Obscuribacter": 1
+    }
+  }
 }

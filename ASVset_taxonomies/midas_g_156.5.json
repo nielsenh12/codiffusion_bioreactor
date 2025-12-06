@@ -1,0 +1,58 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Myxococcota",
+      "Order": "unclassified Myxococcota",
+      "Family": "Myxococcota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "unclassified Candidatus Cloacimonadota",
+      "Genus": "Candidatus Cloacimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Myxococcota",
+      "Order": "unclassified Myxococcota",
+      "Family": "Myxococcota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "unclassified Candidatus Cloacimonadota",
+      "Genus": "Candidatus Cloacimonadota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Pseudomonadati": 4
+    },
+    "Class": {
+      "Myxococcota": 2,
+      "FCB group": 2
+    },
+    "Order": {
+      "unclassified Myxococcota": 2,
+      "Candidatus Cloacimonadota": 2
+    },
+    "Family": {
+      "Myxococcota bacterium": 2,
+      "unclassified Candidatus Cloacimonadota": 2
+    },
+    "Genus": {
+      "Candidatus Cloacimonadota bacterium": 2
+    },
+    "Species": {}
+  }
+}

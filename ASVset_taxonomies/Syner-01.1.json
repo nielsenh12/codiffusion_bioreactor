@@ -1,73 +1,110 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "unclassified Synergistales",
+      "Species": "Synergistales bacterium Syner_01"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Aminobacteriaceae",
+      "Species": "unclassified Aminobacteriaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "unclassified Synergistales",
+      "Species": "Synergistales bacterium Syner_01"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "unclassified Synergistales",
+      "Species": "Synergistales bacterium Syner_01"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "unclassified Synergistales",
+      "Species": "Synergistales bacterium Syner_01"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "unclassified Synergistales",
+      "Species": "Synergistales bacterium Syner_01"
+    }
   ],
-  "Phylum": [
-    "Thermotogati",
-    "unclassified Bacteria",
-    "Thermotogati",
-    "Thermotogati",
-    "unclassified Bacteria",
-    "Thermotogati",
-    "unclassified Bacteria",
-    "unclassified Bacteria",
-    "Thermotogati",
-    "unclassified Bacteria",
-    "Thermotogati"
-  ],
-  "Class": [
-    "Synergistota",
-    "bacterium",
-    "Synergistota",
-    "Synergistota",
-    "bacterium",
-    "Synergistota",
-    "bacterium",
-    "bacterium",
-    "Synergistota",
-    "bacterium",
-    "Synergistota"
-  ],
-  "Order": [
-    "Synergistia",
-    "Synergistia",
-    "Synergistia",
-    "Synergistia",
-    "Synergistia",
-    "Synergistia"
-  ],
-  "Family": [
-    "Synergistales",
-    "Synergistales",
-    "Synergistales",
-    "Synergistales",
-    "Synergistales",
-    "Synergistales"
-  ],
-  "Genus": [
-    "unclassified Synergistales",
-    "Aminobacteriaceae",
-    "unclassified Synergistales",
-    "unclassified Synergistales",
-    "unclassified Synergistales",
-    "unclassified Synergistales"
-  ],
-  "Species": [
-    "Synergistales bacterium Syner_01",
-    "unclassified Aminobacteriaceae",
-    "Synergistales bacterium Syner_01",
-    "Synergistales bacterium Syner_01",
-    "Synergistales bacterium Syner_01",
-    "Synergistales bacterium Syner_01"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 11
+    },
+    "Phylum": {
+      "Thermotogati": 6,
+      "unclassified Bacteria": 5
+    },
+    "Class": {
+      "Synergistota": 6,
+      "bacterium": 5
+    },
+    "Order": {
+      "Synergistia": 6
+    },
+    "Family": {
+      "Synergistales": 6
+    },
+    "Genus": {
+      "unclassified Synergistales": 5,
+      "Aminobacteriaceae": 1
+    },
+    "Species": {
+      "Synergistales bacterium Syner_01": 5,
+      "unclassified Aminobacteriaceae": 1
+    }
+  }
 }

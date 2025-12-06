@@ -1,30 +1,45 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Sporanaerobacteraceae",
+      "Species": "Sporanaerobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Sporanaerobacteraceae",
+      "Species": "Sporanaerobacter"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Bacillota",
-    "Bacillota"
-  ],
-  "Order": [
-    "Tissierellia",
-    "Tissierellia"
-  ],
-  "Family": [
-    "Tissierellales",
-    "Tissierellales"
-  ],
-  "Genus": [
-    "Sporanaerobacteraceae",
-    "Sporanaerobacteraceae"
-  ],
-  "Species": [
-    "Sporanaerobacter",
-    "Sporanaerobacter"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacillati": 2
+    },
+    "Class": {
+      "Bacillota": 2
+    },
+    "Order": {
+      "Tissierellia": 2
+    },
+    "Family": {
+      "Tissierellales": 2
+    },
+    "Genus": {
+      "Sporanaerobacteraceae": 2
+    },
+    "Species": {
+      "Sporanaerobacter": 2
+    }
+  }
 }

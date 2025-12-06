@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Synergistaceae",
+      "Species": "unclassified Synergistaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Thermotogati": 1
+    },
+    "Class": {
+      "Synergistota": 1
+    },
+    "Order": {
+      "Synergistia": 1
+    },
+    "Family": {
+      "Synergistales": 1
+    },
+    "Genus": {
+      "Synergistaceae": 1
+    },
+    "Species": {
+      "unclassified Synergistaceae": 1
+    }
+  }
+}

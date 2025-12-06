@@ -1,0 +1,60 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Dietziaceae",
+      "Species": "Dietzia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Dietziaceae",
+      "Species": "Dietzia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Nitrosomonadales",
+      "Genus": "Gallionellaceae",
+      "Species": "Gallionella"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Bacillati": 2,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Actinomycetota": 2,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Actinomycetes": 2,
+      "Betaproteobacteria": 1
+    },
+    "Family": {
+      "Mycobacteriales": 2,
+      "Nitrosomonadales": 1
+    },
+    "Genus": {
+      "Dietziaceae": 2,
+      "Gallionellaceae": 1
+    },
+    "Species": {
+      "Dietzia": 2,
+      "Gallionella": 1
+    }
+  }
+}

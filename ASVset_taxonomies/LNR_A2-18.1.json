@@ -1,78 +1,112 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "unclassified Candidatus Cloacimonadota",
+      "Genus": "Candidatus Cloacimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "unclassified Candidatus Cloacimonadota",
+      "Genus": "Candidatus Cloacimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "unclassified Candidatus Cloacimonadota",
+      "Genus": "Candidatus Cloacimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "unclassified Candidatus Cloacimonadota",
+      "Genus": "Candidatus Cloacimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "unclassified Candidatus Cloacimonadota",
+      "Genus": "Candidatus Cloacimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "unclassified Candidatus Cloacimonadota",
+      "Genus": "Candidatus Cloacimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "Candidatus Cloacimonadia",
+      "Genus": "Candidatus Cloacimonadales",
+      "Species": "Candidatus Cloacimonadaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "unclassified Candidatus Cloacimonadota",
+      "Genus": "Cloacimonetes bacterium UBA6081"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "unclassified Candidatus Cloacimonadota",
+      "Genus": "Candidatus Cloacimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "Candidatus Cloacimonadia",
+      "Genus": "Candidatus Cloacimonadales",
+      "Species": "Candidatus Cloacimonadaceae"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "FCB group",
-    "FCB group",
-    "FCB group",
-    "FCB group",
-    "FCB group",
-    "FCB group",
-    "FCB group",
-    "FCB group",
-    "FCB group",
-    "FCB group"
-  ],
-  "Order": [
-    "Candidatus Cloacimonadota",
-    "Candidatus Cloacimonadota",
-    "Candidatus Cloacimonadota",
-    "Candidatus Cloacimonadota",
-    "Candidatus Cloacimonadota",
-    "Candidatus Cloacimonadota",
-    "Candidatus Cloacimonadota",
-    "Candidatus Cloacimonadota",
-    "Candidatus Cloacimonadota",
-    "Candidatus Cloacimonadota"
-  ],
-  "Family": [
-    "unclassified Candidatus Cloacimonadota",
-    "unclassified Candidatus Cloacimonadota",
-    "unclassified Candidatus Cloacimonadota",
-    "unclassified Candidatus Cloacimonadota",
-    "unclassified Candidatus Cloacimonadota",
-    "unclassified Candidatus Cloacimonadota",
-    "Candidatus Cloacimonadia",
-    "unclassified Candidatus Cloacimonadota",
-    "unclassified Candidatus Cloacimonadota",
-    "Candidatus Cloacimonadia"
-  ],
-  "Genus": [
-    "Candidatus Cloacimonadota bacterium",
-    "Candidatus Cloacimonadota bacterium",
-    "Candidatus Cloacimonadota bacterium",
-    "Candidatus Cloacimonadota bacterium",
-    "Candidatus Cloacimonadota bacterium",
-    "Candidatus Cloacimonadota bacterium",
-    "Candidatus Cloacimonadales",
-    "Cloacimonetes bacterium UBA6081",
-    "Candidatus Cloacimonadota bacterium",
-    "Candidatus Cloacimonadales"
-  ],
-  "Species": [
-    "Candidatus Cloacimonadaceae",
-    "Candidatus Cloacimonadaceae"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 10
+    },
+    "Phylum": {
+      "Pseudomonadati": 10
+    },
+    "Class": {
+      "FCB group": 10
+    },
+    "Order": {
+      "Candidatus Cloacimonadota": 10
+    },
+    "Family": {
+      "unclassified Candidatus Cloacimonadota": 8,
+      "Candidatus Cloacimonadia": 2
+    },
+    "Genus": {
+      "Candidatus Cloacimonadota bacterium": 7,
+      "Candidatus Cloacimonadales": 2,
+      "Cloacimonetes bacterium UBA6081": 1
+    },
+    "Species": {
+      "Candidatus Cloacimonadaceae": 2
+    }
+  }
 }

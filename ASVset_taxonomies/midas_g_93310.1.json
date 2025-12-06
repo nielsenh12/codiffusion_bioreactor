@@ -1,0 +1,86 @@
+{
+  "members": [
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Stenosarchaea group",
+      "Family": "Methanomicrobia",
+      "Genus": "Methanomicrobiales",
+      "Species": "Methanospirillaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Stenosarchaea group",
+      "Family": "Methanomicrobia",
+      "Genus": "Methanomicrobiales",
+      "Species": "Methanospirillaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Synergistaceae",
+      "Species": "unclassified Synergistaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Stenosarchaea group",
+      "Family": "Methanomicrobia",
+      "Genus": "Methanomicrobiales",
+      "Species": "Methanospirillaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "unclassified Methanobacteriota",
+      "Family": "Methanobacteriota archaeon"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "unclassified Methanobacteriota",
+      "Family": "Methanobacteriota archaeon"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Archaea": 5,
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Methanobacteriati": 5,
+      "Thermotogati": 1
+    },
+    "Class": {
+      "Methanobacteriota": 5,
+      "Synergistota": 1
+    },
+    "Order": {
+      "Stenosarchaea group": 3,
+      "Synergistia": 1,
+      "unclassified Methanobacteriota": 2
+    },
+    "Family": {
+      "Methanomicrobia": 3,
+      "Synergistales": 1,
+      "Methanobacteriota archaeon": 2
+    },
+    "Genus": {
+      "Methanomicrobiales": 3,
+      "Synergistaceae": 1
+    },
+    "Species": {
+      "Methanospirillaceae": 3,
+      "unclassified Synergistaceae": 1
+    }
+  }
+}

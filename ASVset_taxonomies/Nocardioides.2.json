@@ -1,0 +1,45 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Nocardioidaceae",
+      "Species": "Nocardioides"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Nocardioidaceae",
+      "Species": "Nocardioides"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacillati": 2
+    },
+    "Class": {
+      "Actinomycetota": 2
+    },
+    "Order": {
+      "Actinomycetes": 2
+    },
+    "Family": {
+      "Propionibacteriales": 2
+    },
+    "Genus": {
+      "Nocardioidaceae": 2
+    },
+    "Species": {
+      "Nocardioides": 2
+    }
+  }
+}

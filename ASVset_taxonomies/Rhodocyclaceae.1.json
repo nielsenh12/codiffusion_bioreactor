@@ -1,0 +1,115 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "unclassified Betaproteobacteria",
+      "Genus": "Betaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Burkholderiaceae",
+      "Species": "Burkholderia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "unclassified Betaproteobacteria",
+      "Genus": "Betaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Burkholderiaceae",
+      "Species": "Burkholderia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Rhodocyclales",
+      "Genus": "Rhodocyclaceae",
+      "Species": "unclassified Rhodocyclaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Burkholderiaceae",
+      "Species": "Burkholderia"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 9
+    },
+    "Phylum": {
+      "Pseudomonadati": 9
+    },
+    "Class": {
+      "Pseudomonadota": 9
+    },
+    "Order": {
+      "Betaproteobacteria": 6,
+      "Gammaproteobacteria": 3
+    },
+    "Family": {
+      "unclassified Betaproteobacteria": 2,
+      "Enterobacterales": 3,
+      "Burkholderiales": 3,
+      "Rhodocyclales": 1
+    },
+    "Genus": {
+      "Betaproteobacteria bacterium": 2,
+      "Enterobacteriaceae": 3,
+      "Burkholderiaceae": 3,
+      "Rhodocyclaceae": 1
+    },
+    "Species": {
+      "Cronobacter": 3,
+      "Burkholderia": 3,
+      "unclassified Rhodocyclaceae": 1
+    }
+  }
+}

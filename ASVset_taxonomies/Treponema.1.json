@@ -1,0 +1,64 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Treponemataceae",
+      "Species": "Teretinema"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "unclassified Spirochaetota",
+      "Family": "Spirochaetes bacterium ADurb.Bin269"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Treponemataceae",
+      "Species": "unclassified Treponemataceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Treponemataceae",
+      "Species": "unclassified Treponemataceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Pseudomonadati": 4
+    },
+    "Class": {
+      "Spirochaetota": 4
+    },
+    "Order": {
+      "Spirochaetia": 3,
+      "unclassified Spirochaetota": 1
+    },
+    "Family": {
+      "Spirochaetales": 3,
+      "Spirochaetes bacterium ADurb.Bin269": 1
+    },
+    "Genus": {
+      "Treponemataceae": 3
+    },
+    "Species": {
+      "Teretinema": 1,
+      "unclassified Treponemataceae": 2
+    }
+  }
+}

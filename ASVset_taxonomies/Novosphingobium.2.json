@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Sphingomonadaceae",
+      "Species": "Novosphingobium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Alphaproteobacteria": 1
+    },
+    "Family": {
+      "Sphingomonadales": 1
+    },
+    "Genus": {
+      "Sphingomonadaceae": 1
+    },
+    "Species": {
+      "Novosphingobium": 1
+    }
+  }
+}

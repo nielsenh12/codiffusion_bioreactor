@@ -1,0 +1,205 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "Desulfovibrionaceae",
+      "Species": "Desulfovibrio"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "Desulfovibrionaceae",
+      "Species": "Nitratidesulfovibrio"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Actinomycetales",
+      "Genus": "unclassified Actinomycetales",
+      "Species": "Actinomycetales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "Desulfovibrionaceae",
+      "Species": "Nitratidesulfovibrio"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycobacterium"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Thermoproteati",
+      "Class": "Candidatus Bathyarchaeota",
+      "Order": "unclassified Candidatus Bathyarchaeota",
+      "Family": "Candidatus Bathyarchaeota archaeon"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "Desulfovibrionaceae",
+      "Species": "unclassified Desulfovibrionaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "Desulfovibrionaceae",
+      "Species": "Nitratidesulfovibrio"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 8,
+      "Archaea": 9
+    },
+    "Phylum": {
+      "Pseudomonadati": 6,
+      "Methanobacteriati": 8,
+      "Bacillati": 2,
+      "Thermoproteati": 1
+    },
+    "Class": {
+      "Thermodesulfobacteriota": 5,
+      "Methanobacteriota": 8,
+      "Actinomycetota": 2,
+      "Candidatus Bathyarchaeota": 1,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Desulfovibrionia": 5,
+      "Methanomada group": 8,
+      "Actinomycetes": 2,
+      "unclassified Candidatus Bathyarchaeota": 1,
+      "Gammaproteobacteria": 1
+    },
+    "Family": {
+      "Desulfovibrionales": 5,
+      "Methanobacteria": 8,
+      "Actinomycetales": 1,
+      "Mycobacteriales": 1,
+      "Candidatus Bathyarchaeota archaeon": 1,
+      "Enterobacterales": 1
+    },
+    "Genus": {
+      "Desulfovibrionaceae": 5,
+      "Methanobacteriales": 8,
+      "unclassified Actinomycetales": 1,
+      "Mycobacteriaceae": 1,
+      "Enterobacteriaceae": 1
+    },
+    "Species": {
+      "Desulfovibrio": 1,
+      "Methanobacteriaceae": 8,
+      "Nitratidesulfovibrio": 3,
+      "Actinomycetales bacterium": 1,
+      "Mycobacterium": 1,
+      "Cronobacter": 1,
+      "unclassified Desulfovibrionaceae": 1
+    }
+  }
+}

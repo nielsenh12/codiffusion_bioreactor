@@ -1,0 +1,30 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexi bacterium ADurb.Bin120"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacillati": 1
+    },
+    "Class": {
+      "Chloroflexota": 1
+    },
+    "Order": {
+      "unclassified Chloroflexota": 1
+    },
+    "Family": {
+      "Chloroflexi bacterium ADurb.Bin120": 1
+    },
+    "Genus": {},
+    "Species": {}
+  }
+}

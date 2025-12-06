@@ -1,0 +1,55 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Rhizobiaceae",
+      "Species": "Rhizobium/Agrobacterium group"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Rhizobiaceae",
+      "Species": "Rhizobium/Agrobacterium group"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Rhizobiaceae",
+      "Species": "unclassified Rhizobiaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "Pseudomonadota": 3
+    },
+    "Order": {
+      "Alphaproteobacteria": 3
+    },
+    "Family": {
+      "Hyphomicrobiales": 3
+    },
+    "Genus": {
+      "Rhizobiaceae": 3
+    },
+    "Species": {
+      "Rhizobium/Agrobacterium group": 2,
+      "unclassified Rhizobiaceae": 1
+    }
+  }
+}

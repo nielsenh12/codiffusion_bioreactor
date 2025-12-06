@@ -1,0 +1,46 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Dehalococcoidia",
+      "Family": "Dehalococcoidales",
+      "Genus": "unclassified Dehalococcoidales",
+      "Species": "Dehalococcoidales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Dehalococcoidia",
+      "Family": "unclassified Dehalococcoidia",
+      "Genus": "Dehalococcoidia bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacillati": 2
+    },
+    "Class": {
+      "Chloroflexota": 2
+    },
+    "Order": {
+      "Dehalococcoidia": 2
+    },
+    "Family": {
+      "Dehalococcoidales": 1,
+      "unclassified Dehalococcoidia": 1
+    },
+    "Genus": {
+      "unclassified Dehalococcoidales": 1,
+      "Dehalococcoidia bacterium": 1
+    },
+    "Species": {
+      "Dehalococcoidales bacterium": 1
+    }
+  }
+}

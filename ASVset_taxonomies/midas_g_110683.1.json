@@ -1,43 +1,72 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "unclassified Synergistales",
+      "Species": "Synergistales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Thermotogota",
+      "Order": "Thermotogae",
+      "Family": "Thermotogales",
+      "Genus": "unclassified Thermotogales",
+      "Species": "Thermotogales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "unclassified Synergistales",
+      "Species": "Synergistales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium"
+    }
   ],
-  "Phylum": [
-    "Thermotogati",
-    "Thermotogati",
-    "Thermotogati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Synergistota",
-    "Thermotogota",
-    "Synergistota",
-    "Bacillota"
-  ],
-  "Order": [
-    "Synergistia",
-    "Thermotogae",
-    "Synergistia",
-    "Clostridia"
-  ],
-  "Family": [
-    "Synergistales",
-    "Thermotogales",
-    "Synergistales",
-    "unclassified Clostridia"
-  ],
-  "Genus": [
-    "unclassified Synergistales",
-    "unclassified Thermotogales",
-    "unclassified Synergistales",
-    "Clostridia bacterium"
-  ],
-  "Species": [
-    "Synergistales bacterium",
-    "Thermotogales bacterium",
-    "Synergistales bacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Thermotogati": 3,
+      "Bacillati": 1
+    },
+    "Class": {
+      "Synergistota": 2,
+      "Thermotogota": 1,
+      "Bacillota": 1
+    },
+    "Order": {
+      "Synergistia": 2,
+      "Thermotogae": 1,
+      "Clostridia": 1
+    },
+    "Family": {
+      "Synergistales": 2,
+      "Thermotogales": 1,
+      "unclassified Clostridia": 1
+    },
+    "Genus": {
+      "unclassified Synergistales": 2,
+      "unclassified Thermotogales": 1,
+      "Clostridia bacterium": 1
+    },
+    "Species": {
+      "Synergistales bacterium": 2,
+      "Thermotogales bacterium": 1
+    }
+  }
 }

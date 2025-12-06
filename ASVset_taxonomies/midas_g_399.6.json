@@ -1,28 +1,45 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Candidatus Nanopelagicales",
+      "Genus": "unclassified Candidatus Nanopelagicales",
+      "Species": "Candidatus Nanopelagicales bacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Actinomycetota",
-    "Actinomycetota"
-  ],
-  "Order": [
-    "environmental samples",
-    "Actinomycetes"
-  ],
-  "Family": [
-    "uncultured Actinomycetota bacterium",
-    "Candidatus Nanopelagicales"
-  ],
-  "Genus": [
-    "unclassified Candidatus Nanopelagicales"
-  ],
-  "Species": [
-    "Candidatus Nanopelagicales bacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacillati": 2
+    },
+    "Class": {
+      "Actinomycetota": 2
+    },
+    "Order": {
+      "environmental samples": 1,
+      "Actinomycetes": 1
+    },
+    "Family": {
+      "uncultured Actinomycetota bacterium": 1,
+      "Candidatus Nanopelagicales": 1
+    },
+    "Genus": {
+      "unclassified Candidatus Nanopelagicales": 1
+    },
+    "Species": {
+      "Candidatus Nanopelagicales bacterium": 1
+    }
+  }
 }

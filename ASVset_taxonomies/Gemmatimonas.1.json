@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Gemmatimonadota",
+      "Family": "Gemmatimonadia",
+      "Genus": "Gemmatimonadales",
+      "Species": "Gemmatimonadaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "FCB group": 1
+    },
+    "Order": {
+      "Gemmatimonadota": 1
+    },
+    "Family": {
+      "Gemmatimonadia": 1
+    },
+    "Genus": {
+      "Gemmatimonadales": 1
+    },
+    "Species": {
+      "Gemmatimonadaceae": 1
+    }
+  }
+}

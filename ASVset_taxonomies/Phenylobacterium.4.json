@@ -1,0 +1,116 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Caulobacterales",
+      "Genus": "Caulobacteraceae",
+      "Species": "Phenylobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Caulobacterales",
+      "Genus": "Caulobacteraceae",
+      "Species": "Phenylobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Caulobacterales",
+      "Genus": "Caulobacteraceae",
+      "Species": "Caulobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Caulobacterales",
+      "Genus": "Caulobacteraceae",
+      "Species": "Caulobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Patescibacteria group",
+      "Family": "Microgenomates group",
+      "Genus": "Minisyncoccota",
+      "Species": "unclassified Minisyncoccota"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Caulobacterales",
+      "Genus": "Caulobacteraceae",
+      "Species": "Phenylobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Caulobacterales",
+      "Genus": "Caulobacteraceae",
+      "Species": "unclassified Caulobacteraceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 9
+    },
+    "Phylum": {
+      "Bacillati": 2,
+      "Pseudomonadati": 6,
+      "Bacteria incertae sedis": 1
+    },
+    "Class": {
+      "Bacillota": 2,
+      "Pseudomonadota": 6,
+      "Bacteria candidate phyla": 1
+    },
+    "Order": {
+      "unclassified Bacillota": 2,
+      "Alphaproteobacteria": 6,
+      "Patescibacteria group": 1
+    },
+    "Family": {
+      "Bacillota bacterium": 2,
+      "Caulobacterales": 6,
+      "Microgenomates group": 1
+    },
+    "Genus": {
+      "Caulobacteraceae": 6,
+      "Minisyncoccota": 1
+    },
+    "Species": {
+      "Phenylobacterium": 3,
+      "Caulobacter": 2,
+      "unclassified Minisyncoccota": 1,
+      "unclassified Caulobacteraceae": 1
+    }
+  }
+}

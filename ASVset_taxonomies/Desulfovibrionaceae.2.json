@@ -1,0 +1,104 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "unclassified Candidatus Cloacimonadota",
+      "Genus": "Candidatus Cloacimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Dehalococcoidia",
+      "Family": "Dehalococcoidales",
+      "Genus": "Dehalococcoidaceae",
+      "Species": "Dehalogenimonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "Desulfovibrionaceae",
+      "Species": "Desulfocurvibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "unclassified Pseudomonadota",
+      "Family": "Pseudomonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "Desulfovibrionaceae",
+      "Species": "Paucidesulfovibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "Desulfovibrionaceae",
+      "Species": "unclassified Desulfovibrionaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "unclassified Desulfovibrionales",
+      "Species": "Desulfovibrionales bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 7
+    },
+    "Phylum": {
+      "Pseudomonadati": 6,
+      "Bacillati": 1
+    },
+    "Class": {
+      "FCB group": 1,
+      "Chloroflexota": 1,
+      "Thermodesulfobacteriota": 4,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Candidatus Cloacimonadota": 1,
+      "Dehalococcoidia": 1,
+      "Desulfovibrionia": 4,
+      "unclassified Pseudomonadota": 1
+    },
+    "Family": {
+      "unclassified Candidatus Cloacimonadota": 1,
+      "Dehalococcoidales": 1,
+      "Desulfovibrionales": 4,
+      "Pseudomonadota bacterium": 1
+    },
+    "Genus": {
+      "Candidatus Cloacimonadota bacterium": 1,
+      "Dehalococcoidaceae": 1,
+      "Desulfovibrionaceae": 3,
+      "unclassified Desulfovibrionales": 1
+    },
+    "Species": {
+      "Dehalogenimonas": 1,
+      "Desulfocurvibacter": 1,
+      "Paucidesulfovibrio": 1,
+      "unclassified Desulfovibrionaceae": 1,
+      "Desulfovibrionales bacterium": 1
+    }
+  }
+}

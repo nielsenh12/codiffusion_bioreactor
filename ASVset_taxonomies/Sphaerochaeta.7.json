@@ -1,0 +1,72 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Sphaerochaetaceae",
+      "Species": "Sphaerochaeta"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Sphaerochaetaceae",
+      "Species": "Sphaerochaeta"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Sphaerochaetaceae",
+      "Species": "Sphaerochaeta"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Sphaerochaetaceae",
+      "Species": "Sphaerochaeta"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Sphaerochaetaceae",
+      "Species": "Sphaerochaeta"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Pseudomonadati": 5
+    },
+    "Class": {
+      "Spirochaetota": 5
+    },
+    "Order": {
+      "Spirochaetia": 5
+    },
+    "Family": {
+      "Spirochaetales": 5
+    },
+    "Genus": {
+      "Sphaerochaetaceae": 5
+    },
+    "Species": {
+      "Sphaerochaeta": 5
+    }
+  }
+}

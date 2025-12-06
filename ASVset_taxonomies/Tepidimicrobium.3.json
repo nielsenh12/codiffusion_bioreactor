@@ -1,126 +1,177 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tepidimicrobiaceae",
+      "Species": "Schnuerera"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Tissierellia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tepidimicrobiaceae",
+      "Species": "Schnuerera"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tepidimicrobiaceae",
+      "Species": "Tepidimicrobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tepidimicrobiaceae",
+      "Species": "Keratinibaculum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Tissierellia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tepidimicrobiaceae",
+      "Species": "Tepidimicrobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tepidimicrobiaceae",
+      "Species": "Keratinibaculum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tepidimicrobiaceae",
+      "Species": "Keratinibaculum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tepidimicrobiaceae",
+      "Species": "Keratinibaculum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tepidimicrobiaceae",
+      "Species": "Schnuerera"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tepidimicrobiaceae",
+      "Species": "Schnuerera"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Tissierellia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tepidimicrobiaceae",
+      "Species": "Tepidimicrobium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota"
-  ],
-  "Order": [
-    "Tissierellia",
-    "Tissierellia",
-    "Tissierellia",
-    "Tissierellia",
-    "Tissierellia",
-    "unclassified Bacillota",
-    "Tissierellia",
-    "unclassified Bacillota",
-    "Tissierellia",
-    "Tissierellia",
-    "Tissierellia",
-    "Tissierellia",
-    "Tissierellia",
-    "Tissierellia",
-    "Tissierellia",
-    "unclassified Bacillota",
-    "Tissierellia"
-  ],
-  "Family": [
-    "Tissierellales",
-    "environmental samples",
-    "Tissierellales",
-    "Tissierellales",
-    "Tissierellales",
-    "Bacillota bacterium",
-    "environmental samples",
-    "Bacillota bacterium",
-    "Tissierellales",
-    "Tissierellales",
-    "Tissierellales",
-    "Tissierellales",
-    "Tissierellales",
-    "Tissierellales",
-    "environmental samples",
-    "Bacillota bacterium",
-    "Tissierellales"
-  ],
-  "Genus": [
-    "Tepidimicrobiaceae",
-    "uncultured Tissierellia bacterium",
-    "Tepidimicrobiaceae",
-    "Tepidimicrobiaceae",
-    "Tepidimicrobiaceae",
-    "uncultured Tissierellia bacterium",
-    "Tepidimicrobiaceae",
-    "Tepidimicrobiaceae",
-    "Tepidimicrobiaceae",
-    "Tepidimicrobiaceae",
-    "Tepidimicrobiaceae",
-    "Tepidimicrobiaceae",
-    "uncultured Tissierellia bacterium",
-    "Tepidimicrobiaceae"
-  ],
-  "Species": [
-    "Schnuerera",
-    "Schnuerera",
-    "Tepidimicrobium",
-    "Keratinibaculum",
-    "Tepidimicrobium",
-    "Keratinibaculum",
-    "Keratinibaculum",
-    "Keratinibaculum",
-    "Schnuerera",
-    "Schnuerera",
-    "Tepidimicrobium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 17
+    },
+    "Phylum": {
+      "Bacillati": 17
+    },
+    "Class": {
+      "Bacillota": 17
+    },
+    "Order": {
+      "Tissierellia": 14,
+      "unclassified Bacillota": 3
+    },
+    "Family": {
+      "Tissierellales": 11,
+      "environmental samples": 3,
+      "Bacillota bacterium": 3
+    },
+    "Genus": {
+      "Tepidimicrobiaceae": 11,
+      "uncultured Tissierellia bacterium": 3
+    },
+    "Species": {
+      "Schnuerera": 4,
+      "Tepidimicrobium": 3,
+      "Keratinibaculum": 4
+    }
+  }
 }

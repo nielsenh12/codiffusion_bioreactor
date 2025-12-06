@@ -1,0 +1,63 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Thermoleophilia",
+      "Family": "Solirubrobacterales",
+      "Genus": "unclassified Solirubrobacterales",
+      "Species": "Solirubrobacterales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Thermoleophilia",
+      "Family": "Solirubrobacterales",
+      "Genus": "unclassified Solirubrobacterales",
+      "Species": "Solirubrobacterales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "unclassified Actinomycetota",
+      "Family": "Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Thermoleophilia",
+      "Family": "Solirubrobacterales",
+      "Genus": "unclassified Solirubrobacterales",
+      "Species": "Solirubrobacterales bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Bacillati": 4
+    },
+    "Class": {
+      "Actinomycetota": 4
+    },
+    "Order": {
+      "Thermoleophilia": 3,
+      "unclassified Actinomycetota": 1
+    },
+    "Family": {
+      "Solirubrobacterales": 3,
+      "Actinomycetota bacterium": 1
+    },
+    "Genus": {
+      "unclassified Solirubrobacterales": 3
+    },
+    "Species": {
+      "Solirubrobacterales bacterium": 3
+    }
+  }
+}

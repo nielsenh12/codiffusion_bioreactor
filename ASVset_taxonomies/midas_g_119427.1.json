@@ -1,0 +1,123 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Aeribacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Paenalkalicoccus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriaceae",
+      "Species": "Alkalibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Thermoactinomycetaceae",
+      "Species": "Desmospora"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Cyanobacteriota",
+      "Family": "Cyanophyceae",
+      "Genus": "Nostocales",
+      "Species": "Hapalosiphonaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Bacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Bacillaceae",
+      "Species": "Pueribacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Thermoactinomycetaceae",
+      "Species": "Kroppenstedtia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Thermoactinomycetaceae",
+      "Species": "Kroppenstedtia"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 9
+    },
+    "Phylum": {
+      "Bacillati": 9
+    },
+    "Class": {
+      "Bacillota": 8,
+      "Cyanobacteriota/Melainabacteria group": 1
+    },
+    "Order": {
+      "Bacilli": 7,
+      "Clostridia": 1,
+      "Cyanobacteriota": 1
+    },
+    "Family": {
+      "Bacillales": 7,
+      "Eubacteriales": 1,
+      "Cyanophyceae": 1
+    },
+    "Genus": {
+      "Bacillaceae": 4,
+      "Eubacteriaceae": 1,
+      "Thermoactinomycetaceae": 3,
+      "Nostocales": 1
+    },
+    "Species": {
+      "Aeribacillus": 1,
+      "Paenalkalicoccus": 1,
+      "Alkalibacter": 1,
+      "Desmospora": 1,
+      "Hapalosiphonaceae": 1,
+      "Bacillus": 1,
+      "Pueribacillus": 1,
+      "Kroppenstedtia": 2
+    }
+  }
+}

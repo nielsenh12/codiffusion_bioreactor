@@ -1,0 +1,50 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Spirochaetaceae",
+      "Species": "unclassified Spirochaetaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfuromonadia",
+      "Family": "Geobacterales",
+      "Genus": "Geobacteraceae",
+      "Species": "Geobacter"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Spirochaetota": 1,
+      "Thermodesulfobacteriota": 1
+    },
+    "Order": {
+      "Spirochaetia": 1,
+      "Desulfuromonadia": 1
+    },
+    "Family": {
+      "Spirochaetales": 1,
+      "Geobacterales": 1
+    },
+    "Genus": {
+      "Spirochaetaceae": 1,
+      "Geobacteraceae": 1
+    },
+    "Species": {
+      "unclassified Spirochaetaceae": 1,
+      "Geobacter": 1
+    }
+  }
+}

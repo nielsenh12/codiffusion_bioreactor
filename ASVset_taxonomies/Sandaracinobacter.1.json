@@ -1,0 +1,46 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Sphingosinicellaceae",
+      "Species": "Sandaracinobacteroides"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Sphingosinicellaceae",
+      "Species": "Sandaracinobacter"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Pseudomonadota": 2
+    },
+    "Order": {
+      "Alphaproteobacteria": 2
+    },
+    "Family": {
+      "Sphingomonadales": 2
+    },
+    "Genus": {
+      "Sphingosinicellaceae": 2
+    },
+    "Species": {
+      "Sandaracinobacteroides": 1,
+      "Sandaracinobacter": 1
+    }
+  }
+}

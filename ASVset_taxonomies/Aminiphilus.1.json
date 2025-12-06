@@ -1,58 +1,95 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Aminiphilaceae",
+      "Species": "Aminiphilus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Aminiphilaceae",
+      "Species": "Aminiphilus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Synergistaceae",
+      "Species": "unclassified Synergistaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Aminiphilaceae",
+      "Species": "Aminiphilus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Spirochaetaceae",
+      "Species": "unclassified Spirochaetaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfotomaculaceae",
+      "Species": "Pelotomaculum"
+    }
   ],
-  "Phylum": [
-    "Thermotogati",
-    "Thermotogati",
-    "Thermotogati",
-    "Thermotogati",
-    "Pseudomonadati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Synergistota",
-    "Synergistota",
-    "Synergistota",
-    "Synergistota",
-    "Spirochaetota",
-    "Bacillota"
-  ],
-  "Order": [
-    "Synergistia",
-    "Synergistia",
-    "Synergistia",
-    "Synergistia",
-    "Spirochaetia",
-    "Clostridia"
-  ],
-  "Family": [
-    "Synergistales",
-    "Synergistales",
-    "Synergistales",
-    "Synergistales",
-    "Spirochaetales",
-    "Eubacteriales"
-  ],
-  "Genus": [
-    "Aminiphilaceae",
-    "Aminiphilaceae",
-    "Synergistaceae",
-    "Aminiphilaceae",
-    "Spirochaetaceae",
-    "Desulfotomaculaceae"
-  ],
-  "Species": [
-    "Aminiphilus",
-    "Aminiphilus",
-    "unclassified Synergistaceae",
-    "Aminiphilus",
-    "unclassified Spirochaetaceae",
-    "Pelotomaculum"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Thermotogati": 4,
+      "Pseudomonadati": 1,
+      "Bacillati": 1
+    },
+    "Class": {
+      "Synergistota": 4,
+      "Spirochaetota": 1,
+      "Bacillota": 1
+    },
+    "Order": {
+      "Synergistia": 4,
+      "Spirochaetia": 1,
+      "Clostridia": 1
+    },
+    "Family": {
+      "Synergistales": 4,
+      "Spirochaetales": 1,
+      "Eubacteriales": 1
+    },
+    "Genus": {
+      "Aminiphilaceae": 3,
+      "Synergistaceae": 1,
+      "Spirochaetaceae": 1,
+      "Desulfotomaculaceae": 1
+    },
+    "Species": {
+      "Aminiphilus": 3,
+      "unclassified Synergistaceae": 1,
+      "unclassified Spirochaetaceae": 1,
+      "Pelotomaculum": 1
+    }
+  }
 }

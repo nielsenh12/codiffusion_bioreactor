@@ -1,0 +1,79 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Stenosarchaea group",
+      "Family": "Methanomicrobia",
+      "Genus": "Methanosarcinales",
+      "Species": "Methanosarcinaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Stenosarchaea group",
+      "Family": "Methanomicrobia",
+      "Genus": "Methanosarcinales",
+      "Species": "Methanosarcinaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3,
+      "Archaea": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 3,
+      "Methanobacteriati": 2
+    },
+    "Class": {
+      "FCB group": 3,
+      "Methanobacteriota": 2
+    },
+    "Order": {
+      "Bacteroidota/Chlorobiota group": 3,
+      "Stenosarchaea group": 2
+    },
+    "Family": {
+      "Bacteroidota": 3,
+      "Methanomicrobia": 2
+    },
+    "Genus": {
+      "Bacteroidia": 3,
+      "Methanosarcinales": 2
+    },
+    "Species": {
+      "Bacteroidales": 3,
+      "Methanosarcinaceae": 2
+    }
+  }
+}

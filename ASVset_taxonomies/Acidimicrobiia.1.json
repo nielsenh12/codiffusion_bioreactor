@@ -1,0 +1,214 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Acidimicrobiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Acidimicrobiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "environmental samples",
+      "Genus": "uncultured Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "Microthrixaceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "unclassified Acidimicrobiales",
+      "Species": "Acidimicrobiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "unclassified Acidimicrobiales",
+      "Species": "Acidimicrobiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "unclassified Acidimicrobiales",
+      "Species": "Acidimicrobiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "unclassified Actinomycetes",
+      "Genus": "Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "unclassified Acidimicrobiales",
+      "Species": "Acidimicrobiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "Iamiaceae",
+      "Species": "Aquihabitans"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Acidimicrobiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "unclassified Acidimicrobiales",
+      "Species": "Acidimicrobiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "unclassified Acidimicrobiales",
+      "Species": "Acidimicrobiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "Microthrixaceae",
+      "Species": "unclassified Microthrixaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Acidimicrobiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "unclassified Acidimicrobiales",
+      "Species": "Acidimicrobiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "Microthrixaceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Sphingomicrobiaceae",
+      "Species": "Allosphingosinicella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "unclassified Acidimicrobiales",
+      "Species": "Acidimicrobiales bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 19
+    },
+    "Phylum": {
+      "Bacillati": 18,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Actinomycetota": 18,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Acidimicrobiia": 16,
+      "Actinomycetes": 2,
+      "Alphaproteobacteria": 1
+    },
+    "Family": {
+      "Acidimicrobiales": 16,
+      "environmental samples": 1,
+      "unclassified Actinomycetes": 1,
+      "Sphingomonadales": 1
+    },
+    "Genus": {
+      "environmental samples": 4,
+      "uncultured Actinomycetes bacterium": 1,
+      "Microthrixaceae": 3,
+      "unclassified Acidimicrobiales": 8,
+      "Actinomycetes bacterium": 1,
+      "Iamiaceae": 1,
+      "Sphingomicrobiaceae": 1
+    },
+    "Species": {
+      "uncultured Acidimicrobiales bacterium": 4,
+      "environmental samples": 2,
+      "Acidimicrobiales bacterium": 8,
+      "Aquihabitans": 1,
+      "unclassified Microthrixaceae": 1,
+      "Allosphingosinicella": 1
+    }
+  }
+}

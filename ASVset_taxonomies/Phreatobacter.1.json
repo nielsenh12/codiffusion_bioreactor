@@ -1,0 +1,47 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "unclassified Hyphomicrobiales",
+      "Species": "Rhizobiales bacterium SYSU XM002"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Rhabdaerophilaceae",
+      "Species": "Rhabdaerophilum"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Pseudomonadota": 2
+    },
+    "Order": {
+      "Alphaproteobacteria": 2
+    },
+    "Family": {
+      "Hyphomicrobiales": 2
+    },
+    "Genus": {
+      "unclassified Hyphomicrobiales": 1,
+      "Rhabdaerophilaceae": 1
+    },
+    "Species": {
+      "Rhizobiales bacterium SYSU XM002": 1,
+      "Rhabdaerophilum": 1
+    }
+  }
+}

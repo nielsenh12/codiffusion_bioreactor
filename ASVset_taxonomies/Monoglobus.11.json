@@ -1,58 +1,86 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "unclassified Oscillospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "unclassified Oscillospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Oscillospiraceae incertae sedis"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Lactobacillaceae",
+      "Species": "Lactobacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "unclassified Oscillospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "unclassified Oscillospiraceae"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota"
-  ],
-  "Order": [
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Bacilli",
-    "Clostridia",
-    "Clostridia"
-  ],
-  "Family": [
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Lactobacillales",
-    "Eubacteriales",
-    "Eubacteriales"
-  ],
-  "Genus": [
-    "Oscillospiraceae",
-    "Oscillospiraceae",
-    "Oscillospiraceae",
-    "Lactobacillaceae",
-    "Oscillospiraceae",
-    "Oscillospiraceae"
-  ],
-  "Species": [
-    "unclassified Oscillospiraceae",
-    "unclassified Oscillospiraceae",
-    "Oscillospiraceae incertae sedis",
-    "Lactobacillus",
-    "unclassified Oscillospiraceae",
-    "unclassified Oscillospiraceae"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Bacillati": 6
+    },
+    "Class": {
+      "Bacillota": 6
+    },
+    "Order": {
+      "Clostridia": 5,
+      "Bacilli": 1
+    },
+    "Family": {
+      "Eubacteriales": 5,
+      "Lactobacillales": 1
+    },
+    "Genus": {
+      "Oscillospiraceae": 5,
+      "Lactobacillaceae": 1
+    },
+    "Species": {
+      "unclassified Oscillospiraceae": 4,
+      "Oscillospiraceae incertae sedis": 1,
+      "Lactobacillus": 1
+    }
+  }
 }

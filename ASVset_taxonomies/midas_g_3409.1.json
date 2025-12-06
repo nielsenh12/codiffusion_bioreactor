@@ -1,228 +1,341 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "Armatimonadia",
+      "Family": "unclassified Armatimonadia",
+      "Genus": "Armatimonadia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "Armatimonadia",
+      "Family": "unclassified Armatimonadia",
+      "Genus": "Armatimonadia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "Armatimonadia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Armatimonadia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "Armatimonadia",
+      "Family": "unclassified Armatimonadia",
+      "Genus": "Armatimonadia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "Armatimonadia",
+      "Family": "unclassified Armatimonadia",
+      "Genus": "Armatimonadia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "Armatimonadia",
+      "Family": "unclassified Armatimonadia",
+      "Genus": "Armatimonadia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "Armatimonadia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Armatimonadia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfobacteria",
+      "Family": "Desulfobacterales",
+      "Genus": "unclassified Desulfobacterales",
+      "Species": "Desulfobacterales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "unclassified Pseudomonadota",
+      "Family": "Pseudomonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Myxococcota",
+      "Order": "Myxococcia",
+      "Family": "unclassified Myxococcia",
+      "Genus": "Deltaproteobacteria bacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "unclassified Bacteria",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "unclassified Bacteria",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "unclassified Bacteria",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "unclassified Bacteria",
-    "Bacillati",
-    "Bacillati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "bacterium",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "bacterium",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "bacterium",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "bacterium",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Thermodesulfobacteriota",
-    "Pseudomonadota",
-    "Myxococcota"
-  ],
-  "Order": [
-    "unclassified Armatimonadota",
-    "unclassified Armatimonadota",
-    "Armatimonadia",
-    "unclassified Armatimonadota",
-    "unclassified Armatimonadota",
-    "unclassified Armatimonadota",
-    "Armatimonadia",
-    "unclassified Armatimonadota",
-    "unclassified Armatimonadota",
-    "Armatimonadia",
-    "unclassified Armatimonadota",
-    "unclassified Armatimonadota",
-    "unclassified Armatimonadota",
-    "unclassified Armatimonadota",
-    "unclassified Armatimonadota",
-    "Armatimonadia",
-    "unclassified Armatimonadota",
-    "unclassified Armatimonadota",
-    "Armatimonadia",
-    "unclassified Armatimonadota",
-    "unclassified Armatimonadota",
-    "unclassified Armatimonadota",
-    "unclassified Armatimonadota",
-    "Armatimonadia",
-    "unclassified Armatimonadota",
-    "Armatimonadia",
-    "unclassified Armatimonadota",
-    "unclassified Armatimonadota",
-    "unclassified Armatimonadota",
-    "unclassified Armatimonadota",
-    "unclassified Armatimonadota",
-    "unclassified Armatimonadota",
-    "unclassified Armatimonadota",
-    "unclassified Armatimonadota",
-    "unclassified Armatimonadota",
-    "Desulfobacteria",
-    "unclassified Pseudomonadota",
-    "Myxococcia"
-  ],
-  "Family": [
-    "Armatimonadota bacterium",
-    "Armatimonadota bacterium",
-    "unclassified Armatimonadia",
-    "Armatimonadota bacterium",
-    "Armatimonadota bacterium",
-    "Armatimonadota bacterium",
-    "unclassified Armatimonadia",
-    "Armatimonadota bacterium",
-    "Armatimonadota bacterium",
-    "environmental samples",
-    "Armatimonadota bacterium",
-    "Armatimonadota bacterium",
-    "Armatimonadota bacterium",
-    "Armatimonadota bacterium",
-    "Armatimonadota bacterium",
-    "unclassified Armatimonadia",
-    "Armatimonadota bacterium",
-    "Armatimonadota bacterium",
-    "unclassified Armatimonadia",
-    "Armatimonadota bacterium",
-    "Armatimonadota bacterium",
-    "Armatimonadota bacterium",
-    "Armatimonadota bacterium",
-    "unclassified Armatimonadia",
-    "Armatimonadota bacterium",
-    "environmental samples",
-    "Armatimonadota bacterium",
-    "Armatimonadota bacterium",
-    "Armatimonadota bacterium",
-    "Armatimonadota bacterium",
-    "Armatimonadota bacterium",
-    "Armatimonadota bacterium",
-    "Armatimonadota bacterium",
-    "Armatimonadota bacterium",
-    "Armatimonadota bacterium",
-    "Desulfobacterales",
-    "Pseudomonadota bacterium",
-    "unclassified Myxococcia"
-  ],
-  "Genus": [
-    "Armatimonadia bacterium",
-    "Armatimonadia bacterium",
-    "uncultured Armatimonadia bacterium",
-    "Armatimonadia bacterium",
-    "Armatimonadia bacterium",
-    "Armatimonadia bacterium",
-    "uncultured Armatimonadia bacterium",
-    "unclassified Desulfobacterales",
-    "Deltaproteobacteria bacterium"
-  ],
-  "Species": [
-    "Desulfobacterales bacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 42
+    },
+    "Phylum": {
+      "Bacillati": 35,
+      "unclassified Bacteria": 4,
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "Armatimonadota": 35,
+      "bacterium": 4,
+      "Thermodesulfobacteriota": 1,
+      "Pseudomonadota": 1,
+      "Myxococcota": 1
+    },
+    "Order": {
+      "unclassified Armatimonadota": 28,
+      "Armatimonadia": 7,
+      "Desulfobacteria": 1,
+      "unclassified Pseudomonadota": 1,
+      "Myxococcia": 1
+    },
+    "Family": {
+      "Armatimonadota bacterium": 28,
+      "unclassified Armatimonadia": 5,
+      "environmental samples": 2,
+      "Desulfobacterales": 1,
+      "Pseudomonadota bacterium": 1,
+      "unclassified Myxococcia": 1
+    },
+    "Genus": {
+      "Armatimonadia bacterium": 5,
+      "uncultured Armatimonadia bacterium": 2,
+      "unclassified Desulfobacterales": 1,
+      "Deltaproteobacteria bacterium": 1
+    },
+    "Species": {
+      "Desulfobacterales bacterium": 1
+    }
+  }
 }

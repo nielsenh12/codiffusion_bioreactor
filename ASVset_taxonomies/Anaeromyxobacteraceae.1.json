@@ -1,0 +1,96 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Myxococcota",
+      "Order": "Myxococcia",
+      "Family": "Myxococcales",
+      "Genus": "Cystobacterineae",
+      "Species": "Myxococcaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Myxococcota",
+      "Order": "Myxococcia",
+      "Family": "Myxococcales",
+      "Genus": "unclassified Myxococcales",
+      "Species": "Myxococcales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Nitrospirota",
+      "Order": "Nitrospiria",
+      "Family": "Nitrospirales",
+      "Genus": "Nitrospiraceae",
+      "Species": "unclassified Nitrospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Myxococcota",
+      "Order": "Myxococcia",
+      "Family": "unclassified Myxococcia",
+      "Genus": "Deltaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfuromonadia",
+      "Family": "Desulfuromonadales",
+      "Genus": "unclassified Desulfuromonadales",
+      "Species": "Desulfuromonadales bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Pseudomonadati": 5,
+      "delta/epsilon subdivisions": 1
+    },
+    "Class": {
+      "Myxococcota": 3,
+      "Nitrospirota": 1,
+      "Deltaproteobacteria": 1,
+      "Thermodesulfobacteriota": 1
+    },
+    "Order": {
+      "Myxococcia": 3,
+      "Nitrospiria": 1,
+      "environmental samples": 1,
+      "Desulfuromonadia": 1
+    },
+    "Family": {
+      "Myxococcales": 2,
+      "Nitrospirales": 1,
+      "unclassified Myxococcia": 1,
+      "uncultured delta proteobacterium": 1,
+      "Desulfuromonadales": 1
+    },
+    "Genus": {
+      "Cystobacterineae": 1,
+      "unclassified Myxococcales": 1,
+      "Nitrospiraceae": 1,
+      "Deltaproteobacteria bacterium": 1,
+      "unclassified Desulfuromonadales": 1
+    },
+    "Species": {
+      "Myxococcaceae": 1,
+      "Myxococcales bacterium": 1,
+      "unclassified Nitrospiraceae": 1,
+      "Desulfuromonadales bacterium": 1
+    }
+  }
+}

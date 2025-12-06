@@ -1,26 +1,41 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Thermoleophilia",
+      "Family": "unclassified Thermoleophilia",
+      "Genus": "Thermoleophilia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Thermoleophilia",
+      "Family": "unclassified Thermoleophilia",
+      "Genus": "Thermoleophilia bacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Actinomycetota",
-    "Actinomycetota"
-  ],
-  "Order": [
-    "Thermoleophilia",
-    "Thermoleophilia"
-  ],
-  "Family": [
-    "unclassified Thermoleophilia",
-    "unclassified Thermoleophilia"
-  ],
-  "Genus": [
-    "Thermoleophilia bacterium",
-    "Thermoleophilia bacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacillati": 2
+    },
+    "Class": {
+      "Actinomycetota": 2
+    },
+    "Order": {
+      "Thermoleophilia": 2
+    },
+    "Family": {
+      "unclassified Thermoleophilia": 2
+    },
+    "Genus": {
+      "Thermoleophilia bacterium": 2
+    },
+    "Species": {}
+  }
 }

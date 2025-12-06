@@ -1,83 +1,127 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "Chthonomonadia",
+      "Family": "unclassified Chthonomonadia",
+      "Genus": "Chthonomonadia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "Fimbriimonadia",
+      "Family": "Fimbriimonadales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Fimbriimonadales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium HR16"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "Chthonomonadia",
+      "Family": "unclassified Chthonomonadia",
+      "Genus": "Chthonomonadia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "Fimbriimonadia",
+      "Family": "Fimbriimonadales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Fimbriimonadales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium HR16"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "unclassified Bacteria",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "unclassified Bacteria"
-  ],
-  "Class": [
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "bacterium HR16",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "bacterium HR16"
-  ],
-  "Order": [
-    "Chthonomonadia",
-    "unclassified Armatimonadota",
-    "unclassified Armatimonadota",
-    "Fimbriimonadia",
-    "Chthonomonadia",
-    "unclassified Armatimonadota",
-    "unclassified Armatimonadota",
-    "unclassified Armatimonadota",
-    "unclassified Armatimonadota",
-    "unclassified Armatimonadota",
-    "Fimbriimonadia"
-  ],
-  "Family": [
-    "unclassified Chthonomonadia",
-    "Armatimonadota bacterium",
-    "Armatimonadota bacterium",
-    "Fimbriimonadales",
-    "unclassified Chthonomonadia",
-    "Armatimonadota bacterium",
-    "Armatimonadota bacterium",
-    "Armatimonadota bacterium",
-    "Armatimonadota bacterium",
-    "Armatimonadota bacterium",
-    "Fimbriimonadales"
-  ],
-  "Genus": [
-    "Chthonomonadia bacterium",
-    "environmental samples",
-    "Chthonomonadia bacterium",
-    "environmental samples"
-  ],
-  "Species": [
-    "uncultured Fimbriimonadales bacterium",
-    "uncultured Fimbriimonadales bacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 13
+    },
+    "Phylum": {
+      "Bacillati": 11,
+      "unclassified Bacteria": 2
+    },
+    "Class": {
+      "Armatimonadota": 11,
+      "bacterium HR16": 2
+    },
+    "Order": {
+      "Chthonomonadia": 2,
+      "unclassified Armatimonadota": 7,
+      "Fimbriimonadia": 2
+    },
+    "Family": {
+      "unclassified Chthonomonadia": 2,
+      "Armatimonadota bacterium": 7,
+      "Fimbriimonadales": 2
+    },
+    "Genus": {
+      "Chthonomonadia bacterium": 2,
+      "environmental samples": 2
+    },
+    "Species": {
+      "uncultured Fimbriimonadales bacterium": 2
+    }
+  }
 }

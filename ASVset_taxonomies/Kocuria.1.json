@@ -1,0 +1,58 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Micrococcaceae",
+      "Species": "Kocuria"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Kitasatosporales",
+      "Genus": "Streptomycetaceae",
+      "Species": "Streptomyces"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Micrococcaceae",
+      "Species": "Glutamicibacter"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Bacillati": 3
+    },
+    "Class": {
+      "Actinomycetota": 3
+    },
+    "Order": {
+      "Actinomycetes": 3
+    },
+    "Family": {
+      "Micrococcales": 2,
+      "Kitasatosporales": 1
+    },
+    "Genus": {
+      "Micrococcaceae": 2,
+      "Streptomycetaceae": 1
+    },
+    "Species": {
+      "Kocuria": 1,
+      "Streptomyces": 1,
+      "Glutamicibacter": 1
+    }
+  }
+}

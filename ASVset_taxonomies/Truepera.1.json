@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Deinococcota",
+      "Order": "Deinococci",
+      "Family": "Trueperales",
+      "Genus": "Trueperaceae",
+      "Species": "unclassified Trueperaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Thermotogati": 1
+    },
+    "Class": {
+      "Deinococcota": 1
+    },
+    "Order": {
+      "Deinococci": 1
+    },
+    "Family": {
+      "Trueperales": 1
+    },
+    "Genus": {
+      "Trueperaceae": 1
+    },
+    "Species": {
+      "unclassified Trueperaceae": 1
+    }
+  }
+}

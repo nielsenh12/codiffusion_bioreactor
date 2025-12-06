@@ -1,0 +1,53 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Thermotogota",
+      "Order": "unclassified Thermotogota",
+      "Family": "Thermotogota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "unclassified Thermodesulfobacteriota",
+      "Family": "Thermodesulfobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "unclassified Methanobacteriota",
+      "Family": "Methanobacteriota archaeon"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2,
+      "Archaea": 1
+    },
+    "Phylum": {
+      "Thermotogati": 1,
+      "Pseudomonadati": 1,
+      "Methanobacteriati": 1
+    },
+    "Class": {
+      "Thermotogota": 1,
+      "Thermodesulfobacteriota": 1,
+      "Methanobacteriota": 1
+    },
+    "Order": {
+      "unclassified Thermotogota": 1,
+      "unclassified Thermodesulfobacteriota": 1,
+      "unclassified Methanobacteriota": 1
+    },
+    "Family": {
+      "Thermotogota bacterium": 1,
+      "Thermodesulfobacteriota bacterium": 1,
+      "Methanobacteriota archaeon": 1
+    },
+    "Genus": {},
+    "Species": {}
+  }
+}

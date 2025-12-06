@@ -1,0 +1,41 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "candidate division WWE3",
+      "Family": "environmental samples",
+      "Genus": "uncultured candidate division WWE3 bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "candidate division WWE3",
+      "Family": "environmental samples",
+      "Genus": "uncultured candidate division WWE3 bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacteria incertae sedis": 2
+    },
+    "Class": {
+      "Bacteria candidate phyla": 2
+    },
+    "Order": {
+      "candidate division WWE3": 2
+    },
+    "Family": {
+      "environmental samples": 2
+    },
+    "Genus": {
+      "uncultured candidate division WWE3 bacterium": 2
+    },
+    "Species": {}
+  }
+}

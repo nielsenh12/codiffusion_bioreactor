@@ -1,22 +1,37 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    }
   ],
-  "Phylum": [
-    "delta/epsilon subdivisions",
-    "delta/epsilon subdivisions"
-  ],
-  "Class": [
-    "Deltaproteobacteria",
-    "Deltaproteobacteria"
-  ],
-  "Order": [
-    "environmental samples",
-    "environmental samples"
-  ],
-  "Family": [
-    "uncultured delta proteobacterium",
-    "uncultured delta proteobacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "delta/epsilon subdivisions": 2
+    },
+    "Class": {
+      "Deltaproteobacteria": 2
+    },
+    "Order": {
+      "environmental samples": 2
+    },
+    "Family": {
+      "uncultured delta proteobacterium": 2
+    },
+    "Genus": {},
+    "Species": {}
+  }
 }

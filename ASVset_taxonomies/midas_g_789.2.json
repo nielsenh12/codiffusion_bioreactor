@@ -1,0 +1,30 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacillati": 1
+    },
+    "Class": {
+      "Chloroflexota": 1
+    },
+    "Order": {
+      "unclassified Chloroflexota": 1
+    },
+    "Family": {
+      "Chloroflexota bacterium": 1
+    },
+    "Genus": {},
+    "Species": {}
+  }
+}

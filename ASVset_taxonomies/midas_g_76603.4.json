@@ -1,0 +1,215 @@
+{
+  "members": [
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Stenosarchaea group",
+      "Family": "Methanomicrobia",
+      "Genus": "Methanomicrobiales",
+      "Species": "unclassified Methanomicrobiales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Negativicutes",
+      "Family": "Selenomonadales",
+      "Genus": "Sporomusaceae",
+      "Species": "unclassified Sporomusaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Negativicutes",
+      "Family": "Negativicutes incertae sedis",
+      "Genus": "Acetonemataceae",
+      "Species": "Anaeroselena"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Negativicutes",
+      "Family": "Negativicutes incertae sedis",
+      "Genus": "Acetonemataceae",
+      "Species": "Anaeroselena"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Negativicutes",
+      "Family": "Veillonellales",
+      "Genus": "Veillonellaceae",
+      "Species": "Lucifera"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Negativicutes",
+      "Family": "Selenomonadales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Selenomonadales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Patescibacteria group",
+      "Family": "Microgenomates group",
+      "Genus": "Minisyncoccota",
+      "Species": "unclassified Minisyncoccota"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Stenosarchaea group",
+      "Family": "Methanomicrobia",
+      "Genus": "Methanomicrobiales",
+      "Species": "unclassified Methanomicrobiales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Negativicutes",
+      "Family": "Selenomonadales",
+      "Genus": "Sporomusaceae",
+      "Species": "unclassified Sporomusaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Negativicutes",
+      "Family": "Negativicutes incertae sedis",
+      "Genus": "Acetonemataceae",
+      "Species": "Anaeroselena"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Negativicutes",
+      "Family": "Negativicutes incertae sedis",
+      "Genus": "Acetonemataceae",
+      "Species": "Anaeroselena"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Negativicutes",
+      "Family": "Selenomonadales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Selenomonadales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Patescibacteria group",
+      "Family": "Microgenomates group",
+      "Genus": "Minisyncoccota",
+      "Species": "unclassified Minisyncoccota"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Archaea": 2,
+      "Bacteria": 16
+    },
+    "Phylum": {
+      "Methanobacteriati": 2,
+      "Bacillati": 14,
+      "Bacteria incertae sedis": 2
+    },
+    "Class": {
+      "Methanobacteriota": 2,
+      "Bacillota": 9,
+      "Actinomycetota": 5,
+      "Bacteria candidate phyla": 2
+    },
+    "Order": {
+      "Stenosarchaea group": 2,
+      "Negativicutes": 9,
+      "Actinomycetes": 5,
+      "Patescibacteria group": 2
+    },
+    "Family": {
+      "Methanomicrobia": 2,
+      "Selenomonadales": 4,
+      "Mycobacteriales": 5,
+      "Negativicutes incertae sedis": 4,
+      "Veillonellales": 1,
+      "Microgenomates group": 2
+    },
+    "Genus": {
+      "Methanomicrobiales": 2,
+      "Sporomusaceae": 2,
+      "Mycobacteriaceae": 5,
+      "Acetonemataceae": 4,
+      "Veillonellaceae": 1,
+      "environmental samples": 2,
+      "Minisyncoccota": 2
+    },
+    "Species": {
+      "unclassified Methanomicrobiales": 2,
+      "unclassified Sporomusaceae": 2,
+      "Mycobacterium": 5,
+      "Anaeroselena": 4,
+      "Lucifera": 1,
+      "uncultured Selenomonadales bacterium": 2,
+      "unclassified Minisyncoccota": 2
+    }
+  }
+}

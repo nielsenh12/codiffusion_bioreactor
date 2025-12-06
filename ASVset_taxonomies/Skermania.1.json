@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Gordoniaceae",
+      "Species": "Skermania"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacillati": 1
+    },
+    "Class": {
+      "Actinomycetota": 1
+    },
+    "Order": {
+      "Actinomycetes": 1
+    },
+    "Family": {
+      "Mycobacteriales": 1
+    },
+    "Genus": {
+      "Gordoniaceae": 1
+    },
+    "Species": {
+      "Skermania": 1
+    }
+  }
+}

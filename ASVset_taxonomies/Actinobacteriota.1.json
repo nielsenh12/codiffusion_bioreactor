@@ -1,0 +1,56 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "environmental samples",
+      "Genus": "uncultured Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Rubrobacteria",
+      "Family": "Rubrobacterales",
+      "Genus": "Rubrobacteraceae",
+      "Species": "Rubrobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "unclassified Actinomycetota",
+      "Family": "Actinomycetota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Bacillati": 3
+    },
+    "Class": {
+      "Actinomycetota": 3
+    },
+    "Order": {
+      "Actinomycetes": 1,
+      "Rubrobacteria": 1,
+      "unclassified Actinomycetota": 1
+    },
+    "Family": {
+      "environmental samples": 1,
+      "Rubrobacterales": 1,
+      "Actinomycetota bacterium": 1
+    },
+    "Genus": {
+      "uncultured Actinomycetes bacterium": 1,
+      "Rubrobacteraceae": 1
+    },
+    "Species": {
+      "Rubrobacter": 1
+    }
+  }
+}

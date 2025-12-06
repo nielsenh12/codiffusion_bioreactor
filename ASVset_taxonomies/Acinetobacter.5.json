@@ -1,0 +1,54 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Moraxellales",
+      "Genus": "Moraxellaceae",
+      "Species": "Acinetobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Moraxellales",
+      "Genus": "Moraxellaceae",
+      "Species": "Acinetobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Moraxellales",
+      "Genus": "Moraxellaceae",
+      "Species": "Acinetobacter"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "Pseudomonadota": 3
+    },
+    "Order": {
+      "Gammaproteobacteria": 3
+    },
+    "Family": {
+      "Moraxellales": 3
+    },
+    "Genus": {
+      "Moraxellaceae": 3
+    },
+    "Species": {
+      "Acinetobacter": 3
+    }
+  }
+}

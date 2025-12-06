@@ -1,0 +1,55 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Nitrosomonadales",
+      "Genus": "Thiobacillaceae",
+      "Species": "Thiobacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Nitrosomonadales",
+      "Genus": "Thiobacillaceae",
+      "Species": "Thiobacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured beta proteobacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "Pseudomonadota": 3
+    },
+    "Order": {
+      "Betaproteobacteria": 3
+    },
+    "Family": {
+      "Nitrosomonadales": 2,
+      "environmental samples": 1
+    },
+    "Genus": {
+      "Thiobacillaceae": 2,
+      "uncultured beta proteobacterium": 1
+    },
+    "Species": {
+      "Thiobacillus": 2
+    }
+  }
+}

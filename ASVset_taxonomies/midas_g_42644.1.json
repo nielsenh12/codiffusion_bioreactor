@@ -1,49 +1,79 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Patescibacteria group",
+      "Family": "unclassified Patescibacteria group",
+      "Genus": "Patescibacteria group bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Patescibacteria group",
+      "Family": "unclassified Patescibacteria group",
+      "Genus": "Patescibacteria group bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Patescibacteria group",
+      "Family": "unclassified Patescibacteria group",
+      "Genus": "Patescibacteria group bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Berkelbacteria",
+      "Family": "Candidatus Berkelbacteria bacterium RIFOXYA2_FULL_43_10"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Berkelbacteria",
+      "Family": "unclassified Candidatus Berkelbacteria",
+      "Genus": "Candidatus Berkelbacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Saccharimonadota",
+      "Family": "environmental samples",
+      "Genus": "uncultured Candidatus Saccharibacteria bacterium"
+    }
   ],
-  "Phylum": [
-    "Bacteria incertae sedis",
-    "Bacteria incertae sedis",
-    "Bacteria incertae sedis",
-    "Bacteria incertae sedis",
-    "Bacteria incertae sedis",
-    "Bacteria incertae sedis"
-  ],
-  "Class": [
-    "Bacteria candidate phyla",
-    "Bacteria candidate phyla",
-    "Bacteria candidate phyla",
-    "Bacteria candidate phyla",
-    "Bacteria candidate phyla",
-    "Bacteria candidate phyla"
-  ],
-  "Order": [
-    "Patescibacteria group",
-    "Patescibacteria group",
-    "Patescibacteria group",
-    "Candidatus Berkelbacteria",
-    "Candidatus Berkelbacteria",
-    "Candidatus Saccharimonadota"
-  ],
-  "Family": [
-    "unclassified Patescibacteria group",
-    "unclassified Patescibacteria group",
-    "unclassified Patescibacteria group",
-    "Candidatus Berkelbacteria bacterium RIFOXYA2_FULL_43_10",
-    "unclassified Candidatus Berkelbacteria",
-    "environmental samples"
-  ],
-  "Genus": [
-    "Patescibacteria group bacterium",
-    "Patescibacteria group bacterium",
-    "Patescibacteria group bacterium",
-    "Candidatus Berkelbacteria bacterium",
-    "uncultured Candidatus Saccharibacteria bacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Bacteria incertae sedis": 6
+    },
+    "Class": {
+      "Bacteria candidate phyla": 6
+    },
+    "Order": {
+      "Patescibacteria group": 3,
+      "Candidatus Berkelbacteria": 2,
+      "Candidatus Saccharimonadota": 1
+    },
+    "Family": {
+      "unclassified Patescibacteria group": 3,
+      "Candidatus Berkelbacteria bacterium RIFOXYA2_FULL_43_10": 1,
+      "unclassified Candidatus Berkelbacteria": 1,
+      "environmental samples": 1
+    },
+    "Genus": {
+      "Patescibacteria group bacterium": 3,
+      "Candidatus Berkelbacteria bacterium": 1,
+      "uncultured Candidatus Saccharibacteria bacterium": 1
+    },
+    "Species": {}
+  }
 }

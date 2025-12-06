@@ -1,51 +1,78 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Rhodocyclales",
+      "Genus": "Zoogloeaceae",
+      "Species": "Thauera"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Nocardiaceae",
+      "Species": "Rhodococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Rhodocyclales",
+      "Genus": "Zoogloeaceae",
+      "Species": "Thauera"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Rhodocyclales",
+      "Genus": "Zoogloeaceae",
+      "Species": "Thauera"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Rhodocyclales",
+      "Genus": "Zoogloeaceae",
+      "Species": "Thauera"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Bacillati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "Actinomycetota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "Betaproteobacteria",
-    "Actinomycetes",
-    "Betaproteobacteria",
-    "Betaproteobacteria",
-    "Betaproteobacteria"
-  ],
-  "Family": [
-    "Rhodocyclales",
-    "Mycobacteriales",
-    "Rhodocyclales",
-    "Rhodocyclales",
-    "Rhodocyclales"
-  ],
-  "Genus": [
-    "Zoogloeaceae",
-    "Nocardiaceae",
-    "Zoogloeaceae",
-    "Zoogloeaceae",
-    "Zoogloeaceae"
-  ],
-  "Species": [
-    "Thauera",
-    "Rhodococcus",
-    "Thauera",
-    "Thauera",
-    "Thauera"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Pseudomonadati": 4,
+      "Bacillati": 1
+    },
+    "Class": {
+      "Pseudomonadota": 4,
+      "Actinomycetota": 1
+    },
+    "Order": {
+      "Betaproteobacteria": 4,
+      "Actinomycetes": 1
+    },
+    "Family": {
+      "Rhodocyclales": 4,
+      "Mycobacteriales": 1
+    },
+    "Genus": {
+      "Zoogloeaceae": 4,
+      "Nocardiaceae": 1
+    },
+    "Species": {
+      "Thauera": 4,
+      "Rhodococcus": 1
+    }
+  }
 }

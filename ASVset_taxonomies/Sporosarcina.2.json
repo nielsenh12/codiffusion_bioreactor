@@ -1,0 +1,60 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Caryophanaceae",
+      "Species": "Sporosarcina"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Cytophagia",
+      "Species": "Cytophagales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Caryophanaceae",
+      "Species": "Sporosarcina"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Bacillati": 2,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Bacillota": 2,
+      "FCB group": 1
+    },
+    "Order": {
+      "Bacilli": 2,
+      "Bacteroidota/Chlorobiota group": 1
+    },
+    "Family": {
+      "Bacillales": 2,
+      "Bacteroidota": 1
+    },
+    "Genus": {
+      "Caryophanaceae": 2,
+      "Cytophagia": 1
+    },
+    "Species": {
+      "Sporosarcina": 2,
+      "Cytophagales": 1
+    }
+  }
+}

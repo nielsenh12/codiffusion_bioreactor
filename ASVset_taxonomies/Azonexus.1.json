@@ -1,0 +1,46 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured beta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Rhodocyclales",
+      "Genus": "Rhodocyclaceae",
+      "Species": "unclassified Rhodocyclaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Pseudomonadota": 2
+    },
+    "Order": {
+      "Betaproteobacteria": 2
+    },
+    "Family": {
+      "environmental samples": 1,
+      "Rhodocyclales": 1
+    },
+    "Genus": {
+      "uncultured beta proteobacterium": 1,
+      "Rhodocyclaceae": 1
+    },
+    "Species": {
+      "unclassified Rhodocyclaceae": 1
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Candidatus Sericytochromatia",
+      "Family": "unclassified Candidatus Sericytochromatia",
+      "Genus": "Candidatus Sericytochromatia bacterium S15B-MN24 CBMW_12"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Nitrospirota",
+      "Order": "Nitrospiria",
+      "Family": "Nitrospirales",
+      "Genus": "Nitrospiraceae",
+      "Species": "Nitrospira"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Candidatus Sericytochromatia",
+      "Family": "unclassified Candidatus Sericytochromatia",
+      "Genus": "Candidatus Sericytochromatia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Candidatus Sericytochromatia",
+      "Family": "unclassified Candidatus Sericytochromatia",
+      "Genus": "Candidatus Sericytochromatia bacterium S15B-MN24 CBMW_12"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Candidatus Sericytochromatia",
+      "Family": "unclassified Candidatus Sericytochromatia",
+      "Genus": "Candidatus Sericytochromatia bacterium S15B-MN24 CBMW_12"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Nitrospirota",
+      "Order": "Nitrospiria",
+      "Family": "Nitrospirales",
+      "Genus": "Nitrospiraceae",
+      "Species": "Nitrospira"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Candidatus Sericytochromatia",
+      "Family": "unclassified Candidatus Sericytochromatia",
+      "Genus": "Candidatus Sericytochromatia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 11
+    },
+    "Phylum": {
+      "unclassified Bacteria": 4,
+      "Bacillati": 5,
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "bacterium": 4,
+      "Cyanobacteriota/Melainabacteria group": 5,
+      "Nitrospirota": 2
+    },
+    "Order": {
+      "Candidatus Sericytochromatia": 5,
+      "Nitrospiria": 2
+    },
+    "Family": {
+      "unclassified Candidatus Sericytochromatia": 5,
+      "Nitrospirales": 2
+    },
+    "Genus": {
+      "Candidatus Sericytochromatia bacterium S15B-MN24 CBMW_12": 3,
+      "Nitrospiraceae": 2,
+      "Candidatus Sericytochromatia bacterium": 2
+    },
+    "Species": {
+      "Nitrospira": 2
+    }
+  }
+}

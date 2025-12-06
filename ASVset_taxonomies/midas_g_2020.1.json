@@ -1,0 +1,24 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "unclassified Bacteria": 1
+    },
+    "Class": {
+      "bacterium": 1
+    },
+    "Order": {},
+    "Family": {},
+    "Genus": {},
+    "Species": {}
+  }
+}

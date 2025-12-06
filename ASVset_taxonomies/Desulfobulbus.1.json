@@ -1,35 +1,61 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfobulbia",
+      "Family": "Desulfobulbales",
+      "Genus": "Desulfobulbaceae",
+      "Species": "Desulfobulbus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "unclassified Bacteroidota",
+      "Species": "Bacteroidota bacterium"
+    }
   ],
-  "Phylum": [
-    "delta/epsilon subdivisions",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Deltaproteobacteria",
-    "Thermodesulfobacteriota",
-    "FCB group"
-  ],
-  "Order": [
-    "environmental samples",
-    "Desulfobulbia",
-    "Bacteroidota/Chlorobiota group"
-  ],
-  "Family": [
-    "uncultured delta proteobacterium",
-    "Desulfobulbales",
-    "Bacteroidota"
-  ],
-  "Genus": [
-    "Desulfobulbaceae",
-    "unclassified Bacteroidota"
-  ],
-  "Species": [
-    "Desulfobulbus",
-    "Bacteroidota bacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "delta/epsilon subdivisions": 1,
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Deltaproteobacteria": 1,
+      "Thermodesulfobacteriota": 1,
+      "FCB group": 1
+    },
+    "Order": {
+      "environmental samples": 1,
+      "Desulfobulbia": 1,
+      "Bacteroidota/Chlorobiota group": 1
+    },
+    "Family": {
+      "uncultured delta proteobacterium": 1,
+      "Desulfobulbales": 1,
+      "Bacteroidota": 1
+    },
+    "Genus": {
+      "Desulfobulbaceae": 1,
+      "unclassified Bacteroidota": 1
+    },
+    "Species": {
+      "Desulfobulbus": 1,
+      "Bacteroidota bacterium": 1
+    }
+  }
 }

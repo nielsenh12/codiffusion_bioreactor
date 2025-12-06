@@ -1,32 +1,55 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "unclassified Acidobacteriota",
+      "Family": "Acidobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "unclassified Acidobacteriota",
+      "Family": "Acidobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Acidobacteriota",
-    "Acidobacteriota",
-    "Actinomycetota",
-    "Actinomycetota"
-  ],
-  "Order": [
-    "unclassified Acidobacteriota",
-    "unclassified Acidobacteriota",
-    "environmental samples",
-    "environmental samples"
-  ],
-  "Family": [
-    "Acidobacteriota bacterium",
-    "Acidobacteriota bacterium",
-    "uncultured Actinomycetota bacterium",
-    "uncultured Actinomycetota bacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Pseudomonadati": 2,
+      "Bacillati": 2
+    },
+    "Class": {
+      "Acidobacteriota": 2,
+      "Actinomycetota": 2
+    },
+    "Order": {
+      "unclassified Acidobacteriota": 2,
+      "environmental samples": 2
+    },
+    "Family": {
+      "Acidobacteriota bacterium": 2,
+      "uncultured Actinomycetota bacterium": 2
+    },
+    "Genus": {},
+    "Species": {}
+  }
 }

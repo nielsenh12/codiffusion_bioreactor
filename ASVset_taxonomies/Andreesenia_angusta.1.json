@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Gottschalkiaceae",
+      "Species": "Andreesenia"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacillati": 1
+    },
+    "Class": {
+      "Bacillota": 1
+    },
+    "Order": {
+      "Tissierellia": 1
+    },
+    "Family": {
+      "Tissierellales": 1
+    },
+    "Genus": {
+      "Gottschalkiaceae": 1
+    },
+    "Species": {
+      "Andreesenia": 1
+    }
+  }
+}

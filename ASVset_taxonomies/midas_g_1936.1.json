@@ -1,77 +1,113 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "Fimbriimonadia",
+      "Family": "Fimbriimonadales",
+      "Genus": "Fimbriimonadaceae",
+      "Species": "unclassified Fimbriimonadaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "Fimbriimonadia",
+      "Family": "Fimbriimonadales",
+      "Genus": "Fimbriimonadaceae",
+      "Species": "unclassified Fimbriimonadaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "Chthonomonadia",
+      "Family": "Chthonomonadales",
+      "Genus": "Chthonomonadaceae",
+      "Species": "Chthonomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "Chthonomonadia",
+      "Family": "Chthonomonadales",
+      "Genus": "Chthonomonadaceae",
+      "Species": "unclassified Chthonomonadaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "Fimbriimonadia",
+      "Family": "Fimbriimonadales",
+      "Genus": "Fimbriimonadaceae",
+      "Species": "unclassified Fimbriimonadaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "Fimbriimonadia",
+      "Family": "Fimbriimonadales",
+      "Genus": "Fimbriimonadaceae",
+      "Species": "unclassified Fimbriimonadaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "Fimbriimonadia",
+      "Family": "Fimbriimonadales",
+      "Genus": "Fimbriimonadaceae",
+      "Species": "unclassified Fimbriimonadaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "Fimbriimonadia",
+      "Family": "Fimbriimonadales",
+      "Genus": "Fimbriimonadaceae",
+      "Species": "unclassified Fimbriimonadaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota",
-    "Armatimonadota"
-  ],
-  "Order": [
-    "Fimbriimonadia",
-    "Fimbriimonadia",
-    "Chthonomonadia",
-    "Chthonomonadia",
-    "Fimbriimonadia",
-    "Fimbriimonadia",
-    "Fimbriimonadia",
-    "Fimbriimonadia",
-    "unclassified Armatimonadota"
-  ],
-  "Family": [
-    "Fimbriimonadales",
-    "Fimbriimonadales",
-    "Chthonomonadales",
-    "Chthonomonadales",
-    "Fimbriimonadales",
-    "Fimbriimonadales",
-    "Fimbriimonadales",
-    "Fimbriimonadales",
-    "Armatimonadota bacterium"
-  ],
-  "Genus": [
-    "Fimbriimonadaceae",
-    "Fimbriimonadaceae",
-    "Chthonomonadaceae",
-    "Chthonomonadaceae",
-    "Fimbriimonadaceae",
-    "Fimbriimonadaceae",
-    "Fimbriimonadaceae",
-    "Fimbriimonadaceae"
-  ],
-  "Species": [
-    "unclassified Fimbriimonadaceae",
-    "unclassified Fimbriimonadaceae",
-    "Chthonomonas",
-    "unclassified Chthonomonadaceae",
-    "unclassified Fimbriimonadaceae",
-    "unclassified Fimbriimonadaceae",
-    "unclassified Fimbriimonadaceae",
-    "unclassified Fimbriimonadaceae"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 9
+    },
+    "Phylum": {
+      "Bacillati": 9
+    },
+    "Class": {
+      "Armatimonadota": 9
+    },
+    "Order": {
+      "Fimbriimonadia": 6,
+      "Chthonomonadia": 2,
+      "unclassified Armatimonadota": 1
+    },
+    "Family": {
+      "Fimbriimonadales": 6,
+      "Chthonomonadales": 2,
+      "Armatimonadota bacterium": 1
+    },
+    "Genus": {
+      "Fimbriimonadaceae": 6,
+      "Chthonomonadaceae": 2
+    },
+    "Species": {
+      "unclassified Fimbriimonadaceae": 6,
+      "Chthonomonas": 1,
+      "unclassified Chthonomonadaceae": 1
+    }
+  }
 }

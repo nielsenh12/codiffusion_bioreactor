@@ -1,0 +1,45 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Rhodocyclales",
+      "Genus": "Zoogloeaceae",
+      "Species": "Zoogloea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Rhodocyclales",
+      "Genus": "Zoogloeaceae",
+      "Species": "Zoogloea"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Pseudomonadota": 2
+    },
+    "Order": {
+      "Betaproteobacteria": 2
+    },
+    "Family": {
+      "Rhodocyclales": 2
+    },
+    "Genus": {
+      "Zoogloeaceae": 2
+    },
+    "Species": {
+      "Zoogloea": 2
+    }
+  }
+}

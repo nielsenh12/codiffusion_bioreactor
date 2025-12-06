@@ -1,55 +1,83 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Candidatus Darwinibacteriales",
+      "Genus": "Candidatus Darwinibacteriaceae",
+      "Species": "Candidatus Darwinibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Atribacterota",
+      "Order": "Atribacteria",
+      "Family": "unclassified Atribacteria",
+      "Genus": "Candidatus Atribacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Candidatus Darwinibacteriales",
+      "Genus": "Candidatus Darwinibacteriaceae",
+      "Species": "Candidatus Darwinibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Atribacterota",
+      "Order": "Atribacteria",
+      "Family": "unclassified Atribacteria",
+      "Genus": "Candidatus Atribacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Candidatus Darwinibacteriales",
+      "Genus": "Candidatus Darwinibacteriaceae",
+      "Species": "Candidatus Darwinibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Atribacterota",
+      "Order": "Atribacteria",
+      "Family": "unclassified Atribacteria",
+      "Genus": "Candidatus Atribacteria bacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Bacillota",
-    "Atribacterota",
-    "Bacillota",
-    "Atribacterota",
-    "Bacillota",
-    "Atribacterota"
-  ],
-  "Order": [
-    "Clostridia",
-    "Atribacteria",
-    "Clostridia",
-    "Atribacteria",
-    "Clostridia",
-    "Atribacteria"
-  ],
-  "Family": [
-    "Candidatus Darwinibacteriales",
-    "unclassified Atribacteria",
-    "Candidatus Darwinibacteriales",
-    "unclassified Atribacteria",
-    "Candidatus Darwinibacteriales",
-    "unclassified Atribacteria"
-  ],
-  "Genus": [
-    "Candidatus Darwinibacteriaceae",
-    "Candidatus Atribacteria bacterium",
-    "Candidatus Darwinibacteriaceae",
-    "Candidatus Atribacteria bacterium",
-    "Candidatus Darwinibacteriaceae",
-    "Candidatus Atribacteria bacterium"
-  ],
-  "Species": [
-    "Candidatus Darwinibacter",
-    "Candidatus Darwinibacter",
-    "Candidatus Darwinibacter"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Bacillati": 3,
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "Bacillota": 3,
+      "Atribacterota": 3
+    },
+    "Order": {
+      "Clostridia": 3,
+      "Atribacteria": 3
+    },
+    "Family": {
+      "Candidatus Darwinibacteriales": 3,
+      "unclassified Atribacteria": 3
+    },
+    "Genus": {
+      "Candidatus Darwinibacteriaceae": 3,
+      "Candidatus Atribacteria bacterium": 3
+    },
+    "Species": {
+      "Candidatus Darwinibacter": 3
+    }
+  }
 }

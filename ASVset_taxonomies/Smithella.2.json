@@ -1,23 +1,36 @@
 {
-  "Kingdom": [
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Syntrophia",
+      "Family": "Syntrophales",
+      "Genus": "Syntrophaceae",
+      "Species": "unclassified Syntrophaceae"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Thermodesulfobacteriota"
-  ],
-  "Order": [
-    "Syntrophia"
-  ],
-  "Family": [
-    "Syntrophales"
-  ],
-  "Genus": [
-    "Syntrophaceae"
-  ],
-  "Species": [
-    "unclassified Syntrophaceae"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Thermodesulfobacteriota": 1
+    },
+    "Order": {
+      "Syntrophia": 1
+    },
+    "Family": {
+      "Syntrophales": 1
+    },
+    "Genus": {
+      "Syntrophaceae": 1
+    },
+    "Species": {
+      "unclassified Syntrophaceae": 1
+    }
+  }
 }

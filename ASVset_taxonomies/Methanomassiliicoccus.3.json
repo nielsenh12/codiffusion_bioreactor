@@ -1,0 +1,55 @@
+{
+  "members": [
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Thermoplasmatota",
+      "Order": "Thermoplasmata",
+      "Family": "Methanomassiliicoccales",
+      "Genus": "Methanomassiliicoccaceae",
+      "Species": "Methanomassiliicoccus"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Thermoplasmatota",
+      "Order": "Thermoplasmata",
+      "Family": "Methanomassiliicoccales",
+      "Genus": "Methanomassiliicoccaceae",
+      "Species": "unclassified Methanomassiliicoccaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Thermoplasmatota",
+      "Order": "Thermoplasmata",
+      "Family": "Methanomassiliicoccales",
+      "Genus": "Methanomassiliicoccaceae",
+      "Species": "Methanomassiliicoccus"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Archaea": 3
+    },
+    "Phylum": {
+      "Methanobacteriati": 3
+    },
+    "Class": {
+      "Thermoplasmatota": 3
+    },
+    "Order": {
+      "Thermoplasmata": 3
+    },
+    "Family": {
+      "Methanomassiliicoccales": 3
+    },
+    "Genus": {
+      "Methanomassiliicoccaceae": 3
+    },
+    "Species": {
+      "Methanomassiliicoccus": 2,
+      "unclassified Methanomassiliicoccaceae": 1
+    }
+  }
+}

@@ -1,152 +1,216 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "Tissierella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "Tissierella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "Tissierella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "Tissierella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "Tissierella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tepidimicrobiaceae",
+      "Species": "Tepidimicrobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "Tissierella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Candidatus Darwinibacteriales",
+      "Genus": "Candidatus Darwinibacteriaceae",
+      "Species": "Candidatus Darwinibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "Paratissierella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "Tissierella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "Tissierella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "unclassified Tissierellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "Tissierella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "Wansuia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "Tissierella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "Tissierella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "Tissierella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "Tissierella"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota"
-  ],
-  "Order": [
-    "Tissierellia",
-    "Tissierellia",
-    "Tissierellia",
-    "unclassified Bacillota",
-    "Tissierellia",
-    "Tissierellia",
-    "Tissierellia",
-    "Tissierellia",
-    "Clostridia",
-    "unclassified Bacillota",
-    "Tissierellia",
-    "Tissierellia",
-    "Tissierellia",
-    "Tissierellia",
-    "Tissierellia",
-    "Clostridia",
-    "Tissierellia",
-    "Tissierellia",
-    "Tissierellia",
-    "Tissierellia"
-  ],
-  "Family": [
-    "Tissierellales",
-    "Tissierellales",
-    "Tissierellales",
-    "Bacillota bacterium",
-    "Tissierellales",
-    "Tissierellales",
-    "Tissierellales",
-    "Tissierellales",
-    "Candidatus Darwinibacteriales",
-    "Bacillota bacterium",
-    "Tissierellales",
-    "Tissierellales",
-    "Tissierellales",
-    "Tissierellales",
-    "Tissierellales",
-    "Lachnospirales",
-    "Tissierellales",
-    "Tissierellales",
-    "Tissierellales",
-    "Tissierellales"
-  ],
-  "Genus": [
-    "Tissierellaceae",
-    "Tissierellaceae",
-    "Tissierellaceae",
-    "Tissierellaceae",
-    "Tissierellaceae",
-    "Tepidimicrobiaceae",
-    "Tissierellaceae",
-    "Candidatus Darwinibacteriaceae",
-    "Tissierellaceae",
-    "Tissierellaceae",
-    "Tissierellaceae",
-    "Tissierellaceae",
-    "Tissierellaceae",
-    "Lachnospiraceae",
-    "Tissierellaceae",
-    "Tissierellaceae",
-    "Tissierellaceae",
-    "Tissierellaceae"
-  ],
-  "Species": [
-    "Tissierella",
-    "Tissierella",
-    "Tissierella",
-    "Tissierella",
-    "Tissierella",
-    "Tepidimicrobium",
-    "Tissierella",
-    "Candidatus Darwinibacter",
-    "Paratissierella",
-    "Tissierella",
-    "Tissierella",
-    "unclassified Tissierellaceae",
-    "Tissierella",
-    "Wansuia",
-    "Tissierella",
-    "Tissierella",
-    "Tissierella",
-    "Tissierella"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 20
+    },
+    "Phylum": {
+      "Bacillati": 20
+    },
+    "Class": {
+      "Bacillota": 20
+    },
+    "Order": {
+      "Tissierellia": 16,
+      "unclassified Bacillota": 2,
+      "Clostridia": 2
+    },
+    "Family": {
+      "Tissierellales": 16,
+      "Bacillota bacterium": 2,
+      "Candidatus Darwinibacteriales": 1,
+      "Lachnospirales": 1
+    },
+    "Genus": {
+      "Tissierellaceae": 15,
+      "Tepidimicrobiaceae": 1,
+      "Candidatus Darwinibacteriaceae": 1,
+      "Lachnospiraceae": 1
+    },
+    "Species": {
+      "Tissierella": 13,
+      "Tepidimicrobium": 1,
+      "Candidatus Darwinibacter": 1,
+      "Paratissierella": 1,
+      "unclassified Tissierellaceae": 1,
+      "Wansuia": 1
+    }
+  }
 }

@@ -1,51 +1,76 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Sphingopyxidaceae",
+      "Species": "Sphingopyxis"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Sphingopyxidaceae",
+      "Species": "Sphingopyxis"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Rhodocyclales",
+      "Genus": "Azonexaceae",
+      "Species": "Dechloromonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Sphingopyxidaceae",
+      "Species": "Sphingopyxis"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Sphingomonadales",
+      "Genus": "Sphingopyxidaceae",
+      "Species": "Sphingopyxis"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "Alphaproteobacteria",
-    "Alphaproteobacteria",
-    "Betaproteobacteria",
-    "Alphaproteobacteria",
-    "Alphaproteobacteria"
-  ],
-  "Family": [
-    "Sphingomonadales",
-    "Sphingomonadales",
-    "Rhodocyclales",
-    "Sphingomonadales",
-    "Sphingomonadales"
-  ],
-  "Genus": [
-    "Sphingopyxidaceae",
-    "Sphingopyxidaceae",
-    "Azonexaceae",
-    "Sphingopyxidaceae",
-    "Sphingopyxidaceae"
-  ],
-  "Species": [
-    "Sphingopyxis",
-    "Sphingopyxis",
-    "Dechloromonas",
-    "Sphingopyxis",
-    "Sphingopyxis"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Pseudomonadati": 5
+    },
+    "Class": {
+      "Pseudomonadota": 5
+    },
+    "Order": {
+      "Alphaproteobacteria": 4,
+      "Betaproteobacteria": 1
+    },
+    "Family": {
+      "Sphingomonadales": 4,
+      "Rhodocyclales": 1
+    },
+    "Genus": {
+      "Sphingopyxidaceae": 4,
+      "Azonexaceae": 1
+    },
+    "Species": {
+      "Sphingopyxis": 4,
+      "Dechloromonas": 1
+    }
+  }
 }

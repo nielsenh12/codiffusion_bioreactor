@@ -1,0 +1,114 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Thermoanaerobacterales",
+      "Genus": "Candidatus Desulforudaceae",
+      "Species": "Candidatus Desulforudis"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Thermoanaerobacterales",
+      "Genus": "unclassified Thermoanaerobacterales",
+      "Species": "Thermoanaerobacterales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Thermoanaerobacterales",
+      "Genus": "Candidatus Desulforudaceae",
+      "Species": "Candidatus Desulforudis"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Thermoanaerobacterales",
+      "Genus": "unclassified Thermoanaerobacterales",
+      "Species": "Thermoanaerobacterales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 11
+    },
+    "Phylum": {
+      "Bacillati": 9,
+      "unclassified Bacteria": 2
+    },
+    "Class": {
+      "Bacillota": 9,
+      "bacterium": 2
+    },
+    "Order": {
+      "Clostridia": 4,
+      "unclassified Bacillota": 5
+    },
+    "Family": {
+      "Thermoanaerobacterales": 4,
+      "Bacillota bacterium": 5
+    },
+    "Genus": {
+      "Candidatus Desulforudaceae": 2,
+      "unclassified Thermoanaerobacterales": 2
+    },
+    "Species": {
+      "Candidatus Desulforudis": 2,
+      "Thermoanaerobacterales bacterium": 2
+    }
+  }
+}

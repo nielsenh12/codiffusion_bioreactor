@@ -1,107 +1,146 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfitobacteriaceae",
+      "Species": "Dehalobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfitobacteriaceae",
+      "Species": "Dehalobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfitobacteriaceae",
+      "Species": "Dehalobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfitobacteriaceae",
+      "Species": "Dehalobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfitobacteriaceae",
+      "Species": "Dehalobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfitobacteriaceae",
+      "Species": "Dehalobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfitobacteriaceae",
+      "Species": "Dehalobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfitobacteriaceae",
+      "Species": "Dehalobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Gracilibacteraceae",
+      "Species": "Gracilibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfitobacteriaceae",
+      "Species": "Dehalobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfitobacteriaceae",
+      "Species": "Dehalobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfitobacteriaceae",
+      "Species": "Dehalobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfitobacteriaceae",
+      "Species": "Dehalobacter"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota"
-  ],
-  "Order": [
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia"
-  ],
-  "Family": [
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales"
-  ],
-  "Genus": [
-    "Desulfitobacteriaceae",
-    "Desulfitobacteriaceae",
-    "Desulfitobacteriaceae",
-    "Desulfitobacteriaceae",
-    "Desulfitobacteriaceae",
-    "Desulfitobacteriaceae",
-    "Desulfitobacteriaceae",
-    "Desulfitobacteriaceae",
-    "Gracilibacteraceae",
-    "Desulfitobacteriaceae",
-    "Desulfitobacteriaceae",
-    "Desulfitobacteriaceae",
-    "Desulfitobacteriaceae"
-  ],
-  "Species": [
-    "Dehalobacter",
-    "Dehalobacter",
-    "Dehalobacter",
-    "Dehalobacter",
-    "Dehalobacter",
-    "Dehalobacter",
-    "Dehalobacter",
-    "Dehalobacter",
-    "Gracilibacter",
-    "Dehalobacter",
-    "Dehalobacter",
-    "Dehalobacter",
-    "Dehalobacter"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 13
+    },
+    "Phylum": {
+      "Bacillati": 13
+    },
+    "Class": {
+      "Bacillota": 13
+    },
+    "Order": {
+      "Clostridia": 13
+    },
+    "Family": {
+      "Eubacteriales": 13
+    },
+    "Genus": {
+      "Desulfitobacteriaceae": 12,
+      "Gracilibacteraceae": 1
+    },
+    "Species": {
+      "Dehalobacter": 12,
+      "Gracilibacter": 1
+    }
+  }
 }

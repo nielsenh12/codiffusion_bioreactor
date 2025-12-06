@@ -1,30 +1,47 @@
 {
-  "Kingdom": [
-    "Archaea",
-    "Archaea"
+  "members": [
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Thermoproteati",
+      "Class": "Nitrososphaerota",
+      "Order": "Nitrososphaeria",
+      "Family": "Nitrososphaerales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Nitrososphaerales archaeon"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Thermoproteati",
+      "Class": "Nitrososphaerota",
+      "Order": "Nitrososphaeria",
+      "Family": "Nitrososphaerales",
+      "Genus": "Nitrososphaeraceae",
+      "Species": "unclassified Nitrososphaeraceae"
+    }
   ],
-  "Phylum": [
-    "Thermoproteati",
-    "Thermoproteati"
-  ],
-  "Class": [
-    "Nitrososphaerota",
-    "Nitrososphaerota"
-  ],
-  "Order": [
-    "Nitrososphaeria",
-    "Nitrososphaeria"
-  ],
-  "Family": [
-    "Nitrososphaerales",
-    "Nitrososphaerales"
-  ],
-  "Genus": [
-    "environmental samples",
-    "Nitrososphaeraceae"
-  ],
-  "Species": [
-    "uncultured Nitrososphaerales archaeon",
-    "unclassified Nitrososphaeraceae"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Archaea": 2
+    },
+    "Phylum": {
+      "Thermoproteati": 2
+    },
+    "Class": {
+      "Nitrososphaerota": 2
+    },
+    "Order": {
+      "Nitrososphaeria": 2
+    },
+    "Family": {
+      "Nitrososphaerales": 2
+    },
+    "Genus": {
+      "environmental samples": 1,
+      "Nitrososphaeraceae": 1
+    },
+    "Species": {
+      "uncultured Nitrososphaerales archaeon": 1,
+      "unclassified Nitrososphaeraceae": 1
+    }
+  }
 }

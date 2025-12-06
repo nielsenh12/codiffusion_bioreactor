@@ -1,0 +1,58 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "Tissierella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "Tissierella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "Wansuia"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Bacillati": 3
+    },
+    "Class": {
+      "Bacillota": 3
+    },
+    "Order": {
+      "Tissierellia": 2,
+      "Clostridia": 1
+    },
+    "Family": {
+      "Tissierellales": 2,
+      "Lachnospirales": 1
+    },
+    "Genus": {
+      "Tissierellaceae": 2,
+      "Lachnospiraceae": 1
+    },
+    "Species": {
+      "Tissierella": 2,
+      "Wansuia": 1
+    }
+  }
+}

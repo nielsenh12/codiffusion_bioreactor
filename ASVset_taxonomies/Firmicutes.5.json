@@ -1,0 +1,132 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Neomoorellaceae",
+      "Species": "Neomoorella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Bacillales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "Acidimicrobiaceae",
+      "Species": "unclassified Acidimicrobiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Deinococcota",
+      "Order": "Deinococci",
+      "Family": "Deinococcales",
+      "Genus": "Deinococcaceae",
+      "Species": "Deinococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Neomoorellales",
+      "Genus": "Neomoorellaceae",
+      "Species": "Neomoorella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Bacillales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Deinococcota",
+      "Order": "Deinococci",
+      "Family": "Deinococcales",
+      "Genus": "Deinococcaceae",
+      "Species": "Deinococcus"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 10
+    },
+    "Phylum": {
+      "Bacillati": 8,
+      "Thermotogati": 2
+    },
+    "Class": {
+      "Bacillota": 7,
+      "Actinomycetota": 1,
+      "Deinococcota": 2
+    },
+    "Order": {
+      "Clostridia": 4,
+      "Bacilli": 2,
+      "Acidimicrobiia": 1,
+      "Deinococci": 2,
+      "unclassified Bacillota": 1
+    },
+    "Family": {
+      "Neomoorellales": 2,
+      "Bacillales": 2,
+      "unclassified Clostridia": 2,
+      "Acidimicrobiales": 1,
+      "Deinococcales": 2,
+      "Bacillota bacterium": 1
+    },
+    "Genus": {
+      "Neomoorellaceae": 2,
+      "environmental samples": 2,
+      "Clostridia bacterium": 2,
+      "Acidimicrobiaceae": 1,
+      "Deinococcaceae": 2
+    },
+    "Species": {
+      "Neomoorella": 2,
+      "uncultured Bacillales bacterium": 2,
+      "unclassified Acidimicrobiaceae": 1,
+      "Deinococcus": 2
+    }
+  }
+}

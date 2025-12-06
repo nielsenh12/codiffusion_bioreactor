@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "Fimbriimonadia",
+      "Family": "Fimbriimonadales",
+      "Genus": "Fimbriimonadaceae",
+      "Species": "unclassified Fimbriimonadaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacillati": 1
+    },
+    "Class": {
+      "Armatimonadota": 1
+    },
+    "Order": {
+      "Fimbriimonadia": 1
+    },
+    "Family": {
+      "Fimbriimonadales": 1
+    },
+    "Genus": {
+      "Fimbriimonadaceae": 1
+    },
+    "Species": {
+      "unclassified Fimbriimonadaceae": 1
+    }
+  }
+}

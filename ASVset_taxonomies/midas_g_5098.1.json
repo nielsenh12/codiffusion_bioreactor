@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Thermoleophilia",
+      "Family": "Gaiellales",
+      "Genus": "Gaiellaceae",
+      "Species": "environmental samples"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacillati": 1
+    },
+    "Class": {
+      "Actinomycetota": 1
+    },
+    "Order": {
+      "Thermoleophilia": 1
+    },
+    "Family": {
+      "Gaiellales": 1
+    },
+    "Genus": {
+      "Gaiellaceae": 1
+    },
+    "Species": {
+      "environmental samples": 1
+    }
+  }
+}

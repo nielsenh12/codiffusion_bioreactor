@@ -1,28 +1,45 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "unclassified Pseudomonadota",
+      "Family": "Pseudomonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Rhodocyclales",
+      "Genus": "Rhodocyclaceae",
+      "Species": "unclassified Rhodocyclaceae"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "unclassified Pseudomonadota",
-    "Betaproteobacteria"
-  ],
-  "Family": [
-    "Pseudomonadota bacterium",
-    "Rhodocyclales"
-  ],
-  "Genus": [
-    "Rhodocyclaceae"
-  ],
-  "Species": [
-    "unclassified Rhodocyclaceae"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Pseudomonadota": 2
+    },
+    "Order": {
+      "unclassified Pseudomonadota": 1,
+      "Betaproteobacteria": 1
+    },
+    "Family": {
+      "Pseudomonadota bacterium": 1,
+      "Rhodocyclales": 1
+    },
+    "Genus": {
+      "Rhodocyclaceae": 1
+    },
+    "Species": {
+      "unclassified Rhodocyclaceae": 1
+    }
+  }
 }

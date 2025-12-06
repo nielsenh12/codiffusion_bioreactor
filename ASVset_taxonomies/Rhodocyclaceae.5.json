@@ -1,0 +1,69 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Cyanobacteriota",
+      "Family": "Cyanophyceae",
+      "Genus": "Oscillatoriophycideae",
+      "Species": "Oscillatoriales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Cyanobacteriota",
+      "Family": "Cyanophyceae",
+      "Genus": "Oscillatoriophycideae",
+      "Species": "Oscillatoriales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Cyanobacteriota",
+      "Family": "Cyanophyceae",
+      "Genus": "Oscillatoriophycideae",
+      "Species": "Oscillatoriales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Rhodocyclales",
+      "Genus": "Zoogloeaceae",
+      "Species": "Pseudazoarcus"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Bacillati": 3,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Cyanobacteriota/Melainabacteria group": 3,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Cyanobacteriota": 3,
+      "Betaproteobacteria": 1
+    },
+    "Family": {
+      "Cyanophyceae": 3,
+      "Rhodocyclales": 1
+    },
+    "Genus": {
+      "Oscillatoriophycideae": 3,
+      "Zoogloeaceae": 1
+    },
+    "Species": {
+      "Oscillatoriales": 3,
+      "Pseudazoarcus": 1
+    }
+  }
+}

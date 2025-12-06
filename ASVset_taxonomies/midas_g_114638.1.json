@@ -1,0 +1,427 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Vulcanimicrobiota",
+      "Order": "Candidatus Xenobia",
+      "Family": "unclassified Candidatus Xenobia",
+      "Genus": "Candidatus Xenobia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Vulcanimicrobiota",
+      "Order": "unclassified Vulcanimicrobiota",
+      "Family": "Vulcanimicrobiota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Vulcanimicrobiota",
+      "Order": "Candidatus Xenobia",
+      "Family": "unclassified Candidatus Xenobia",
+      "Genus": "Candidatus Xenobia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Deferribacterota",
+      "Order": "Deferribacteres",
+      "Family": "Deferribacterales",
+      "Genus": "Deferribacteraceae",
+      "Species": "unclassified Deferribacteraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Clostridiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Vulcanimicrobiota",
+      "Order": "unclassified Vulcanimicrobiota",
+      "Family": "Vulcanimicrobiota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "unclassified Bacteroidia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Eubacteriales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Negativicutes",
+      "Family": "Acidaminococcales",
+      "Genus": "Acidaminococcaceae",
+      "Species": "Acidaminococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Thermincolaceae",
+      "Species": "Thermincola"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Oscillibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Negativicutes",
+      "Family": "Acidaminococcales",
+      "Genus": "Acidaminococcaceae",
+      "Species": "Phascolarctobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Eubacteriales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Dehalococcoidia",
+      "Family": "Dehalococcoidales",
+      "Genus": "unclassified Dehalococcoidales",
+      "Species": "Dehalococcoidales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Clostridiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Vulcanimicrobiota",
+      "Order": "Candidatus Xenobia",
+      "Family": "unclassified Candidatus Xenobia",
+      "Genus": "Candidatus Xenobia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "unclassified Pseudomonadota",
+      "Family": "Pseudomonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Vulcanimicrobiota",
+      "Order": "unclassified Vulcanimicrobiota",
+      "Family": "Vulcanimicrobiota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Syntrophomonadaceae",
+      "Species": "unclassified Syntrophomonadaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Thermoproteati",
+      "Class": "Nitrososphaerota",
+      "Order": "Nitrososphaerota incertae sedis",
+      "Family": "Candidatus Nitrosotenuis",
+      "Genus": "unclassified Candidatus Nitrosotenuis",
+      "Species": "Candidatus Nitrosotenuis sp."
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Vulcanimicrobiota",
+      "Order": "unclassified Vulcanimicrobiota",
+      "Family": "Vulcanimicrobiota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Thermoanaerobacterales",
+      "Genus": "Thermoanaerobacterales Family III. Incertae Sedis",
+      "Species": "Syntrophaceticus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Vulcanimicrobiota",
+      "Order": "Vulcanimicrobiia",
+      "Family": "Candidatus Eremiobacterales",
+      "Genus": "unclassified Candidatus Eremiobacterales",
+      "Species": "Candidatus Eremiobacterales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Thermoanaerobacterales",
+      "Genus": "unclassified Thermoanaerobacterales",
+      "Species": "Thermoanaerobacterales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "Chthonomonadia",
+      "Family": "Chthonomonadales",
+      "Genus": "Chthonomonadaceae",
+      "Species": "Chthonomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Syntrophomonadaceae",
+      "Species": "unclassified Syntrophomonadaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Thermoanaerobacterales",
+      "Genus": "Thermoanaerobacteraceae",
+      "Species": "Thermacetogenium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Chitinophagia",
+      "Species": "Chitinophagales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Thermoanaerobacterales",
+      "Genus": "Thermoanaerobacterales Family III. Incertae Sedis",
+      "Species": "Syntrophaceticus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Atribacterota",
+      "Order": "unclassified Atribacterota",
+      "Family": "Atribacterota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Dehalococcoidia",
+      "Family": "Dehalococcoidales",
+      "Genus": "unclassified Dehalococcoidales",
+      "Species": "Dehalococcoidales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Atribacterota",
+      "Order": "unclassified Atribacterota",
+      "Family": "Atribacterota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Clostridiales bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 39,
+      "Archaea": 1
+    },
+    "Phylum": {
+      "Bacillati": 31,
+      "Pseudomonadati": 7,
+      "Thermoproteati": 1,
+      "unclassified Bacteria": 1
+    },
+    "Class": {
+      "Vulcanimicrobiota": 8,
+      "Deferribacterota": 1,
+      "Bacillota": 20,
+      "FCB group": 3,
+      "Chloroflexota": 2,
+      "Pseudomonadota": 1,
+      "Nitrososphaerota": 1,
+      "bacterium": 1,
+      "Armatimonadota": 1,
+      "Atribacterota": 2
+    },
+    "Order": {
+      "Candidatus Xenobia": 3,
+      "unclassified Vulcanimicrobiota": 4,
+      "Deferribacteres": 1,
+      "Clostridia": 13,
+      "Bacteroidota/Chlorobiota group": 3,
+      "unclassified Bacillota": 5,
+      "Negativicutes": 2,
+      "Dehalococcoidia": 2,
+      "unclassified Pseudomonadota": 1,
+      "Nitrososphaerota incertae sedis": 1,
+      "Vulcanimicrobiia": 1,
+      "Chthonomonadia": 1,
+      "unclassified Atribacterota": 2
+    },
+    "Family": {
+      "unclassified Candidatus Xenobia": 3,
+      "Vulcanimicrobiota bacterium": 4,
+      "Deferribacterales": 1,
+      "Eubacteriales": 9,
+      "Bacteroidota": 3,
+      "Bacillota bacterium": 5,
+      "Acidaminococcales": 2,
+      "Dehalococcoidales": 2,
+      "Pseudomonadota bacterium": 1,
+      "Candidatus Nitrosotenuis": 1,
+      "Thermoanaerobacterales": 4,
+      "Candidatus Eremiobacterales": 1,
+      "Chthonomonadales": 1,
+      "Atribacterota bacterium": 2
+    },
+    "Genus": {
+      "Candidatus Xenobia bacterium": 3,
+      "Deferribacteraceae": 1,
+      "unclassified Eubacteriales": 3,
+      "Bacteroidia": 2,
+      "environmental samples": 2,
+      "Acidaminococcaceae": 2,
+      "Thermincolaceae": 1,
+      "Oscillospiraceae": 1,
+      "unclassified Dehalococcoidales": 2,
+      "Syntrophomonadaceae": 2,
+      "unclassified Candidatus Nitrosotenuis": 1,
+      "Thermoanaerobacterales Family III. Incertae Sedis": 2,
+      "unclassified Candidatus Eremiobacterales": 1,
+      "unclassified Thermoanaerobacterales": 1,
+      "Chthonomonadaceae": 1,
+      "Thermoanaerobacteraceae": 1,
+      "Chitinophagia": 1
+    },
+    "Species": {
+      "unclassified Deferribacteraceae": 1,
+      "Clostridiales bacterium": 3,
+      "unclassified Bacteroidia": 1,
+      "uncultured Eubacteriales bacterium": 2,
+      "Acidaminococcus": 1,
+      "Thermincola": 1,
+      "Bacteroidales": 1,
+      "Oscillibacter": 1,
+      "Phascolarctobacterium": 1,
+      "Dehalococcoidales bacterium": 2,
+      "unclassified Syntrophomonadaceae": 2,
+      "Candidatus Nitrosotenuis sp.": 1,
+      "Syntrophaceticus": 2,
+      "Candidatus Eremiobacterales bacterium": 1,
+      "Thermoanaerobacterales bacterium": 1,
+      "Chthonomonas": 1,
+      "Thermacetogenium": 1,
+      "Chitinophagales": 1
+    }
+  }
+}

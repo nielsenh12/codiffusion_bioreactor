@@ -1,57 +1,86 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "unclassified Spirochaetia",
+      "Genus": "Spirochaetia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Spirochaetaceae",
+      "Species": "unclassified Spirochaetaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Spirochaetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Spirochaetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "unclassified Spirochaetia",
+      "Genus": "Spirochaetia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "unclassified Spirochaetia",
+      "Genus": "Spirochaetia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "unclassified Spirochaetia",
+      "Genus": "Spirochaetia bacterium"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Spirochaetota",
-    "Spirochaetota",
-    "Spirochaetota",
-    "Spirochaetota",
-    "Spirochaetota",
-    "Spirochaetota",
-    "Spirochaetota"
-  ],
-  "Order": [
-    "Spirochaetia",
-    "Spirochaetia",
-    "environmental samples",
-    "environmental samples",
-    "Spirochaetia",
-    "Spirochaetia",
-    "Spirochaetia"
-  ],
-  "Family": [
-    "unclassified Spirochaetia",
-    "Spirochaetales",
-    "uncultured Spirochaetota bacterium",
-    "uncultured Spirochaetota bacterium",
-    "unclassified Spirochaetia",
-    "unclassified Spirochaetia",
-    "unclassified Spirochaetia"
-  ],
-  "Genus": [
-    "Spirochaetia bacterium",
-    "Spirochaetaceae",
-    "Spirochaetia bacterium",
-    "Spirochaetia bacterium",
-    "Spirochaetia bacterium"
-  ],
-  "Species": [
-    "unclassified Spirochaetaceae"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 7
+    },
+    "Phylum": {
+      "Pseudomonadati": 7
+    },
+    "Class": {
+      "Spirochaetota": 7
+    },
+    "Order": {
+      "Spirochaetia": 5,
+      "environmental samples": 2
+    },
+    "Family": {
+      "unclassified Spirochaetia": 4,
+      "Spirochaetales": 1,
+      "uncultured Spirochaetota bacterium": 2
+    },
+    "Genus": {
+      "Spirochaetia bacterium": 4,
+      "Spirochaetaceae": 1
+    },
+    "Species": {
+      "unclassified Spirochaetaceae": 1
+    }
+  }
 }

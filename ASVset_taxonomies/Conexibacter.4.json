@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Thermoleophilia",
+      "Family": "Solirubrobacterales",
+      "Genus": "Baekduiaceae",
+      "Species": "Baekduia"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacillati": 1
+    },
+    "Class": {
+      "Actinomycetota": 1
+    },
+    "Order": {
+      "Thermoleophilia": 1
+    },
+    "Family": {
+      "Solirubrobacterales": 1
+    },
+    "Genus": {
+      "Baekduiaceae": 1
+    },
+    "Species": {
+      "Baekduia": 1
+    }
+  }
+}

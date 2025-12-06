@@ -1,53 +1,82 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "unclassified Bacteroidota",
+      "Species": "Bacteroidota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Pseudomonadati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "FCB group",
-    "Bacillota"
-  ],
-  "Order": [
-    "unclassified Bacillota",
-    "unclassified Bacillota",
-    "unclassified Bacillota",
-    "unclassified Bacillota",
-    "unclassified Bacillota",
-    "Bacteroidota/Chlorobiota group",
-    "unclassified Bacillota"
-  ],
-  "Family": [
-    "Bacillota bacterium",
-    "Bacillota bacterium",
-    "Bacillota bacterium",
-    "Bacillota bacterium",
-    "Bacillota bacterium",
-    "Bacteroidota",
-    "Bacillota bacterium"
-  ],
-  "Genus": [
-    "unclassified Bacteroidota"
-  ],
-  "Species": [
-    "Bacteroidota bacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 7
+    },
+    "Phylum": {
+      "Bacillati": 6,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Bacillota": 6,
+      "FCB group": 1
+    },
+    "Order": {
+      "unclassified Bacillota": 6,
+      "Bacteroidota/Chlorobiota group": 1
+    },
+    "Family": {
+      "Bacillota bacterium": 6,
+      "Bacteroidota": 1
+    },
+    "Genus": {
+      "unclassified Bacteroidota": 1
+    },
+    "Species": {
+      "Bacteroidota bacterium": 1
+    }
+  }
 }

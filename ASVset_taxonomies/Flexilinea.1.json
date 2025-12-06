@@ -1,28 +1,48 @@
 {
-  "Kingdom": [
-    "Archaea",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "unclassified Methanobacteriota",
+      "Family": "Methanobacteriota archaeon"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "Flexilinea"
+    }
   ],
-  "Phylum": [
-    "Methanobacteriati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Methanobacteriota",
-    "Chloroflexota"
-  ],
-  "Order": [
-    "unclassified Methanobacteriota",
-    "Anaerolineae"
-  ],
-  "Family": [
-    "Methanobacteriota archaeon",
-    "Anaerolineales"
-  ],
-  "Genus": [
-    "Anaerolineaceae"
-  ],
-  "Species": [
-    "Flexilinea"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Archaea": 1,
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Methanobacteriati": 1,
+      "Bacillati": 1
+    },
+    "Class": {
+      "Methanobacteriota": 1,
+      "Chloroflexota": 1
+    },
+    "Order": {
+      "unclassified Methanobacteriota": 1,
+      "Anaerolineae": 1
+    },
+    "Family": {
+      "Methanobacteriota archaeon": 1,
+      "Anaerolineales": 1
+    },
+    "Genus": {
+      "Anaerolineaceae": 1
+    },
+    "Species": {
+      "Flexilinea": 1
+    }
+  }
 }

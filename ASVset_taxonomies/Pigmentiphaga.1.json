@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Alcaligenaceae",
+      "Species": "Pelistega"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Betaproteobacteria": 1
+    },
+    "Family": {
+      "Burkholderiales": 1
+    },
+    "Genus": {
+      "Alcaligenaceae": 1
+    },
+    "Species": {
+      "Pelistega": 1
+    }
+  }
+}

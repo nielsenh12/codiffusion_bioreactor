@@ -1,44 +1,74 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Caulobacterales",
+      "Genus": "Caulobacteraceae",
+      "Species": "Brevundimonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Cytophagia",
+      "Species": "Cytophagales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Caulobacterales",
+      "Genus": "Caulobacteraceae",
+      "Species": "Brevundimonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycobacterium"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "FCB group",
-    "Pseudomonadota",
-    "Actinomycetota"
-  ],
-  "Order": [
-    "Alphaproteobacteria",
-    "Bacteroidota/Chlorobiota group",
-    "Alphaproteobacteria",
-    "Actinomycetes"
-  ],
-  "Family": [
-    "Caulobacterales",
-    "Bacteroidota",
-    "Caulobacterales",
-    "Mycobacteriales"
-  ],
-  "Genus": [
-    "Caulobacteraceae",
-    "Cytophagia",
-    "Caulobacteraceae",
-    "Mycobacteriaceae"
-  ],
-  "Species": [
-    "Brevundimonas",
-    "Cytophagales",
-    "Brevundimonas",
-    "Mycobacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Pseudomonadati": 3,
+      "Bacillati": 1
+    },
+    "Class": {
+      "Pseudomonadota": 2,
+      "FCB group": 1,
+      "Actinomycetota": 1
+    },
+    "Order": {
+      "Alphaproteobacteria": 2,
+      "Bacteroidota/Chlorobiota group": 1,
+      "Actinomycetes": 1
+    },
+    "Family": {
+      "Caulobacterales": 2,
+      "Bacteroidota": 1,
+      "Mycobacteriales": 1
+    },
+    "Genus": {
+      "Caulobacteraceae": 2,
+      "Cytophagia": 1,
+      "Mycobacteriaceae": 1
+    },
+    "Species": {
+      "Brevundimonas": 2,
+      "Cytophagales": 1,
+      "Mycobacterium": 1
+    }
+  }
 }

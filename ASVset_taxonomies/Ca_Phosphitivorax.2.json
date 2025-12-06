@@ -1,17 +1,30 @@
 {
-  "Kingdom": [
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "unclassified Thermodesulfobacteriota",
+      "Family": "Thermodesulfobacteriota bacterium"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Thermodesulfobacteriota"
-  ],
-  "Order": [
-    "unclassified Thermodesulfobacteriota"
-  ],
-  "Family": [
-    "Thermodesulfobacteriota bacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Thermodesulfobacteriota": 1
+    },
+    "Order": {
+      "unclassified Thermodesulfobacteriota": 1
+    },
+    "Family": {
+      "Thermodesulfobacteriota bacterium": 1
+    },
+    "Genus": {},
+    "Species": {}
+  }
 }

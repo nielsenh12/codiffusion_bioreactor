@@ -1,0 +1,90 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Spirochaetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfobacteria",
+      "Family": "Desulfobacterales",
+      "Genus": "unclassified Desulfobacterales",
+      "Species": "Desulfobacterales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "environmental samples",
+      "Species": "uncultured spirochete"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Treponemataceae",
+      "Species": "unclassified Treponemataceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "unclassified Spirochaetales",
+      "Species": "Spirochaetales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "unclassified Spirochaetota",
+      "Family": "Spirochaetota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Pseudomonadati": 6
+    },
+    "Class": {
+      "Spirochaetota": 5,
+      "Thermodesulfobacteriota": 1
+    },
+    "Order": {
+      "environmental samples": 1,
+      "Desulfobacteria": 1,
+      "Spirochaetia": 3,
+      "unclassified Spirochaetota": 1
+    },
+    "Family": {
+      "uncultured Spirochaetota bacterium": 1,
+      "Desulfobacterales": 1,
+      "Spirochaetales": 3,
+      "Spirochaetota bacterium": 1
+    },
+    "Genus": {
+      "unclassified Desulfobacterales": 1,
+      "environmental samples": 1,
+      "Treponemataceae": 1,
+      "unclassified Spirochaetales": 1
+    },
+    "Species": {
+      "Desulfobacterales bacterium": 1,
+      "uncultured spirochete": 1,
+      "unclassified Treponemataceae": 1,
+      "Spirochaetales bacterium": 1
+    }
+  }
+}

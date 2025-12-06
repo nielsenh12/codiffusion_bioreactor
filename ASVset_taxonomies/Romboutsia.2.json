@@ -1,0 +1,48 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "Muricomes"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Peptostreptococcaceae",
+      "Species": "Romboutsia"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacillati": 2
+    },
+    "Class": {
+      "Bacillota": 2
+    },
+    "Order": {
+      "Clostridia": 2
+    },
+    "Family": {
+      "Lachnospirales": 1,
+      "Peptostreptococcales": 1
+    },
+    "Genus": {
+      "Lachnospiraceae": 1,
+      "Peptostreptococcaceae": 1
+    },
+    "Species": {
+      "Muricomes": 1,
+      "Romboutsia": 1
+    }
+  }
+}

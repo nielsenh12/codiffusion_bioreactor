@@ -1,0 +1,47 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Vulcanimicrobiota",
+      "Order": "unclassified Vulcanimicrobiota",
+      "Family": "Vulcanimicrobiota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Chitinophagia",
+      "Species": "Chitinophagales"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacillati": 1,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Vulcanimicrobiota": 1,
+      "FCB group": 1
+    },
+    "Order": {
+      "unclassified Vulcanimicrobiota": 1,
+      "Bacteroidota/Chlorobiota group": 1
+    },
+    "Family": {
+      "Vulcanimicrobiota bacterium": 1,
+      "Bacteroidota": 1
+    },
+    "Genus": {
+      "Chitinophagia": 1
+    },
+    "Species": {
+      "Chitinophagales": 1
+    }
+  }
+}

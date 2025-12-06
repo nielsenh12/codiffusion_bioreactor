@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Chromatiales",
+      "Genus": "Chromatiaceae",
+      "Species": "unclassified Chromatiaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Gammaproteobacteria": 1
+    },
+    "Family": {
+      "Chromatiales": 1
+    },
+    "Genus": {
+      "Chromatiaceae": 1
+    },
+    "Species": {
+      "unclassified Chromatiaceae": 1
+    }
+  }
+}

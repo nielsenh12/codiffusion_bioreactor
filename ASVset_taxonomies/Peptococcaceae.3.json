@@ -1,0 +1,85 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Bdellovibrionota",
+      "Order": "Bdellovibrionia",
+      "Family": "Bdellovibrionales",
+      "Genus": "Pseudobdellovibrionaceae",
+      "Species": "unclassified Pseudobdellovibrionaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Firmicutes bacterium HGW-Firmicutes-8"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Peptococcaceae",
+      "Species": "Phosphitispora"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Dehalococcoidia",
+      "Family": "Dehalococcoidales",
+      "Genus": "unclassified Dehalococcoidales",
+      "Species": "Dehalococcoidales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Thermincolaceae",
+      "Species": "Thermincola"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Pseudomonadati": 1,
+      "Bacillati": 4
+    },
+    "Class": {
+      "Bdellovibrionota": 1,
+      "Bacillota": 3,
+      "Chloroflexota": 1
+    },
+    "Order": {
+      "Bdellovibrionia": 1,
+      "unclassified Bacillota": 1,
+      "Clostridia": 2,
+      "Dehalococcoidia": 1
+    },
+    "Family": {
+      "Bdellovibrionales": 1,
+      "Firmicutes bacterium HGW-Firmicutes-8": 1,
+      "Eubacteriales": 2,
+      "Dehalococcoidales": 1
+    },
+    "Genus": {
+      "Pseudobdellovibrionaceae": 1,
+      "Peptococcaceae": 1,
+      "unclassified Dehalococcoidales": 1,
+      "Thermincolaceae": 1
+    },
+    "Species": {
+      "unclassified Pseudobdellovibrionaceae": 1,
+      "Phosphitispora": 1,
+      "Dehalococcoidales bacterium": 1,
+      "Thermincola": 1
+    }
+  }
+}

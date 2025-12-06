@@ -1,0 +1,61 @@
+{
+  "members": [
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Thermoproteati",
+      "Class": "Candidatus Bathyarchaeota",
+      "Order": "unclassified Candidatus Bathyarchaeota",
+      "Family": "Candidatus Bathyarchaeota archaeon"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "environmental samples",
+      "Class": "uncultured bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Thermoproteati",
+      "Class": "Candidatus Bathyarchaeota",
+      "Order": "unclassified Candidatus Bathyarchaeota",
+      "Family": "Candidatus Bathyarchaeota archaeon"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "environmental samples",
+      "Class": "uncultured bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Archaea": 2,
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Thermoproteati": 2,
+      "environmental samples": 2,
+      "Bacillati": 1
+    },
+    "Class": {
+      "Candidatus Bathyarchaeota": 2,
+      "uncultured bacterium": 2,
+      "Actinomycetota": 1
+    },
+    "Order": {
+      "unclassified Candidatus Bathyarchaeota": 2,
+      "environmental samples": 1
+    },
+    "Family": {
+      "Candidatus Bathyarchaeota archaeon": 2,
+      "uncultured Actinomycetota bacterium": 1
+    },
+    "Genus": {},
+    "Species": {}
+  }
+}

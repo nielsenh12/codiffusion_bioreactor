@@ -1,36 +1,58 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "environmental samples",
+      "Genus": "uncultured Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Thermoleophilia",
+      "Family": "Solirubrobacterales",
+      "Genus": "Solirubrobacteraceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Thermoleophilia",
+      "Family": "Solirubrobacterales",
+      "Genus": "Conexibacteraceae",
+      "Species": "Conexibacter"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota"
-  ],
-  "Order": [
-    "Actinomycetes",
-    "Thermoleophilia",
-    "Thermoleophilia"
-  ],
-  "Family": [
-    "environmental samples",
-    "Solirubrobacterales",
-    "Solirubrobacterales"
-  ],
-  "Genus": [
-    "uncultured Actinomycetes bacterium",
-    "Solirubrobacteraceae",
-    "Conexibacteraceae"
-  ],
-  "Species": [
-    "environmental samples",
-    "Conexibacter"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Bacillati": 3
+    },
+    "Class": {
+      "Actinomycetota": 3
+    },
+    "Order": {
+      "Actinomycetes": 1,
+      "Thermoleophilia": 2
+    },
+    "Family": {
+      "environmental samples": 1,
+      "Solirubrobacterales": 2
+    },
+    "Genus": {
+      "uncultured Actinomycetes bacterium": 1,
+      "Solirubrobacteraceae": 1,
+      "Conexibacteraceae": 1
+    },
+    "Species": {
+      "environmental samples": 1,
+      "Conexibacter": 1
+    }
+  }
 }

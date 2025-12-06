@@ -1,0 +1,80 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "unclassified Anaerolineae",
+      "Genus": "Anaerolineae bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "unclassified Anaerolineae",
+      "Genus": "Anaerolineae bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "unclassified Anaerolineae",
+      "Genus": "Anaerolineae bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "candidate division WOR-3",
+      "Family": "candidate division WOR-3 bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Bacillati": 5,
+      "Bacteria incertae sedis": 1
+    },
+    "Class": {
+      "Chloroflexota": 5,
+      "Bacteria candidate phyla": 1
+    },
+    "Order": {
+      "unclassified Chloroflexota": 1,
+      "Anaerolineae": 3,
+      "candidate division WOR-3": 1,
+      "Chloroflexia": 1
+    },
+    "Family": {
+      "Chloroflexota bacterium": 1,
+      "unclassified Anaerolineae": 3,
+      "candidate division WOR-3 bacterium": 1,
+      "environmental samples": 1
+    },
+    "Genus": {
+      "Anaerolineae bacterium": 3,
+      "uncultured Chloroflexia bacterium": 1
+    },
+    "Species": {}
+  }
+}

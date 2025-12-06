@@ -1,0 +1,59 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Sphaerochaetaceae",
+      "Species": "Sphaerochaeta"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Sphaerochaetaceae",
+      "Species": "Sphaerochaeta"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "Spirochaetota": 2,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Spirochaetia": 2,
+      "Gammaproteobacteria": 1
+    },
+    "Family": {
+      "Spirochaetales": 2,
+      "Enterobacterales": 1
+    },
+    "Genus": {
+      "Sphaerochaetaceae": 2,
+      "Enterobacteriaceae": 1
+    },
+    "Species": {
+      "Sphaerochaeta": 2,
+      "Cronobacter": 1
+    }
+  }
+}

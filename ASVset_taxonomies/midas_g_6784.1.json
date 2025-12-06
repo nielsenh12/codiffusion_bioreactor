@@ -1,36 +1,56 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "unclassified Candidatus Cloacimonadota",
+      "Genus": "Candidatus Cloacimonadota bacterium"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "FCB group",
-    "FCB group",
-    "FCB group"
-  ],
-  "Order": [
-    "Bacteroidota/Chlorobiota group",
-    "Bacteroidota/Chlorobiota group",
-    "Candidatus Cloacimonadota"
-  ],
-  "Family": [
-    "Bacteroidota",
-    "Bacteroidota",
-    "unclassified Candidatus Cloacimonadota"
-  ],
-  "Genus": [
-    "Bacteroidia",
-    "Bacteroidia",
-    "Candidatus Cloacimonadota bacterium"
-  ],
-  "Species": [
-    "Bacteroidales",
-    "Bacteroidales"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "FCB group": 3
+    },
+    "Order": {
+      "Bacteroidota/Chlorobiota group": 2,
+      "Candidatus Cloacimonadota": 1
+    },
+    "Family": {
+      "Bacteroidota": 2,
+      "unclassified Candidatus Cloacimonadota": 1
+    },
+    "Genus": {
+      "Bacteroidia": 2,
+      "Candidatus Cloacimonadota bacterium": 1
+    },
+    "Species": {
+      "Bacteroidales": 2
+    }
+  }
 }

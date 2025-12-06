@@ -1,0 +1,54 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "unclassified Spirochaetales",
+      "Species": "Spirochaetales bacterium Spiro_06"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "unclassified Spirochaetales",
+      "Species": "Spirochaetales bacterium Spiro_06"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "unclassified Spirochaetales",
+      "Species": "Spirochaetales bacterium Spiro_06"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "Spirochaetota": 3
+    },
+    "Order": {
+      "Spirochaetia": 3
+    },
+    "Family": {
+      "Spirochaetales": 3
+    },
+    "Genus": {
+      "unclassified Spirochaetales": 3
+    },
+    "Species": {
+      "Spirochaetales bacterium Spiro_06": 3
+    }
+  }
+}

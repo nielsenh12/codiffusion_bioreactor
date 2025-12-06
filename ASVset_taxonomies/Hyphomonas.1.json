@@ -1,37 +1,54 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomonadales",
+      "Genus": "Hyphomonadaceae",
+      "Species": "Hyphomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomonadales",
+      "Genus": "Hyphomonadaceae",
+      "Species": "Hyphomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomonadales",
+      "Genus": "Hyphomonadaceae",
+      "Species": "Hyphomonas"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "Alphaproteobacteria",
-    "Alphaproteobacteria",
-    "Alphaproteobacteria"
-  ],
-  "Family": [
-    "Hyphomonadales",
-    "Hyphomonadales",
-    "Hyphomonadales"
-  ],
-  "Genus": [
-    "Hyphomonadaceae",
-    "Hyphomonadaceae",
-    "Hyphomonadaceae"
-  ],
-  "Species": [
-    "Hyphomonas",
-    "Hyphomonas",
-    "Hyphomonas"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "Pseudomonadota": 3
+    },
+    "Order": {
+      "Alphaproteobacteria": 3
+    },
+    "Family": {
+      "Hyphomonadales": 3
+    },
+    "Genus": {
+      "Hyphomonadaceae": 3
+    },
+    "Species": {
+      "Hyphomonas": 3
+    }
+  }
 }

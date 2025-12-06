@@ -1,0 +1,73 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "Sinanaerobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "unclassified Anaerovoracaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "Sinanaerobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "Sinanaerobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "Sinanaerobacter"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Bacillati": 5
+    },
+    "Class": {
+      "Bacillota": 5
+    },
+    "Order": {
+      "Clostridia": 5
+    },
+    "Family": {
+      "Peptostreptococcales": 5
+    },
+    "Genus": {
+      "Anaerovoracaceae": 5
+    },
+    "Species": {
+      "Sinanaerobacter": 4,
+      "unclassified Anaerovoracaceae": 1
+    }
+  }
+}

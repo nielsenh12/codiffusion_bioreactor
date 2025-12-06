@@ -1,0 +1,123 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "Gudongella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "Gudongella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "unclassified Tissierellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "Tissierella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "Tissierella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Actinomycetales",
+      "Genus": "Actinomycetaceae",
+      "Species": "Varibaculum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Candidatus Darwinibacteriales",
+      "Genus": "Candidatus Darwinibacteriaceae",
+      "Species": "Candidatus Darwinibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "Wansuia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Tissierellaceae",
+      "Species": "Paratissierella"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 9
+    },
+    "Phylum": {
+      "Bacillati": 9
+    },
+    "Class": {
+      "Bacillota": 8,
+      "Actinomycetota": 1
+    },
+    "Order": {
+      "Tissierellia": 6,
+      "Actinomycetes": 1,
+      "Clostridia": 2
+    },
+    "Family": {
+      "Tissierellales": 6,
+      "Actinomycetales": 1,
+      "Candidatus Darwinibacteriales": 1,
+      "Lachnospirales": 1
+    },
+    "Genus": {
+      "Tissierellaceae": 6,
+      "Actinomycetaceae": 1,
+      "Candidatus Darwinibacteriaceae": 1,
+      "Lachnospiraceae": 1
+    },
+    "Species": {
+      "Gudongella": 2,
+      "unclassified Tissierellaceae": 1,
+      "Tissierella": 2,
+      "Varibaculum": 1,
+      "Candidatus Darwinibacter": 1,
+      "Wansuia": 1,
+      "Paratissierella": 1
+    }
+  }
+}

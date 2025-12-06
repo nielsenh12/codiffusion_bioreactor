@@ -1,114 +1,160 @@
 {
-  "Kingdom": [
-    "Archaea",
-    "Bacteria",
-    "Archaea",
-    "Archaea",
-    "Bacteria",
-    "Archaea",
-    "Bacteria",
-    "Archaea",
-    "Bacteria",
-    "Archaea",
-    "Archaea",
-    "Archaea",
-    "Archaea",
-    "Archaea"
+  "members": [
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Methanomada group",
+      "Family": "Methanobacteria",
+      "Genus": "Methanobacteriales",
+      "Species": "Methanobacteriaceae"
+    }
   ],
-  "Phylum": [
-    "Methanobacteriati",
-    "Pseudomonadati",
-    "Methanobacteriati",
-    "Methanobacteriati",
-    "Pseudomonadati",
-    "Methanobacteriati",
-    "Pseudomonadati",
-    "Methanobacteriati",
-    "Pseudomonadati",
-    "Methanobacteriati",
-    "Methanobacteriati",
-    "Methanobacteriati",
-    "Methanobacteriati",
-    "Methanobacteriati"
-  ],
-  "Class": [
-    "Methanobacteriota",
-    "Pseudomonadota",
-    "Methanobacteriota",
-    "Methanobacteriota",
-    "Pseudomonadota",
-    "Methanobacteriota",
-    "Pseudomonadota",
-    "Methanobacteriota",
-    "Pseudomonadota",
-    "Methanobacteriota",
-    "Methanobacteriota",
-    "Methanobacteriota",
-    "Methanobacteriota",
-    "Methanobacteriota"
-  ],
-  "Order": [
-    "Methanomada group",
-    "Gammaproteobacteria",
-    "Methanomada group",
-    "Methanomada group",
-    "Gammaproteobacteria",
-    "Methanomada group",
-    "Gammaproteobacteria",
-    "Methanomada group",
-    "Gammaproteobacteria",
-    "Methanomada group",
-    "Methanomada group",
-    "Methanomada group",
-    "Methanomada group",
-    "Methanomada group"
-  ],
-  "Family": [
-    "Methanobacteria",
-    "Enterobacterales",
-    "Methanobacteria",
-    "Methanobacteria",
-    "Enterobacterales",
-    "Methanobacteria",
-    "Enterobacterales",
-    "Methanobacteria",
-    "Enterobacterales",
-    "Methanobacteria",
-    "Methanobacteria",
-    "Methanobacteria",
-    "Methanobacteria",
-    "Methanobacteria"
-  ],
-  "Genus": [
-    "Methanobacteriales",
-    "Enterobacteriaceae",
-    "Methanobacteriales",
-    "Methanobacteriales",
-    "Enterobacteriaceae",
-    "Methanobacteriales",
-    "Enterobacteriaceae",
-    "Methanobacteriales",
-    "Enterobacteriaceae",
-    "Methanobacteriales",
-    "Methanobacteriales",
-    "Methanobacteriales",
-    "Methanobacteriales",
-    "Methanobacteriales"
-  ],
-  "Species": [
-    "Methanobacteriaceae",
-    "Cronobacter",
-    "Methanobacteriaceae",
-    "Methanobacteriaceae",
-    "Cronobacter",
-    "Methanobacteriaceae",
-    "Cronobacter",
-    "Methanobacteriaceae",
-    "Cronobacter",
-    "Methanobacteriaceae",
-    "Methanobacteriaceae",
-    "Methanobacteriaceae",
-    "Methanobacteriaceae",
-    "Methanobacteriaceae"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Archaea": 10,
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Methanobacteriati": 10,
+      "Pseudomonadati": 4
+    },
+    "Class": {
+      "Methanobacteriota": 10,
+      "Pseudomonadota": 4
+    },
+    "Order": {
+      "Methanomada group": 10,
+      "Gammaproteobacteria": 4
+    },
+    "Family": {
+      "Methanobacteria": 10,
+      "Enterobacterales": 4
+    },
+    "Genus": {
+      "Methanobacteriales": 10,
+      "Enterobacteriaceae": 4
+    },
+    "Species": {
+      "Methanobacteriaceae": 10,
+      "Cronobacter": 4
+    }
+  }
 }

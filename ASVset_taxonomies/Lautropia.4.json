@@ -1,0 +1,69 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Micrococcaceae",
+      "Species": "Rothia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Burkholderiaceae",
+      "Species": "Lautropia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "environmental samples",
+      "Family": "uncultured Pseudomonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Burkholderiaceae",
+      "Species": "Lautropia"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Bacillati": 1,
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "Actinomycetota": 1,
+      "Pseudomonadota": 3
+    },
+    "Order": {
+      "Actinomycetes": 1,
+      "Betaproteobacteria": 2,
+      "environmental samples": 1
+    },
+    "Family": {
+      "Micrococcales": 1,
+      "Burkholderiales": 2,
+      "uncultured Pseudomonadota bacterium": 1
+    },
+    "Genus": {
+      "Micrococcaceae": 1,
+      "Burkholderiaceae": 2
+    },
+    "Species": {
+      "Rothia": 1,
+      "Lautropia": 2
+    }
+  }
+}

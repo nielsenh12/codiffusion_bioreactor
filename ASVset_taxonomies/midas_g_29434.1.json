@@ -1,89 +1,132 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "environmental samples",
+      "Genus": "uncultured Planctomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "environmental samples",
+      "Genus": "uncultured Planctomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "Pirellulales",
+      "Species": "unclassified Pirellulales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "environmental samples",
+      "Genus": "uncultured Planctomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "Pirellulales",
+      "Species": "unclassified Pirellulales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "unclassified Planctomycetota",
+      "Genus": "Planctomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Nitrospirota",
+      "Order": "Nitrospiria",
+      "Family": "Nitrospirales",
+      "Genus": "Nitrospiraceae",
+      "Species": "unclassified Nitrospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "Pirellulales",
+      "Species": "unclassified Pirellulales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "Pirellulales",
+      "Species": "unclassified Pirellulales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "Pirellulales",
+      "Species": "Lacipirellulaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "Pirellulales",
+      "Species": "Lacipirellulaceae"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "PVC group",
-    "PVC group",
-    "PVC group",
-    "PVC group",
-    "PVC group",
-    "PVC group",
-    "Nitrospirota",
-    "PVC group",
-    "PVC group",
-    "PVC group",
-    "PVC group"
-  ],
-  "Order": [
-    "Planctomycetota",
-    "Planctomycetota",
-    "Planctomycetota",
-    "Planctomycetota",
-    "Planctomycetota",
-    "Planctomycetota",
-    "Nitrospiria",
-    "Planctomycetota",
-    "Planctomycetota",
-    "Planctomycetota",
-    "Planctomycetota"
-  ],
-  "Family": [
-    "environmental samples",
-    "environmental samples",
-    "Planctomycetia",
-    "environmental samples",
-    "Planctomycetia",
-    "unclassified Planctomycetota",
-    "Nitrospirales",
-    "Planctomycetia",
-    "Planctomycetia",
-    "Planctomycetia",
-    "Planctomycetia"
-  ],
-  "Genus": [
-    "uncultured Planctomycetota bacterium",
-    "uncultured Planctomycetota bacterium",
-    "Pirellulales",
-    "uncultured Planctomycetota bacterium",
-    "Pirellulales",
-    "Planctomycetota bacterium",
-    "Nitrospiraceae",
-    "Pirellulales",
-    "Pirellulales",
-    "Pirellulales",
-    "Pirellulales"
-  ],
-  "Species": [
-    "unclassified Pirellulales",
-    "unclassified Pirellulales",
-    "unclassified Nitrospiraceae",
-    "unclassified Pirellulales",
-    "unclassified Pirellulales",
-    "Lacipirellulaceae",
-    "Lacipirellulaceae"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 11
+    },
+    "Phylum": {
+      "Pseudomonadati": 11
+    },
+    "Class": {
+      "PVC group": 10,
+      "Nitrospirota": 1
+    },
+    "Order": {
+      "Planctomycetota": 10,
+      "Nitrospiria": 1
+    },
+    "Family": {
+      "environmental samples": 3,
+      "Planctomycetia": 6,
+      "unclassified Planctomycetota": 1,
+      "Nitrospirales": 1
+    },
+    "Genus": {
+      "uncultured Planctomycetota bacterium": 3,
+      "Pirellulales": 6,
+      "Planctomycetota bacterium": 1,
+      "Nitrospiraceae": 1
+    },
+    "Species": {
+      "unclassified Pirellulales": 4,
+      "unclassified Nitrospiraceae": 1,
+      "Lacipirellulaceae": 2
+    }
+  }
 }

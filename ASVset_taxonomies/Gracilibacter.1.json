@@ -1,0 +1,195 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Nitrobacteraceae",
+      "Species": "Rhodopseudomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Proteinivoracaceae",
+      "Species": "Alkalicella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Peptococcaceae",
+      "Species": "Thermanaerosceptrum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "unclassified Candidatus Cloacimonadota",
+      "Genus": "Candidatus Cloacimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Peptococcaceae",
+      "Species": "Desulfonispora"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Gracilibacteraceae",
+      "Species": "Gracilibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriaceae",
+      "Species": "Anaerofustis"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Dehalococcoidia",
+      "Family": "Dehalococcoidales",
+      "Genus": "unclassified Dehalococcoidales",
+      "Species": "Dehalococcoidales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Dehalococcoidia",
+      "Family": "Dehalococcoidales",
+      "Genus": "unclassified Dehalococcoidales",
+      "Species": "Dehalococcoidales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Clostridiales bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 15
+    },
+    "Phylum": {
+      "Pseudomonadati": 3,
+      "Bacillati": 12
+    },
+    "Class": {
+      "Pseudomonadota": 1,
+      "Bacillota": 8,
+      "FCB group": 2,
+      "Actinomycetota": 2,
+      "Chloroflexota": 2
+    },
+    "Order": {
+      "Alphaproteobacteria": 1,
+      "Clostridia": 7,
+      "Candidatus Cloacimonadota": 1,
+      "unclassified Bacillota": 1,
+      "Actinomycetes": 2,
+      "Dehalococcoidia": 2,
+      "Bacteroidota/Chlorobiota group": 1
+    },
+    "Family": {
+      "Hyphomicrobiales": 1,
+      "Eubacteriales": 6,
+      "unclassified Clostridia": 1,
+      "unclassified Candidatus Cloacimonadota": 1,
+      "Bacillota bacterium": 1,
+      "Mycobacteriales": 2,
+      "Dehalococcoidales": 2,
+      "Bacteroidota": 1
+    },
+    "Genus": {
+      "Nitrobacteraceae": 1,
+      "Proteinivoracaceae": 1,
+      "Peptococcaceae": 2,
+      "Clostridia bacterium": 1,
+      "Candidatus Cloacimonadota bacterium": 1,
+      "Mycobacteriaceae": 2,
+      "Gracilibacteraceae": 1,
+      "Eubacteriaceae": 1,
+      "unclassified Dehalococcoidales": 2,
+      "Bacteroidia": 1,
+      "unclassified Eubacteriales": 1
+    },
+    "Species": {
+      "Rhodopseudomonas": 1,
+      "Alkalicella": 1,
+      "Thermanaerosceptrum": 1,
+      "Mycobacterium": 2,
+      "Desulfonispora": 1,
+      "Gracilibacter": 1,
+      "Anaerofustis": 1,
+      "Dehalococcoidales bacterium": 2,
+      "Bacteroidales": 1,
+      "Clostridiales bacterium": 1
+    }
+  }
+}

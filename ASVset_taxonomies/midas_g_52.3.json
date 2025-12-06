@@ -1,0 +1,47 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Thermoleophilia",
+      "Family": "Solirubrobacterales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Solirubrobacterales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "unclassified Actinomycetes",
+      "Genus": "Actinomycetes bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacillati": 2
+    },
+    "Class": {
+      "Actinomycetota": 2
+    },
+    "Order": {
+      "Thermoleophilia": 1,
+      "Actinomycetes": 1
+    },
+    "Family": {
+      "Solirubrobacterales": 1,
+      "unclassified Actinomycetes": 1
+    },
+    "Genus": {
+      "environmental samples": 1,
+      "Actinomycetes bacterium": 1
+    },
+    "Species": {
+      "uncultured Solirubrobacterales bacterium": 1
+    }
+  }
+}

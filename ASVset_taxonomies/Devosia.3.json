@@ -1,43 +1,70 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Devosiaceae",
+      "Species": "Devosia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Devosiaceae",
+      "Species": "Devosia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rickettsiales",
+      "Genus": "Anaplasmataceae",
+      "Species": "Wolbachieae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "unclassified Actinomycetes",
+      "Genus": "Actinomycetes bacterium"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Actinomycetota"
-  ],
-  "Order": [
-    "Alphaproteobacteria",
-    "Alphaproteobacteria",
-    "Alphaproteobacteria",
-    "Actinomycetes"
-  ],
-  "Family": [
-    "Hyphomicrobiales",
-    "Hyphomicrobiales",
-    "Rickettsiales",
-    "unclassified Actinomycetes"
-  ],
-  "Genus": [
-    "Devosiaceae",
-    "Devosiaceae",
-    "Anaplasmataceae",
-    "Actinomycetes bacterium"
-  ],
-  "Species": [
-    "Devosia",
-    "Devosia",
-    "Wolbachieae"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Pseudomonadati": 3,
+      "Bacillati": 1
+    },
+    "Class": {
+      "Pseudomonadota": 3,
+      "Actinomycetota": 1
+    },
+    "Order": {
+      "Alphaproteobacteria": 3,
+      "Actinomycetes": 1
+    },
+    "Family": {
+      "Hyphomicrobiales": 2,
+      "Rickettsiales": 1,
+      "unclassified Actinomycetes": 1
+    },
+    "Genus": {
+      "Devosiaceae": 2,
+      "Anaplasmataceae": 1,
+      "Actinomycetes bacterium": 1
+    },
+    "Species": {
+      "Devosia": 2,
+      "Wolbachieae": 1
+    }
+  }
 }

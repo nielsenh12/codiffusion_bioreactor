@@ -1,0 +1,114 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Acetobacterales",
+      "Genus": "Acetobacteraceae",
+      "Species": "Acetobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "unclassified Acidobacteriota",
+      "Family": "Acidobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "environmental samples",
+      "Family": "uncultured Pseudomonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "unclassified Alphaproteobacteria",
+      "Genus": "Alphaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Alphaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Alphaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Alphaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 9
+    },
+    "Phylum": {
+      "Pseudomonadati": 8,
+      "Bacillati": 1
+    },
+    "Class": {
+      "Pseudomonadota": 7,
+      "Acidobacteriota": 1,
+      "Actinomycetota": 1
+    },
+    "Order": {
+      "Alphaproteobacteria": 5,
+      "unclassified Acidobacteriota": 1,
+      "environmental samples": 2,
+      "Gammaproteobacteria": 1
+    },
+    "Family": {
+      "Acetobacterales": 1,
+      "Acidobacteriota bacterium": 1,
+      "uncultured Pseudomonadota bacterium": 1,
+      "unclassified Alphaproteobacteria": 1,
+      "environmental samples": 3,
+      "Enterobacterales": 1,
+      "uncultured Actinomycetota bacterium": 1
+    },
+    "Genus": {
+      "Acetobacteraceae": 1,
+      "Alphaproteobacteria bacterium": 1,
+      "uncultured Alphaproteobacteria bacterium": 3,
+      "Enterobacteriaceae": 1
+    },
+    "Species": {
+      "Acetobacter": 1,
+      "Cronobacter": 1
+    }
+  }
+}

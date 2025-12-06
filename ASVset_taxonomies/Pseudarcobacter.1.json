@@ -1,37 +1,54 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Campylobacterota",
+      "Order": "Epsilonproteobacteria",
+      "Family": "Campylobacterales",
+      "Genus": "Arcobacteraceae",
+      "Species": "Arcobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Campylobacterota",
+      "Order": "Epsilonproteobacteria",
+      "Family": "Campylobacterales",
+      "Genus": "Arcobacteraceae",
+      "Species": "Arcobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Campylobacterota",
+      "Order": "Epsilonproteobacteria",
+      "Family": "Campylobacterales",
+      "Genus": "Arcobacteraceae",
+      "Species": "Arcobacter"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Campylobacterota",
-    "Campylobacterota",
-    "Campylobacterota"
-  ],
-  "Order": [
-    "Epsilonproteobacteria",
-    "Epsilonproteobacteria",
-    "Epsilonproteobacteria"
-  ],
-  "Family": [
-    "Campylobacterales",
-    "Campylobacterales",
-    "Campylobacterales"
-  ],
-  "Genus": [
-    "Arcobacteraceae",
-    "Arcobacteraceae",
-    "Arcobacteraceae"
-  ],
-  "Species": [
-    "Arcobacter",
-    "Arcobacter",
-    "Arcobacter"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "Campylobacterota": 3
+    },
+    "Order": {
+      "Epsilonproteobacteria": 3
+    },
+    "Family": {
+      "Campylobacterales": 3
+    },
+    "Genus": {
+      "Arcobacteraceae": 3
+    },
+    "Species": {
+      "Arcobacter": 3
+    }
+  }
 }

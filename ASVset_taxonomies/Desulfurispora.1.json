@@ -1,116 +1,170 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfocucumaceae",
+      "Species": "Desulfocucumis"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Peptococcaceae",
+      "Species": "unclassified Peptococcaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfocucumaceae",
+      "Species": "unclassified Desulfocucumaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Zixiibacteriota",
+      "Family": "unclassified Candidatus Zixiibacteriota",
+      "Genus": "Candidatus Zixiibacteriota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfallaceae",
+      "Species": "Desulfallas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfocucumaceae",
+      "Species": "unclassified Desulfocucumaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Peptococcaceae",
+      "Species": "unclassified Peptococcaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Peptococcaceae",
+      "Species": "Desulfolucanica"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfocucumaceae",
+      "Species": "Desulfocucumis"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Peptococcaceae",
+      "Species": "unclassified Peptococcaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfocucumaceae",
+      "Species": "unclassified Desulfocucumaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfallaceae",
+      "Species": "Desulfallas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfocucumaceae",
+      "Species": "unclassified Desulfocucumaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "FCB group",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota"
-  ],
-  "Order": [
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Candidatus Zixiibacteriota",
-    "Clostridia",
-    "Clostridia",
-    "unclassified Bacillota",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "unclassified Bacillota"
-  ],
-  "Family": [
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "unclassified Candidatus Zixiibacteriota",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Bacillota bacterium",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Bacillota bacterium"
-  ],
-  "Genus": [
-    "Desulfocucumaceae",
-    "Peptococcaceae",
-    "Desulfocucumaceae",
-    "Candidatus Zixiibacteriota bacterium",
-    "Desulfallaceae",
-    "Desulfocucumaceae",
-    "Peptococcaceae",
-    "Peptococcaceae",
-    "Desulfocucumaceae",
-    "Peptococcaceae",
-    "Desulfocucumaceae",
-    "Desulfallaceae",
-    "Desulfocucumaceae"
-  ],
-  "Species": [
-    "Desulfocucumis",
-    "unclassified Peptococcaceae",
-    "unclassified Desulfocucumaceae",
-    "Desulfallas",
-    "unclassified Desulfocucumaceae",
-    "unclassified Peptococcaceae",
-    "Desulfolucanica",
-    "Desulfocucumis",
-    "unclassified Peptococcaceae",
-    "unclassified Desulfocucumaceae",
-    "Desulfallas",
-    "unclassified Desulfocucumaceae"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 15
+    },
+    "Phylum": {
+      "Bacillati": 14,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Bacillota": 14,
+      "FCB group": 1
+    },
+    "Order": {
+      "Clostridia": 12,
+      "Candidatus Zixiibacteriota": 1,
+      "unclassified Bacillota": 2
+    },
+    "Family": {
+      "Eubacteriales": 12,
+      "unclassified Candidatus Zixiibacteriota": 1,
+      "Bacillota bacterium": 2
+    },
+    "Genus": {
+      "Desulfocucumaceae": 6,
+      "Peptococcaceae": 4,
+      "Candidatus Zixiibacteriota bacterium": 1,
+      "Desulfallaceae": 2
+    },
+    "Species": {
+      "Desulfocucumis": 2,
+      "unclassified Peptococcaceae": 3,
+      "unclassified Desulfocucumaceae": 4,
+      "Desulfallas": 2,
+      "Desulfolucanica": 1
+    }
+  }
 }

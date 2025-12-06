@@ -1,0 +1,66 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Candidatus Darwinibacteriales",
+      "Genus": "Candidatus Wallacebacteriaceae",
+      "Species": "Candidatus Wallacebacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Clostridiales bacterium DTU012"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Candidatus Darwinibacteriales",
+      "Genus": "Candidatus Wallacebacteriaceae",
+      "Species": "Candidatus Wallacebacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Candidatus Darwinibacteriales",
+      "Genus": "Candidatus Wallacebacteriaceae",
+      "Species": "Candidatus Wallacebacter"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Bacillati": 4
+    },
+    "Class": {
+      "Bacillota": 4
+    },
+    "Order": {
+      "Clostridia": 4
+    },
+    "Family": {
+      "Candidatus Darwinibacteriales": 3,
+      "Eubacteriales": 1
+    },
+    "Genus": {
+      "Candidatus Wallacebacteriaceae": 3,
+      "unclassified Eubacteriales": 1
+    },
+    "Species": {
+      "Candidatus Wallacebacter": 3,
+      "Clostridiales bacterium DTU012": 1
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "members": [
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Thermoproteati",
+      "Class": "Candidatus Bathyarchaeota",
+      "Order": "unclassified Candidatus Bathyarchaeota",
+      "Family": "Candidatus Bathyarchaeota archaeon"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Thermoproteati",
+      "Class": "Candidatus Bathyarchaeota",
+      "Order": "unclassified Candidatus Bathyarchaeota",
+      "Family": "Candidatus Bathyarchaeota archaeon"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Thermoproteati",
+      "Class": "Candidatus Bathyarchaeota",
+      "Order": "unclassified Candidatus Bathyarchaeota",
+      "Family": "Candidatus Bathyarchaeota archaeon"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Thermoproteati",
+      "Class": "Candidatus Bathyarchaeota",
+      "Order": "unclassified Candidatus Bathyarchaeota",
+      "Family": "Candidatus Bathyarchaeota archaeon"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "environmental samples",
+      "Class": "uncultured archaeon"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Thermoproteati",
+      "Class": "Candidatus Bathyarchaeota",
+      "Order": "unclassified Candidatus Bathyarchaeota",
+      "Family": "Candidatus Bathyarchaeota archaeon"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "environmental samples",
+      "Class": "uncultured archaeon"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Archaea": 7
+    },
+    "Phylum": {
+      "Thermoproteati": 5,
+      "environmental samples": 2
+    },
+    "Class": {
+      "Candidatus Bathyarchaeota": 5,
+      "uncultured archaeon": 2
+    },
+    "Order": {
+      "unclassified Candidatus Bathyarchaeota": 5
+    },
+    "Family": {
+      "Candidatus Bathyarchaeota archaeon": 5
+    },
+    "Genus": {},
+    "Species": {}
+  }
+}

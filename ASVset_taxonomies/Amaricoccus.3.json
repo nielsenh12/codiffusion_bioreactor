@@ -1,0 +1,60 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Chitinophagia",
+      "Species": "Chitinophagales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Paracoccaceae",
+      "Species": "Amaricoccus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Alphaproteobacteria bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "FCB group": 1,
+      "Pseudomonadota": 2
+    },
+    "Order": {
+      "Bacteroidota/Chlorobiota group": 1,
+      "Alphaproteobacteria": 2
+    },
+    "Family": {
+      "Bacteroidota": 1,
+      "Rhodobacterales": 1,
+      "environmental samples": 1
+    },
+    "Genus": {
+      "Chitinophagia": 1,
+      "Paracoccaceae": 1,
+      "uncultured Alphaproteobacteria bacterium": 1
+    },
+    "Species": {
+      "Chitinophagales": 1,
+      "Amaricoccus": 1
+    }
+  }
+}

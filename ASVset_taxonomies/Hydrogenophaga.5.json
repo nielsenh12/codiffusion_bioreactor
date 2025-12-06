@@ -1,0 +1,51 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Cyanobacteriota",
+      "Family": "Cyanophyceae",
+      "Genus": "Oscillatoriophycideae",
+      "Species": "Oscillatoriales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Burkholderiaceae",
+      "Species": "unclassified Burkholderiaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacillati": 1,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Cyanobacteriota/Melainabacteria group": 1,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Cyanobacteriota": 1,
+      "Betaproteobacteria": 1
+    },
+    "Family": {
+      "Cyanophyceae": 1,
+      "Burkholderiales": 1
+    },
+    "Genus": {
+      "Oscillatoriophycideae": 1,
+      "Burkholderiaceae": 1
+    },
+    "Species": {
+      "Oscillatoriales": 1,
+      "unclassified Burkholderiaceae": 1
+    }
+  }
+}

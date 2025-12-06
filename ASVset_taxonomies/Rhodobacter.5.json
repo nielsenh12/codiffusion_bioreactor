@@ -1,106 +1,165 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Cyanobacteriota",
+      "Family": "Cyanophyceae",
+      "Genus": "Oscillatoriophycideae",
+      "Species": "Oscillatoriales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Paracoccaceae",
+      "Species": "Aquimixticola"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Comamonadaceae",
+      "Species": "Polaromonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Cyanobacteriota",
+      "Family": "Cyanophyceae",
+      "Genus": "Oscillatoriophycideae",
+      "Species": "Oscillatoriales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Paracoccaceae",
+      "Species": "Pseudogemmobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Paracoccaceae",
+      "Species": "Xinfangfangia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Paracoccaceae",
+      "Species": "Tabrizicola"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Rhodobacter group",
+      "Species": "Rhodobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "unclassified Betaproteobacteria",
+      "Genus": "Betaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Cyanobacteriota",
+      "Family": "Cyanophyceae",
+      "Genus": "Oscillatoriophycideae",
+      "Species": "Oscillatoriales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Paracoccaceae",
+      "Species": "Pararhodobacter"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Bacillati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "Cyanobacteriota/Melainabacteria group",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Cyanobacteriota/Melainabacteria group",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Cyanobacteriota/Melainabacteria group",
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "Gammaproteobacteria",
-    "Cyanobacteriota",
-    "Alphaproteobacteria",
-    "Gammaproteobacteria",
-    "Betaproteobacteria",
-    "Cyanobacteriota",
-    "Alphaproteobacteria",
-    "Alphaproteobacteria",
-    "Alphaproteobacteria",
-    "Alphaproteobacteria",
-    "Betaproteobacteria",
-    "Cyanobacteriota",
-    "Alphaproteobacteria"
-  ],
-  "Family": [
-    "Enterobacterales",
-    "Cyanophyceae",
-    "Rhodobacterales",
-    "Enterobacterales",
-    "Burkholderiales",
-    "Cyanophyceae",
-    "Rhodobacterales",
-    "Rhodobacterales",
-    "Rhodobacterales",
-    "Rhodobacterales",
-    "unclassified Betaproteobacteria",
-    "Cyanophyceae",
-    "Rhodobacterales"
-  ],
-  "Genus": [
-    "Enterobacteriaceae",
-    "Oscillatoriophycideae",
-    "Paracoccaceae",
-    "Enterobacteriaceae",
-    "Comamonadaceae",
-    "Oscillatoriophycideae",
-    "Paracoccaceae",
-    "Paracoccaceae",
-    "Paracoccaceae",
-    "Rhodobacter group",
-    "Betaproteobacteria bacterium",
-    "Oscillatoriophycideae",
-    "Paracoccaceae"
-  ],
-  "Species": [
-    "Cronobacter",
-    "Oscillatoriales",
-    "Aquimixticola",
-    "Cronobacter",
-    "Polaromonas",
-    "Oscillatoriales",
-    "Pseudogemmobacter",
-    "Xinfangfangia",
-    "Tabrizicola",
-    "Rhodobacter",
-    "Oscillatoriales",
-    "Pararhodobacter"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 13
+    },
+    "Phylum": {
+      "Pseudomonadati": 10,
+      "Bacillati": 3
+    },
+    "Class": {
+      "Pseudomonadota": 10,
+      "Cyanobacteriota/Melainabacteria group": 3
+    },
+    "Order": {
+      "Gammaproteobacteria": 2,
+      "Cyanobacteriota": 3,
+      "Alphaproteobacteria": 6,
+      "Betaproteobacteria": 2
+    },
+    "Family": {
+      "Enterobacterales": 2,
+      "Cyanophyceae": 3,
+      "Rhodobacterales": 6,
+      "Burkholderiales": 1,
+      "unclassified Betaproteobacteria": 1
+    },
+    "Genus": {
+      "Enterobacteriaceae": 2,
+      "Oscillatoriophycideae": 3,
+      "Paracoccaceae": 5,
+      "Comamonadaceae": 1,
+      "Rhodobacter group": 1,
+      "Betaproteobacteria bacterium": 1
+    },
+    "Species": {
+      "Cronobacter": 2,
+      "Oscillatoriales": 3,
+      "Aquimixticola": 1,
+      "Polaromonas": 1,
+      "Pseudogemmobacter": 1,
+      "Xinfangfangia": 1,
+      "Tabrizicola": 1,
+      "Rhodobacter": 1,
+      "Pararhodobacter": 1
+    }
+  }
 }

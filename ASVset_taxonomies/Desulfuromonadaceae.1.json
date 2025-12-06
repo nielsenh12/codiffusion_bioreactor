@@ -1,0 +1,45 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfuromonadia",
+      "Family": "Desulfuromonadales",
+      "Genus": "Trichloromonadaceae",
+      "Species": "Trichloromonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfuromonadia",
+      "Family": "Desulfuromonadales",
+      "Genus": "Trichloromonadaceae",
+      "Species": "Trichloromonas"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Thermodesulfobacteriota": 2
+    },
+    "Order": {
+      "Desulfuromonadia": 2
+    },
+    "Family": {
+      "Desulfuromonadales": 2
+    },
+    "Genus": {
+      "Trichloromonadaceae": 2
+    },
+    "Species": {
+      "Trichloromonas": 2
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "Mogibacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "Mogibacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "Mogibacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "Mogibacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "Mobilibacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Peptostreptococcaceae",
+      "Species": "unclassified Peptostreptococcaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "Mogibacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "Baileyella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "unclassified Anaerovoracaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 10
+    },
+    "Phylum": {
+      "Bacillati": 9,
+      "unclassified Bacteria": 1
+    },
+    "Class": {
+      "Bacillota": 9,
+      "bacterium": 1
+    },
+    "Order": {
+      "Clostridia": 9
+    },
+    "Family": {
+      "Peptostreptococcales": 9
+    },
+    "Genus": {
+      "Anaerovoracaceae": 8,
+      "Peptostreptococcaceae": 1
+    },
+    "Species": {
+      "Mogibacterium": 5,
+      "Mobilibacterium": 1,
+      "unclassified Peptostreptococcaceae": 1,
+      "Baileyella": 1,
+      "unclassified Anaerovoracaceae": 1
+    }
+  }
+}

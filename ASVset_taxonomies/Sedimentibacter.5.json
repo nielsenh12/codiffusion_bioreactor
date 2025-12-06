@@ -1,65 +1,100 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Pseudomonadales",
+      "Genus": "Pseudomonadaceae",
+      "Species": "unclassified Pseudomonadaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellia incertae sedis",
+      "Genus": "Sedimentibacter",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellia incertae sedis",
+      "Genus": "Sedimentibacter",
+      "Species": "unclassified Sedimentibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Pseudomonadales",
+      "Genus": "Pseudomonadaceae",
+      "Species": "unclassified Pseudomonadaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Leclercia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellia incertae sedis",
+      "Genus": "Sedimentibacter",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Pseudomonadales",
+      "Genus": "Pseudomonadaceae",
+      "Species": "unclassified Pseudomonadaceae"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "Bacillota",
-    "Bacillota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Bacillota",
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "Gammaproteobacteria",
-    "Tissierellia",
-    "Tissierellia",
-    "Gammaproteobacteria",
-    "Gammaproteobacteria",
-    "Tissierellia",
-    "Gammaproteobacteria"
-  ],
-  "Family": [
-    "Pseudomonadales",
-    "Tissierellia incertae sedis",
-    "Tissierellia incertae sedis",
-    "Pseudomonadales",
-    "Enterobacterales",
-    "Tissierellia incertae sedis",
-    "Pseudomonadales"
-  ],
-  "Genus": [
-    "Pseudomonadaceae",
-    "Sedimentibacter",
-    "Sedimentibacter",
-    "Pseudomonadaceae",
-    "Enterobacteriaceae",
-    "Sedimentibacter",
-    "Pseudomonadaceae"
-  ],
-  "Species": [
-    "unclassified Pseudomonadaceae",
-    "environmental samples",
-    "unclassified Sedimentibacter",
-    "unclassified Pseudomonadaceae",
-    "Leclercia",
-    "environmental samples",
-    "unclassified Pseudomonadaceae"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 7
+    },
+    "Phylum": {
+      "Pseudomonadati": 4,
+      "Bacillati": 3
+    },
+    "Class": {
+      "Pseudomonadota": 4,
+      "Bacillota": 3
+    },
+    "Order": {
+      "Gammaproteobacteria": 4,
+      "Tissierellia": 3
+    },
+    "Family": {
+      "Pseudomonadales": 3,
+      "Tissierellia incertae sedis": 3,
+      "Enterobacterales": 1
+    },
+    "Genus": {
+      "Pseudomonadaceae": 3,
+      "Sedimentibacter": 3,
+      "Enterobacteriaceae": 1
+    },
+    "Species": {
+      "unclassified Pseudomonadaceae": 3,
+      "environmental samples": 2,
+      "unclassified Sedimentibacter": 1,
+      "Leclercia": 1
+    }
+  }
 }

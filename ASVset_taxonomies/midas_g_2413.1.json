@@ -1,0 +1,103 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Myxococcota",
+      "Order": "Myxococcia",
+      "Family": "Myxococcales",
+      "Genus": "unclassified Myxococcales",
+      "Species": "Myxococcales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Myxococcota",
+      "Order": "Polyangia",
+      "Family": "Polyangiales",
+      "Genus": "Polyangiaceae",
+      "Species": "Chondromyces"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "unclassified Spirochaetia",
+      "Genus": "Spirochaetia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Myxococcota",
+      "Order": "Polyangia",
+      "Family": "Polyangiales",
+      "Genus": "Polyangiaceae",
+      "Species": "unclassified Polyangiaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 8
+    },
+    "Phylum": {
+      "Pseudomonadati": 4,
+      "delta/epsilon subdivisions": 4
+    },
+    "Class": {
+      "Myxococcota": 3,
+      "Deltaproteobacteria": 4,
+      "Spirochaetota": 1
+    },
+    "Order": {
+      "Myxococcia": 1,
+      "environmental samples": 4,
+      "Polyangia": 2,
+      "Spirochaetia": 1
+    },
+    "Family": {
+      "Myxococcales": 1,
+      "uncultured delta proteobacterium": 4,
+      "Polyangiales": 2,
+      "unclassified Spirochaetia": 1
+    },
+    "Genus": {
+      "unclassified Myxococcales": 1,
+      "Polyangiaceae": 2,
+      "Spirochaetia bacterium": 1
+    },
+    "Species": {
+      "Myxococcales bacterium": 1,
+      "Chondromyces": 1,
+      "unclassified Polyangiaceae": 1
+    }
+  }
+}

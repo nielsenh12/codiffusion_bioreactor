@@ -1,194 +1,276 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "Iamiaceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "Iamiaceae",
+      "Species": "Rhabdothermincola"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "environmental samples",
+      "Genus": "uncultured Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "environmental samples",
+      "Genus": "uncultured Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Acidimicrobiia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Acidimicrobiia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "environmental samples",
+      "Genus": "uncultured Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "Iamiaceae",
+      "Species": "Rhabdothermincola"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "Iamiaceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "environmental samples",
+      "Genus": "uncultured Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "Iamiaceae",
+      "Species": "Rhabdothermincola"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "unclassified Actinomycetes",
+      "Genus": "Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "unclassified Actinomycetes",
+      "Genus": "Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "environmental samples",
+      "Genus": "uncultured Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "Iamiaceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Acidimicrobiia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Acidimicrobiia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Acidimicrobiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "unclassified Actinomycetes",
+      "Genus": "Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "Iamiaceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "Iamiaceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Acidimicrobiia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "unclassified Acidimicrobiia",
+      "Genus": "Acidimicrobiia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "unclassified Actinomycetota",
+      "Family": "Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "Iamiaceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Acidimicrobiia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "Acidimicrobiales",
+      "Genus": "unclassified Acidimicrobiales",
+      "Species": "Acidimicrobiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "unclassified Actinomycetes",
+      "Genus": "Actinomycetes bacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota"
-  ],
-  "Order": [
-    "Acidimicrobiia",
-    "Acidimicrobiia",
-    "Actinomycetes",
-    "Actinomycetes",
-    "Acidimicrobiia",
-    "Acidimicrobiia",
-    "Actinomycetes",
-    "Acidimicrobiia",
-    "Acidimicrobiia",
-    "Actinomycetes",
-    "Acidimicrobiia",
-    "Actinomycetes",
-    "Actinomycetes",
-    "Actinomycetes",
-    "Acidimicrobiia",
-    "Acidimicrobiia",
-    "Acidimicrobiia",
-    "Acidimicrobiia",
-    "Actinomycetes",
-    "Acidimicrobiia",
-    "Acidimicrobiia",
-    "Acidimicrobiia",
-    "Acidimicrobiia",
-    "unclassified Actinomycetota",
-    "Acidimicrobiia",
-    "Acidimicrobiia",
-    "Acidimicrobiia",
-    "Actinomycetes"
-  ],
-  "Family": [
-    "Acidimicrobiales",
-    "Acidimicrobiales",
-    "environmental samples",
-    "environmental samples",
-    "environmental samples",
-    "environmental samples",
-    "environmental samples",
-    "Acidimicrobiales",
-    "Acidimicrobiales",
-    "environmental samples",
-    "Acidimicrobiales",
-    "unclassified Actinomycetes",
-    "unclassified Actinomycetes",
-    "environmental samples",
-    "Acidimicrobiales",
-    "environmental samples",
-    "environmental samples",
-    "Acidimicrobiales",
-    "unclassified Actinomycetes",
-    "Acidimicrobiales",
-    "Acidimicrobiales",
-    "environmental samples",
-    "unclassified Acidimicrobiia",
-    "Actinomycetota bacterium",
-    "Acidimicrobiales",
-    "environmental samples",
-    "Acidimicrobiales",
-    "unclassified Actinomycetes"
-  ],
-  "Genus": [
-    "Iamiaceae",
-    "Iamiaceae",
-    "uncultured Actinomycetes bacterium",
-    "uncultured Actinomycetes bacterium",
-    "uncultured Acidimicrobiia bacterium",
-    "uncultured Acidimicrobiia bacterium",
-    "uncultured Actinomycetes bacterium",
-    "Iamiaceae",
-    "Iamiaceae",
-    "uncultured Actinomycetes bacterium",
-    "Iamiaceae",
-    "Actinomycetes bacterium",
-    "Actinomycetes bacterium",
-    "uncultured Actinomycetes bacterium",
-    "Iamiaceae",
-    "uncultured Acidimicrobiia bacterium",
-    "uncultured Acidimicrobiia bacterium",
-    "environmental samples",
-    "Actinomycetes bacterium",
-    "Iamiaceae",
-    "Iamiaceae",
-    "uncultured Acidimicrobiia bacterium",
-    "Acidimicrobiia bacterium",
-    "Iamiaceae",
-    "uncultured Acidimicrobiia bacterium",
-    "unclassified Acidimicrobiales",
-    "Actinomycetes bacterium"
-  ],
-  "Species": [
-    "environmental samples",
-    "Rhabdothermincola",
-    "Rhabdothermincola",
-    "environmental samples",
-    "Rhabdothermincola",
-    "environmental samples",
-    "uncultured Acidimicrobiales bacterium",
-    "environmental samples",
-    "environmental samples",
-    "environmental samples",
-    "Acidimicrobiales bacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 28
+    },
+    "Phylum": {
+      "Bacillati": 28
+    },
+    "Class": {
+      "Actinomycetota": 28
+    },
+    "Order": {
+      "Acidimicrobiia": 18,
+      "Actinomycetes": 9,
+      "unclassified Actinomycetota": 1
+    },
+    "Family": {
+      "Acidimicrobiales": 11,
+      "environmental samples": 11,
+      "unclassified Actinomycetes": 4,
+      "unclassified Acidimicrobiia": 1,
+      "Actinomycetota bacterium": 1
+    },
+    "Genus": {
+      "Iamiaceae": 9,
+      "uncultured Actinomycetes bacterium": 5,
+      "uncultured Acidimicrobiia bacterium": 6,
+      "Actinomycetes bacterium": 4,
+      "environmental samples": 1,
+      "Acidimicrobiia bacterium": 1,
+      "unclassified Acidimicrobiales": 1
+    },
+    "Species": {
+      "environmental samples": 6,
+      "Rhabdothermincola": 3,
+      "uncultured Acidimicrobiales bacterium": 1,
+      "Acidimicrobiales bacterium": 1
+    }
+  }
 }

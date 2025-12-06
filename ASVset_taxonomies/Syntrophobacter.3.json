@@ -1,0 +1,138 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Syntrophobacteria",
+      "Family": "Syntrophobacterales",
+      "Genus": "Syntrophobacteraceae",
+      "Species": "Syntrophobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Syntrophobacteria",
+      "Family": "Syntrophobacterales",
+      "Genus": "Syntrophobacteraceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Syntrophobacteria",
+      "Family": "Syntrophobacterales",
+      "Genus": "Syntrophobacteraceae",
+      "Species": "Desulforhabdus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Dehalococcoidia",
+      "Family": "unclassified Dehalococcoidia",
+      "Genus": "Dehalococcoidia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Syntrophobacteria",
+      "Family": "Syntrophobacterales",
+      "Genus": "Syntrophobacteraceae",
+      "Species": "Syntrophobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Myxococcota",
+      "Order": "Myxococcia",
+      "Family": "unclassified Myxococcia",
+      "Genus": "Deltaproteobacteria bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 12
+    },
+    "Phylum": {
+      "Pseudomonadati": 5,
+      "Bacillati": 2,
+      "delta/epsilon subdivisions": 5
+    },
+    "Class": {
+      "Thermodesulfobacteriota": 4,
+      "Chloroflexota": 2,
+      "Deltaproteobacteria": 5,
+      "Myxococcota": 1
+    },
+    "Order": {
+      "Syntrophobacteria": 4,
+      "unclassified Chloroflexota": 1,
+      "environmental samples": 5,
+      "Dehalococcoidia": 1,
+      "Myxococcia": 1
+    },
+    "Family": {
+      "Syntrophobacterales": 4,
+      "Chloroflexota bacterium": 1,
+      "uncultured delta proteobacterium": 5,
+      "unclassified Dehalococcoidia": 1,
+      "unclassified Myxococcia": 1
+    },
+    "Genus": {
+      "Syntrophobacteraceae": 4,
+      "Dehalococcoidia bacterium": 1,
+      "Deltaproteobacteria bacterium": 1
+    },
+    "Species": {
+      "Syntrophobacter": 2,
+      "environmental samples": 1,
+      "Desulforhabdus": 1
+    }
+  }
+}

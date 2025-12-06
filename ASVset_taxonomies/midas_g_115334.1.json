@@ -1,0 +1,90 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Clostridiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Candidatus Melainabacteria",
+      "Family": "Candidatus Gastranaerophilales",
+      "Genus": "Candidatus Gastranaerophilaceae",
+      "Species": "unclassified Candidatus Gastranaerophilaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Candidatus Melainabacteria",
+      "Family": "Candidatus Gastranaerophilales",
+      "Genus": "Candidatus Gastranaerophilaceae",
+      "Species": "unclassified Candidatus Gastranaerophilaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Bacillati": 5,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Bacillota": 3,
+      "Cyanobacteriota/Melainabacteria group": 2,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "unclassified Bacillota": 2,
+      "Clostridia": 1,
+      "Candidatus Melainabacteria": 2,
+      "Gammaproteobacteria": 1
+    },
+    "Family": {
+      "Bacillota bacterium": 2,
+      "Eubacteriales": 1,
+      "Candidatus Gastranaerophilales": 2,
+      "Enterobacterales": 1
+    },
+    "Genus": {
+      "unclassified Eubacteriales": 1,
+      "Candidatus Gastranaerophilaceae": 2,
+      "Enterobacteriaceae": 1
+    },
+    "Species": {
+      "Clostridiales bacterium": 1,
+      "unclassified Candidatus Gastranaerophilaceae": 2,
+      "Cronobacter": 1
+    }
+  }
+}

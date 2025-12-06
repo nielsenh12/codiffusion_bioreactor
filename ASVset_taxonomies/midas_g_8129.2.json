@@ -1,0 +1,81 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodospirillales",
+      "Genus": "unclassified Rhodospirillales",
+      "Species": "Rhodospirillales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Nitrospirota",
+      "Order": "Nitrospiria",
+      "Family": "Nitrospirales",
+      "Genus": "Nitrospiraceae",
+      "Species": "unclassified Nitrospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Aggregatilineales",
+      "Genus": "unclassified Aggregatilineales",
+      "Species": "Aggregatilineales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Pseudomonadati": 2,
+      "Bacillati": 3
+    },
+    "Class": {
+      "Pseudomonadota": 1,
+      "Nitrospirota": 1,
+      "Chloroflexota": 3
+    },
+    "Order": {
+      "Alphaproteobacteria": 1,
+      "Nitrospiria": 1,
+      "unclassified Chloroflexota": 2,
+      "Anaerolineae": 1
+    },
+    "Family": {
+      "Rhodospirillales": 1,
+      "Nitrospirales": 1,
+      "Chloroflexota bacterium": 2,
+      "Aggregatilineales": 1
+    },
+    "Genus": {
+      "unclassified Rhodospirillales": 1,
+      "Nitrospiraceae": 1,
+      "unclassified Aggregatilineales": 1
+    },
+    "Species": {
+      "Rhodospirillales bacterium": 1,
+      "unclassified Nitrospiraceae": 1,
+      "Aggregatilineales bacterium": 1
+    }
+  }
+}

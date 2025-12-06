@@ -1,0 +1,50 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Micropepsales",
+      "Genus": "Micropepsaceae",
+      "Species": "Rhizomicrobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Sphingobacteriia",
+      "Species": "Sphingobacteriales"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Pseudomonadota": 1,
+      "FCB group": 1
+    },
+    "Order": {
+      "Alphaproteobacteria": 1,
+      "Bacteroidota/Chlorobiota group": 1
+    },
+    "Family": {
+      "Micropepsales": 1,
+      "Bacteroidota": 1
+    },
+    "Genus": {
+      "Micropepsaceae": 1,
+      "Sphingobacteriia": 1
+    },
+    "Species": {
+      "Rhizomicrobium": 1,
+      "Sphingobacteriales": 1
+    }
+  }
+}

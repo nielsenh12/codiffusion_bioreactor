@@ -1,0 +1,84 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Nitrosomonadales",
+      "Genus": "Nitrosomonadaceae",
+      "Species": "Nitrosomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Nitrosomonadales",
+      "Genus": "Nitrosomonadaceae",
+      "Species": "Nitrosomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Nitrosomonadales",
+      "Genus": "Nitrosomonadaceae",
+      "Species": "Nitrosomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "unclassified Burkholderiales",
+      "Species": "Burkholderiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Nitrosomonadales",
+      "Genus": "Nitrosomonadaceae",
+      "Species": "Nitrosomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Nitrosomonadales",
+      "Genus": "Nitrosomonadaceae",
+      "Species": "Nitrosomonas"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Pseudomonadati": 6
+    },
+    "Class": {
+      "Pseudomonadota": 6
+    },
+    "Order": {
+      "Betaproteobacteria": 6
+    },
+    "Family": {
+      "Nitrosomonadales": 5,
+      "Burkholderiales": 1
+    },
+    "Genus": {
+      "Nitrosomonadaceae": 5,
+      "unclassified Burkholderiales": 1
+    },
+    "Species": {
+      "Nitrosomonas": 5,
+      "Burkholderiales bacterium": 1
+    }
+  }
+}

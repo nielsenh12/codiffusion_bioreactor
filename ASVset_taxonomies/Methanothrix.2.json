@@ -1,0 +1,50 @@
+{
+  "members": [
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Stenosarchaea group",
+      "Family": "Methanomicrobia",
+      "Genus": "Methanotrichales",
+      "Species": "Methanotrichaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "unclassified Candidatus Cloacimonadota",
+      "Genus": "Candidatus Cloacimonadota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Archaea": 1,
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Methanobacteriati": 1,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Methanobacteriota": 1,
+      "FCB group": 1
+    },
+    "Order": {
+      "Stenosarchaea group": 1,
+      "Candidatus Cloacimonadota": 1
+    },
+    "Family": {
+      "Methanomicrobia": 1,
+      "unclassified Candidatus Cloacimonadota": 1
+    },
+    "Genus": {
+      "Methanotrichales": 1,
+      "Candidatus Cloacimonadota bacterium": 1
+    },
+    "Species": {
+      "Methanotrichaceae": 1
+    }
+  }
+}

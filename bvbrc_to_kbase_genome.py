@@ -496,12 +496,17 @@ class LocalGenomeConverter:
         # Build ordered list of taxa for each level, maintaining hierarchical alignment
         ordered_taxa = {}
         none_counts = {}  # Track counts for "None {parent}" placeholders
+        taxon_to_kingdom = {}  # Track which Kingdom each taxon belongs to for color assignment
+        taxon_to_parent = {}  # Track parent-child relationships for color inheritance
 
         for i, level in enumerate(tax_levels):
             if i == 0:
                 # First level: just sort the unique taxa
                 unique_taxa = sorted(set(m.get(level, '') for m in members if m.get(level, '')))
                 ordered_taxa[level] = unique_taxa
+                # Each Kingdom maps to itself
+                for kingdom in unique_taxa:
+                    taxon_to_kingdom[kingdom] = kingdom
             else:
                 parent_level = tax_levels[i-1]
                 parent_child_map = build_parent_child_map(members, parent_level, child_level=level)
@@ -509,8 +514,20 @@ class LocalGenomeConverter:
                 ordered_list = []
                 # For each parent in order, add all its children
                 for parent in ordered_taxa.get(parent_level, []):
-                    # Skip "None" placeholders as parents
-                    if parent.startswith("None "):
+                    # Get the Kingdom for this parent
+                    parent_kingdom = taxon_to_kingdom.get(parent, "Unknown")
+
+                    # If parent is a "None" placeholder, add a corresponding "None" child to maintain alignment
+                    if parent.startswith("None_"):
+                        # Extract the count from the parent None entry
+                        parent_count = none_counts.get(parent, 0)
+                        if parent_count > 0:
+                            # Add a None placeholder child with the same count to maintain alignment
+                            child_placeholder = f"None_{parent}"  # Nested None tracking
+                            ordered_list.append(child_placeholder)
+                            none_counts[child_placeholder] = parent_count
+                            taxon_to_kingdom[child_placeholder] = parent_kingdom
+                            taxon_to_parent[child_placeholder] = parent
                         continue
 
                     children = parent_child_map.get(parent, [])
@@ -520,25 +537,35 @@ class LocalGenomeConverter:
                     parent_with_child = count_members_with_parent_and_child(members, parent_level, parent, level)
                     none_count = parent_total - parent_with_child
 
-                    # Add all children first
+                    # Find the most populous child (main child) to put it first (appears at bottom of stack)
                     if children:
-                        ordered_list.extend(children)
+                        # Get counts for all children to find the main one
+                        child_counts = [(child, counts_by_level.get(level, {}).get(child, 0)) for child in children]
+                        child_counts.sort(key=lambda x: x[1], reverse=True)  # Sort by count descending
+                        main_child = child_counts[0][0] if child_counts else None
+
+                        # Add main child first (will be at bottom of stack)
+                        if main_child:
+                            ordered_list.append(main_child)
+                            taxon_to_kingdom[main_child] = parent_kingdom
+                            taxon_to_parent[main_child] = parent
+
+                        # Then add other children
+                        for child, _ in child_counts[1:]:
+                            ordered_list.append(child)
+                            taxon_to_kingdom[child] = parent_kingdom
+                            taxon_to_parent[child] = parent
 
                     # Add placeholder if there are members with this parent but no child
                     if none_count > 0:
-                        placeholder = f"None {parent}"
+                        # Use simple "None" label to save space, but make it unique with parent suffix for tracking
+                        placeholder = f"None_{parent}"
                         ordered_list.append(placeholder)
                         none_counts[placeholder] = none_count
+                        taxon_to_kingdom[placeholder] = parent_kingdom
+                        taxon_to_parent[placeholder] = parent
 
                 ordered_taxa[level] = ordered_list
-
-        # Debug output
-        print(f"\nDEBUG for {asv_id}:")
-        for level in ["Family", "Genus"]:
-            if level in ordered_taxa:
-                print(f"{level}: {ordered_taxa[level][:10]}")  # First 10 items
-        print(f"none_counts: {none_counts}")
-        print()
 
         # Prepare stacked bar data
         group_names = [level for level in tax_levels if level in counts_by_level]
@@ -550,22 +577,213 @@ class LocalGenomeConverter:
             level_labels = []
             for i, taxon in enumerate(ordered_taxa.get(level, [])):
                 # Get count for this taxon
-                if taxon.startswith("None "):
+                if taxon.startswith("None_"):
                     group_values[i, j] = none_counts.get(taxon, 0)
                 else:
                     group_values[i, j] = counts_by_level[level].get(taxon, 0)
                 level_labels.append(taxon)
             all_taxa_labels.append(level_labels)
 
+        # Find the most populous child for each parent
+        parent_to_main_child = {}
+        for child, parent in taxon_to_parent.items():
+            if child.startswith("None_"):
+                continue  # Skip None placeholders
+
+            # Find which level this child is in
+            child_level = None
+            for level in tax_levels:
+                if child in ordered_taxa.get(level, []):
+                    child_level = level
+                    break
+
+            if child_level:
+                # Get count for this child
+                count = counts_by_level[child_level].get(child, 0)
+
+                # Track if this is the most populous child of its parent
+                if parent not in parent_to_main_child:
+                    parent_to_main_child[parent] = (child, count)
+                else:
+                    prev_child, prev_count = parent_to_main_child[parent]
+                    if count > prev_count:
+                        parent_to_main_child[parent] = (child, count)
+
+        # Extract just the child names
+        parent_to_main_child = {p: c for p, (c, _) in parent_to_main_child.items()}
+
         # Plotting
         fig, ax = plt.subplots(figsize=(10, 6), dpi=300)
         bottom = np.zeros(len(group_names))
-        colors = plt.cm.tab10.colors  # Nice distinct palette
+
+        # Create hierarchical color scheme with expanded color families
+        kingdoms = ordered_taxa.get("Kingdom", [])
+
+        # Define color families: Bacteria gets blue-indigo-violet, Archaea gets red-orange-yellow
+        kingdom_to_cmap_family = {
+            'Bacteria': ['Blues', 'Purples', 'BuPu'],  # blue → indigo → violet
+            'Archaea': ['YlOrRd', 'Oranges', 'Reds'],  # yellow → orange → red
+        }
+        # Fallback color families for other kingdoms
+        other_families = [['Greens', 'YlGn'], ['PuRd', 'RdPu'], ['BuGn', 'GnBu']]
+
+        # Build mapping of all available colors per kingdom with continuous sampling
+        def get_color_options(kingdom):
+            """Get many (colormap, intensity) combinations with maximum visual distinction
+
+            Creates options ordered to maximize distinction between consecutive colors:
+            - Interleaves different colormaps
+            - Varies intensities to avoid similar shades
+            - Bacteria: blue → indigo → purple (42 options)
+            - Archaea: yellow → orange → red (42 options)
+
+            Reserves middle intensities (0.45-0.65) for main lineages (best saturation)
+            """
+            if kingdom in kingdom_to_cmap_family:
+                family = kingdom_to_cmap_family[kingdom]
+            else:
+                family = other_families[0]  # Default
+
+            # Sample densely from each colormap
+            # 14 intensity levels per colormap = 42 total options per kingdom
+            num_samples = 14
+
+            # Generate all combinations
+            all_options = []
+            for cmap_name in family:
+                for i in range(num_samples):
+                    intensity = 0.15 + (i / (num_samples - 1)) * 0.80
+                    all_options.append((cmap_name, intensity))
+
+            # Reorder to maximize visual distinction between consecutive colors
+            # Strategy: interleave colormaps and alternate between light/dark intensities
+            options = []
+            cmap_indices = {cmap: 0 for cmap in family}
+
+            # Interleave colormaps, varying intensities to maximize distinction
+            intensity_order = [0, 13, 3, 10, 6, 7, 1, 12, 4, 9, 2, 11, 5, 8]  # Spread across spectrum
+
+            for intensity_idx in intensity_order:
+                for cmap_name in family:
+                    if intensity_idx < num_samples:
+                        intensity = 0.15 + (intensity_idx / (num_samples - 1)) * 0.80
+                        options.append((cmap_name, intensity))
+
+            return options
+
+        # Track color info for each taxon: (cmap_name, intensity, color_value)
+        taxon_color_info = {}
+        taxon_colors = {}
+        taxon_to_cmap = {}
+
+        # Step 1: Assign colors to Kingdoms
+        # Use middle-range intensities for kingdoms (best saturation, "moat of uniqueness")
+        for idx, kingdom in enumerate(kingdoms):
+            color_options = get_color_options(kingdom)
+
+            # Filter to middle-range intensities (0.45-0.65) for main lineages
+            # These have the best saturation and create a "moat" around main lineages
+            main_lineage_options = [(cmap, intensity) for cmap, intensity in color_options
+                                     if 0.45 <= intensity <= 0.65]
+
+            # Pick from main lineage options first, fallback to all options if needed
+            available_options = main_lineage_options if main_lineage_options else color_options
+            option_idx = idx % len(available_options)
+            cmap_name, intensity = available_options[option_idx]
+            cmap = plt.cm.get_cmap(cmap_name)
+            color = cmap(intensity)
+
+            taxon_color_info[kingdom] = (cmap_name, intensity, color)
+            taxon_colors[kingdom] = color
+            taxon_to_cmap[kingdom] = cmap
+
+        # Step 2: Process each subsequent level
+        for level_idx, level in enumerate(tax_levels[1:], 1):
+            taxa_at_level = ordered_taxa.get(level, [])
+            used_colors_at_level = set()  # Track (cmap_name, intensity) used at this level
+
+            # First pass: main children inherit parent's color
+            for taxon in taxa_at_level:
+                parent = taxon_to_parent.get(taxon)
+                if parent and parent_to_main_child.get(parent) == taxon:
+                    # Main child inherits parent's exact color
+                    parent_info = taxon_color_info.get(parent)
+                    if parent_info:
+                        cmap_name, intensity, color = parent_info
+                        taxon_color_info[taxon] = parent_info
+                        taxon_colors[taxon] = color
+                        taxon_to_cmap[taxon] = plt.cm.get_cmap(cmap_name)
+                        used_colors_at_level.add((cmap_name, intensity))
+
+            # Second pass: assign new colors to non-main children
+            # Use sequential assignment instead of hash-based to avoid collisions
+            # Track which colormaps are already used at this level
+            used_cmaps_at_level = set()
+            for cmap_name, intensity in used_colors_at_level:
+                used_cmaps_at_level.add(cmap_name)
+
+            # Get all kingdoms represented at this level for color distribution
+            kingdoms_at_level = {}
+            for taxon in taxa_at_level:
+                if taxon not in taxon_color_info:  # Only non-main children
+                    kingdom = taxon_to_kingdom.get(taxon)
+                    if kingdom not in kingdoms_at_level:
+                        kingdoms_at_level[kingdom] = []
+                    kingdoms_at_level[kingdom].append(taxon)
+
+            # Assign colors sequentially within each kingdom to maximize distinction
+            for kingdom, taxa_list in kingdoms_at_level.items():
+                color_options = get_color_options(kingdom)
+
+                # Use colors sequentially from the pre-ordered list (already optimized for distinction)
+                # Skip colors that are already used at this level
+                color_idx = 0
+                assigned_count = 0
+
+                for taxon in taxa_list:
+                    # Find next available color
+                    while color_idx < len(color_options):
+                        cmap_name, intensity = color_options[color_idx]
+                        color_idx += 1
+
+                        if (cmap_name, intensity) not in used_colors_at_level:
+                            # Found an unused color
+                            cmap = plt.cm.get_cmap(cmap_name)
+                            color = cmap(intensity)
+                            taxon_color_info[taxon] = (cmap_name, intensity, color)
+                            taxon_colors[taxon] = color
+                            taxon_to_cmap[taxon] = cmap
+                            used_colors_at_level.add((cmap_name, intensity))
+                            used_cmaps_at_level.add(cmap_name)
+                            assigned_count += 1
+                            break
+                    else:
+                        # Ran out of options, cycle back to beginning
+                        color_idx = 0
+                        cmap_name, intensity = color_options[assigned_count % len(color_options)]
+                        cmap = plt.cm.get_cmap(cmap_name)
+                        color = cmap(intensity)
+                        taxon_color_info[taxon] = (cmap_name, intensity, color)
+                        taxon_colors[taxon] = color
+                        taxon_to_cmap[taxon] = cmap
+                        assigned_count += 1
+
+        # Count subbars per level to determine if we should hide counts (for dense plots)
+        subbars_per_level = {level: len(ordered_taxa.get(level, [])) for level in group_names}
 
         # Draw stacked bars with embedded labels
         for i in range(max_subbars):
+            # Use pre-assigned colors for each taxon
+            row_colors = []
+            for j, level in enumerate(group_names):
+                if i < len(all_taxa_labels[j]):
+                    taxon = all_taxa_labels[j][i]
+                    row_colors.append(taxon_colors.get(taxon, 'lightgray'))
+                else:
+                    row_colors.append('lightgray')
+
             bars = ax.bar(group_names, group_values[i], bottom=bottom,
-                          color=colors[i % len(colors)], edgecolor='white')
+                          color=row_colors, edgecolor='white')
 
             # Add labels inside each subbar
             for j, bar in enumerate(bars):
@@ -576,11 +794,22 @@ class LocalGenomeConverter:
                     if val == 0:
                         continue  # Only label visible bars
 
-                    taxon_display = taxon.replace('unclassified', '').replace('uncultured', '').replace(' group', '')
+                    # Display just "None" for placeholder entries, otherwise clean up the taxon name
+                    if taxon.startswith("None_"):
+                        taxon_display = "None"
+                    else:
+                        taxon_display = taxon.replace('unclassified', '').replace('uncultured', '').replace(' group', '')
+
+                    # Hide counts for levels with > 6 subbars to reduce clutter
+                    if subbars_per_level[level] > 6:
+                        label_text = taxon_display
+                    else:
+                        label_text = f"{taxon_display}\n({int(val)})"
+
                     txt = ax.text(
                         bar.get_x() + bar.get_width() / 2,
                         bar.get_y() + bar.get_height() / 2,
-                        f"{taxon_display}\n({int(val)})",
+                        label_text,
                         ha='center', va='center', rotation=5,
                         fontsize=6, color='white', weight='bold'
                     )
@@ -600,6 +829,7 @@ class LocalGenomeConverter:
         # ax.legend(title="Elements", bbox_to_anchor=(1.05, 1), loc='upper left')
         plt.tight_layout()
         plt.savefig(os.path.join(output_dir, f"{asv_id}.png"))
+        plt.close(fig)
         # plt.show()
         # break
 
@@ -661,7 +891,9 @@ class LocalGenomeConverter:
         for level in tax_levels:
             counts_by_level.setdefault(level, Counter(taxonomy_by_level[level]))
             # Get most common
-            most_common = counts_by_level[level].most_common(1)[0][0]
+            # print(counts_by_level[level], counts_by_level[level].most_common(1))
+            commonest = counts_by_level[level].most_common(1)
+            most_common = "None" if len(commonest) == 0 else counts_by_level[level].most_common(1)[0][0]
             consensus_taxonomy.append(most_common)
 
 
@@ -697,7 +929,8 @@ class LocalGenomeConverter:
         template_file: Optional[str] = "model_inputs/TemplateGenomes.json",
         save_taxonomy: bool = True,
         taxonomy_output_dir: str = "ASVset_taxonomies",
-        genome_output_dir: str = "genome_objects"
+        genome_output_dir: str = "genome_objects",
+        verbose: bool = True
     ) -> Dict[str, Any]:
         """
         Create a synthetic genome from multiple source genomes.
@@ -718,6 +951,7 @@ class LocalGenomeConverter:
                           (default: True)
             taxonomy_output_dir: Directory to save taxonomy JSON
                                 (default: "ASVset_taxonomies")
+            verbose: If True, print progress and stats. Errors/warnings always print (default: True)
 
         Returns:
             KBase Genome object dictionary
@@ -744,7 +978,8 @@ class LocalGenomeConverter:
         if inputs_provided > 1:
             raise ValueError("Provide only one of: genome_files, genome_ids, or genomes")
 
-        print(f"\nCreating synthetic genome: {asv_id}")
+        if verbose:
+            print(f"\nCreating synthetic genome: {asv_id}")
 
         # Load source genomes based on input type
         source_genomes = []
@@ -785,7 +1020,8 @@ class LocalGenomeConverter:
         if not source_genomes:
             raise ValueError("No valid source genomes could be loaded")
 
-        print(f"Successfully loaded {len(source_genomes)} source genomes")
+        if verbose:
+            print(f"Successfully loaded {len(source_genomes)} source genomes")
 
         # Load or create template
         if template_file and os.path.exists(template_file):
@@ -826,7 +1062,8 @@ class LocalGenomeConverter:
 
         # Aggregate taxonomies from source genomes
         if save_taxonomy:
-            print(f"Aggregating taxonomies from {len(source_genomes)} source genomes...")
+            if verbose:
+                print(f"Aggregating taxonomies from {len(source_genomes)} source genomes...")
             consensus_taxonomy, taxonomy_dict = self.aggregate_taxonomies(
                 genomes=source_genomes,
                 asv_id=asv_id,
@@ -862,7 +1099,8 @@ class LocalGenomeConverter:
         features = {}  # feature_id -> feature dict
         md5_list = []
 
-        print(f"Processing features from {len(source_genomes)} genomes...")
+        if verbose:
+            print(f"Processing features from {len(source_genomes)} genomes...")
 
         # Iterate through source genomes and collect unique functions
         for genome_idx, source_genome in enumerate(source_genomes):
@@ -954,11 +1192,12 @@ class LocalGenomeConverter:
         genome_md5 = hashlib.md5(";".join(md5_list).encode()).hexdigest()
         template_genome['md5'] = genome_md5
 
-        print(f"Synthetic genome created:")
-        print(f"  - Total features: {len(template_genome['features'])}")
-        print(f"  - Total CDS: {len(template_genome['cdss'])}")
-        print(f"  - Total contigs: {template_genome['num_contigs']}")
-        print(f"  - Total DNA size: {template_genome['dna_size']:,} bp")
+        if verbose:
+            print(f"Synthetic genome created:")
+            print(f"  - Total features: {len(template_genome['features'])}")
+            print(f"  - Total CDS: {len(template_genome['cdss'])}")
+            print(f"  - Total contigs: {template_genome['num_contigs']}")
+            print(f"  - Total DNA size: {template_genome['dna_size']:,} bp")
 
         json.dump(template_genome, open(f"genome_objects/{asv_id}.json", 'w'))
         return template_genome
@@ -1286,50 +1525,70 @@ class LocalGenomeConverter:
 # Convenience Functions for Notebook/Library Usage
 # ============================================================================
 
-def fetch_genome_from_api(genome_id: str, output_file: Optional[str] = None) -> Dict[str, Any]:
+def fetch_genome_from_api(genome_id: str, output_file: Optional[str] = None, verbose: bool = False) -> Dict[str, Any]:
     """
     Convenience function to fetch a genome from BV-BRC API.
 
     Args:
         genome_id: BV-BRC genome ID
         output_file: Optional path to save JSON output
+        verbose: Print progress updates and stats
 
     Returns:
         KBase Genome object dictionary
 
     Example:
         >>> genome = fetch_genome_from_api('511145.183')
-        >>> genome = fetch_genome_from_api('511145.183', 'ecoli.json')
+        >>> genome = fetch_genome_from_api('511145.183', 'ecoli.json', verbose=True)
     """
+    if verbose:
+        print(f"Fetching genome {genome_id} from BV-BRC API...")
+
     converter = BVBRCToKBaseConverter(genome_id)
     genome = converter.build_kbase_genome()
 
+    if verbose:
+        print(f"  Features: {len(genome.get('features', []))}")
+        print(f"  Taxonomy: {genome.get('scientific_name', 'Unknown')}")
+
     if output_file:
+        if verbose:
+            print(f"Saving to {output_file}...")
         converter.save_genome(genome, output_file)
 
     return genome
 
 
-def load_genome_from_json(json_file: str, output_file: Optional[str] = None) -> Dict[str, Any]:
+def load_genome_from_json(json_file: str, output_file: Optional[str] = None, verbose: bool = False) -> Dict[str, Any]:
     """
     Convenience function to load and validate a genome from JSON file.
 
     Args:
         json_file: Path to genome JSON file
         output_file: Optional path to save validated JSON output
+        verbose: Print progress updates and stats
 
     Returns:
         KBase Genome object dictionary
 
     Example:
         >>> genome = load_genome_from_json('my_genome.json')
-        >>> genome = load_genome_from_json('my_genome.json', 'validated.json')
+        >>> genome = load_genome_from_json('my_genome.json', 'validated.json', verbose=True)
     """
+    if verbose:
+        print(f"Loading genome from {json_file}...")
+
     converter = LocalGenomeConverter()
     genome = converter.load_genome_json(json_file)
     genome = converter.validate_kbase_genome(genome)
 
+    if verbose:
+        print(f"  Features: {len(genome.get('features', []))}")
+        print(f"  Genome ID: {genome.get('id', 'Unknown')}")
+
     if output_file:
+        if verbose:
+            print(f"Saving validated genome to {output_file}...")
         converter.save_genome(genome, output_file)
 
     return genome
@@ -1342,7 +1601,8 @@ def load_genome_from_features(
     metadata_dir: str = "genome_metadata",
     taxonomy: Optional[str] = None,
     scientific_name: Optional[str] = None,
-    output_file: Optional[str] = None
+    output_file: Optional[str] = None,
+    verbose: bool = False
 ) -> Dict[str, Any]:
     """
     Convenience function to load genome from local BV-BRC feature files.
@@ -1355,6 +1615,7 @@ def load_genome_from_features(
         taxonomy: Optional taxonomy string (overrides metadata)
         scientific_name: Optional scientific name (overrides metadata)
         output_file: Optional path to save JSON output
+        verbose: Print progress updates and stats
 
     Returns:
         KBase Genome object dictionary
@@ -1363,8 +1624,15 @@ def load_genome_from_features(
         >>> genome = load_genome_from_features('511145.183')
         >>> genome = load_genome_from_features('511145.183',
         ...                                     taxonomy='Bacteria; Proteobacteria',
-        ...                                     output_file='ecoli.json')
+        ...                                     output_file='ecoli.json',
+        ...                                     verbose=True)
     """
+    if verbose:
+        print(f"Loading genome {genome_id} from local features...")
+        print(f"  Features dir: {features_dir}")
+        print(f"  Genomes dir: {genomes_dir}")
+        print(f"  Metadata dir: {metadata_dir}")
+
     converter = LocalGenomeConverter()
     genome = converter.load_genome_from_features_dir(
         genome_id=genome_id,
@@ -1375,7 +1643,13 @@ def load_genome_from_features(
         scientific_name=scientific_name
     )
 
+    if verbose:
+        print(f"  Features loaded: {len(genome.get('features', []))}")
+        print(f"  Scientific name: {genome.get('scientific_name', 'Unknown')}")
+
     if output_file:
+        if verbose:
+            print(f"Saving to {output_file}...")
         converter.save_genome(genome, output_file)
 
     return genome
@@ -1384,7 +1658,8 @@ def load_genome_from_features(
 def aggregate_taxonomies(
     genomes: List[Dict[str, Any]],
     asv_id: str,
-    output_dir: str = "ASVset_taxonomies"
+    output_dir: str = "ASVset_taxonomies",
+    verbose: bool = False
 ) -> tuple[str, Dict[str, List[str]]]:
     """
     Convenience function to aggregate taxonomies from multiple genomes.
@@ -1393,20 +1668,31 @@ def aggregate_taxonomies(
         genomes: List of genome dictionaries
         asv_id: Identifier for the ASV/synthetic genome
         output_dir: Directory to save taxonomy JSON (default: ASVset_taxonomies)
+        verbose: Print progress updates and stats
 
     Returns:
         Tuple of (consensus_taxonomy_string, taxonomy_dict)
 
     Example:
         >>> genomes = [load_genome_from_json('g1.json'), load_genome_from_json('g2.json')]
-        >>> consensus, tax_dict = aggregate_taxonomies(genomes, 'ASV_001')
+        >>> consensus, tax_dict = aggregate_taxonomies(genomes, 'ASV_001', verbose=True)
         >>> print(consensus)
         'Bacteria; Proteobacteria; Gammaproteobacteria'
         >>> print(tax_dict['Phylum'])
         ['Proteobacteria', 'Proteobacteria', 'Firmicutes']
     """
+    if verbose:
+        print(f"Aggregating taxonomies for {asv_id} from {len(genomes)} genomes...")
+
     converter = LocalGenomeConverter()
-    return converter.aggregate_taxonomies(genomes, asv_id, output_dir)
+    result = converter.aggregate_taxonomies(genomes, asv_id, output_dir)
+
+    if verbose:
+        consensus, tax_dict = result
+        print(f"  Consensus taxonomy: {consensus}")
+        print(f"  Saved to: {output_dir}/{asv_id}.json")
+
+    return result
 
 
 def create_synthetic_genome(
@@ -1421,7 +1707,8 @@ def create_synthetic_genome(
     template_file: Optional[str] = None,
     save_taxonomy: bool = True,
     taxonomy_output_dir: str = "ASVset_taxonomies",
-    output_file: Optional[str] = None
+    output_file: Optional[str] = None,
+    verbose: bool = False
 ) -> Dict[str, Any]:
     """
     Convenience function to create synthetic genome from multiple sources.
@@ -1439,6 +1726,7 @@ def create_synthetic_genome(
         save_taxonomy: If True, saves taxonomy aggregation to JSON (default: True)
         taxonomy_output_dir: Directory for taxonomy JSON (default: ASVset_taxonomies)
         output_file: Optional path to save JSON output
+        verbose: If True, print progress and stats. Errors always print (default: False)
 
     Returns:
         KBase Genome object dictionary
@@ -1465,6 +1753,15 @@ def create_synthetic_genome(
         ...                                   taxonomy='Bacteria; Firmicutes',
         ...                                   output_file='asv_001.json')
     """
+    if verbose:
+        print(f"\nCreating synthetic genome from provided sources...")
+        if genome_files:
+            print(f"  Source: {len(genome_files)} genome JSON files")
+        elif genome_ids:
+            print(f"  Source: {len(genome_ids)} genome IDs")
+        elif genomes:
+            print(f"  Source: {len(genomes)} pre-loaded genomes")
+
     converter = LocalGenomeConverter()
     genome = converter.create_synthetic_genome(
         asv_id=asv_id,
@@ -1477,43 +1774,63 @@ def create_synthetic_genome(
         taxonomy=taxonomy,
         template_file=template_file,
         save_taxonomy=save_taxonomy,
-        taxonomy_output_dir=taxonomy_output_dir
+        taxonomy_output_dir=taxonomy_output_dir,
+        verbose=verbose
     )
 
     if output_file:
+        if verbose:
+            print(f"\nSaving genome to {output_file}...")
         converter.save_genome(genome, output_file)
+        if verbose:
+            print(f"Genome saved successfully!")
 
     return genome
 
 
-def save_genome_to_json(genome: Dict[str, Any], output_file: str):
+def save_genome_to_json(genome: Dict[str, Any], output_file: str, verbose: bool = False):
     """
     Convenience function to save a genome object to JSON.
 
     Args:
         genome: KBase Genome object dictionary
         output_file: Path to save JSON output
+        verbose: If True, print progress and stats. Errors always print (default: False)
 
     Example:
         >>> save_genome_to_json(genome, 'my_genome.json')
     """
+    if verbose:
+        print(f"\nSaving genome to {output_file}...")
+
     converter = LocalGenomeConverter()
     converter.save_genome(genome, output_file)
 
+    if verbose:
+        print(f"Genome saved successfully!")
 
-def create_fasta_from_genome(genome: Dict[str, Any], output_file: str):
+
+def create_fasta_from_genome(genome: Dict[str, Any], output_file: str, verbose: bool = False):
     """
     Convenience function to create FASTA file from genome features.
 
     Args:
         genome: KBase Genome object dictionary
         output_file: Path to save FASTA output
+        verbose: If True, print progress and stats. Errors always print (default: False)
 
     Example:
         >>> create_fasta_from_genome(genome, 'features.fasta')
     """
+    if verbose:
+        print(f"\nCreating FASTA file from genome features...")
+        print(f"  Output: {output_file}")
+
     converter = LocalGenomeConverter()
     converter.create_fasta_from_genome(genome, output_file)
+
+    if verbose:
+        print(f"FASTA file created successfully!")
 
 
 # ============================================================================
@@ -1564,6 +1881,8 @@ def main():
                        help='Output JSON file path')
     parser.add_argument('--fasta', metavar='FILE',
                        help='Also create FASTA file with feature sequences')
+    parser.add_argument('--verbose', '-v', action='store_true',
+                       help='Print progress and stats (errors always print)')
 
     # Legacy support: if no arguments with dashes, assume first arg is genome ID
     if len(sys.argv) >= 2 and not sys.argv[1].startswith('-'):
@@ -1613,8 +1932,7 @@ def main():
             converter.save_genome(genome, output_file)
 
             if args.fasta:
-                local_conv = LocalGenomeConverter()
-                local_conv.create_fasta_from_genome(genome, args.fasta)
+                create_fasta_from_genome(genome, args.fasta, verbose=args.verbose)
 
         # Mode 2: Load from local file
         elif args.local:
@@ -1632,20 +1950,21 @@ def main():
             local_conv.save_genome(genome, output_file)
 
             if args.fasta:
-                local_conv.create_fasta_from_genome(genome, args.fasta)
+                create_fasta_from_genome(genome, args.fasta, verbose=args.verbose)
 
         # Mode 3: Load from features directory
         elif args.features:
             genome_id = args.features
             output_file = args.output or f"{genome_id}_genome.json"
 
-            # print(f"Mode: Load from local features directory")
-            # print(f"Genome ID: {genome_id}")
-            # print(f"Features dir: {args.features_dir}")
-            # print(f"Genomes dir: {args.genomes_dir}")
-            # print(f"Metadata dir: {args.metadata_dir}")
-            # print(f"Output file: {output_file}")
-            # print()
+            if args.verbose:
+                print(f"Mode: Load from local features directory")
+                print(f"Genome ID: {genome_id}")
+                print(f"Features dir: {args.features_dir}")
+                print(f"Genomes dir: {args.genomes_dir}")
+                print(f"Metadata dir: {args.metadata_dir}")
+                print(f"Output file: {output_file}")
+                print()
 
             local_conv = LocalGenomeConverter()
             genome = local_conv.load_genome_from_features_dir(
@@ -1659,7 +1978,7 @@ def main():
             local_conv.save_genome(genome, output_file)
 
             if args.fasta:
-                local_conv.create_fasta_from_genome(genome, args.fasta)
+                create_fasta_from_genome(genome, args.fasta, verbose=args.verbose)
 
         # Mode 4: Create synthetic genome
         elif args.synthetic:
@@ -1705,12 +2024,13 @@ def main():
                 taxonomy=args.taxonomy,
                 template_file=args.template,
                 save_taxonomy=not args.no_taxonomy,
-                taxonomy_output_dir=args.taxonomy_dir
+                taxonomy_output_dir=args.taxonomy_dir,
+                verbose=args.verbose
             )
             local_conv.save_genome(genome, output_file)
 
             if args.fasta:
-                local_conv.create_fasta_from_genome(genome, args.fasta)
+                create_fasta_from_genome(genome, args.fasta, verbose=args.verbose)
 
         print("\n" + "=" * 50)
         print("Conversion completed successfully!")

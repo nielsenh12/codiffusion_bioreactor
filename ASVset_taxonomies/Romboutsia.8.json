@@ -1,0 +1,59 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Peptostreptococcaceae",
+      "Species": "Romboutsia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Vulcanimicrobiota",
+      "Order": "Vulcanimicrobiia",
+      "Family": "Vulcanimicrobiales",
+      "Genus": "Vulcanimicrobiaceae",
+      "Species": "unclassified Vulcanimicrobiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Peptostreptococcaceae",
+      "Species": "Romboutsia"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Bacillati": 3
+    },
+    "Class": {
+      "Bacillota": 2,
+      "Vulcanimicrobiota": 1
+    },
+    "Order": {
+      "Clostridia": 2,
+      "Vulcanimicrobiia": 1
+    },
+    "Family": {
+      "Peptostreptococcales": 2,
+      "Vulcanimicrobiales": 1
+    },
+    "Genus": {
+      "Peptostreptococcaceae": 2,
+      "Vulcanimicrobiaceae": 1
+    },
+    "Species": {
+      "Romboutsia": 2,
+      "unclassified Vulcanimicrobiaceae": 1
+    }
+  }
+}

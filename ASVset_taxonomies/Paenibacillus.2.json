@@ -1,0 +1,59 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Paenibacillaceae",
+      "Species": "Paenibacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Paenibacillaceae",
+      "Species": "Paenibacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycobacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Bacillati": 3
+    },
+    "Class": {
+      "Bacillota": 2,
+      "Actinomycetota": 1
+    },
+    "Order": {
+      "Bacilli": 2,
+      "Actinomycetes": 1
+    },
+    "Family": {
+      "Bacillales": 2,
+      "Mycobacteriales": 1
+    },
+    "Genus": {
+      "Paenibacillaceae": 2,
+      "Mycobacteriaceae": 1
+    },
+    "Species": {
+      "Paenibacillus": 2,
+      "Mycobacterium": 1
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Candidatus Humimicrobiia",
+      "Family": "Candidatus Humimicrobiales",
+      "Genus": "Candidatus Humimicrobiaceae",
+      "Species": "Candidatus Humimicrobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Candidatus Humimicrobiia",
+      "Family": "Candidatus Humimicrobiales",
+      "Genus": "Candidatus Humimicrobiaceae",
+      "Species": "unclassified Candidatus Humimicrobiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "unclassified Actinomycetota",
+      "Family": "Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "unclassified Actinomycetota",
+      "Family": "Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Candidatus Humimicrobiia",
+      "Family": "Candidatus Humimicrobiales",
+      "Genus": "Candidatus Humimicrobiaceae",
+      "Species": "Candidatus Humimicrobium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "unclassified Actinomycetota",
+      "Family": "Actinomycetota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Bacillati": 6
+    },
+    "Class": {
+      "Actinomycetota": 6
+    },
+    "Order": {
+      "Candidatus Humimicrobiia": 3,
+      "unclassified Actinomycetota": 3
+    },
+    "Family": {
+      "Candidatus Humimicrobiales": 3,
+      "Actinomycetota bacterium": 3
+    },
+    "Genus": {
+      "Candidatus Humimicrobiaceae": 3
+    },
+    "Species": {
+      "Candidatus Humimicrobium": 2,
+      "unclassified Candidatus Humimicrobiaceae": 1
+    }
+  }
+}

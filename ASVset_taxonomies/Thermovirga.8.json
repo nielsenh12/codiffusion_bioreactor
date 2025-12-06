@@ -1,23 +1,121 @@
 {
-  "Kingdom": [
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Thermovirgaceae",
+      "Species": "unclassified Thermovirgaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Spirochaetaceae",
+      "Species": "unclassified Spirochaetaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium M3-1"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "unclassified Planctomycetota",
+      "Genus": "Planctomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "unclassified Synergistales",
+      "Species": "Synergistales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Thermovirgaceae",
+      "Species": "unclassified Thermovirgaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Spirochaetaceae",
+      "Species": "unclassified Spirochaetaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium M3-1"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "unclassified Planctomycetota",
+      "Genus": "Planctomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "unclassified Synergistales",
+      "Species": "Synergistales bacterium"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Spirochaetota"
-  ],
-  "Order": [
-    "Spirochaetia"
-  ],
-  "Family": [
-    "Spirochaetales"
-  ],
-  "Genus": [
-    "Spirochaetaceae"
-  ],
-  "Species": [
-    "unclassified Spirochaetaceae"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 10
+    },
+    "Phylum": {
+      "Thermotogati": 4,
+      "Pseudomonadati": 4,
+      "unclassified Bacteria": 2
+    },
+    "Class": {
+      "Synergistota": 4,
+      "Spirochaetota": 2,
+      "bacterium M3-1": 2,
+      "PVC group": 2
+    },
+    "Order": {
+      "Synergistia": 4,
+      "Spirochaetia": 2,
+      "Planctomycetota": 2
+    },
+    "Family": {
+      "Synergistales": 4,
+      "Spirochaetales": 2,
+      "unclassified Planctomycetota": 2
+    },
+    "Genus": {
+      "Thermovirgaceae": 2,
+      "Spirochaetaceae": 2,
+      "Planctomycetota bacterium": 2,
+      "unclassified Synergistales": 2
+    },
+    "Species": {
+      "unclassified Thermovirgaceae": 2,
+      "unclassified Spirochaetaceae": 2,
+      "Synergistales bacterium": 2
+    }
+  }
 }

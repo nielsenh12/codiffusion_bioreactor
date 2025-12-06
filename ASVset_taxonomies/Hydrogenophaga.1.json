@@ -1,37 +1,54 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Comamonadaceae",
+      "Species": "Hydrogenophaga"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Comamonadaceae",
+      "Species": "Hydrogenophaga"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Comamonadaceae",
+      "Species": "Hydrogenophaga"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "Betaproteobacteria",
-    "Betaproteobacteria",
-    "Betaproteobacteria"
-  ],
-  "Family": [
-    "Burkholderiales",
-    "Burkholderiales",
-    "Burkholderiales"
-  ],
-  "Genus": [
-    "Comamonadaceae",
-    "Comamonadaceae",
-    "Comamonadaceae"
-  ],
-  "Species": [
-    "Hydrogenophaga",
-    "Hydrogenophaga",
-    "Hydrogenophaga"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "Pseudomonadota": 3
+    },
+    "Order": {
+      "Betaproteobacteria": 3
+    },
+    "Family": {
+      "Burkholderiales": 3
+    },
+    "Genus": {
+      "Comamonadaceae": 3
+    },
+    "Species": {
+      "Hydrogenophaga": 3
+    }
+  }
 }

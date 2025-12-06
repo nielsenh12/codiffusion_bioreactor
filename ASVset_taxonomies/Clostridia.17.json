@@ -1,0 +1,91 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "unclassified Bacteroidota",
+      "Species": "Bacteroidota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Haloimpatiens"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Haloimpatiens"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Clostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriaceae",
+      "Species": "Alkalibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Eubacteriaceae",
+      "Species": "Irregularibacter"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Pseudomonadati": 1,
+      "Bacillati": 5
+    },
+    "Class": {
+      "FCB group": 1,
+      "Bacillota": 5
+    },
+    "Order": {
+      "Bacteroidota/Chlorobiota group": 1,
+      "Clostridia": 5
+    },
+    "Family": {
+      "Bacteroidota": 1,
+      "Eubacteriales": 5
+    },
+    "Genus": {
+      "unclassified Bacteroidota": 1,
+      "Clostridiaceae": 3,
+      "Eubacteriaceae": 2
+    },
+    "Species": {
+      "Bacteroidota bacterium": 1,
+      "Haloimpatiens": 2,
+      "Clostridium": 1,
+      "Alkalibacter": 1,
+      "Irregularibacter": 1
+    }
+  }
+}

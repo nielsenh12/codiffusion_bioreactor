@@ -1,0 +1,49 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "unclassified Burkholderiales",
+      "Species": "Burkholderiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Alsobacteraceae",
+      "Species": "Alsobacter"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Pseudomonadota": 2
+    },
+    "Order": {
+      "Betaproteobacteria": 1,
+      "Alphaproteobacteria": 1
+    },
+    "Family": {
+      "Burkholderiales": 1,
+      "Hyphomicrobiales": 1
+    },
+    "Genus": {
+      "unclassified Burkholderiales": 1,
+      "Alsobacteraceae": 1
+    },
+    "Species": {
+      "Burkholderiales bacterium": 1,
+      "Alsobacter": 1
+    }
+  }
+}

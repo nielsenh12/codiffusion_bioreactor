@@ -1,0 +1,103 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Mycoplasmatota",
+      "Order": "Mollicutes",
+      "Family": "Haloplasmatales",
+      "Genus": "Haloplasmataceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Mycoplasmatota",
+      "Order": "Mollicutes",
+      "Family": "Haloplasmatales",
+      "Genus": "Haloplasmataceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Mycoplasmatota",
+      "Order": "unclassified Mycoplasmatota",
+      "Family": "Mycoplasmatota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Mycoplasmatota",
+      "Order": "unclassified Mycoplasmatota",
+      "Family": "Mycoplasmatota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Mycoplasmatota",
+      "Order": "Mollicutes",
+      "Family": "Haloplasmatales",
+      "Genus": "Haloplasmataceae",
+      "Species": "Haloplasma"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Mycoplasmatota",
+      "Order": "Mollicutes",
+      "Family": "Haloplasmatales",
+      "Genus": "Haloplasmataceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Mycoplasmatota",
+      "Order": "Mollicutes",
+      "Family": "Haloplasmatales",
+      "Genus": "Haloplasmataceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Mycoplasmatota",
+      "Order": "unclassified Mycoplasmatota",
+      "Family": "Mycoplasmatota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Mycoplasmatota",
+      "Order": "unclassified Mycoplasmatota",
+      "Family": "Mycoplasmatota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 9
+    },
+    "Phylum": {
+      "Bacillati": 9
+    },
+    "Class": {
+      "Mycoplasmatota": 9
+    },
+    "Order": {
+      "Mollicutes": 5,
+      "unclassified Mycoplasmatota": 4
+    },
+    "Family": {
+      "Haloplasmatales": 5,
+      "Mycoplasmatota bacterium": 4
+    },
+    "Genus": {
+      "Haloplasmataceae": 5
+    },
+    "Species": {
+      "environmental samples": 4,
+      "Haloplasma": 1
+    }
+  }
+}

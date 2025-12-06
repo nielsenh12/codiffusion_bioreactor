@@ -1,30 +1,45 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Dermatophilaceae",
+      "Species": "Austwickia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Micrococcales",
+      "Genus": "Dermatophilaceae",
+      "Species": "Austwickia"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Actinomycetota",
-    "Actinomycetota"
-  ],
-  "Order": [
-    "Actinomycetes",
-    "Actinomycetes"
-  ],
-  "Family": [
-    "Micrococcales",
-    "Micrococcales"
-  ],
-  "Genus": [
-    "Dermatophilaceae",
-    "Dermatophilaceae"
-  ],
-  "Species": [
-    "Austwickia",
-    "Austwickia"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacillati": 2
+    },
+    "Class": {
+      "Actinomycetota": 2
+    },
+    "Order": {
+      "Actinomycetes": 2
+    },
+    "Family": {
+      "Micrococcales": 2
+    },
+    "Genus": {
+      "Dermatophilaceae": 2
+    },
+    "Species": {
+      "Austwickia": 2
+    }
+  }
 }

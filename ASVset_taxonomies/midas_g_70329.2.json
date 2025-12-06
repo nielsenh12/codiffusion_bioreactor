@@ -1,0 +1,54 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Calditrichota",
+      "Order": "Calditrichia",
+      "Family": "Calditrichales",
+      "Genus": "unclassified Calditrichales",
+      "Species": "Calditrichales bacterium MX18-03"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Calditrichota",
+      "Order": "Calditrichia",
+      "Family": "Calditrichales",
+      "Genus": "unclassified Calditrichales",
+      "Species": "Calditrichales bacterium MX18-03"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Calditrichota",
+      "Order": "Calditrichia",
+      "Family": "Calditrichales",
+      "Genus": "unclassified Calditrichales",
+      "Species": "Calditrichales bacterium MX18-03"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "Calditrichota": 3
+    },
+    "Order": {
+      "Calditrichia": 3
+    },
+    "Family": {
+      "Calditrichales": 3
+    },
+    "Genus": {
+      "unclassified Calditrichales": 3
+    },
+    "Species": {
+      "Calditrichales bacterium MX18-03": 3
+    }
+  }
+}

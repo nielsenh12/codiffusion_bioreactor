@@ -1,0 +1,254 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Chlamydiota",
+      "Family": "Chlamydiia",
+      "Genus": "Chlamydiales",
+      "Species": "Chlamydiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Chlamydiota",
+      "Family": "Chlamydiia",
+      "Genus": "Chlamydiales",
+      "Species": "Chlamydiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfobacteria",
+      "Family": "Desulfobacterales",
+      "Genus": "Desulfobacteraceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Chlamydiota",
+      "Family": "Chlamydiia",
+      "Genus": "Chlamydiales",
+      "Species": "Chlamydiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Desulfitobacteriaceae",
+      "Species": "Desulfosporosinus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Chlamydiota",
+      "Family": "Chlamydiia",
+      "Genus": "Chlamydiales",
+      "Species": "Chlamydiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Nitrospirota",
+      "Order": "Nitrospiria",
+      "Family": "Candidatus Troglogloeales",
+      "Genus": "Candidatus Manganitrophaceae",
+      "Species": "Candidatus Manganitrophus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfobacteria",
+      "Family": "Desulfobacterales",
+      "Genus": "Desulfobacteraceae",
+      "Species": "unclassified Desulfobacteraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Eubacteriales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Chlamydiota",
+      "Family": "Chlamydiia",
+      "Genus": "Chlamydiales",
+      "Species": "Chlamydiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Gracilibacteraceae",
+      "Species": "Gracilibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "unclassified Thermodesulfobacteriota",
+      "Family": "Thermodesulfobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "unclassified Thermodesulfobacteriota",
+      "Family": "Thermodesulfobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfobacteria",
+      "Family": "Desulfobacterales",
+      "Genus": "unclassified Desulfobacterales",
+      "Species": "Desulfobacterales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Pseudomonadales",
+      "Genus": "Perlucidibacaceae",
+      "Species": "Perlucidibaca"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "unclassified Clostridia",
+      "Genus": "Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "unclassified Candidatus Cloacimonadota",
+      "Genus": "Candidatus Cloacimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "unclassified Thermodesulfobacteriota",
+      "Family": "Thermodesulfobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfobacteria",
+      "Family": "Desulfobacterales",
+      "Genus": "Desulfobacteraceae",
+      "Species": "unclassified Desulfobacteraceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 22
+    },
+    "Phylum": {
+      "Pseudomonadati": 15,
+      "delta/epsilon subdivisions": 1,
+      "Bacillati": 6
+    },
+    "Class": {
+      "PVC group": 5,
+      "Thermodesulfobacteriota": 7,
+      "Deltaproteobacteria": 1,
+      "Bacillota": 6,
+      "Nitrospirota": 1,
+      "Pseudomonadota": 1,
+      "FCB group": 1
+    },
+    "Order": {
+      "Chlamydiota": 5,
+      "Desulfobacteria": 4,
+      "environmental samples": 1,
+      "unclassified Bacillota": 1,
+      "Clostridia": 5,
+      "Nitrospiria": 1,
+      "unclassified Thermodesulfobacteriota": 3,
+      "Gammaproteobacteria": 1,
+      "Candidatus Cloacimonadota": 1
+    },
+    "Family": {
+      "Chlamydiia": 5,
+      "Desulfobacterales": 4,
+      "uncultured delta proteobacterium": 1,
+      "Bacillota bacterium": 1,
+      "Eubacteriales": 3,
+      "unclassified Clostridia": 2,
+      "Candidatus Troglogloeales": 1,
+      "Thermodesulfobacteriota bacterium": 3,
+      "Pseudomonadales": 1,
+      "unclassified Candidatus Cloacimonadota": 1
+    },
+    "Genus": {
+      "Chlamydiales": 5,
+      "Desulfobacteraceae": 3,
+      "Desulfitobacteriaceae": 1,
+      "Clostridia bacterium": 2,
+      "Candidatus Manganitrophaceae": 1,
+      "environmental samples": 1,
+      "Gracilibacteraceae": 1,
+      "unclassified Desulfobacterales": 1,
+      "Perlucidibacaceae": 1,
+      "Candidatus Cloacimonadota bacterium": 1
+    },
+    "Species": {
+      "Chlamydiaceae": 5,
+      "environmental samples": 1,
+      "Desulfosporosinus": 1,
+      "Candidatus Manganitrophus": 1,
+      "unclassified Desulfobacteraceae": 2,
+      "uncultured Eubacteriales bacterium": 1,
+      "Gracilibacter": 1,
+      "Desulfobacterales bacterium": 1,
+      "Perlucidibaca": 1
+    }
+  }
+}

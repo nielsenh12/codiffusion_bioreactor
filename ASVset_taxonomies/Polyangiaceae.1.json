@@ -1,0 +1,57 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Myxococcota",
+      "Order": "Polyangia",
+      "Family": "Polyangiales",
+      "Genus": "Polyangiaceae",
+      "Species": "Polyangium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Myxococcota",
+      "Order": "Polyangia",
+      "Family": "Polyangiales",
+      "Genus": "Polyangiaceae",
+      "Species": "unclassified Polyangiaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Pseudomonadati": 2,
+      "delta/epsilon subdivisions": 1
+    },
+    "Class": {
+      "Myxococcota": 2,
+      "Deltaproteobacteria": 1
+    },
+    "Order": {
+      "Polyangia": 2,
+      "environmental samples": 1
+    },
+    "Family": {
+      "Polyangiales": 2,
+      "uncultured delta proteobacterium": 1
+    },
+    "Genus": {
+      "Polyangiaceae": 2
+    },
+    "Species": {
+      "Polyangium": 1,
+      "unclassified Polyangiaceae": 1
+    }
+  }
+}

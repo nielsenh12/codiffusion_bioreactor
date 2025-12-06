@@ -1,27 +1,47 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "unclassified Spirochaetota",
+      "Family": "Spirochaetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "unclassified Spirochaetota",
+      "Family": "Spirochaetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Nitrospirota",
+      "Order": "unclassified Nitrospirota",
+      "Family": "Nitrospirota bacterium"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Spirochaetota",
-    "Spirochaetota",
-    "Nitrospirota"
-  ],
-  "Order": [
-    "unclassified Spirochaetota",
-    "unclassified Spirochaetota",
-    "unclassified Nitrospirota"
-  ],
-  "Family": [
-    "Spirochaetota bacterium",
-    "Spirochaetota bacterium",
-    "Nitrospirota bacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "Spirochaetota": 2,
+      "Nitrospirota": 1
+    },
+    "Order": {
+      "unclassified Spirochaetota": 2,
+      "unclassified Nitrospirota": 1
+    },
+    "Family": {
+      "Spirochaetota bacterium": 2,
+      "Nitrospirota bacterium": 1
+    },
+    "Genus": {},
+    "Species": {}
+  }
 }

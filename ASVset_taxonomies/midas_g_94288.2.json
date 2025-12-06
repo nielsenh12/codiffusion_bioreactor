@@ -1,0 +1,117 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lutisporales",
+      "Genus": "Lutisporaceae",
+      "Species": "Lutispora"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Dysosmobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "Christensenellaceae",
+      "Species": "unclassified Christensenellaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Oscillibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Staphylococcaceae",
+      "Species": "Staphylococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "unclassified Oscillospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 8
+    },
+    "Phylum": {
+      "Bacillati": 6,
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Bacillota": 6,
+      "FCB group": 2
+    },
+    "Order": {
+      "Clostridia": 5,
+      "Bacilli": 1,
+      "Bacteroidota/Chlorobiota group": 2
+    },
+    "Family": {
+      "Lutisporales": 1,
+      "Eubacteriales": 3,
+      "Christensenellales": 1,
+      "Bacillales": 1,
+      "Bacteroidota": 2
+    },
+    "Genus": {
+      "Lutisporaceae": 1,
+      "Oscillospiraceae": 3,
+      "Christensenellaceae": 1,
+      "Staphylococcaceae": 1,
+      "Bacteroidia": 2
+    },
+    "Species": {
+      "Lutispora": 1,
+      "Dysosmobacter": 1,
+      "unclassified Christensenellaceae": 1,
+      "Oscillibacter": 1,
+      "Staphylococcus": 1,
+      "Bacteroidales": 2,
+      "unclassified Oscillospiraceae": 1
+    }
+  }
+}

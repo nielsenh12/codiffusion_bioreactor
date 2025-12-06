@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Thermoplasmatota",
+      "Order": "Thermoplasmata",
+      "Family": "Methanomassiliicoccales",
+      "Genus": "unclassified Methanomassiliicoccales",
+      "Species": "Methanomassiliicoccales archaeon RumEn M1"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Archaea": 1
+    },
+    "Phylum": {
+      "Methanobacteriati": 1
+    },
+    "Class": {
+      "Thermoplasmatota": 1
+    },
+    "Order": {
+      "Thermoplasmata": 1
+    },
+    "Family": {
+      "Methanomassiliicoccales": 1
+    },
+    "Genus": {
+      "unclassified Methanomassiliicoccales": 1
+    },
+    "Species": {
+      "Methanomassiliicoccales archaeon RumEn M1": 1
+    }
+  }
+}

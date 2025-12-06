@@ -1,44 +1,64 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "Desulfovibrionaceae",
+      "Species": "Desulfovibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "Desulfovibrionaceae",
+      "Species": "Desulfovibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "Desulfovibrionaceae",
+      "Species": "Halodesulfovibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "Desulfovibrionaceae",
+      "Species": "Desulfovibrio"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Thermodesulfobacteriota",
-    "Thermodesulfobacteriota",
-    "Thermodesulfobacteriota",
-    "Thermodesulfobacteriota"
-  ],
-  "Order": [
-    "Desulfovibrionia",
-    "Desulfovibrionia",
-    "Desulfovibrionia",
-    "Desulfovibrionia"
-  ],
-  "Family": [
-    "Desulfovibrionales",
-    "Desulfovibrionales",
-    "Desulfovibrionales",
-    "Desulfovibrionales"
-  ],
-  "Genus": [
-    "Desulfovibrionaceae",
-    "Desulfovibrionaceae",
-    "Desulfovibrionaceae",
-    "Desulfovibrionaceae"
-  ],
-  "Species": [
-    "Desulfovibrio",
-    "Desulfovibrio",
-    "Halodesulfovibrio",
-    "Desulfovibrio"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Pseudomonadati": 4
+    },
+    "Class": {
+      "Thermodesulfobacteriota": 4
+    },
+    "Order": {
+      "Desulfovibrionia": 4
+    },
+    "Family": {
+      "Desulfovibrionales": 4
+    },
+    "Genus": {
+      "Desulfovibrionaceae": 4
+    },
+    "Species": {
+      "Desulfovibrio": 3,
+      "Halodesulfovibrio": 1
+    }
+  }
 }

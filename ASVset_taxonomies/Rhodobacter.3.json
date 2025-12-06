@@ -1,29 +1,46 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Alphaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Paracoccaceae",
+      "Species": "Neotabrizicola"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "Alphaproteobacteria",
-    "Alphaproteobacteria"
-  ],
-  "Family": [
-    "environmental samples",
-    "Rhodobacterales"
-  ],
-  "Genus": [
-    "uncultured Alphaproteobacteria bacterium",
-    "Paracoccaceae"
-  ],
-  "Species": [
-    "Neotabrizicola"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Pseudomonadota": 2
+    },
+    "Order": {
+      "Alphaproteobacteria": 2
+    },
+    "Family": {
+      "environmental samples": 1,
+      "Rhodobacterales": 1
+    },
+    "Genus": {
+      "uncultured Alphaproteobacteria bacterium": 1,
+      "Paracoccaceae": 1
+    },
+    "Species": {
+      "Neotabrizicola": 1
+    }
+  }
 }

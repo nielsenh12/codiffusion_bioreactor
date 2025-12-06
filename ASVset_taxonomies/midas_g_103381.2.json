@@ -1,30 +1,45 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Negativicutes",
+      "Family": "Selenomonadales",
+      "Genus": "Sporomusaceae",
+      "Species": "Anaeromusa"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Negativicutes",
+      "Family": "Selenomonadales",
+      "Genus": "Sporomusaceae",
+      "Species": "Anaeromusa"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Bacillota",
-    "Bacillota"
-  ],
-  "Order": [
-    "Negativicutes",
-    "Negativicutes"
-  ],
-  "Family": [
-    "Selenomonadales",
-    "Selenomonadales"
-  ],
-  "Genus": [
-    "Sporomusaceae",
-    "Sporomusaceae"
-  ],
-  "Species": [
-    "Anaeromusa",
-    "Anaeromusa"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacillati": 2
+    },
+    "Class": {
+      "Bacillota": 2
+    },
+    "Order": {
+      "Negativicutes": 2
+    },
+    "Family": {
+      "Selenomonadales": 2
+    },
+    "Genus": {
+      "Sporomusaceae": 2
+    },
+    "Species": {
+      "Anaeromusa": 2
+    }
+  }
 }

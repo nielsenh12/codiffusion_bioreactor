@@ -1,61 +1,102 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "unclassified Gammaproteobacteria",
+      "Genus": "Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Methylomirabilota",
+      "Family": "environmental samples",
+      "Genus": "uncultured Methylomirabilota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Candidatus Darwinibacteriales",
+      "Genus": "Candidatus Darwinibacteriaceae",
+      "Species": "Candidatus Darwinibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Methylomirabilota",
+      "Family": "environmental samples",
+      "Genus": "uncultured Methylomirabilota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Candidatus Darwinibacteriales",
+      "Genus": "Candidatus Darwinibacteriaceae",
+      "Species": "Candidatus Darwinibacter"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "unclassified Bacteria",
-    "Pseudomonadati",
-    "Bacteria incertae sedis",
-    "Bacillati",
-    "Bacillati",
-    "Bacteria incertae sedis",
-    "Bacillati"
-  ],
-  "Class": [
-    "Bacillota",
-    "bacterium",
-    "Pseudomonadota",
-    "Bacteria candidate phyla",
-    "Bacillota",
-    "Bacillota",
-    "Bacteria candidate phyla",
-    "Bacillota"
-  ],
-  "Order": [
-    "unclassified Bacillota",
-    "Gammaproteobacteria",
-    "Candidatus Methylomirabilota",
-    "Clostridia",
-    "unclassified Bacillota",
-    "Candidatus Methylomirabilota",
-    "Clostridia"
-  ],
-  "Family": [
-    "Bacillota bacterium",
-    "unclassified Gammaproteobacteria",
-    "environmental samples",
-    "Candidatus Darwinibacteriales",
-    "Bacillota bacterium",
-    "environmental samples",
-    "Candidatus Darwinibacteriales"
-  ],
-  "Genus": [
-    "Gammaproteobacteria bacterium",
-    "uncultured Methylomirabilota bacterium",
-    "Candidatus Darwinibacteriaceae",
-    "uncultured Methylomirabilota bacterium",
-    "Candidatus Darwinibacteriaceae"
-  ],
-  "Species": [
-    "Candidatus Darwinibacter",
-    "Candidatus Darwinibacter"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 8
+    },
+    "Phylum": {
+      "Bacillati": 4,
+      "unclassified Bacteria": 1,
+      "Pseudomonadati": 1,
+      "Bacteria incertae sedis": 2
+    },
+    "Class": {
+      "Bacillota": 4,
+      "bacterium": 1,
+      "Pseudomonadota": 1,
+      "Bacteria candidate phyla": 2
+    },
+    "Order": {
+      "unclassified Bacillota": 2,
+      "Gammaproteobacteria": 1,
+      "Candidatus Methylomirabilota": 2,
+      "Clostridia": 2
+    },
+    "Family": {
+      "Bacillota bacterium": 2,
+      "unclassified Gammaproteobacteria": 1,
+      "environmental samples": 2,
+      "Candidatus Darwinibacteriales": 2
+    },
+    "Genus": {
+      "Gammaproteobacteria bacterium": 1,
+      "uncultured Methylomirabilota bacterium": 2,
+      "Candidatus Darwinibacteriaceae": 2
+    },
+    "Species": {
+      "Candidatus Darwinibacter": 2
+    }
+  }
 }

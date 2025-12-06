@@ -1,29 +1,49 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Saccharimonadota",
+      "Family": "unclassified Candidatus Saccharimonadota",
+      "Genus": "Candidatus Saccharimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "unclassified Christensenellales",
+      "Species": "Christensenellales bacterium"
+    }
   ],
-  "Phylum": [
-    "Bacteria incertae sedis",
-    "Bacillati"
-  ],
-  "Class": [
-    "Bacteria candidate phyla",
-    "Bacillota"
-  ],
-  "Order": [
-    "Candidatus Saccharimonadota",
-    "Clostridia"
-  ],
-  "Family": [
-    "unclassified Candidatus Saccharimonadota",
-    "Christensenellales"
-  ],
-  "Genus": [
-    "Candidatus Saccharimonadota bacterium",
-    "unclassified Christensenellales"
-  ],
-  "Species": [
-    "Christensenellales bacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacteria incertae sedis": 1,
+      "Bacillati": 1
+    },
+    "Class": {
+      "Bacteria candidate phyla": 1,
+      "Bacillota": 1
+    },
+    "Order": {
+      "Candidatus Saccharimonadota": 1,
+      "Clostridia": 1
+    },
+    "Family": {
+      "unclassified Candidatus Saccharimonadota": 1,
+      "Christensenellales": 1
+    },
+    "Genus": {
+      "Candidatus Saccharimonadota bacterium": 1,
+      "unclassified Christensenellales": 1
+    },
+    "Species": {
+      "Christensenellales bacterium": 1
+    }
+  }
 }

@@ -1,0 +1,70 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Anaerobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Ruminiclostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Clostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "unclassified Candidatus Cloacimonadota",
+      "Genus": "Candidatus Cloacimonadota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Bacillati": 3,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Bacillota": 3,
+      "FCB group": 1
+    },
+    "Order": {
+      "Clostridia": 3,
+      "Candidatus Cloacimonadota": 1
+    },
+    "Family": {
+      "Eubacteriales": 3,
+      "unclassified Candidatus Cloacimonadota": 1
+    },
+    "Genus": {
+      "Oscillospiraceae": 2,
+      "Clostridiaceae": 1,
+      "Candidatus Cloacimonadota bacterium": 1
+    },
+    "Species": {
+      "Anaerobacterium": 1,
+      "Ruminiclostridium": 1,
+      "Clostridium": 1
+    }
+  }
+}

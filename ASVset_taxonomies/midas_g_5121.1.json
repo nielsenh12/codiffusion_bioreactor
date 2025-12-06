@@ -1,0 +1,88 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "unclassified Spirochaetota",
+      "Family": "Spirochaetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "unclassified Spirochaetota",
+      "Family": "Spirochaetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "unclassified Pseudomonadota",
+      "Family": "Pseudomonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfobacteria",
+      "Family": "Desulfobacterales",
+      "Genus": "unclassified Desulfobacterales",
+      "Species": "Desulfobacterales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Fibrobacterota",
+      "Family": "unclassified Fibrobacterota",
+      "Genus": "Fibrobacterota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Spirochaetaceae",
+      "Species": "unclassified Spirochaetaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Pseudomonadati": 6
+    },
+    "Class": {
+      "Spirochaetota": 3,
+      "Pseudomonadota": 1,
+      "Thermodesulfobacteriota": 1,
+      "FCB group": 1
+    },
+    "Order": {
+      "unclassified Spirochaetota": 2,
+      "unclassified Pseudomonadota": 1,
+      "Desulfobacteria": 1,
+      "Fibrobacterota": 1,
+      "Spirochaetia": 1
+    },
+    "Family": {
+      "Spirochaetota bacterium": 2,
+      "Pseudomonadota bacterium": 1,
+      "Desulfobacterales": 1,
+      "unclassified Fibrobacterota": 1,
+      "Spirochaetales": 1
+    },
+    "Genus": {
+      "unclassified Desulfobacterales": 1,
+      "Fibrobacterota bacterium": 1,
+      "Spirochaetaceae": 1
+    },
+    "Species": {
+      "Desulfobacterales bacterium": 1,
+      "unclassified Spirochaetaceae": 1
+    }
+  }
+}

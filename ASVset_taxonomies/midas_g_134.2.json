@@ -1,0 +1,43 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Myxococcota",
+      "Order": "Myxococcia",
+      "Family": "unclassified Myxococcia",
+      "Genus": "Deltaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "unclassified Spirochaetota",
+      "Family": "Spirochaetota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Myxococcota": 1,
+      "Spirochaetota": 1
+    },
+    "Order": {
+      "Myxococcia": 1,
+      "unclassified Spirochaetota": 1
+    },
+    "Family": {
+      "unclassified Myxococcia": 1,
+      "Spirochaetota bacterium": 1
+    },
+    "Genus": {
+      "Deltaproteobacteria bacterium": 1
+    },
+    "Species": {}
+  }
+}

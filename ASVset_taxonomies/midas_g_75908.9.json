@@ -1,0 +1,71 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Clostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Clostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Natronincolaceae",
+      "Species": "Natronincola"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Bacillati": 4
+    },
+    "Class": {
+      "Bacillota": 3,
+      "Actinomycetota": 1
+    },
+    "Order": {
+      "Clostridia": 3,
+      "Actinomycetes": 1
+    },
+    "Family": {
+      "Eubacteriales": 2,
+      "Mycobacteriales": 1,
+      "Peptostreptococcales": 1
+    },
+    "Genus": {
+      "Clostridiaceae": 2,
+      "Mycobacteriaceae": 1,
+      "Natronincolaceae": 1
+    },
+    "Species": {
+      "Clostridium": 2,
+      "Mycobacterium": 1,
+      "Natronincola": 1
+    }
+  }
+}

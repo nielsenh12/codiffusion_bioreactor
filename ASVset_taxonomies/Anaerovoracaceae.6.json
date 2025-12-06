@@ -1,0 +1,59 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Nocardioidaceae",
+      "Species": "Propionicimonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Peptostreptococcales",
+      "Genus": "Anaerovoracaceae",
+      "Species": "Anaerovorax"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Nocardioidaceae",
+      "Species": "Propionicimonas"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Bacillati": 3
+    },
+    "Class": {
+      "Actinomycetota": 2,
+      "Bacillota": 1
+    },
+    "Order": {
+      "Actinomycetes": 2,
+      "Clostridia": 1
+    },
+    "Family": {
+      "Propionibacteriales": 2,
+      "Peptostreptococcales": 1
+    },
+    "Genus": {
+      "Nocardioidaceae": 2,
+      "Anaerovoracaceae": 1
+    },
+    "Species": {
+      "Propionicimonas": 2,
+      "Anaerovorax": 1
+    }
+  }
+}

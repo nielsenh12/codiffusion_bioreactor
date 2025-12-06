@@ -1,51 +1,83 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Nakamurellales",
+      "Genus": "Nakamurellaceae",
+      "Species": "Nakamurella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Brucellaceae",
+      "Species": "Brucella/Ochrobactrum group"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Staphylococcaceae",
+      "Species": "Staphylococcus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Brucellaceae",
+      "Species": "Brucella/Ochrobactrum group"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Brucellaceae",
+      "Species": "Brucella/Ochrobactrum group"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Actinomycetota",
-    "Pseudomonadota",
-    "Bacillota",
-    "Pseudomonadota",
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "Actinomycetes",
-    "Alphaproteobacteria",
-    "Bacilli",
-    "Alphaproteobacteria",
-    "Alphaproteobacteria"
-  ],
-  "Family": [
-    "Nakamurellales",
-    "Hyphomicrobiales",
-    "Bacillales",
-    "Hyphomicrobiales",
-    "Hyphomicrobiales"
-  ],
-  "Genus": [
-    "Nakamurellaceae",
-    "Brucellaceae",
-    "Staphylococcaceae",
-    "Brucellaceae",
-    "Brucellaceae"
-  ],
-  "Species": [
-    "Nakamurella",
-    "Brucella/Ochrobactrum group",
-    "Staphylococcus",
-    "Brucella/Ochrobactrum group",
-    "Brucella/Ochrobactrum group"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Bacillati": 2,
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "Actinomycetota": 1,
+      "Pseudomonadota": 3,
+      "Bacillota": 1
+    },
+    "Order": {
+      "Actinomycetes": 1,
+      "Alphaproteobacteria": 3,
+      "Bacilli": 1
+    },
+    "Family": {
+      "Nakamurellales": 1,
+      "Hyphomicrobiales": 3,
+      "Bacillales": 1
+    },
+    "Genus": {
+      "Nakamurellaceae": 1,
+      "Brucellaceae": 3,
+      "Staphylococcaceae": 1
+    },
+    "Species": {
+      "Nakamurella": 1,
+      "Brucella/Ochrobactrum group": 3,
+      "Staphylococcus": 1
+    }
+  }
 }

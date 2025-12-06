@@ -1,0 +1,211 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Thermovirgaceae",
+      "Species": "unclassified Thermovirgaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "environmental samples",
+      "Family": "uncultured Acidobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Limnochordia",
+      "Family": "unclassified Limnochordia",
+      "Genus": "Limnochordia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Spirochaetaceae",
+      "Species": "unclassified Spirochaetaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "environmental samples",
+      "Family": "uncultured Acidobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "environmental samples",
+      "Family": "uncultured Acidobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "environmental samples",
+      "Family": "uncultured Acidobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "unclassified Acidobacteriota",
+      "Family": "Acidobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "Terriglobia",
+      "Family": "unclassified Terriglobia",
+      "Genus": "Terriglobia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "Terriglobia",
+      "Family": "unclassified Terriglobia",
+      "Genus": "Terriglobia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Thermotogati",
+      "Class": "Synergistota",
+      "Order": "Synergistia",
+      "Family": "Synergistales",
+      "Genus": "Synergistaceae",
+      "Species": "unclassified Synergistaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "environmental samples",
+      "Family": "uncultured Acidobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "environmental samples",
+      "Family": "uncultured Acidobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "Candidatus Polarisedimenticolia",
+      "Family": "unclassified Candidatus Polarisedimenticolia",
+      "Genus": "Candidatus Polarisedimenticolia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "environmental samples",
+      "Family": "uncultured Acidobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "environmental samples",
+      "Family": "uncultured Acidobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "unclassified Acidobacteriota",
+      "Family": "Acidobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "environmental samples",
+      "Family": "uncultured Acidobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "unclassified Acidobacteriota",
+      "Family": "Acidobacteriota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "environmental samples",
+      "Family": "uncultured Acidobacteriota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 21
+    },
+    "Phylum": {
+      "Thermotogati": 2,
+      "Pseudomonadati": 17,
+      "Bacillati": 2
+    },
+    "Class": {
+      "Synergistota": 2,
+      "Acidobacteriota": 16,
+      "Bacillota": 1,
+      "Spirochaetota": 1,
+      "Chloroflexota": 1
+    },
+    "Order": {
+      "Synergistia": 2,
+      "environmental samples": 10,
+      "Limnochordia": 1,
+      "Spirochaetia": 1,
+      "unclassified Chloroflexota": 1,
+      "unclassified Acidobacteriota": 3,
+      "Terriglobia": 2,
+      "Candidatus Polarisedimenticolia": 1
+    },
+    "Family": {
+      "Synergistales": 2,
+      "uncultured Acidobacteriota bacterium": 10,
+      "unclassified Limnochordia": 1,
+      "Spirochaetales": 1,
+      "Chloroflexota bacterium": 1,
+      "Acidobacteriota bacterium": 3,
+      "unclassified Terriglobia": 2,
+      "unclassified Candidatus Polarisedimenticolia": 1
+    },
+    "Genus": {
+      "Thermovirgaceae": 1,
+      "Limnochordia bacterium": 1,
+      "Spirochaetaceae": 1,
+      "Terriglobia bacterium": 2,
+      "Synergistaceae": 1,
+      "Candidatus Polarisedimenticolia bacterium": 1
+    },
+    "Species": {
+      "unclassified Thermovirgaceae": 1,
+      "unclassified Spirochaetaceae": 1,
+      "unclassified Synergistaceae": 1
+    }
+  }
+}

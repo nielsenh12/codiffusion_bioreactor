@@ -1,0 +1,33 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "unclassified Acidimicrobiia",
+      "Genus": "Acidimicrobiia bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacillati": 1
+    },
+    "Class": {
+      "Actinomycetota": 1
+    },
+    "Order": {
+      "Acidimicrobiia": 1
+    },
+    "Family": {
+      "unclassified Acidimicrobiia": 1
+    },
+    "Genus": {
+      "Acidimicrobiia bacterium": 1
+    },
+    "Species": {}
+  }
+}

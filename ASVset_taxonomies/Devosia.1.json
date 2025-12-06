@@ -1,82 +1,124 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Devosiaceae",
+      "Species": "Devosia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Devosiaceae",
+      "Species": "Devosia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Nitrospirota",
+      "Order": "Nitrospiria",
+      "Family": "Nitrospirales",
+      "Genus": "Nitrospiraceae",
+      "Species": "Nitrospira"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Alphaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Devosiaceae",
+      "Species": "Devosia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Alphaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Devosiaceae",
+      "Species": "Devosia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Devosiaceae",
+      "Species": "Devosia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Nitrospirota",
+      "Order": "Nitrospiria",
+      "Family": "Nitrospirales",
+      "Genus": "Nitrospiraceae",
+      "Species": "Nitrospira"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Bacillota",
-    "Nitrospirota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Nitrospirota"
-  ],
-  "Order": [
-    "Alphaproteobacteria",
-    "Alphaproteobacteria",
-    "unclassified Bacillota",
-    "Nitrospiria",
-    "Alphaproteobacteria",
-    "Alphaproteobacteria",
-    "Alphaproteobacteria",
-    "Alphaproteobacteria",
-    "Alphaproteobacteria",
-    "Nitrospiria"
-  ],
-  "Family": [
-    "Hyphomicrobiales",
-    "Hyphomicrobiales",
-    "Bacillota bacterium",
-    "Nitrospirales",
-    "environmental samples",
-    "Hyphomicrobiales",
-    "environmental samples",
-    "Hyphomicrobiales",
-    "Hyphomicrobiales",
-    "Nitrospirales"
-  ],
-  "Genus": [
-    "Devosiaceae",
-    "Devosiaceae",
-    "Nitrospiraceae",
-    "uncultured Alphaproteobacteria bacterium",
-    "Devosiaceae",
-    "uncultured Alphaproteobacteria bacterium",
-    "Devosiaceae",
-    "Devosiaceae",
-    "Nitrospiraceae"
-  ],
-  "Species": [
-    "Devosia",
-    "Devosia",
-    "Nitrospira",
-    "Devosia",
-    "Devosia",
-    "Devosia",
-    "Nitrospira"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 10
+    },
+    "Phylum": {
+      "Pseudomonadati": 9,
+      "Bacillati": 1
+    },
+    "Class": {
+      "Pseudomonadota": 7,
+      "Bacillota": 1,
+      "Nitrospirota": 2
+    },
+    "Order": {
+      "Alphaproteobacteria": 7,
+      "unclassified Bacillota": 1,
+      "Nitrospiria": 2
+    },
+    "Family": {
+      "Hyphomicrobiales": 5,
+      "Bacillota bacterium": 1,
+      "Nitrospirales": 2,
+      "environmental samples": 2
+    },
+    "Genus": {
+      "Devosiaceae": 5,
+      "Nitrospiraceae": 2,
+      "uncultured Alphaproteobacteria bacterium": 2
+    },
+    "Species": {
+      "Devosia": 5,
+      "Nitrospira": 2
+    }
+  }
 }

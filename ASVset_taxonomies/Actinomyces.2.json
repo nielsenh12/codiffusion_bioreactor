@@ -1,0 +1,88 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Bifidobacteriales",
+      "Genus": "Bifidobacteriaceae",
+      "Species": "Bifidobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Actinomycetales",
+      "Genus": "Actinomycetaceae",
+      "Species": "Pauljensenia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Actinomycetales",
+      "Genus": "Actinomycetaceae",
+      "Species": "Actinomyces"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Actinomycetales",
+      "Genus": "Actinomycetaceae",
+      "Species": "Actinomyces"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Bacillati": 6
+    },
+    "Class": {
+      "Actinomycetota": 6
+    },
+    "Order": {
+      "Actinomycetes": 6
+    },
+    "Family": {
+      "Bifidobacteriales": 1,
+      "Actinomycetales": 3,
+      "Mycobacteriales": 2
+    },
+    "Genus": {
+      "Bifidobacteriaceae": 1,
+      "Actinomycetaceae": 3,
+      "Mycobacteriaceae": 2
+    },
+    "Species": {
+      "Bifidobacterium": 1,
+      "Pauljensenia": 1,
+      "Mycobacterium": 2,
+      "Actinomyces": 2
+    }
+  }
+}

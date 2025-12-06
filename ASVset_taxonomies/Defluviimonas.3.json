@@ -1,0 +1,58 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Aeromonadales",
+      "Genus": "Aeromonadaceae",
+      "Species": "Tolumonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Paracoccaceae",
+      "Species": "Albidovulum"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodobacterales",
+      "Genus": "Paracoccaceae",
+      "Species": "Albidovulum"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "Pseudomonadota": 3
+    },
+    "Order": {
+      "Gammaproteobacteria": 1,
+      "Alphaproteobacteria": 2
+    },
+    "Family": {
+      "Aeromonadales": 1,
+      "Rhodobacterales": 2
+    },
+    "Genus": {
+      "Aeromonadaceae": 1,
+      "Paracoccaceae": 2
+    },
+    "Species": {
+      "Tolumonas": 1,
+      "Albidovulum": 2
+    }
+  }
+}

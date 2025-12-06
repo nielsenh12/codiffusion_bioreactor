@@ -1,0 +1,96 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Candidatus Darwinibacteriales",
+      "Genus": "Candidatus Darwinibacteriaceae",
+      "Species": "Candidatus Darwinibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Candidatus Darwinibacteriales",
+      "Genus": "Candidatus Wallacebacteriaceae",
+      "Species": "Candidatus Wallacebacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Clostridiales bacterium DTU012"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Candidatus Darwinibacteriales",
+      "Genus": "Candidatus Wallacebacteriaceae",
+      "Species": "Candidatus Wallacebacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Halanaerobiales",
+      "Genus": "Halothermotrichaceae",
+      "Species": "Halothermothrix"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 7
+    },
+    "Phylum": {
+      "Bacillati": 7
+    },
+    "Class": {
+      "Bacillota": 7
+    },
+    "Order": {
+      "Clostridia": 5,
+      "unclassified Bacillota": 2
+    },
+    "Family": {
+      "Candidatus Darwinibacteriales": 3,
+      "Eubacteriales": 1,
+      "Bacillota bacterium": 2,
+      "Halanaerobiales": 1
+    },
+    "Genus": {
+      "Candidatus Darwinibacteriaceae": 1,
+      "Candidatus Wallacebacteriaceae": 2,
+      "unclassified Eubacteriales": 1,
+      "Halothermotrichaceae": 1
+    },
+    "Species": {
+      "Candidatus Darwinibacter": 1,
+      "Candidatus Wallacebacter": 2,
+      "Clostridiales bacterium DTU012": 1,
+      "Halothermothrix": 1
+    }
+  }
+}

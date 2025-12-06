@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Aggregatilineales",
+      "Genus": "unclassified Aggregatilineales",
+      "Species": "Aggregatilineales bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacillati": 1
+    },
+    "Class": {
+      "Chloroflexota": 1
+    },
+    "Order": {
+      "Anaerolineae": 1
+    },
+    "Family": {
+      "Aggregatilineales": 1
+    },
+    "Genus": {
+      "unclassified Aggregatilineales": 1
+    },
+    "Species": {
+      "Aggregatilineales bacterium": 1
+    }
+  }
+}

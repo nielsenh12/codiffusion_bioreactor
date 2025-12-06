@@ -1,0 +1,50 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Verrucomicrobiota",
+      "Family": "Verrucomicrobiia",
+      "Genus": "unclassified Verrucomicrobiia",
+      "Species": "Verrucomicrobiia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodospirillales",
+      "Genus": "Allostellaceae",
+      "Species": "Allostella"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "PVC group": 1,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Verrucomicrobiota": 1,
+      "Alphaproteobacteria": 1
+    },
+    "Family": {
+      "Verrucomicrobiia": 1,
+      "Rhodospirillales": 1
+    },
+    "Genus": {
+      "unclassified Verrucomicrobiia": 1,
+      "Allostellaceae": 1
+    },
+    "Species": {
+      "Verrucomicrobiia bacterium": 1,
+      "Allostella": 1
+    }
+  }
+}

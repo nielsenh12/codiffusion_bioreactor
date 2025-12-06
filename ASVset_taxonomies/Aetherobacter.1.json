@@ -1,0 +1,30 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "delta/epsilon subdivisions": 1
+    },
+    "Class": {
+      "Deltaproteobacteria": 1
+    },
+    "Order": {
+      "environmental samples": 1
+    },
+    "Family": {
+      "uncultured delta proteobacterium": 1
+    },
+    "Genus": {},
+    "Species": {}
+  }
+}

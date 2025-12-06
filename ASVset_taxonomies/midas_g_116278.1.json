@@ -1,0 +1,219 @@
+{
+  "members": [
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Thermoproteati",
+      "Class": "Thermoproteota",
+      "Order": "unclassified Thermoproteota",
+      "Family": "Candidatus Martarchaeota archaeon"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Anaerolineales",
+      "Genus": "Anaerolineaceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Candidatus Limnocylindria",
+      "Family": "Candidatus Limnocylindrales",
+      "Genus": "unclassified Candidatus Limnocylindrales",
+      "Species": "Candidatus Limnocylindrales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Candidatus Limnocylindria",
+      "Family": "Candidatus Limnocylindrales",
+      "Genus": "unclassified Candidatus Limnocylindrales",
+      "Species": "Candidatus Limnocylindrales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "candidate division WOR-3",
+      "Family": "candidate division WOR-3 bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "unclassified Anaerolineae",
+      "Genus": "Anaerolineae bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Candidatus Limnocylindria",
+      "Family": "Candidatus Limnocylindrales",
+      "Genus": "unclassified Candidatus Limnocylindrales",
+      "Species": "Candidatus Limnocylindrales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Acidimicrobiia",
+      "Family": "unclassified Acidimicrobiia",
+      "Genus": "Acidimicrobiia bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Archaea": 1,
+      "Bacteria": 20
+    },
+    "Phylum": {
+      "Thermoproteati": 1,
+      "Bacillati": 19,
+      "Bacteria incertae sedis": 1
+    },
+    "Class": {
+      "Thermoproteota": 1,
+      "Chloroflexota": 18,
+      "Bacteria candidate phyla": 1,
+      "Actinomycetota": 1
+    },
+    "Order": {
+      "unclassified Thermoproteota": 1,
+      "unclassified Chloroflexota": 2,
+      "Anaerolineae": 2,
+      "Candidatus Limnocylindria": 3,
+      "Chloroflexia": 11,
+      "candidate division WOR-3": 1,
+      "Acidimicrobiia": 1
+    },
+    "Family": {
+      "Candidatus Martarchaeota archaeon": 1,
+      "Chloroflexota bacterium": 2,
+      "Anaerolineales": 1,
+      "Candidatus Limnocylindrales": 3,
+      "environmental samples": 11,
+      "candidate division WOR-3 bacterium": 1,
+      "unclassified Anaerolineae": 1,
+      "unclassified Acidimicrobiia": 1
+    },
+    "Genus": {
+      "Anaerolineaceae": 1,
+      "unclassified Candidatus Limnocylindrales": 3,
+      "uncultured Chloroflexia bacterium": 11,
+      "Anaerolineae bacterium": 1,
+      "Acidimicrobiia bacterium": 1
+    },
+    "Species": {
+      "environmental samples": 1,
+      "Candidatus Limnocylindrales bacterium": 3
+    }
+  }
+}

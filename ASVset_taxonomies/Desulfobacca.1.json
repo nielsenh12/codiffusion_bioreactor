@@ -1,0 +1,47 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "delta/epsilon subdivisions",
+      "Class": "Deltaproteobacteria",
+      "Order": "environmental samples",
+      "Family": "uncultured delta proteobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "environmental samples",
+      "Family": "uncultured Pseudomonadota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "delta/epsilon subdivisions": 2,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Deltaproteobacteria": 2,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "environmental samples": 3
+    },
+    "Family": {
+      "uncultured delta proteobacterium": 2,
+      "uncultured Pseudomonadota bacterium": 1
+    },
+    "Genus": {},
+    "Species": {}
+  }
+}

@@ -1,122 +1,193 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Gracilibacteraceae",
+      "Species": "Gracilibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Acetivibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Acetivibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Petroclostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Candidatus Cloacimonadota",
+      "Family": "unclassified Candidatus Cloacimonadota",
+      "Genus": "Candidatus Cloacimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Ruminiclostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Acetivibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Nitrobacteraceae",
+      "Species": "Rhodopseudomonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium LX-D"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Oscillospiraceae",
+      "Species": "Acetivibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Firmicutes bacterium UBA994"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "unclassified Bacteria",
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Bacillota",
-    "FCB group",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "bacterium",
-    "FCB group",
-    "Bacillota",
-    "Bacillota",
-    "FCB group",
-    "Pseudomonadota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota"
-  ],
-  "Order": [
-    "Clostridia",
-    "Bacteroidota/Chlorobiota group",
-    "Clostridia",
-    "Clostridia",
-    "unclassified Bacillota",
-    "Clostridia",
-    "Candidatus Cloacimonadota",
-    "Clostridia",
-    "Clostridia",
-    "Bacteroidota/Chlorobiota group",
-    "Alphaproteobacteria",
-    "unclassified Bacillota",
-    "unclassified Bacillota",
-    "Clostridia",
-    "Clostridia",
-    "unclassified Bacillota"
-  ],
-  "Family": [
-    "Eubacteriales",
-    "Bacteroidota",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Bacillota bacterium",
-    "Eubacteriales",
-    "unclassified Candidatus Cloacimonadota",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Bacteroidota",
-    "Hyphomicrobiales",
-    "Bacillota bacterium LX-D",
-    "Bacillota bacterium",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Firmicutes bacterium UBA994"
-  ],
-  "Genus": [
-    "Gracilibacteraceae",
-    "Bacteroidia",
-    "Oscillospiraceae",
-    "Oscillospiraceae",
-    "Oscillospiraceae",
-    "Candidatus Cloacimonadota bacterium",
-    "Oscillospiraceae",
-    "Oscillospiraceae",
-    "Bacteroidia",
-    "Nitrobacteraceae",
-    "Oscillospiraceae",
-    "Clostridiaceae"
-  ],
-  "Species": [
-    "Gracilibacter",
-    "Bacteroidales",
-    "Acetivibrio",
-    "Acetivibrio",
-    "Petroclostridium",
-    "Ruminiclostridium",
-    "Acetivibrio",
-    "Bacteroidales",
-    "Rhodopseudomonas",
-    "Acetivibrio",
-    "environmental samples"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 17
+    },
+    "Phylum": {
+      "Bacillati": 12,
+      "Pseudomonadati": 4,
+      "unclassified Bacteria": 1
+    },
+    "Class": {
+      "Bacillota": 12,
+      "FCB group": 3,
+      "bacterium": 1,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Clostridia": 8,
+      "Bacteroidota/Chlorobiota group": 2,
+      "unclassified Bacillota": 4,
+      "Candidatus Cloacimonadota": 1,
+      "Alphaproteobacteria": 1
+    },
+    "Family": {
+      "Eubacteriales": 8,
+      "Bacteroidota": 2,
+      "Bacillota bacterium": 2,
+      "unclassified Candidatus Cloacimonadota": 1,
+      "Hyphomicrobiales": 1,
+      "Bacillota bacterium LX-D": 1,
+      "Firmicutes bacterium UBA994": 1
+    },
+    "Genus": {
+      "Gracilibacteraceae": 1,
+      "Bacteroidia": 2,
+      "Oscillospiraceae": 6,
+      "Candidatus Cloacimonadota bacterium": 1,
+      "Nitrobacteraceae": 1,
+      "Clostridiaceae": 1
+    },
+    "Species": {
+      "Gracilibacter": 1,
+      "Bacteroidales": 2,
+      "Acetivibrio": 4,
+      "Petroclostridium": 1,
+      "Ruminiclostridium": 1,
+      "Rhodopseudomonas": 1,
+      "environmental samples": 1
+    }
+  }
 }

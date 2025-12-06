@@ -1,0 +1,52 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Clostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Clostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Bacillati": 2,
+      "unclassified Bacteria": 1
+    },
+    "Class": {
+      "Bacillota": 2,
+      "bacterium": 1
+    },
+    "Order": {
+      "Clostridia": 2
+    },
+    "Family": {
+      "Eubacteriales": 2
+    },
+    "Genus": {
+      "Clostridiaceae": 2
+    },
+    "Species": {
+      "Clostridium": 2
+    }
+  }
+}

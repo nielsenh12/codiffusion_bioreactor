@@ -1,0 +1,74 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Syntrophobacteria",
+      "Family": "Syntrophobacterales",
+      "Genus": "Syntrophobacteraceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Syntrophobacteria",
+      "Family": "Syntrophobacterales",
+      "Genus": "Syntrophobacteraceae",
+      "Species": "Syntrophobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Syntrophobacteria",
+      "Family": "Syntrophobacterales",
+      "Genus": "Syntrophobacteraceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Syntrophobacteria",
+      "Family": "Syntrophobacterales",
+      "Genus": "Syntrophobacteraceae",
+      "Species": "Syntrophobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Syntrophobacteria",
+      "Family": "Syntrophobacterales",
+      "Genus": "Syntrophobacteraceae",
+      "Species": "unclassified Syntrophobacteraceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Pseudomonadati": 5
+    },
+    "Class": {
+      "Thermodesulfobacteriota": 5
+    },
+    "Order": {
+      "Syntrophobacteria": 5
+    },
+    "Family": {
+      "Syntrophobacterales": 5
+    },
+    "Genus": {
+      "Syntrophobacteraceae": 5
+    },
+    "Species": {
+      "environmental samples": 2,
+      "Syntrophobacter": 2,
+      "unclassified Syntrophobacteraceae": 1
+    }
+  }
+}

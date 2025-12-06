@@ -1,79 +1,108 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Moraxellales",
+      "Genus": "Moraxellaceae",
+      "Species": "Acinetobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Moraxellales",
+      "Genus": "Moraxellaceae",
+      "Species": "Acinetobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Moraxellales",
+      "Genus": "Moraxellaceae",
+      "Species": "Acinetobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Moraxellales",
+      "Genus": "Moraxellaceae",
+      "Species": "Acinetobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Moraxellales",
+      "Genus": "Moraxellaceae",
+      "Species": "Acinetobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Moraxellales",
+      "Genus": "Moraxellaceae",
+      "Species": "Acinetobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Moraxellales",
+      "Genus": "Moraxellaceae",
+      "Species": "Acinetobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Moraxellales",
+      "Genus": "Moraxellaceae",
+      "Species": "Acinetobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Moraxellales",
+      "Genus": "Moraxellaceae",
+      "Species": "Acinetobacter"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "Gammaproteobacteria",
-    "Gammaproteobacteria",
-    "Gammaproteobacteria",
-    "Gammaproteobacteria",
-    "Gammaproteobacteria",
-    "Gammaproteobacteria",
-    "Gammaproteobacteria",
-    "Gammaproteobacteria",
-    "Gammaproteobacteria"
-  ],
-  "Family": [
-    "Moraxellales",
-    "Moraxellales",
-    "Moraxellales",
-    "Moraxellales",
-    "Moraxellales",
-    "Moraxellales",
-    "Moraxellales",
-    "Moraxellales",
-    "Moraxellales"
-  ],
-  "Genus": [
-    "Moraxellaceae",
-    "Moraxellaceae",
-    "Moraxellaceae",
-    "Moraxellaceae",
-    "Moraxellaceae",
-    "Moraxellaceae",
-    "Moraxellaceae",
-    "Moraxellaceae",
-    "Moraxellaceae"
-  ],
-  "Species": [
-    "Acinetobacter",
-    "Acinetobacter",
-    "Acinetobacter",
-    "Acinetobacter",
-    "Acinetobacter",
-    "Acinetobacter",
-    "Acinetobacter",
-    "Acinetobacter",
-    "Acinetobacter"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 9
+    },
+    "Phylum": {
+      "Pseudomonadati": 9
+    },
+    "Class": {
+      "Pseudomonadota": 9
+    },
+    "Order": {
+      "Gammaproteobacteria": 9
+    },
+    "Family": {
+      "Moraxellales": 9
+    },
+    "Genus": {
+      "Moraxellaceae": 9
+    },
+    "Species": {
+      "Acinetobacter": 9
+    }
+  }
 }

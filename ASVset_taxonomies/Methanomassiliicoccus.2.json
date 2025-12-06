@@ -1,23 +1,36 @@
 {
-  "Kingdom": [
-    "Archaea"
+  "members": [
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Thermoplasmatota",
+      "Order": "Thermoplasmata",
+      "Family": "Methanomassiliicoccales",
+      "Genus": "Methanomassiliicoccaceae",
+      "Species": "unclassified Methanomassiliicoccaceae"
+    }
   ],
-  "Phylum": [
-    "Methanobacteriati"
-  ],
-  "Class": [
-    "Thermoplasmatota"
-  ],
-  "Order": [
-    "Thermoplasmata"
-  ],
-  "Family": [
-    "Methanomassiliicoccales"
-  ],
-  "Genus": [
-    "Methanomassiliicoccaceae"
-  ],
-  "Species": [
-    "unclassified Methanomassiliicoccaceae"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Archaea": 1
+    },
+    "Phylum": {
+      "Methanobacteriati": 1
+    },
+    "Class": {
+      "Thermoplasmatota": 1
+    },
+    "Order": {
+      "Thermoplasmata": 1
+    },
+    "Family": {
+      "Methanomassiliicoccales": 1
+    },
+    "Genus": {
+      "Methanomassiliicoccaceae": 1
+    },
+    "Species": {
+      "unclassified Methanomassiliicoccaceae": 1
+    }
+  }
 }

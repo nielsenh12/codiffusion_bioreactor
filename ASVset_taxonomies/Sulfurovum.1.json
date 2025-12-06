@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Campylobacterota",
+      "Order": "Epsilonproteobacteria",
+      "Family": "Campylobacterales",
+      "Genus": "Sulfurovaceae",
+      "Species": "Sulfurovum"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Campylobacterota": 1
+    },
+    "Order": {
+      "Epsilonproteobacteria": 1
+    },
+    "Family": {
+      "Campylobacterales": 1
+    },
+    "Genus": {
+      "Sulfurovaceae": 1
+    },
+    "Species": {
+      "Sulfurovum": 1
+    }
+  }
+}

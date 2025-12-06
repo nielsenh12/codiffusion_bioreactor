@@ -1,79 +1,122 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Lachnospirales",
+      "Genus": "Lachnospiraceae",
+      "Species": "Otoolea"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Clostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Clostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "environmental samples"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Clostridium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Lactobacillaceae",
+      "Species": "Limosilactobacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Clostridiaceae",
+      "Species": "Clostridium"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "FCB group",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "FCB group",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota"
-  ],
-  "Order": [
-    "Bacteroidota/Chlorobiota group",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Bacteroidota/Chlorobiota group",
-    "Clostridia",
-    "Bacilli",
-    "Clostridia"
-  ],
-  "Family": [
-    "Bacteroidota",
-    "Lachnospirales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Eubacteriales",
-    "Bacteroidota",
-    "Eubacteriales",
-    "Lactobacillales",
-    "Eubacteriales"
-  ],
-  "Genus": [
-    "Bacteroidia",
-    "Lachnospiraceae",
-    "Clostridiaceae",
-    "Clostridiaceae",
-    "Clostridiaceae",
-    "Bacteroidia",
-    "Clostridiaceae",
-    "Lactobacillaceae",
-    "Clostridiaceae"
-  ],
-  "Species": [
-    "Bacteroidales",
-    "Otoolea",
-    "Clostridium",
-    "Clostridium",
-    "environmental samples",
-    "Bacteroidales",
-    "Clostridium",
-    "Limosilactobacillus",
-    "Clostridium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 9
+    },
+    "Phylum": {
+      "Pseudomonadati": 2,
+      "Bacillati": 7
+    },
+    "Class": {
+      "FCB group": 2,
+      "Bacillota": 7
+    },
+    "Order": {
+      "Bacteroidota/Chlorobiota group": 2,
+      "Clostridia": 6,
+      "Bacilli": 1
+    },
+    "Family": {
+      "Bacteroidota": 2,
+      "Lachnospirales": 1,
+      "Eubacteriales": 5,
+      "Lactobacillales": 1
+    },
+    "Genus": {
+      "Bacteroidia": 2,
+      "Lachnospiraceae": 1,
+      "Clostridiaceae": 5,
+      "Lactobacillaceae": 1
+    },
+    "Species": {
+      "Bacteroidales": 2,
+      "Otoolea": 1,
+      "Clostridium": 4,
+      "environmental samples": 1,
+      "Limosilactobacillus": 1
+    }
+  }
 }

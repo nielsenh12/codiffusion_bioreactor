@@ -1,51 +1,78 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Corynebacteriaceae",
+      "Species": "Corynebacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Enterobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Corynebacteriaceae",
+      "Species": "Corynebacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Corynebacteriaceae",
+      "Species": "Corynebacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Corynebacteriaceae",
+      "Species": "Corynebacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Actinomycetota",
-    "Pseudomonadota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota"
-  ],
-  "Order": [
-    "Actinomycetes",
-    "Gammaproteobacteria",
-    "Actinomycetes",
-    "Actinomycetes",
-    "Actinomycetes"
-  ],
-  "Family": [
-    "Mycobacteriales",
-    "Enterobacterales",
-    "Mycobacteriales",
-    "Mycobacteriales",
-    "Mycobacteriales"
-  ],
-  "Genus": [
-    "Corynebacteriaceae",
-    "Enterobacteriaceae",
-    "Corynebacteriaceae",
-    "Corynebacteriaceae",
-    "Corynebacteriaceae"
-  ],
-  "Species": [
-    "Corynebacterium",
-    "Enterobacter",
-    "Corynebacterium",
-    "Corynebacterium",
-    "Corynebacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Bacillati": 4,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Actinomycetota": 4,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Actinomycetes": 4,
+      "Gammaproteobacteria": 1
+    },
+    "Family": {
+      "Mycobacteriales": 4,
+      "Enterobacterales": 1
+    },
+    "Genus": {
+      "Corynebacteriaceae": 4,
+      "Enterobacteriaceae": 1
+    },
+    "Species": {
+      "Corynebacterium": 4,
+      "Enterobacter": 1
+    }
+  }
 }

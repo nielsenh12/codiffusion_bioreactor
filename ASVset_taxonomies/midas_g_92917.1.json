@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Methanobacteriati",
+      "Class": "Methanobacteriota",
+      "Order": "Candidatus Methanoliparia",
+      "Family": "Candidatus Methanoliparales",
+      "Genus": "Candidatus Methanoliparaceae",
+      "Species": "Candidatus Methanoliparum"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Archaea": 1
+    },
+    "Phylum": {
+      "Methanobacteriati": 1
+    },
+    "Class": {
+      "Methanobacteriota": 1
+    },
+    "Order": {
+      "Candidatus Methanoliparia": 1
+    },
+    "Family": {
+      "Candidatus Methanoliparales": 1
+    },
+    "Genus": {
+      "Candidatus Methanoliparaceae": 1
+    },
+    "Species": {
+      "Candidatus Methanoliparum": 1
+    }
+  }
+}

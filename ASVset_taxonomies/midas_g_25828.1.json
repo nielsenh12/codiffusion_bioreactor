@@ -1,58 +1,89 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Bacteroidales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Marinilabiliales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "Marinilabiliales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "unclassified Bacteroidota",
+      "Species": "Bacteroidota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "FCB group",
-    "FCB group",
-    "FCB group",
-    "FCB group",
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "Gammaproteobacteria",
-    "Bacteroidota/Chlorobiota group",
-    "Bacteroidota/Chlorobiota group",
-    "Bacteroidota/Chlorobiota group",
-    "Bacteroidota/Chlorobiota group",
-    "Gammaproteobacteria"
-  ],
-  "Family": [
-    "Enterobacterales",
-    "Bacteroidota",
-    "Bacteroidota",
-    "Bacteroidota",
-    "Bacteroidota",
-    "Enterobacterales"
-  ],
-  "Genus": [
-    "Enterobacteriaceae",
-    "Bacteroidia",
-    "Bacteroidia",
-    "Bacteroidia",
-    "unclassified Bacteroidota",
-    "Enterobacteriaceae"
-  ],
-  "Species": [
-    "Cronobacter",
-    "Bacteroidales",
-    "Marinilabiliales",
-    "Marinilabiliales",
-    "Bacteroidota bacterium",
-    "Cronobacter"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Pseudomonadati": 6
+    },
+    "Class": {
+      "Pseudomonadota": 2,
+      "FCB group": 4
+    },
+    "Order": {
+      "Gammaproteobacteria": 2,
+      "Bacteroidota/Chlorobiota group": 4
+    },
+    "Family": {
+      "Enterobacterales": 2,
+      "Bacteroidota": 4
+    },
+    "Genus": {
+      "Enterobacteriaceae": 2,
+      "Bacteroidia": 3,
+      "unclassified Bacteroidota": 1
+    },
+    "Species": {
+      "Cronobacter": 2,
+      "Bacteroidales": 1,
+      "Marinilabiliales": 2,
+      "Bacteroidota bacterium": 1
+    }
+  }
 }

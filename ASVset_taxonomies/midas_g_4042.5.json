@@ -1,0 +1,66 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermomicrobiota",
+      "Order": "Thermomicrobia",
+      "Family": "Thermomicrobiales",
+      "Genus": "unclassified Thermomicrobiales",
+      "Species": "Thermomicrobiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Berkelbacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Candidatus Berkelbacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermomicrobiota",
+      "Order": "Thermomicrobia",
+      "Family": "Thermomicrobiales",
+      "Genus": "unclassified Thermomicrobiales",
+      "Species": "Thermomicrobiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Berkelbacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Candidatus Berkelbacteria bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 4
+    },
+    "Phylum": {
+      "Pseudomonadati": 2,
+      "Bacteria incertae sedis": 2
+    },
+    "Class": {
+      "Thermomicrobiota": 2,
+      "Bacteria candidate phyla": 2
+    },
+    "Order": {
+      "Thermomicrobia": 2,
+      "Candidatus Berkelbacteria": 2
+    },
+    "Family": {
+      "Thermomicrobiales": 2,
+      "environmental samples": 2
+    },
+    "Genus": {
+      "unclassified Thermomicrobiales": 2,
+      "uncultured Candidatus Berkelbacteria bacterium": 2
+    },
+    "Species": {
+      "Thermomicrobiales bacterium": 2
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermomicrobiota",
+      "Order": "Thermomicrobia",
+      "Family": "Thermomicrobiales",
+      "Genus": "unclassified Thermomicrobiales",
+      "Species": "Thermomicrobiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermomicrobiota",
+      "Order": "Thermomicrobia",
+      "Family": "Thermomicrobiales",
+      "Genus": "unclassified Thermomicrobiales",
+      "Species": "Thermomicrobiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermomicrobiota",
+      "Order": "Thermomicrobia",
+      "Family": "Thermomicrobiales",
+      "Genus": "unclassified Thermomicrobiales",
+      "Species": "Thermomicrobiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermomicrobiota",
+      "Order": "Thermomicrobia",
+      "Family": "Thermomicrobiales",
+      "Genus": "unclassified Thermomicrobiales",
+      "Species": "Thermomicrobiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Armatimonadota",
+      "Order": "unclassified Armatimonadota",
+      "Family": "Armatimonadota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 11
+    },
+    "Phylum": {
+      "Bacillati": 7,
+      "Pseudomonadati": 4
+    },
+    "Class": {
+      "Chloroflexota": 6,
+      "Thermomicrobiota": 4,
+      "Armatimonadota": 1
+    },
+    "Order": {
+      "Chloroflexia": 5,
+      "Thermomicrobia": 4,
+      "unclassified Chloroflexota": 1,
+      "unclassified Armatimonadota": 1
+    },
+    "Family": {
+      "environmental samples": 5,
+      "Thermomicrobiales": 4,
+      "Chloroflexota bacterium": 1,
+      "Armatimonadota bacterium": 1
+    },
+    "Genus": {
+      "uncultured Chloroflexia bacterium": 5,
+      "unclassified Thermomicrobiales": 4
+    },
+    "Species": {
+      "Thermomicrobiales bacterium": 4
+    }
+  }
+}

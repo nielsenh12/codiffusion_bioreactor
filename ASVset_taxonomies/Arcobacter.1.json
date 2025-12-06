@@ -1,0 +1,74 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Campylobacterota",
+      "Order": "Epsilonproteobacteria",
+      "Family": "Campylobacterales",
+      "Genus": "Arcobacteraceae",
+      "Species": "Aliarcobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Campylobacterota",
+      "Order": "Epsilonproteobacteria",
+      "Family": "Campylobacterales",
+      "Genus": "Arcobacteraceae",
+      "Species": "Arcobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Campylobacterota",
+      "Order": "Epsilonproteobacteria",
+      "Family": "Campylobacterales",
+      "Genus": "Arcobacteraceae",
+      "Species": "Aliarcobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Campylobacterota",
+      "Order": "Epsilonproteobacteria",
+      "Family": "Campylobacterales",
+      "Genus": "Arcobacteraceae",
+      "Species": "Aliarcobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "unclassified Pseudomonadota",
+      "Family": "Pseudomonadota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Pseudomonadati": 5
+    },
+    "Class": {
+      "Campylobacterota": 4,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Epsilonproteobacteria": 4,
+      "unclassified Pseudomonadota": 1
+    },
+    "Family": {
+      "Campylobacterales": 4,
+      "Pseudomonadota bacterium": 1
+    },
+    "Genus": {
+      "Arcobacteraceae": 4
+    },
+    "Species": {
+      "Aliarcobacter": 3,
+      "Arcobacter": 1
+    }
+  }
+}

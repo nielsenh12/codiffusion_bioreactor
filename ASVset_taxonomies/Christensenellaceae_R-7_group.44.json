@@ -1,0 +1,33 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Saccharimonadota",
+      "Family": "unclassified Candidatus Saccharimonadota",
+      "Genus": "Candidatus Saccharimonadota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Bacteria incertae sedis": 1
+    },
+    "Class": {
+      "Bacteria candidate phyla": 1
+    },
+    "Order": {
+      "Candidatus Saccharimonadota": 1
+    },
+    "Family": {
+      "unclassified Candidatus Saccharimonadota": 1
+    },
+    "Genus": {
+      "Candidatus Saccharimonadota bacterium": 1
+    },
+    "Species": {}
+  }
+}

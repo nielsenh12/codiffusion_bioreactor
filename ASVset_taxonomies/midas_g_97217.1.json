@@ -1,0 +1,44 @@
+{
+  "members": [
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Thermoproteati",
+      "Class": "Candidatus Bathyarchaeota",
+      "Order": "unclassified Candidatus Bathyarchaeota",
+      "Family": "Candidatus Bathyarchaeota archaeon"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Thermoproteati",
+      "Class": "Candidatus Bathyarchaeota",
+      "Order": "unclassified Candidatus Bathyarchaeota",
+      "Family": "Candidatus Bathyarchaeota archaeon"
+    },
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "Thermoproteati",
+      "Class": "Candidatus Bathyarchaeota",
+      "Order": "unclassified Candidatus Bathyarchaeota",
+      "Family": "Candidatus Bathyarchaeota archaeon"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Archaea": 3
+    },
+    "Phylum": {
+      "Thermoproteati": 3
+    },
+    "Class": {
+      "Candidatus Bathyarchaeota": 3
+    },
+    "Order": {
+      "unclassified Candidatus Bathyarchaeota": 3
+    },
+    "Family": {
+      "Candidatus Bathyarchaeota archaeon": 3
+    },
+    "Genus": {},
+    "Species": {}
+  }
+}

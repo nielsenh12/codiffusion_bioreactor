@@ -1,0 +1,24 @@
+{
+  "members": [
+    {
+      "Kingdom": "Archaea",
+      "Phylum": "environmental samples",
+      "Class": "uncultured archaeon"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Archaea": 1
+    },
+    "Phylum": {
+      "environmental samples": 1
+    },
+    "Class": {
+      "uncultured archaeon": 1
+    },
+    "Order": {},
+    "Family": {},
+    "Genus": {},
+    "Species": {}
+  }
+}

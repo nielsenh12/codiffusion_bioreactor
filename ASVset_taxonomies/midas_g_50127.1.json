@@ -1,0 +1,95 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Patescibacteria group",
+      "Family": "unclassified Patescibacteria group",
+      "Genus": "Patescibacteria group bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Berkelbacteria",
+      "Family": "unclassified Candidatus Berkelbacteria",
+      "Genus": "Candidatus Berkelbacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Berkelbacteria",
+      "Family": "unclassified Candidatus Berkelbacteria",
+      "Genus": "Candidatus Berkelbacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "candidate division CPR2",
+      "Family": "candidate division CPR2 bacterium GW2011_GWC2_39_35"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "candidate division CPR2",
+      "Family": "candidate division CPR2 bacterium GW2011_GWC1_39_9"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "candidate division CPR2",
+      "Family": "candidate division CPR2 bacterium GW2011_GWD1_39_7"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Saccharimonadota",
+      "Family": "environmental samples",
+      "Genus": "uncultured Candidatus Saccharibacteria bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 8
+    },
+    "Phylum": {
+      "Bacteria incertae sedis": 7,
+      "unclassified Bacteria": 1
+    },
+    "Class": {
+      "Bacteria candidate phyla": 7,
+      "bacterium": 1
+    },
+    "Order": {
+      "Patescibacteria group": 1,
+      "Candidatus Berkelbacteria": 2,
+      "candidate division CPR2": 3,
+      "Candidatus Saccharimonadota": 1
+    },
+    "Family": {
+      "unclassified Patescibacteria group": 1,
+      "unclassified Candidatus Berkelbacteria": 2,
+      "candidate division CPR2 bacterium GW2011_GWC2_39_35": 1,
+      "candidate division CPR2 bacterium GW2011_GWC1_39_9": 1,
+      "candidate division CPR2 bacterium GW2011_GWD1_39_7": 1,
+      "environmental samples": 1
+    },
+    "Genus": {
+      "Patescibacteria group bacterium": 1,
+      "Candidatus Berkelbacteria bacterium": 2,
+      "uncultured Candidatus Saccharibacteria bacterium": 1
+    },
+    "Species": {}
+  }
+}

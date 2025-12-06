@@ -1,0 +1,45 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermomicrobiota",
+      "Order": "Thermomicrobia",
+      "Family": "Thermomicrobiales",
+      "Genus": "unclassified Thermomicrobiales",
+      "Species": "Thermomicrobiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermomicrobiota",
+      "Order": "Thermomicrobia",
+      "Family": "Thermomicrobiales",
+      "Genus": "unclassified Thermomicrobiales",
+      "Species": "Thermomicrobiales bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Thermomicrobiota": 2
+    },
+    "Order": {
+      "Thermomicrobia": 2
+    },
+    "Family": {
+      "Thermomicrobiales": 2
+    },
+    "Genus": {
+      "unclassified Thermomicrobiales": 2
+    },
+    "Species": {
+      "Thermomicrobiales bacterium": 2
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "unclassified Planctomycetota",
+      "Genus": "Planctomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Nitrospirota",
+      "Order": "Nitrospiria",
+      "Family": "Nitrospirales",
+      "Genus": "Nitrospiraceae",
+      "Species": "unclassified Nitrospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "Pirellulales",
+      "Species": "Pirellulaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "Planctomycetales",
+      "Species": "Planctomycetaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "Pirellulales",
+      "Species": "Pirellulaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "Pirellulales",
+      "Species": "Pirellulaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "Pirellulales",
+      "Species": "Pirellulaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Patescibacteria group",
+      "Family": "unclassified Patescibacteria group",
+      "Genus": "Patescibacteria group bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "environmental samples",
+      "Species": "uncultured Planctomycetia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Cronobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "Planctomycetales",
+      "Species": "Planctomycetaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Planctomycetia",
+      "Genus": "Pirellulales",
+      "Species": "Pirellulaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 12
+    },
+    "Phylum": {
+      "Pseudomonadati": 11,
+      "Bacteria incertae sedis": 1
+    },
+    "Class": {
+      "PVC group": 9,
+      "Nitrospirota": 1,
+      "Bacteria candidate phyla": 1,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Planctomycetota": 9,
+      "Nitrospiria": 1,
+      "Patescibacteria group": 1,
+      "Gammaproteobacteria": 1
+    },
+    "Family": {
+      "unclassified Planctomycetota": 1,
+      "Nitrospirales": 1,
+      "Planctomycetia": 8,
+      "unclassified Patescibacteria group": 1,
+      "Enterobacterales": 1
+    },
+    "Genus": {
+      "Planctomycetota bacterium": 1,
+      "Nitrospiraceae": 1,
+      "Pirellulales": 5,
+      "Planctomycetales": 2,
+      "Patescibacteria group bacterium": 1,
+      "environmental samples": 1,
+      "Enterobacteriaceae": 1
+    },
+    "Species": {
+      "unclassified Nitrospiraceae": 1,
+      "Pirellulaceae": 5,
+      "Planctomycetaceae": 2,
+      "uncultured Planctomycetia bacterium": 1,
+      "Cronobacter": 1
+    }
+  }
+}

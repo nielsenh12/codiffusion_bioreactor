@@ -1,0 +1,132 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Coriobacteriia",
+      "Family": "Coriobacteriales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Coriobacteriales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "unclassified Actinomycetota",
+      "Family": "Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Coriobacteriia",
+      "Family": "unclassified Coriobacteriia",
+      "Genus": "Coriobacteriia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "unclassified Actinomycetes",
+      "Genus": "Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Thermoflexia",
+      "Family": "Thermoflexales",
+      "Genus": "unclassified Thermoflexales",
+      "Species": "Thermoflexales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Coriobacteriia",
+      "Family": "unclassified Coriobacteriia",
+      "Genus": "Coriobacteriia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Coriobacteriia",
+      "Family": "Coriobacteriales",
+      "Genus": "environmental samples",
+      "Species": "uncultured Coriobacteriales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Coriobacteriia",
+      "Family": "unclassified Coriobacteriia",
+      "Genus": "Coriobacteriia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "unclassified Bacteria",
+      "Class": "bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "unclassified Actinomycetes",
+      "Genus": "Actinomycetes bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "unclassified Actinomycetota",
+      "Family": "Actinomycetota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 12
+    },
+    "Phylum": {
+      "Bacillati": 10,
+      "unclassified Bacteria": 2
+    },
+    "Class": {
+      "Actinomycetota": 9,
+      "bacterium": 2,
+      "Chloroflexota": 1
+    },
+    "Order": {
+      "Coriobacteriia": 5,
+      "unclassified Actinomycetota": 2,
+      "Actinomycetes": 2,
+      "Thermoflexia": 1
+    },
+    "Family": {
+      "Coriobacteriales": 2,
+      "Actinomycetota bacterium": 2,
+      "unclassified Coriobacteriia": 3,
+      "unclassified Actinomycetes": 2,
+      "Thermoflexales": 1
+    },
+    "Genus": {
+      "environmental samples": 2,
+      "Coriobacteriia bacterium": 3,
+      "Actinomycetes bacterium": 2,
+      "unclassified Thermoflexales": 1
+    },
+    "Species": {
+      "uncultured Coriobacteriales bacterium": 2,
+      "Thermoflexales bacterium": 1
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Symbiobacteriaceae",
+      "Species": "Symbiobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Gemmatimonadota",
+      "Family": "unclassified Gemmatimonadota",
+      "Genus": "Gemmatimonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "Symbiobacteriaceae",
+      "Species": "Symbiobacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Bacillati": 5,
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Bacillota": 3,
+      "Actinomycetota": 2,
+      "FCB group": 1
+    },
+    "Order": {
+      "Clostridia": 2,
+      "Actinomycetes": 2,
+      "Gemmatimonadota": 1,
+      "unclassified Bacillota": 1
+    },
+    "Family": {
+      "Eubacteriales": 2,
+      "Mycobacteriales": 2,
+      "unclassified Gemmatimonadota": 1,
+      "Bacillota bacterium": 1
+    },
+    "Genus": {
+      "Symbiobacteriaceae": 2,
+      "Mycobacteriaceae": 2,
+      "Gemmatimonadota bacterium": 1
+    },
+    "Species": {
+      "Symbiobacterium": 2,
+      "Mycobacterium": 2
+    }
+  }
+}

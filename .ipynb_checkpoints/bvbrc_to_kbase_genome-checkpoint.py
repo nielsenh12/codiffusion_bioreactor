@@ -455,6 +455,368 @@ class LocalGenomeConverter:
 
         return defaults
 
+    def visualize_taxonomies(
+        self,
+        tax_info: dict,
+        asv_id: str,
+        output_dir: str = "ASVset_taxonomies"
+    ):
+        import matplotlib.pyplot as plt
+        import numpy as np
+        from collections import Counter, defaultdict
+        from json import load
+        from glob import glob
+        import matplotlib.patheffects as path_effects
+
+        members = tax_info["members"]
+        counts_by_level = tax_info["counts"]
+
+        tax_levels = ["Kingdom", "Phylum", "Class", "Order", "Family", "Genus", "Species"]
+
+        # Build hierarchical mapping: parent_taxon -> [child_taxa]
+        def build_parent_child_map(members, parent_level, child_level):
+            """Build a map of parent taxa to their children"""
+            parent_children = defaultdict(set)
+            for member in members:
+                parent = member.get(parent_level, '')
+                child = member.get(child_level, '')
+                if parent and child:
+                    parent_children[parent].add(child)
+            # Convert sets to sorted lists
+            return {p: sorted(list(c)) for p, c in parent_children.items()}
+
+        def count_members_with_parent(members, parent_level, parent):
+            """Count how many members have this parent"""
+            return sum(1 for m in members if m.get(parent_level, '') == parent)
+
+        def count_members_with_parent_and_child(members, parent_level, parent, child_level):
+            """Count how many members have this parent AND a child at the next level"""
+            return sum(1 for m in members if m.get(parent_level, '') == parent and m.get(child_level, ''))
+
+        # Build ordered list of taxa for each level, maintaining hierarchical alignment
+        ordered_taxa = {}
+        none_counts = {}  # Track counts for "None {parent}" placeholders
+        taxon_to_kingdom = {}  # Track which Kingdom each taxon belongs to for color assignment
+        taxon_to_parent = {}  # Track parent-child relationships for color inheritance
+
+        for i, level in enumerate(tax_levels):
+            if i == 0:
+                # First level: just sort the unique taxa
+                unique_taxa = sorted(set(m.get(level, '') for m in members if m.get(level, '')))
+                ordered_taxa[level] = unique_taxa
+                # Each Kingdom maps to itself
+                for kingdom in unique_taxa:
+                    taxon_to_kingdom[kingdom] = kingdom
+            else:
+                parent_level = tax_levels[i-1]
+                parent_child_map = build_parent_child_map(members, parent_level, child_level=level)
+
+                ordered_list = []
+                # For each parent in order, add all its children
+                for parent in ordered_taxa.get(parent_level, []):
+                    # Get the Kingdom for this parent
+                    parent_kingdom = taxon_to_kingdom.get(parent, "Unknown")
+
+                    # If parent is a "None" placeholder, add a corresponding "None" child to maintain alignment
+                    if parent.startswith("None_"):
+                        # Extract the count from the parent None entry
+                        parent_count = none_counts.get(parent, 0)
+                        if parent_count > 0:
+                            # Add a None placeholder child with the same count to maintain alignment
+                            child_placeholder = f"None_{parent}"  # Nested None tracking
+                            ordered_list.append(child_placeholder)
+                            none_counts[child_placeholder] = parent_count
+                            taxon_to_kingdom[child_placeholder] = parent_kingdom
+                            taxon_to_parent[child_placeholder] = parent
+                        continue
+
+                    children = parent_child_map.get(parent, [])
+
+                    # Count how many members have this parent but no child
+                    parent_total = count_members_with_parent(members, parent_level, parent)
+                    parent_with_child = count_members_with_parent_and_child(members, parent_level, parent, level)
+                    none_count = parent_total - parent_with_child
+
+                    # Find the most populous child (main child) to put it first (appears at bottom of stack)
+                    if children:
+                        # Get counts for all children to find the main one
+                        child_counts = [(child, counts_by_level.get(level, {}).get(child, 0)) for child in children]
+                        child_counts.sort(key=lambda x: x[1], reverse=True)  # Sort by count descending
+                        main_child = child_counts[0][0] if child_counts else None
+
+                        # Add main child first (will be at bottom of stack)
+                        if main_child:
+                            ordered_list.append(main_child)
+                            taxon_to_kingdom[main_child] = parent_kingdom
+                            taxon_to_parent[main_child] = parent
+
+                        # Then add other children
+                        for child, _ in child_counts[1:]:
+                            ordered_list.append(child)
+                            taxon_to_kingdom[child] = parent_kingdom
+                            taxon_to_parent[child] = parent
+
+                    # Add placeholder if there are members with this parent but no child
+                    if none_count > 0:
+                        # Use simple "None" label to save space, but make it unique with parent suffix for tracking
+                        placeholder = f"None_{parent}"
+                        ordered_list.append(placeholder)
+                        none_counts[placeholder] = none_count
+                        taxon_to_kingdom[placeholder] = parent_kingdom
+                        taxon_to_parent[placeholder] = parent
+
+                ordered_taxa[level] = ordered_list
+
+        # Prepare stacked bar data
+        group_names = [level for level in tax_levels if level in counts_by_level]
+        max_subbars = max(len(ordered_taxa.get(level, [])) for level in group_names)
+        group_values = np.zeros((max_subbars, len(group_names)))
+        all_taxa_labels = []  # Track labels for each level
+
+        for j, level in enumerate(group_names):
+            level_labels = []
+            for i, taxon in enumerate(ordered_taxa.get(level, [])):
+                # Get count for this taxon
+                if taxon.startswith("None_"):
+                    group_values[i, j] = none_counts.get(taxon, 0)
+                else:
+                    group_values[i, j] = counts_by_level[level].get(taxon, 0)
+                level_labels.append(taxon)
+            all_taxa_labels.append(level_labels)
+
+        # Find the most populous child for each parent
+        parent_to_main_child = {}
+        for child, parent in taxon_to_parent.items():
+            if child.startswith("None_"):
+                continue  # Skip None placeholders
+
+            # Find which level this child is in
+            child_level = None
+            for level in tax_levels:
+                if child in ordered_taxa.get(level, []):
+                    child_level = level
+                    break
+
+            if child_level:
+                # Get count for this child
+                count = counts_by_level[child_level].get(child, 0)
+
+                # Track if this is the most populous child of its parent
+                if parent not in parent_to_main_child:
+                    parent_to_main_child[parent] = (child, count)
+                else:
+                    prev_child, prev_count = parent_to_main_child[parent]
+                    if count > prev_count:
+                        parent_to_main_child[parent] = (child, count)
+
+        # Extract just the child names
+        parent_to_main_child = {p: c for p, (c, _) in parent_to_main_child.items()}
+
+        # Plotting
+        fig, ax = plt.subplots(figsize=(10, 6), dpi=300)
+        bottom = np.zeros(len(group_names))
+
+        # Create hierarchical color scheme with expanded color families
+        kingdoms = ordered_taxa.get("Kingdom", [])
+
+        # Define color families: Bacteria gets blue-indigo-violet, Archaea gets red-orange-yellow
+        kingdom_to_cmap_family = {
+            'Bacteria': ['Blues', 'Purples', 'BuPu'],  # blue → indigo → violet
+            'Archaea': ['YlOrRd', 'Oranges', 'Reds'],  # yellow → orange → red
+        }
+        # Fallback color families for other kingdoms
+        other_families = [['Greens', 'YlGn'], ['PuRd', 'RdPu'], ['BuGn', 'GnBu']]
+
+        # Build mapping of all available colors per kingdom with continuous sampling
+        def get_color_options(kingdom):
+            """Get many (colormap, intensity) combinations with continuous sampling
+
+            Creates a continuous gradient across the color spectrum:
+            - Bacteria: blue → indigo → purple (40+ options)
+            - Archaea: yellow → orange → red (40+ options)
+
+            Reserves middle intensities (0.45-0.65) for main lineages (best saturation)
+            """
+            if kingdom in kingdom_to_cmap_family:
+                family = kingdom_to_cmap_family[kingdom]
+            else:
+                family = other_families[0]  # Default
+
+            options = []
+
+            # Sample densely from each colormap for continuous gradient
+            # 14 intensity levels per colormap = 42 total options per kingdom
+            num_samples = 14
+
+            for cmap_name in family:
+                for i in range(num_samples):
+                    # Sample across full range: 0.15 to 0.95
+                    # This creates a continuous gradient within each colormap
+                    intensity = 0.15 + (i / (num_samples - 1)) * 0.80
+                    options.append((cmap_name, intensity))
+
+            return options
+
+        # Track color info for each taxon: (cmap_name, intensity, color_value)
+        taxon_color_info = {}
+        taxon_colors = {}
+        taxon_to_cmap = {}
+
+        # Step 1: Assign colors to Kingdoms
+        # Use middle-range intensities for kingdoms (best saturation, "moat of uniqueness")
+        for idx, kingdom in enumerate(kingdoms):
+            color_options = get_color_options(kingdom)
+
+            # Filter to middle-range intensities (0.45-0.65) for main lineages
+            # These have the best saturation and create a "moat" around main lineages
+            main_lineage_options = [(cmap, intensity) for cmap, intensity in color_options
+                                     if 0.45 <= intensity <= 0.65]
+
+            # Pick from main lineage options first, fallback to all options if needed
+            available_options = main_lineage_options if main_lineage_options else color_options
+            option_idx = idx % len(available_options)
+            cmap_name, intensity = available_options[option_idx]
+            cmap = plt.cm.get_cmap(cmap_name)
+            color = cmap(intensity)
+
+            taxon_color_info[kingdom] = (cmap_name, intensity, color)
+            taxon_colors[kingdom] = color
+            taxon_to_cmap[kingdom] = cmap
+
+        # Step 2: Process each subsequent level
+        for level_idx, level in enumerate(tax_levels[1:], 1):
+            taxa_at_level = ordered_taxa.get(level, [])
+            used_colors_at_level = set()  # Track (cmap_name, intensity) used at this level
+
+            # First pass: main children inherit parent's color
+            for taxon in taxa_at_level:
+                parent = taxon_to_parent.get(taxon)
+                if parent and parent_to_main_child.get(parent) == taxon:
+                    # Main child inherits parent's exact color
+                    parent_info = taxon_color_info.get(parent)
+                    if parent_info:
+                        cmap_name, intensity, color = parent_info
+                        taxon_color_info[taxon] = parent_info
+                        taxon_colors[taxon] = color
+                        taxon_to_cmap[taxon] = plt.cm.get_cmap(cmap_name)
+                        used_colors_at_level.add((cmap_name, intensity))
+
+            # Second pass: assign new colors to non-main children
+            # Track which colormaps are already used at this level (not just color combos)
+            used_cmaps_at_level = set()
+            for cmap_name, intensity in used_colors_at_level:
+                used_cmaps_at_level.add(cmap_name)
+
+            for taxon in taxa_at_level:
+                if taxon in taxon_color_info:
+                    continue  # Already assigned (main child)
+
+                kingdom = taxon_to_kingdom.get(taxon)
+                color_options = get_color_options(kingdom)
+
+                # Find an unused color, preferring different colormaps first
+                taxon_hash = abs(hash(taxon))
+                assigned = False
+
+                # First try: find a color with an unused colormap
+                for attempt in range(len(color_options)):
+                    option_idx = (taxon_hash + attempt) % len(color_options)
+                    cmap_name, intensity = color_options[option_idx]
+
+                    if (cmap_name, intensity) not in used_colors_at_level and cmap_name not in used_cmaps_at_level:
+                        cmap = plt.cm.get_cmap(cmap_name)
+                        color = cmap(intensity)
+                        taxon_color_info[taxon] = (cmap_name, intensity, color)
+                        taxon_colors[taxon] = color
+                        taxon_to_cmap[taxon] = cmap
+                        used_colors_at_level.add((cmap_name, intensity))
+                        used_cmaps_at_level.add(cmap_name)
+                        assigned = True
+                        break
+
+                # Second try: if all colormaps are used, just find any unused color combo
+                if not assigned:
+                    for attempt in range(len(color_options)):
+                        option_idx = (taxon_hash + attempt) % len(color_options)
+                        cmap_name, intensity = color_options[option_idx]
+
+                        if (cmap_name, intensity) not in used_colors_at_level:
+                            cmap = plt.cm.get_cmap(cmap_name)
+                            color = cmap(intensity)
+                            taxon_color_info[taxon] = (cmap_name, intensity, color)
+                            taxon_colors[taxon] = color
+                            taxon_to_cmap[taxon] = cmap
+                            used_colors_at_level.add((cmap_name, intensity))
+                            assigned = True
+                            break
+
+                # Fallback: if all colors are used, just pick one based on hash
+                if not assigned:
+                    option_idx = taxon_hash % len(color_options)
+                    cmap_name, intensity = color_options[option_idx]
+                    cmap = plt.cm.get_cmap(cmap_name)
+                    color = cmap(intensity)
+                    taxon_color_info[taxon] = (cmap_name, intensity, color)
+                    taxon_colors[taxon] = color
+                    taxon_to_cmap[taxon] = cmap
+
+        # Draw stacked bars with embedded labels
+        for i in range(max_subbars):
+            # Use pre-assigned colors for each taxon
+            row_colors = []
+            for j, level in enumerate(group_names):
+                if i < len(all_taxa_labels[j]):
+                    taxon = all_taxa_labels[j][i]
+                    row_colors.append(taxon_colors.get(taxon, 'lightgray'))
+                else:
+                    row_colors.append('lightgray')
+
+            bars = ax.bar(group_names, group_values[i], bottom=bottom,
+                          color=row_colors, edgecolor='white')
+
+            # Add labels inside each subbar
+            for j, bar in enumerate(bars):
+                level = group_names[j]
+                if i < len(all_taxa_labels[j]):
+                    taxon = all_taxa_labels[j][i]
+                    val = group_values[i, j]
+                    if val == 0:
+                        continue  # Only label visible bars
+
+                    # Display just "None" for placeholder entries, otherwise clean up the taxon name
+                    if taxon.startswith("None_"):
+                        taxon_display = "None"
+                    else:
+                        taxon_display = taxon.replace('unclassified', '').replace('uncultured', '').replace(' group', '')
+
+                    txt = ax.text(
+                        bar.get_x() + bar.get_width() / 2,
+                        bar.get_y() + bar.get_height() / 2,
+                        f"{taxon_display}\n({int(val)})",
+                        ha='center', va='center', rotation=5,
+                        fontsize=6, color='white', weight='bold'
+                    )
+                    # Add black stroke (outline) for readability
+                    txt.set_path_effects([
+                        path_effects.Stroke(linewidth=1, foreground='black'),
+                        path_effects.Normal()
+                    ])
+
+            bottom += group_values[i]
+
+        # Style & labeling
+        ax.set_ylabel("Frequency")
+        ax.set_xlabel("Groups")
+        #TODO:  add the MiDAS iterativeID in the title for comparison, and highlight the "majority" opinion of the genus
+        ax.set_title(f"{asv_id} genome matches from BV-BRC")
+        # ax.legend(title="Elements", bbox_to_anchor=(1.05, 1), loc='upper left')
+        plt.tight_layout()
+        plt.savefig(os.path.join(output_dir, f"{asv_id}.png"))
+        plt.close(fig)
+        # plt.show()
+        # break
+
+
     def aggregate_taxonomies(
         self,
         genomes: List[Dict[str, Any]],
@@ -481,9 +843,6 @@ class LocalGenomeConverter:
         """
         from collections import Counter
 
-        # Standard taxonomic levels
-        tax_levels = ["Kingdom", "Phylum", "Class", "Order", "Family", "Genus", "Species"]
-
         # Collect all taxonomies
         all_taxonomies = []
         for genome in genomes:
@@ -496,44 +855,41 @@ class LocalGenomeConverter:
             return "Unknown", {}
 
         # Parse taxonomies into levels
+        tax_levels = ["Kingdom", "Phylum", "Class", "Order", "Family", "Genus", "Species"]
         taxonomy_by_level = {level: [] for level in tax_levels}
-
+        members = []
         for taxonomy_str in all_taxonomies:
-            # Split by semicolon or other common delimiters
             parts = [p.strip() for p in taxonomy_str.replace(';', '|').split('|')]
-
-            # Assign to levels (assuming order matches standard levels)
+            members.append(dict(zip(tax_levels, parts)))
             for i, part in enumerate(parts):
                 if i < len(tax_levels) and part:
                     taxonomy_by_level[tax_levels[i]].append(part)
+        # output_file = os.path.join(output_dir, f"{asv_id}_members.json")
+        # with open(output_file, 'w') as f:
+        #     json.dump(taxonomy_by_level, f, indent=2)
 
         # Find most common taxonomy at each level
         consensus_taxonomy = []
+        counts_by_level = {}
         for level in tax_levels:
-            if taxonomy_by_level[level]:
-                # Count occurrences
-                counts = Counter(taxonomy_by_level[level])
-                # Get most common
-                most_common = counts.most_common(1)[0][0]
-                consensus_taxonomy.append(most_common)
-            else:
-                # No data at this level, stop here
-                break
+            counts_by_level.setdefault(level, Counter(taxonomy_by_level[level]))
+            # Get most common
+            # print(counts_by_level[level], counts_by_level[level].most_common(1))
+            commonest = counts_by_level[level].most_common(1)
+            most_common = "None" if len(commonest) == 0 else counts_by_level[level].most_common(1)[0][0]
+            consensus_taxonomy.append(most_common)
 
-        # Build consensus taxonomy string
-        consensus_str = "; ".join(consensus_taxonomy)
 
-        # Build output dictionary (only include levels with data)
-        output_dict = {
-            level: taxonomy_by_level[level]
-            for level in tax_levels
-            if taxonomy_by_level[level]
-        }
+        # Build output dictionary
+        output_dict = {"members": members,
+                      # "combined": taxonomy_by_level.copy(),
+                      "counts": counts_by_level.copy()}
 
-        # Create output directory if it doesn't exist
-        os.makedirs(output_dir, exist_ok=True)
+        # visualize
+        self.visualize_taxonomies(output_dict, asv_id)
 
         # Save to JSON
+        os.makedirs(output_dir, exist_ok=True)
         output_file = os.path.join(output_dir, f"{asv_id}.json")
         with open(output_file, 'w') as f:
             json.dump(output_dict, f, indent=2)
@@ -541,7 +897,7 @@ class LocalGenomeConverter:
         print(f"  Taxonomy saved to {output_file}")
         # print(f"  Consensus taxonomy: {consensus_str}")
 
-        return consensus_str, output_dict
+        return "; ".join(consensus_taxonomy), output_dict
 
     def create_synthetic_genome(
         self,

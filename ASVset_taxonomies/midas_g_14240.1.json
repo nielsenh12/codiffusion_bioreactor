@@ -1,0 +1,80 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Phycisphaerae",
+      "Genus": "Phycisphaerales",
+      "Species": "unclassified Phycisphaerales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacteria incertae sedis",
+      "Class": "Bacteria candidate phyla",
+      "Order": "Candidatus Binatota",
+      "Family": "Candidatus Binatia",
+      "Genus": "unclassified Candidatus Binatia",
+      "Species": "Candidatus Binatia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Phycisphaerae",
+      "Genus": "Phycisphaerales",
+      "Species": "unclassified Phycisphaerales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "unclassified Planctomycetota",
+      "Genus": "Planctomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "PVC group",
+      "Order": "Planctomycetota",
+      "Family": "Phycisphaerae",
+      "Genus": "Phycisphaerales",
+      "Species": "Phycisphaeraceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Pseudomonadati": 4,
+      "Bacteria incertae sedis": 1
+    },
+    "Class": {
+      "PVC group": 4,
+      "Bacteria candidate phyla": 1
+    },
+    "Order": {
+      "Planctomycetota": 4,
+      "Candidatus Binatota": 1
+    },
+    "Family": {
+      "Phycisphaerae": 3,
+      "Candidatus Binatia": 1,
+      "unclassified Planctomycetota": 1
+    },
+    "Genus": {
+      "Phycisphaerales": 3,
+      "unclassified Candidatus Binatia": 1,
+      "Planctomycetota bacterium": 1
+    },
+    "Species": {
+      "unclassified Phycisphaerales": 2,
+      "Candidatus Binatia bacterium": 1,
+      "Phycisphaeraceae": 1
+    }
+  }
+}

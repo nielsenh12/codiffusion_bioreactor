@@ -1,102 +1,153 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Clostridia incertae sedis",
+      "Genus": "Candidatus Pullichristensenella",
+      "Species": "unclassified Candidatus Pullichristensenella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Negativicutes",
+      "Family": "Acidaminococcales",
+      "Genus": "Acidaminococcaceae",
+      "Species": "Phascolarctobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Eubacteriales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Eubacteriales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "environmental samples",
+      "Family": "uncultured Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "unclassified Christensenellales",
+      "Species": "Christensenellales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Christensenellales",
+      "Genus": "unclassified Christensenellales",
+      "Species": "Christensenellales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Clostridia incertae sedis",
+      "Genus": "Candidatus Pullichristensenella",
+      "Species": "unclassified Candidatus Pullichristensenella"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Negativicutes",
+      "Family": "Acidaminococcales",
+      "Genus": "Acidaminococcaceae",
+      "Species": "Phascolarctobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Clostridia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Eubacteriales",
+      "Genus": "unclassified Eubacteriales",
+      "Species": "Eubacteriales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Clostridia bacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota"
-  ],
-  "Order": [
-    "Clostridia",
-    "Negativicutes",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "environmental samples",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia",
-    "Negativicutes",
-    "Clostridia",
-    "Clostridia",
-    "Clostridia"
-  ],
-  "Family": [
-    "Clostridia incertae sedis",
-    "Acidaminococcales",
-    "Eubacteriales",
-    "environmental samples",
-    "Eubacteriales",
-    "uncultured Bacillota bacterium",
-    "Christensenellales",
-    "Christensenellales",
-    "Clostridia incertae sedis",
-    "Acidaminococcales",
-    "environmental samples",
-    "Eubacteriales",
-    "environmental samples"
-  ],
-  "Genus": [
-    "Candidatus Pullichristensenella",
-    "Acidaminococcaceae",
-    "unclassified Eubacteriales",
-    "uncultured Clostridia bacterium",
-    "unclassified Eubacteriales",
-    "unclassified Christensenellales",
-    "unclassified Christensenellales",
-    "Candidatus Pullichristensenella",
-    "Acidaminococcaceae",
-    "uncultured Clostridia bacterium",
-    "unclassified Eubacteriales",
-    "uncultured Clostridia bacterium"
-  ],
-  "Species": [
-    "unclassified Candidatus Pullichristensenella",
-    "Phascolarctobacterium",
-    "Eubacteriales bacterium",
-    "Eubacteriales bacterium",
-    "Christensenellales bacterium",
-    "Christensenellales bacterium",
-    "unclassified Candidatus Pullichristensenella",
-    "Phascolarctobacterium",
-    "Eubacteriales bacterium"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 13
+    },
+    "Phylum": {
+      "Bacillati": 13
+    },
+    "Class": {
+      "Bacillota": 13
+    },
+    "Order": {
+      "Clostridia": 10,
+      "Negativicutes": 2,
+      "environmental samples": 1
+    },
+    "Family": {
+      "Clostridia incertae sedis": 2,
+      "Acidaminococcales": 2,
+      "Eubacteriales": 3,
+      "environmental samples": 3,
+      "uncultured Bacillota bacterium": 1,
+      "Christensenellales": 2
+    },
+    "Genus": {
+      "Candidatus Pullichristensenella": 2,
+      "Acidaminococcaceae": 2,
+      "unclassified Eubacteriales": 3,
+      "uncultured Clostridia bacterium": 3,
+      "unclassified Christensenellales": 2
+    },
+    "Species": {
+      "unclassified Candidatus Pullichristensenella": 2,
+      "Phascolarctobacterium": 2,
+      "Eubacteriales bacterium": 3,
+      "Christensenellales bacterium": 2
+    }
+  }
 }

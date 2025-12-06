@@ -1,0 +1,45 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Methylococcales",
+      "Genus": "unclassified Methylococcales",
+      "Species": "Methylococcales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Methylococcales",
+      "Genus": "unclassified Methylococcales",
+      "Species": "Methylococcales bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Pseudomonadota": 2
+    },
+    "Order": {
+      "Gammaproteobacteria": 2
+    },
+    "Family": {
+      "Methylococcales": 2
+    },
+    "Genus": {
+      "unclassified Methylococcales": 2
+    },
+    "Species": {
+      "Methylococcales bacterium": 2
+    }
+  }
+}

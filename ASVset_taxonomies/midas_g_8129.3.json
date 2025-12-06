@@ -1,108 +1,170 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodospirillales",
+      "Genus": "unclassified Rhodospirillales",
+      "Species": "Rhodospirillales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Aggregatilineales",
+      "Genus": "unclassified Aggregatilineales",
+      "Species": "Aggregatilineales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Chloroflexia",
+      "Family": "environmental samples",
+      "Genus": "uncultured Chloroflexia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "Blastocatellia",
+      "Family": "Blastocatellales",
+      "Genus": "Pyrinomonadaceae",
+      "Species": "unclassified Pyrinomonadaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Nitrospirota",
+      "Order": "Nitrospiria",
+      "Family": "Nitrospirales",
+      "Genus": "Nitrospiraceae",
+      "Species": "unclassified Nitrospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Anaerolineae",
+      "Family": "Aggregatilineales",
+      "Genus": "unclassified Aggregatilineales",
+      "Species": "Aggregatilineales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "Blastocatellia",
+      "Family": "Blastocatellales",
+      "Genus": "Pyrinomonadaceae",
+      "Species": "unclassified Pyrinomonadaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Rhodospirillales",
+      "Genus": "unclassified Rhodospirillales",
+      "Species": "Rhodospirillales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Nitrospirota",
+      "Order": "Nitrospiria",
+      "Family": "Nitrospirales",
+      "Genus": "Nitrospiraceae",
+      "Species": "unclassified Nitrospiraceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "unclassified Chloroflexota",
+      "Family": "Chloroflexota bacterium"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Acidobacteriota",
-    "Chloroflexota",
-    "Nitrospirota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Chloroflexota",
-    "Acidobacteriota",
-    "Chloroflexota",
-    "Pseudomonadota",
-    "Nitrospirota",
-    "Chloroflexota",
-    "Chloroflexota"
-  ],
-  "Order": [
-    "Alphaproteobacteria",
-    "Anaerolineae",
-    "Chloroflexia",
-    "Blastocatellia",
-    "unclassified Chloroflexota",
-    "Nitrospiria",
-    "unclassified Chloroflexota",
-    "unclassified Chloroflexota",
-    "Anaerolineae",
-    "Blastocatellia",
-    "unclassified Chloroflexota",
-    "Alphaproteobacteria",
-    "Nitrospiria",
-    "unclassified Chloroflexota",
-    "unclassified Chloroflexota"
-  ],
-  "Family": [
-    "Rhodospirillales",
-    "Aggregatilineales",
-    "environmental samples",
-    "Blastocatellales",
-    "Chloroflexota bacterium",
-    "Nitrospirales",
-    "Chloroflexota bacterium",
-    "Chloroflexota bacterium",
-    "Aggregatilineales",
-    "Blastocatellales",
-    "Chloroflexota bacterium",
-    "Rhodospirillales",
-    "Nitrospirales",
-    "Chloroflexota bacterium",
-    "Chloroflexota bacterium"
-  ],
-  "Genus": [
-    "unclassified Rhodospirillales",
-    "unclassified Aggregatilineales",
-    "uncultured Chloroflexia bacterium",
-    "Pyrinomonadaceae",
-    "Nitrospiraceae",
-    "unclassified Aggregatilineales",
-    "Pyrinomonadaceae",
-    "unclassified Rhodospirillales",
-    "Nitrospiraceae"
-  ],
-  "Species": [
-    "Rhodospirillales bacterium",
-    "Aggregatilineales bacterium",
-    "unclassified Pyrinomonadaceae",
-    "unclassified Nitrospiraceae",
-    "Aggregatilineales bacterium",
-    "unclassified Pyrinomonadaceae",
-    "Rhodospirillales bacterium",
-    "unclassified Nitrospiraceae"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 15
+    },
+    "Phylum": {
+      "Pseudomonadati": 6,
+      "Bacillati": 9
+    },
+    "Class": {
+      "Pseudomonadota": 2,
+      "Chloroflexota": 9,
+      "Acidobacteriota": 2,
+      "Nitrospirota": 2
+    },
+    "Order": {
+      "Alphaproteobacteria": 2,
+      "Anaerolineae": 2,
+      "Chloroflexia": 1,
+      "Blastocatellia": 2,
+      "unclassified Chloroflexota": 6,
+      "Nitrospiria": 2
+    },
+    "Family": {
+      "Rhodospirillales": 2,
+      "Aggregatilineales": 2,
+      "environmental samples": 1,
+      "Blastocatellales": 2,
+      "Chloroflexota bacterium": 6,
+      "Nitrospirales": 2
+    },
+    "Genus": {
+      "unclassified Rhodospirillales": 2,
+      "unclassified Aggregatilineales": 2,
+      "uncultured Chloroflexia bacterium": 1,
+      "Pyrinomonadaceae": 2,
+      "Nitrospiraceae": 2
+    },
+    "Species": {
+      "Rhodospirillales bacterium": 2,
+      "Aggregatilineales bacterium": 2,
+      "unclassified Pyrinomonadaceae": 2,
+      "unclassified Nitrospiraceae": 2
+    }
+  }
 }

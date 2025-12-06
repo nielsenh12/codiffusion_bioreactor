@@ -1,43 +1,66 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Pseudonocardiales",
+      "Genus": "Pseudonocardiaceae",
+      "Species": "Actinomycetospora"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota"
-  ],
-  "Order": [
-    "environmental samples",
-    "Actinomycetes",
-    "environmental samples",
-    "environmental samples",
-    "environmental samples"
-  ],
-  "Family": [
-    "uncultured Actinomycetota bacterium",
-    "Pseudonocardiales",
-    "uncultured Actinomycetota bacterium",
-    "uncultured Actinomycetota bacterium",
-    "uncultured Actinomycetota bacterium"
-  ],
-  "Genus": [
-    "Pseudonocardiaceae"
-  ],
-  "Species": [
-    "Actinomycetospora"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Bacillati": 5
+    },
+    "Class": {
+      "Actinomycetota": 5
+    },
+    "Order": {
+      "environmental samples": 4,
+      "Actinomycetes": 1
+    },
+    "Family": {
+      "uncultured Actinomycetota bacterium": 4,
+      "Pseudonocardiales": 1
+    },
+    "Genus": {
+      "Pseudonocardiaceae": 1
+    },
+    "Species": {
+      "Actinomycetospora": 1
+    }
+  }
 }

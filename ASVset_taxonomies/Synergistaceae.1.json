@@ -1,0 +1,80 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "Desulfovibrionaceae",
+      "Species": "Desulfovibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "Desulfovibrionaceae",
+      "Species": "Nitratidesulfovibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Actinomycetales",
+      "Genus": "unclassified Actinomycetales",
+      "Species": "Actinomycetales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "Desulfovibrionaceae",
+      "Species": "Nitratidesulfovibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Desulfovibrionia",
+      "Family": "Desulfovibrionales",
+      "Genus": "Desulfovibrionaceae",
+      "Species": "unclassified Desulfovibrionaceae"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 5
+    },
+    "Phylum": {
+      "Pseudomonadati": 4,
+      "Bacillati": 1
+    },
+    "Class": {
+      "Thermodesulfobacteriota": 4,
+      "Actinomycetota": 1
+    },
+    "Order": {
+      "Desulfovibrionia": 4,
+      "Actinomycetes": 1
+    },
+    "Family": {
+      "Desulfovibrionales": 4,
+      "Actinomycetales": 1
+    },
+    "Genus": {
+      "Desulfovibrionaceae": 4,
+      "unclassified Actinomycetales": 1
+    },
+    "Species": {
+      "Desulfovibrio": 1,
+      "Nitratidesulfovibrio": 2,
+      "Actinomycetales bacterium": 1,
+      "unclassified Desulfovibrionaceae": 1
+    }
+  }
+}

@@ -1,64 +1,93 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Dethiobacteria",
+      "Family": "Dethiobacterales",
+      "Genus": "Dethiobacteraceae",
+      "Species": "Dethiobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Dethiobacteria",
+      "Family": "Dethiobacterales",
+      "Genus": "Dethiobacteraceae",
+      "Species": "Dethiobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Dethiobacteria",
+      "Family": "Dethiobacterales",
+      "Genus": "Dethiobacteraceae",
+      "Species": "Dethiobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Dethiobacteria",
+      "Family": "Dethiobacterales",
+      "Genus": "Dethiobacteraceae",
+      "Species": "Dethiobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Chloroflexota",
+      "Order": "Dehalococcoidia",
+      "Family": "unclassified Dehalococcoidia",
+      "Genus": "Dehalococcoidia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Dethiobacteria",
+      "Family": "Dethiobacterales",
+      "Genus": "Dethiobacteraceae",
+      "Species": "Dethiobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Dethiobacteria",
+      "Family": "Dethiobacterales",
+      "Genus": "Dethiobacteraceae",
+      "Species": "Dethiobacter"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Bacillota",
-    "Chloroflexota",
-    "Bacillota",
-    "Bacillota"
-  ],
-  "Order": [
-    "Dethiobacteria",
-    "Dethiobacteria",
-    "Dethiobacteria",
-    "Dethiobacteria",
-    "Dehalococcoidia",
-    "Dethiobacteria",
-    "Dethiobacteria"
-  ],
-  "Family": [
-    "Dethiobacterales",
-    "Dethiobacterales",
-    "Dethiobacterales",
-    "Dethiobacterales",
-    "unclassified Dehalococcoidia",
-    "Dethiobacterales",
-    "Dethiobacterales"
-  ],
-  "Genus": [
-    "Dethiobacteraceae",
-    "Dethiobacteraceae",
-    "Dethiobacteraceae",
-    "Dethiobacteraceae",
-    "Dehalococcoidia bacterium",
-    "Dethiobacteraceae",
-    "Dethiobacteraceae"
-  ],
-  "Species": [
-    "Dethiobacter",
-    "Dethiobacter",
-    "Dethiobacter",
-    "Dethiobacter",
-    "Dethiobacter",
-    "Dethiobacter"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 7
+    },
+    "Phylum": {
+      "Bacillati": 7
+    },
+    "Class": {
+      "Bacillota": 6,
+      "Chloroflexota": 1
+    },
+    "Order": {
+      "Dethiobacteria": 6,
+      "Dehalococcoidia": 1
+    },
+    "Family": {
+      "Dethiobacterales": 6,
+      "unclassified Dehalococcoidia": 1
+    },
+    "Genus": {
+      "Dethiobacteraceae": 6,
+      "Dehalococcoidia bacterium": 1
+    },
+    "Species": {
+      "Dethiobacter": 6
+    }
+  }
 }

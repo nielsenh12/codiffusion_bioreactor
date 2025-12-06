@@ -1,0 +1,45 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Tissierellia",
+      "Family": "Tissierellales",
+      "Genus": "Acidilutibacteraceae",
+      "Species": "Acidilutibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacillati": 2
+    },
+    "Class": {
+      "Bacillota": 2
+    },
+    "Order": {
+      "Tissierellia": 1,
+      "unclassified Bacillota": 1
+    },
+    "Family": {
+      "Tissierellales": 1,
+      "Bacillota bacterium": 1
+    },
+    "Genus": {
+      "Acidilutibacteraceae": 1
+    },
+    "Species": {
+      "Acidilutibacter": 1
+    }
+  }
+}

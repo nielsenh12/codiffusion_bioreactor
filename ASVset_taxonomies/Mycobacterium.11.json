@@ -1,0 +1,112 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycolicibacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycolicibacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Chitinophagia",
+      "Species": "Chitinophagales"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "FCB group",
+      "Order": "Bacteroidota/Chlorobiota group",
+      "Family": "Bacteroidota",
+      "Genus": "Bacteroidia",
+      "Species": "unclassified Bacteroidia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycolicibacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Mycobacteriaceae",
+      "Species": "Mycolicibacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Rhodocyclales",
+      "Genus": "Azonexaceae",
+      "Species": "Dechloromonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 8
+    },
+    "Phylum": {
+      "Bacillati": 5,
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "Actinomycetota": 5,
+      "FCB group": 2,
+      "Pseudomonadota": 1
+    },
+    "Order": {
+      "Actinomycetes": 4,
+      "Bacteroidota/Chlorobiota group": 2,
+      "Betaproteobacteria": 1,
+      "environmental samples": 1
+    },
+    "Family": {
+      "Mycobacteriales": 4,
+      "Bacteroidota": 2,
+      "Rhodocyclales": 1,
+      "uncultured Actinomycetota bacterium": 1
+    },
+    "Genus": {
+      "Mycobacteriaceae": 4,
+      "Chitinophagia": 1,
+      "Bacteroidia": 1,
+      "Azonexaceae": 1
+    },
+    "Species": {
+      "Mycolicibacterium": 4,
+      "Chitinophagales": 1,
+      "unclassified Bacteroidia": 1,
+      "Dechloromonas": 1
+    }
+  }
+}

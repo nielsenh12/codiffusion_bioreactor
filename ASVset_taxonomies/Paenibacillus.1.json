@@ -1,0 +1,50 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Mycobacteriales",
+      "Genus": "Gordoniaceae",
+      "Species": "Gordonia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Bacillales",
+      "Genus": "Paenibacillaceae",
+      "Species": "Cohnella"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 2
+    },
+    "Phylum": {
+      "Bacillati": 2
+    },
+    "Class": {
+      "Actinomycetota": 1,
+      "Bacillota": 1
+    },
+    "Order": {
+      "Actinomycetes": 1,
+      "Bacilli": 1
+    },
+    "Family": {
+      "Mycobacteriales": 1,
+      "Bacillales": 1
+    },
+    "Genus": {
+      "Gordoniaceae": 1,
+      "Paenibacillaceae": 1
+    },
+    "Species": {
+      "Gordonia": 1,
+      "Cohnella": 1
+    }
+  }
+}

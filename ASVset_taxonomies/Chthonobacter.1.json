@@ -1,0 +1,60 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Cyanobacteriota",
+      "Family": "Cyanophyceae",
+      "Genus": "Nostocales",
+      "Species": "Scytonemataceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Pleomorphomonadaceae",
+      "Species": "Chthonobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "Hyphomicrobiales",
+      "Genus": "Pleomorphomonadaceae",
+      "Species": "Chthonobacter"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 3
+    },
+    "Phylum": {
+      "Bacillati": 1,
+      "Pseudomonadati": 2
+    },
+    "Class": {
+      "Cyanobacteriota/Melainabacteria group": 1,
+      "Pseudomonadota": 2
+    },
+    "Order": {
+      "Cyanobacteriota": 1,
+      "Alphaproteobacteria": 2
+    },
+    "Family": {
+      "Cyanophyceae": 1,
+      "Hyphomicrobiales": 2
+    },
+    "Genus": {
+      "Nostocales": 1,
+      "Pleomorphomonadaceae": 2
+    },
+    "Species": {
+      "Scytonemataceae": 1,
+      "Chthonobacter": 2
+    }
+  }
+}

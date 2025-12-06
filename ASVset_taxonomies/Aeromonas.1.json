@@ -1,0 +1,140 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Aeromonadales",
+      "Genus": "Aeromonadaceae",
+      "Species": "Aeromonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Aeromonadales",
+      "Genus": "Aeromonadaceae",
+      "Species": "Aeromonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Aeromonadales",
+      "Genus": "Aeromonadaceae",
+      "Species": "Aeromonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Aeromonadales",
+      "Genus": "Aeromonadaceae",
+      "Species": "Aeromonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Aeromonadales",
+      "Genus": "Aeromonadaceae",
+      "Species": "Aeromonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Aeromonadales",
+      "Genus": "Aeromonadaceae",
+      "Species": "Aeromonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Aeromonadales",
+      "Genus": "Aeromonadaceae",
+      "Species": "unclassified Aeromonadaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Klebsiella/Raoultella group"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Enterobacterales",
+      "Genus": "Enterobacteriaceae",
+      "Species": "Escherichia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Aeromonadales",
+      "Genus": "Aeromonadaceae",
+      "Species": "Aeromonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Aeromonadales",
+      "Genus": "Aeromonadaceae",
+      "Species": "Aeromonas"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Aeromonadales",
+      "Genus": "Aeromonadaceae",
+      "Species": "Aeromonas"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 12
+    },
+    "Phylum": {
+      "Pseudomonadati": 12
+    },
+    "Class": {
+      "Pseudomonadota": 12
+    },
+    "Order": {
+      "Gammaproteobacteria": 12
+    },
+    "Family": {
+      "Aeromonadales": 10,
+      "Enterobacterales": 2
+    },
+    "Genus": {
+      "Aeromonadaceae": 10,
+      "Enterobacteriaceae": 2
+    },
+    "Species": {
+      "Aeromonas": 9,
+      "unclassified Aeromonadaceae": 1,
+      "Klebsiella/Raoultella group": 1,
+      "Escherichia": 1
+    }
+  }
+}

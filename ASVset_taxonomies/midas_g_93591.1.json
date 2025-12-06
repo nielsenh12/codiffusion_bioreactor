@@ -1,0 +1,140 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Thermosediminibacterales",
+      "Genus": "Tepidanaerobacteraceae",
+      "Species": "Biomaibacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Spirochaetaceae",
+      "Species": "unclassified Spirochaetaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Thermosediminibacterales",
+      "Genus": "Tepidanaerobacteraceae",
+      "Species": "Tepidanaerobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Thermosediminibacterales",
+      "Genus": "Tepidanaerobacteraceae",
+      "Species": "Tepidanaerobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Thermosediminibacterales",
+      "Genus": "Tepidanaerobacteraceae",
+      "Species": "Tepidanaerobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "unclassified Bacillota",
+      "Family": "Bacillota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Spirochaetaceae",
+      "Species": "unclassified Spirochaetaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Thermosediminibacterales",
+      "Genus": "Tepidanaerobacteraceae",
+      "Species": "Tepidanaerobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Spirochaetota",
+      "Order": "Spirochaetia",
+      "Family": "Spirochaetales",
+      "Genus": "Spirochaetaceae",
+      "Species": "unclassified Spirochaetaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Thermosediminibacterales",
+      "Genus": "Tepidanaerobacteraceae",
+      "Species": "Tepidanaerobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Clostridia",
+      "Family": "Thermosediminibacterales",
+      "Genus": "Tepidanaerobacteraceae",
+      "Species": "Tepidanaerobacter"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 12
+    },
+    "Phylum": {
+      "Bacillati": 9,
+      "Pseudomonadati": 3
+    },
+    "Class": {
+      "Bacillota": 9,
+      "Spirochaetota": 3
+    },
+    "Order": {
+      "Clostridia": 7,
+      "unclassified Bacillota": 2,
+      "Spirochaetia": 3
+    },
+    "Family": {
+      "Thermosediminibacterales": 7,
+      "Bacillota bacterium": 2,
+      "Spirochaetales": 3
+    },
+    "Genus": {
+      "Tepidanaerobacteraceae": 7,
+      "Spirochaetaceae": 3
+    },
+    "Species": {
+      "Biomaibacter": 1,
+      "unclassified Spirochaetaceae": 3,
+      "Tepidanaerobacter": 6
+    }
+  }
+}

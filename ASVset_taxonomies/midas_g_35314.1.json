@@ -1,0 +1,129 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "environmental samples",
+      "Family": "uncultured Pseudomonadota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Acidobacteriota",
+      "Order": "Thermoanaerobaculia",
+      "Family": "unclassified Thermoanaerobaculia",
+      "Genus": "Thermoanaerobaculia bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Oceanospirillales",
+      "Genus": "Oceanospirillaceae",
+      "Species": "Marinobacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Chromatiales",
+      "Genus": "Chromatiaceae",
+      "Species": "unclassified Chromatiaceae"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "Chromatiales",
+      "Genus": "unclassified Chromatiales",
+      "Species": "Chromatiales bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Cyanobacteriota/Melainabacteria group",
+      "Order": "Candidatus Melainabacteria",
+      "Family": "Vampirovibriophyceae",
+      "Genus": "Vampirovibrionales",
+      "Species": "Vampirovibrio"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Gammaproteobacteria",
+      "Family": "environmental samples",
+      "Genus": "uncultured Gammaproteobacteria bacterium"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 10
+    },
+    "Phylum": {
+      "Pseudomonadati": 9,
+      "Bacillati": 1
+    },
+    "Class": {
+      "Pseudomonadota": 8,
+      "Acidobacteriota": 1,
+      "Cyanobacteriota/Melainabacteria group": 1
+    },
+    "Order": {
+      "Gammaproteobacteria": 7,
+      "environmental samples": 1,
+      "Thermoanaerobaculia": 1,
+      "Candidatus Melainabacteria": 1
+    },
+    "Family": {
+      "environmental samples": 4,
+      "uncultured Pseudomonadota bacterium": 1,
+      "unclassified Thermoanaerobaculia": 1,
+      "Oceanospirillales": 1,
+      "Chromatiales": 2,
+      "Vampirovibriophyceae": 1
+    },
+    "Genus": {
+      "uncultured Gammaproteobacteria bacterium": 4,
+      "Thermoanaerobaculia bacterium": 1,
+      "Oceanospirillaceae": 1,
+      "Chromatiaceae": 1,
+      "unclassified Chromatiales": 1,
+      "Vampirovibrionales": 1
+    },
+    "Species": {
+      "Marinobacterium": 1,
+      "unclassified Chromatiaceae": 1,
+      "Chromatiales bacterium": 1,
+      "Vampirovibrio": 1
+    }
+  }
+}

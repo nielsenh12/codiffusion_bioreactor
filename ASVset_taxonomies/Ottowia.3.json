@@ -1,57 +1,85 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Alphaproteobacteria",
+      "Family": "unclassified Alphaproteobacteria",
+      "Genus": "Alphaproteobacteria bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Comamonadaceae",
+      "Species": "Variovorax"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Comamonadaceae",
+      "Species": "Variovorax"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Comamonadaceae",
+      "Species": "Ottowia"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Comamonadaceae",
+      "Species": "Diaphorobacter"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Pseudomonadota",
+      "Order": "Betaproteobacteria",
+      "Family": "Burkholderiales",
+      "Genus": "Comamonadaceae",
+      "Species": "Diaphorobacter"
+    }
   ],
-  "Phylum": [
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati",
-    "Pseudomonadati"
-  ],
-  "Class": [
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota",
-    "Pseudomonadota"
-  ],
-  "Order": [
-    "Alphaproteobacteria",
-    "Betaproteobacteria",
-    "Betaproteobacteria",
-    "Betaproteobacteria",
-    "Betaproteobacteria",
-    "Betaproteobacteria"
-  ],
-  "Family": [
-    "unclassified Alphaproteobacteria",
-    "Burkholderiales",
-    "Burkholderiales",
-    "Burkholderiales",
-    "Burkholderiales",
-    "Burkholderiales"
-  ],
-  "Genus": [
-    "Alphaproteobacteria bacterium",
-    "Comamonadaceae",
-    "Comamonadaceae",
-    "Comamonadaceae",
-    "Comamonadaceae",
-    "Comamonadaceae"
-  ],
-  "Species": [
-    "Variovorax",
-    "Variovorax",
-    "Ottowia",
-    "Diaphorobacter",
-    "Diaphorobacter"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 6
+    },
+    "Phylum": {
+      "Pseudomonadati": 6
+    },
+    "Class": {
+      "Pseudomonadota": 6
+    },
+    "Order": {
+      "Alphaproteobacteria": 1,
+      "Betaproteobacteria": 5
+    },
+    "Family": {
+      "unclassified Alphaproteobacteria": 1,
+      "Burkholderiales": 5
+    },
+    "Genus": {
+      "Alphaproteobacteria bacterium": 1,
+      "Comamonadaceae": 5
+    },
+    "Species": {
+      "Variovorax": 2,
+      "Ottowia": 1,
+      "Diaphorobacter": 2
+    }
+  }
 }

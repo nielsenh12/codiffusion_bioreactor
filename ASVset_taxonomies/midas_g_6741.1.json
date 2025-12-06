@@ -1,121 +1,173 @@
 {
-  "Kingdom": [
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria",
-    "Bacteria"
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Nocardioidaceae",
+      "Species": "Nocardioides"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Bacillota",
+      "Order": "Bacilli",
+      "Family": "Lactobacillales",
+      "Genus": "Lactobacillaceae",
+      "Species": "Lactobacillus"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Nocardioidaceae",
+      "Species": "Nocardioides"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Nocardioidaceae",
+      "Species": "Nocardioides"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Nocardioidaceae",
+      "Species": "Nocardioides"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Nocardioidaceae",
+      "Species": "Nocardioides"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Nocardioidaceae",
+      "Species": "Nocardioides"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "environmental samples",
+      "Family": "uncultured Actinomycetota bacterium"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Nocardioidaceae",
+      "Species": "Nocardioides"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Nocardioidaceae",
+      "Species": "Nocardioides"
+    },
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Bacillati",
+      "Class": "Actinomycetota",
+      "Order": "Actinomycetes",
+      "Family": "Propionibacteriales",
+      "Genus": "Nocardioidaceae",
+      "Species": "Nocardioides"
+    }
   ],
-  "Phylum": [
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati",
-    "Bacillati"
-  ],
-  "Class": [
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Bacillota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota",
-    "Actinomycetota"
-  ],
-  "Order": [
-    "environmental samples",
-    "environmental samples",
-    "Actinomycetes",
-    "environmental samples",
-    "Bacilli",
-    "environmental samples",
-    "Actinomycetes",
-    "Actinomycetes",
-    "Actinomycetes",
-    "Actinomycetes",
-    "environmental samples",
-    "Actinomycetes",
-    "environmental samples",
-    "environmental samples",
-    "Actinomycetes",
-    "Actinomycetes",
-    "Actinomycetes"
-  ],
-  "Family": [
-    "uncultured Actinomycetota bacterium",
-    "uncultured Actinomycetota bacterium",
-    "Propionibacteriales",
-    "uncultured Actinomycetota bacterium",
-    "Lactobacillales",
-    "uncultured Actinomycetota bacterium",
-    "Propionibacteriales",
-    "Propionibacteriales",
-    "Propionibacteriales",
-    "Propionibacteriales",
-    "uncultured Actinomycetota bacterium",
-    "Propionibacteriales",
-    "uncultured Actinomycetota bacterium",
-    "uncultured Actinomycetota bacterium",
-    "Propionibacteriales",
-    "Propionibacteriales",
-    "Propionibacteriales"
-  ],
-  "Genus": [
-    "Nocardioidaceae",
-    "Lactobacillaceae",
-    "Nocardioidaceae",
-    "Nocardioidaceae",
-    "Nocardioidaceae",
-    "Nocardioidaceae",
-    "Nocardioidaceae",
-    "Nocardioidaceae",
-    "Nocardioidaceae",
-    "Nocardioidaceae"
-  ],
-  "Species": [
-    "Nocardioides",
-    "Lactobacillus",
-    "Nocardioides",
-    "Nocardioides",
-    "Nocardioides",
-    "Nocardioides",
-    "Nocardioides",
-    "Nocardioides",
-    "Nocardioides",
-    "Nocardioides"
-  ]
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 17
+    },
+    "Phylum": {
+      "Bacillati": 17
+    },
+    "Class": {
+      "Actinomycetota": 16,
+      "Bacillota": 1
+    },
+    "Order": {
+      "environmental samples": 7,
+      "Actinomycetes": 9,
+      "Bacilli": 1
+    },
+    "Family": {
+      "uncultured Actinomycetota bacterium": 7,
+      "Propionibacteriales": 9,
+      "Lactobacillales": 1
+    },
+    "Genus": {
+      "Nocardioidaceae": 9,
+      "Lactobacillaceae": 1
+    },
+    "Species": {
+      "Nocardioides": 9,
+      "Lactobacillus": 1
+    }
+  }
 }

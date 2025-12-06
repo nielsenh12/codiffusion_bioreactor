@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "Kingdom": "Bacteria",
+      "Phylum": "Pseudomonadati",
+      "Class": "Thermodesulfobacteriota",
+      "Order": "Syntrophobacteria",
+      "Family": "Syntrophobacterales",
+      "Genus": "Syntrophobacteraceae",
+      "Species": "Desulforhabdus"
+    }
+  ],
+  "counts": {
+    "Kingdom": {
+      "Bacteria": 1
+    },
+    "Phylum": {
+      "Pseudomonadati": 1
+    },
+    "Class": {
+      "Thermodesulfobacteriota": 1
+    },
+    "Order": {
+      "Syntrophobacteria": 1
+    },
+    "Family": {
+      "Syntrophobacterales": 1
+    },
+    "Genus": {
+      "Syntrophobacteraceae": 1
+    },
+    "Species": {
+      "Desulforhabdus": 1
+    }
+  }
+}
