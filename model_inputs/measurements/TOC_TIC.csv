@@ -1,0 +1,6 @@
+,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,DOC,Unnamed: 8,IC,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21
+0,Sample ID,Sampling Date/Time,Days Since Inoculation,Analysis Date,Description,Dilution,Replicates,Av,Stdev,Av,Stdev,Location of Raw Results,Sample ID in location,Sample ID,Sampling Date/Time,Days Since Inoculation,Analysis Date,Description,Dilution,Replicates,Location of Raw Results,Sample ID in location
+1,R_01,2024-05-14 13:43:00,0.04236111111094942,2024-05-14 00:00:00,Reactor body liquid sample,10,3,,,,,,,W_01,2024-05-14 13:43:00,0.04236111111094942,2024-05-14 00:00:00,Waste liquid sample,10,3,,
+2,R_02,2024-05-20 10:30:00,5.908333333332848,2024-05-20 00:00:00,Reactor body liquid sample,10,3,,,,,,,W_02,2024-05-20 10:30:00,5.908333333332848,2024-05-20 00:00:00,Waste liquid sample,10,3,,
+3,R_01,2024-05-22 10:30:00,7.908333333332848,2024-05-22 00:00:00,Reactor body liquid sample,10,3,,,,,,,W_01,2024-05-22 10:30:00,7.908333333332848,2024-05-22 00:00:00,Waste liquid sample,10,3,,
+4,R_01,2024-05-23 10:30:00,8.908333333332848,2024-05-23 00:00:00,Reactor body liquid sample,30,3,,,,,,,W_01,2024-05-23 10:30:00,8.908333333332848,2024-05-23 00:00:00,Waste liquid sample,30,3,,
