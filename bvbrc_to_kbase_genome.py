@@ -1138,6 +1138,14 @@ class LocalGenomeConverter:
                         }
 
                         # Create feature object
+                        # Include the RAST function as an ontology term for model building
+                        # MSBuilder uses ontology_terms['RAST'] to map genes to reactions
+                        ontology_terms = source_feature.get('ontology_terms', {}).copy()
+                        if 'RAST' not in ontology_terms:
+                            ontology_terms['RAST'] = []
+                        if function not in ontology_terms['RAST']:
+                            ontology_terms['RAST'].append(function)
+
                         features[feature_id] = {
                             'id': feature_id,
                             'type': source_feature.get('type', 'gene'),
@@ -1148,7 +1156,7 @@ class LocalGenomeConverter:
                             'dna_sequence_length': dna_length,
                             'location': [[f"{feature_id}.contig", 1, "+", dna_length]],
                             'md5': hashlib.md5(source_feature.get('dna_sequence', '').encode()).hexdigest(),
-                            'ontology_terms': source_feature.get('ontology_terms', {}),
+                            'ontology_terms': ontology_terms,
                             'protein_md5': protein_md5,
                             'protein_translation': protein_seq,
                             'protein_translation_length': len(protein_seq),
@@ -1174,10 +1182,20 @@ class LocalGenomeConverter:
                     # Mark function as seen in this genome
                     genome_functions[function] = True
 
-        # Normalize probabilities
+        # Normalize probabilities and update feature objects
         num_genomes = len(source_genomes)
         for function in functions:
             functions[function]['probability'] /= num_genomes
+            # Update the corresponding feature with the probability
+            feature_id = functions[function]['feature_id']
+            if feature_id in features:
+                features[feature_id]['probability'] = functions[function]['probability']
+                # Also update the CDS feature
+                cds_id = f"{feature_id}.CDS"
+                for cds in template_genome['cdss']:
+                    if cds['id'] == cds_id:
+                        cds['probability'] = functions[function]['probability']
+                        break
 
         # Update feature counts
         template_genome['feature_counts'] = {

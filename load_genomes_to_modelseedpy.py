@@ -198,12 +198,20 @@ class GenomeLoader:
                     # Create MSFeature with required fields
                     feature_id = feat_dict.get('id', '')
                     sequence = feat_dict.get('dna_sequence', feat_dict.get('protein_translation', ''))
-                    description = feat_dict.get('function', feat_dict.get('type', ''))
+                    # Get description from functions list (RAST annotations) or fall back to type
+                    functions_list = feat_dict.get('functions', [])
+                    description = functions_list[0] if functions_list else feat_dict.get('type', '')
                     aliases = feat_dict.get('aliases', [])
 
                     msfeature = MSFeature(feature_id, sequence, description=description, aliases=aliases)
 
-                    # Add ontology terms if present
+                    # Add RAST ontology terms from the functions field
+                    # This is critical for model building - MSBuilder uses these to map genes to reactions
+                    for func in functions_list:
+                        if func:
+                            msfeature.add_ontology_term("RAST", func)
+
+                    # Add any other ontology terms if present
                     if 'ontology_terms' in feat_dict:
                         for term_type, terms in feat_dict['ontology_terms'].items():
                             if isinstance(terms, list):
@@ -247,7 +255,9 @@ class GenomeLoader:
             printing: Print status messages and model statistics (default: True)
 
         Returns:
-            COBRApy model object
+            COBRApy model object with reaction.probability attributes set based on
+            the maximum probability of genes associated with each reaction through
+            gene-protein-reaction (GPR) relationships.
 
         Raises:
             ImportError: If ModelSEEDpy is not installed
@@ -260,29 +270,51 @@ class GenomeLoader:
         # Get MSGenome object
         msgenome = self.get_msgenome(genome_id, printing=printing)
 
-        # Load genome to determine template
+        # Load genome to determine template and get feature probabilities
         genome = self.load_genome(genome_id, printing=False)  # Already loaded, don't print again
 
-        # Load template - use template_core.json
+        # Build mapping from feature ID to probability
+        feature_probabilities = {}
+        for feature in genome.get('features', []):
+            feature_id = feature.get('id', '')
+            probability = feature.get('probability', 0)  # reactions with no genetic evidence are ignored
+            if feature_id:
+                feature_probabilities[feature_id] = probability
+
+        # Load template - use full gram-negative or gram-positive template
+        # These have ~9400 reactions vs only 197 in template_core
         if printing:
             print(f"Loading template...")
 
-        import json
-        from pathlib import Path as PathlibPath
-        from os import path
         from modelseedpy.core.mstemplate import MSTemplateBuilder
+        from modelseedpy.helpers import get_template
 
-        # Use template_core.json from ModelSEEDpy repo
-        template_path = path.expanduser('~/repos/ModelSEEDpy/modelseedpy/data/templates/template_core.json')
+        # Determine template based on domain/taxonomy
+        # Default to gram-negative for Bacteria, use provided template if specified
+        if template is None:
+            domain = genome.get('domain', 'Bacteria')
+            taxonomy = genome.get('taxonomy', '').lower()
+
+            # Gram-positive bacteria include Firmicutes, Actinobacteria, etc.
+            gram_positive_indicators = ['firmicutes', 'actinobacteria', 'bacill', 'clostrid',
+                                        'lactobacill', 'streptococc', 'staphylococc', 'enterococc']
+
+            if domain == 'Archaea':
+                template_name = 'template_gram_neg'  # Use gram-neg as default for Archaea
+            elif any(indicator in taxonomy for indicator in gram_positive_indicators):
+                template_name = 'template_gram_pos'
+            else:
+                template_name = 'template_gram_neg'
+        else:
+            template_name = template
 
         try:
-            with open(template_path, 'r') as f:
-                template_data = json.load(f)
+            template_data = get_template(template_name)
             template_obj = MSTemplateBuilder.from_dict(template_data).build()
             if printing:
                 print(f"  ✓ Loaded template: {template_obj.id} ({len(template_obj.reactions)} reactions)")
         except Exception as e:
-            error_msg = f"Failed to load template: {e}"
+            error_msg = f"Failed to load template {template_name}: {e}"
             print(f"✗ {error_msg}")
             raise RuntimeError(error_msg)
 
@@ -296,11 +328,38 @@ class GenomeLoader:
         builder = MSBuilder(msgenome, template_obj, name=model_id)
         model = builder.build(model_id, allow_all_non_grp_reactions=True, annotate_with_rast=False)
 
+        # Assign probability to each reaction based on GPR relationships
+        # For each reaction, probability = max(probabilities of associated genes)
+        # Store in both rxn.probability attribute and rxn.notes for SBML export
+        reactions_with_probability = 0
+        for rxn in model.reactions:
+            if rxn.genes:
+                # Get probabilities of all genes associated with this reaction
+                gene_probs = []
+                for gene in rxn.genes:
+                    gene_prob = feature_probabilities.get(gene.id, 0)# reactions with no genetic evidence are ignored
+                    gene_probs.append(gene_prob)
+                # Set reaction probability to the maximum of gene probabilities
+                probability = max(gene_probs)
+                reactions_with_probability += 1
+            else:
+                # Reactions without gene associations (e.g., exchange, transport)
+                # get probability of 0 (no genetic evidence)
+                probability = 0.0
+
+            # Set as attribute for programmatic access
+            rxn.probability = probability
+            # Also store in notes dict for SBML export
+            if not hasattr(rxn, 'notes') or rxn.notes is None:
+                rxn.notes = {}
+            rxn.notes['probability'] = str(probability)
+
         if printing:
             print(f"✓ Model built successfully!")
             print(f"  Reactions: {len(model.reactions)}")
             print(f"  Metabolites: {len(model.metabolites)}")
             print(f"  Genes: {len(model.genes)}")
+            print(f"  Reactions with gene-based probability: {reactions_with_probability}")
 
         return model
 

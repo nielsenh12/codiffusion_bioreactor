@@ -14,3 +14,4 @@ modeling_files/*probabilities.json
 */*/ID_md5*.json
 */*.ipynb_checkpoints*/*
 genome_metadata/*
+models/*
