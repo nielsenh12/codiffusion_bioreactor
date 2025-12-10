@@ -1262,3 +1262,7 @@ ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
 WARNING:Comm:No such comm: c7f1164d-37c5-48ef-bab5-c044ec94053f
 ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
 WARNING:Comm:No such comm: 0f601ec3-7d0d-4adc-b02b-e639e98d50c1
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: d294426b-19e1-4ce4-96c7-7b23cfd16cac
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 0c1db0c6-ff7d-407b-8684-b0cbfd46ef6e
