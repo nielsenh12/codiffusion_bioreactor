@@ -15,3 +15,6 @@ modeling_files/*probabilities.json
 */*.ipynb_checkpoints*/*
 genome_metadata/*
 models/*
+gapfilled_models/*
+comm_models/*
+*log
