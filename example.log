@@ -5073,3 +5073,4 @@ ERROR:cobra.io.sbml:Error encountered trying to <Setting notes on sbase: <Model 
 ERROR:cobra.io.sbml:LibSBML error code -3: The requested action could not be performed. This can occur in a variety of contexts, such as passing a null object as a parameter in a situation where it does not make sense to permit a null object.
 ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
 WARNING:Comm:No such comm: cda8a424-5631-407e-8f51-92cff4df32c5
+ERROR:cobra.io.sbml:'' is not a valid SBML 'SId'.
