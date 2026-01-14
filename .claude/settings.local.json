@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(cat:*)",
+      "Bash(~/repos/.venv/bin/python:*)",
+      "Bash(source:*)",
+      "Bash(pip install:*)",
+      "Bash(ls:*)",
+      "Bash(xargs -I {} sh -c 'echo \"\"\"\"=== {} ===\"\"\"\" && python3 -c \"\"\"\"import json; g=json.load(open(\\\"\"\"\"{}\\\"\"\"\")); print(\\\"\"\"\"Features:\\\"\"\"\", len(g.get(\\\"\"\"\"features\\\"\"\"\", []))); feats=[f for f in g.get(\\\"\"\"\"features\\\"\"\"\",[])[:5]]; print(\\\"\"\"\"Sample ontology_terms:\\\"\"\"\", [f.get(\\\"\"\"\"ontology_terms\\\"\"\"\",{}) for f in feats])\"\"\"\"')",
+      "Bash(python:*)",
+      "Bash(pip show:*)",
+      "Bash(grep:*)",
+      "Bash(chmod:*)",
+      "Bash(git config:*)",
+      "Bash(xargs:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
