@@ -16,6 +16,7 @@ modeling_files/*probabilities.json
 genome_metadata/*
 models/*
 gapfilled_models/*
+gapfilled_models2/*
 comm_models/*
 *log
 *_old*

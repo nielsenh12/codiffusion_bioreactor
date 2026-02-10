@@ -5,8 +5,21 @@ Gapfill SBML models using ModelSEEDpy with auxotrophic and anaerobic minimal med
 This script adapts KBase's ModelSEEDReconstruction gapfilling workflow for local use
 with ModelSEEDpy. It processes all SBML models in the models/ directory.
 
+Genome Classification:
+    The script classifies each genome in the genomes directory to select the appropriate
+    gapfilling template. Classification uses:
+    1. MSPredict classifier (when annotated genomes with RAST terms are available)
+    2. GTDB taxonomy lineage from genome_hash.json
+    3. Model-based heuristics as fallback
+
+    Classifications (string labels for JSON export):
+    - "Gram-P": Bacillota/Firmicutes, Actinobacteriota
+    - "Gram-N": Proteobacteria, Bacteroidota, etc.
+    - "Cyanobacteria": Cyanobacteriota
+    - "Archaea": All archaeal phyla
+
 Usage:
-    # Gapfill all models
+    # Gapfill all models with genome classification
     python gapfill_models.py
 
     # Gapfill specific models
@@ -15,24 +28,33 @@ Usage:
     # Gapfill with custom output directory
     python gapfill_models.py --output-dir gapfilled_models/
 
-    # Dry run (list models without processing)
+    # Dry run (list models with classifications)
     python gapfill_models.py --dry-run
+
+    # Disable genome classification (use model heuristics only)
+    python gapfill_models.py --no-genome-classification
+
+    # Custom genome metadata location
+    python gapfill_models.py --genome-hash path/to/genome_hash.json
 """
 
 import os
 import sys
 import argparse
 import logging
+import json
 from glob import glob
-from typing import List, Optional, Dict, Any
+from typing import List, Optional, Dict, Any, Tuple, Union
+from multiprocessing import Pool, cpu_count
 
 # COBRApy for model I/O
 from cobra.io import read_sbml_model, write_sbml_model
 
 # ModelSEEDpy for gapfilling
 from modelseedpy import MSMedia, MSGapfill, MSModelUtil
-from modelseedpy.helpers import get_template
-from modelseedpy.core.mstemplate import MSTemplateBuilder
+from modelseedpy.helpers import get_template, get_classifier
+from modelseedpy.core.mstemplate import MSTemplateBuilder, MSTemplate
+from modelseedpy.core.msgenome import MSGenome
 
 # Set up logging
 logging.basicConfig(
@@ -40,6 +62,280 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 logger = logging.getLogger(__name__)
+
+
+# Genome classification string constants
+GENOME_CLASS_GRAM_P = "Gram Positive"
+GENOME_CLASS_GRAM_N = "Gram Negative"
+GENOME_CLASS_ARCHAEA = "Archaea"
+GENOME_CLASS_CYANOBACTERIA = "Cyano"
+
+# Valid genome classifications for validation
+VALID_GENOME_CLASSES = {GENOME_CLASS_GRAM_P, GENOME_CLASS_GRAM_N, GENOME_CLASS_ARCHAEA, GENOME_CLASS_CYANOBACTERIA}
+
+
+# Mapping from GTDB phylum names to genome classification
+PHYLUM_TO_CLASS = {
+    # Gram-positive phyla
+    "bacillota": GENOME_CLASS_GRAM_P,        # Firmicutes
+    "firmicutes": GENOME_CLASS_GRAM_P,
+    "actinobacteriota": GENOME_CLASS_GRAM_P,  # Actinobacteria
+    "actinobacteria": GENOME_CLASS_GRAM_P,
+    "coriobacteriota": GENOME_CLASS_GRAM_P,
+    "chloroflexi": GENOME_CLASS_GRAM_P,       # Some are gram-variable but closer to pos
+    # Cyanobacteria
+    "cyanobacteria": GENOME_CLASS_CYANOBACTERIA,
+    "cyanobacteriota": GENOME_CLASS_CYANOBACTERIA,
+    # Archaea domain
+    "euryarchaeota": GENOME_CLASS_ARCHAEA,
+    "crenarchaeota": GENOME_CLASS_ARCHAEA,
+    "thaumarchaeota": GENOME_CLASS_ARCHAEA,
+    "nanoarchaeota": GENOME_CLASS_ARCHAEA,
+    "korarchaeota": GENOME_CLASS_ARCHAEA,
+    "asgardarchaeota": GENOME_CLASS_ARCHAEA,
+    "halobacteriota": GENOME_CLASS_ARCHAEA,
+    "thermoplasmatota": GENOME_CLASS_ARCHAEA,
+    "methanobacteriota": GENOME_CLASS_ARCHAEA,
+    # Everything else defaults to Gram-negative
+}
+
+
+def classify_genome_from_taxonomy(
+    taxonomy: str,
+    domain: Optional[str] = None
+) -> str:
+    """
+    Classify a genome based on GTDB taxonomy lineage.
+
+    Args:
+        taxonomy: GTDB lineage string (e.g., "d__Bacteria;p__Bacillota;c__Bacilli...")
+        domain: Optional domain code ('A' for Archaea, 'B' for Bacteria)
+
+    Returns:
+        Genome classification string: "Gram-P", "Gram-N", "Archaea", or "Cyanobacteria"
+    """
+    taxonomy_lower = taxonomy.lower()
+
+    # Check domain first
+    if domain == "A" or "d__archaea" in taxonomy_lower:
+        return GENOME_CLASS_ARCHAEA
+
+    # Parse phylum from GTDB lineage format
+    phylum = None
+    for part in taxonomy.split(";"):
+        if part.startswith("p__"):
+            phylum = part[3:].lower().strip()
+            break
+
+    if phylum:
+        # Check against known phylum mappings
+        for phylum_key, genome_class in PHYLUM_TO_CLASS.items():
+            if phylum_key in phylum:
+                return genome_class
+
+    # Default to Gram-negative for bacteria/unknown
+    return GENOME_CLASS_GRAM_N
+
+
+def classify_genome(
+    genome: Optional[MSGenome] = None,
+    taxonomy: Optional[str] = None,
+    domain: Optional[str] = None,
+    classifier_name: str = "knn_ACNP_RAST_filter_01_17_2023"
+) -> str:
+    """
+    Classify a genome using MSPredict classifier or taxonomy data.
+
+    This function uses a hybrid approach:
+    1. If an MSGenome with RAST annotations is provided, use the MSPredict classifier
+    2. Otherwise, fall back to taxonomy-based classification
+
+    Args:
+        genome: Optional MSGenome object with RAST ontology terms
+        taxonomy: Optional GTDB taxonomy lineage string
+        domain: Optional domain code ('A' for Archaea, 'B' for Bacteria)
+        classifier_name: Name of the classifier to use for MSPredict
+
+    Returns:
+        Genome classification string: "Gram Positive", "Gram Negative", "Archaea", or "Cyano"
+    """
+    # Try MSPredict classifier if genome with annotations is provided
+    if genome is not None:
+        # Check if genome has RAST annotations
+        has_rast = any(
+            "RAST" in feature.ontology_terms
+            for feature in genome.features
+            if hasattr(feature, 'ontology_terms')
+        )
+
+        if has_rast:
+            try:
+                logger.debug(f"Classifying genome using MSPredict classifier")
+                genome_classifier = get_classifier(classifier_name)
+                genome_class_str = genome_classifier.classify(genome)
+
+                # Map classifier result to string constants
+                class_map = {
+                    "P": GENOME_CLASS_GRAM_P,
+                    "N": GENOME_CLASS_GRAM_N,
+                    "C": GENOME_CLASS_CYANOBACTERIA,
+                    "A": GENOME_CLASS_ARCHAEA
+                }
+                if genome_class_str in class_map:
+                    return class_map[genome_class_str]
+            except Exception as e:
+                logger.warning(f"MSPredict classification failed: {e}, falling back to taxonomy")
+
+    # Fall back to taxonomy-based classification
+    if taxonomy:
+        return classify_genome_from_taxonomy(taxonomy, domain)
+
+    # Default to Gram-negative if no classification data available
+    logger.warning("No classification data available, defaulting to Gram-negative")
+    return GENOME_CLASS_GRAM_N
+
+
+def get_template_for_genome_class(genome_class: str) -> Tuple[MSTemplate, MSTemplate]:
+    """
+    Get the appropriate templates for a genome class.
+
+    Args:
+        genome_class: Genome classification string ("Gram-P", "Gram-N", "Archaea", or "Cyanobacteria")
+
+    Returns:
+        Tuple of (core_template, genome_scale_template)
+    """
+    if genome_class not in VALID_GENOME_CLASSES:
+        raise ValueError(f"Invalid genome class: {genome_class}. Must be one of {VALID_GENOME_CLASSES}")
+
+    template_genome_scale_map = {
+        GENOME_CLASS_GRAM_N: "template_gram_neg",
+        GENOME_CLASS_CYANOBACTERIA: "template_gram_neg",  # Cyano uses gram-neg base
+        GENOME_CLASS_ARCHAEA: "template_gram_neg",  # Archaea uses gram-neg base
+        GENOME_CLASS_GRAM_P: "template_gram_pos",
+    }
+    template_core_map = {
+        GENOME_CLASS_ARCHAEA: "template_core",
+        GENOME_CLASS_CYANOBACTERIA: "template_core",
+        GENOME_CLASS_GRAM_N: "template_core",
+        GENOME_CLASS_GRAM_P: "template_core",
+    }
+
+    d_template_core = get_template(template_core_map[genome_class])
+    d_template_genome_scale = get_template(template_genome_scale_map[genome_class])
+
+    template_core = MSTemplateBuilder.from_dict(d_template_core).build()
+    template_genome_scale = MSTemplateBuilder.from_dict(d_template_genome_scale).build()
+
+    return template_core, template_genome_scale
+
+
+def load_genome_metadata(
+    genome_hash_path: str = "Sludge/datacache/genome_hash.json"
+) -> Dict[str, Dict[str, Any]]:
+    """
+    Load genome metadata from genome_hash.json.
+
+    Args:
+        genome_hash_path: Path to genome_hash.json file
+
+    Returns:
+        Dictionary mapping genome IDs to their metadata
+    """
+    if not os.path.exists(genome_hash_path):
+        logger.warning(f"Genome hash file not found: {genome_hash_path}")
+        return {}
+
+    with open(genome_hash_path, 'r') as f:
+        genome_hash = json.load(f)
+
+    # Parse genome hash into ID -> metadata mapping
+    metadata = {}
+    for key, value in genome_hash.items():
+        # Extract genome ID from key (format: "1352.8344__sludge_genomes.RAST")
+        genome_id = key.split("__")[0] if "__" in key else key
+
+        # Value is a list with metadata dict at index 10
+        if isinstance(value, list) and len(value) > 10 and isinstance(value[10], dict):
+            meta = value[10]
+            metadata[genome_id] = {
+                "taxonomy": meta.get("GTDB_lineage", meta.get("Taxonomy", "")),
+                "domain": meta.get("Domain", ""),
+                "name": meta.get("Name", ""),
+                "source_id": meta.get("Source ID", "")
+            }
+
+    return metadata
+
+
+def classify_genomes_in_directory(
+    genomes_dir: str = "genomes",
+    genome_hash_path: Optional[str] = "Sludge/datacache/genome_hash.json"
+) -> Dict[str, str]:
+    """
+    Classify all genomes in a directory based on available metadata.
+
+    Args:
+        genomes_dir: Directory containing genome files (.fna)
+        genome_hash_path: Path to genome_hash.json with taxonomy data
+
+    Returns:
+        Dictionary mapping genome IDs to their classification string
+    """
+    classifications = {}
+
+    # Load genome metadata if available
+    metadata = {}
+    if genome_hash_path:
+        metadata = load_genome_metadata(genome_hash_path)
+        logger.info(f"Loaded metadata for {len(metadata)} genomes")
+
+    # Get all genome files
+    genome_files = glob(os.path.join(genomes_dir, "*.fna"))
+    logger.info(f"Found {len(genome_files)} genome files in {genomes_dir}")
+
+    for genome_path in genome_files:
+        # Extract genome ID from filename (e.g., "100174.3.fna" -> "100174.3")
+        genome_id = os.path.splitext(os.path.basename(genome_path))[0]
+
+        # Try to classify using metadata
+        if genome_id in metadata:
+            meta = metadata[genome_id]
+            genome_class = classify_genome_from_taxonomy(
+                meta.get("taxonomy", ""),
+                meta.get("domain", "")
+            )
+            logger.debug(f"Classified {genome_id} as {genome_class} from taxonomy")
+        else:
+            # Default classification
+            genome_class = GENOME_CLASS_GRAM_N
+            logger.debug(f"No metadata for {genome_id}, defaulting to {genome_class}")
+
+        classifications[genome_id] = genome_class
+
+    # Summary
+    class_counts = {}
+    for gc in classifications.values():
+        class_counts[gc] = class_counts.get(gc, 0) + 1
+    logger.info(f"Genome classification summary: {class_counts}")
+
+    return classifications
+
+
+def get_genome_id_for_model(model_id: str, genome_model_mapping: Optional[Dict[str, str]] = None) -> Optional[str]:
+    """
+    Get the genome ID associated with a model.
+
+    Args:
+        model_id: Model identifier (e.g., "Acetobacterium.1")
+        genome_model_mapping: Optional explicit mapping of model IDs to genome IDs
+
+    Returns:
+        Genome ID if found, None otherwise
+    """
+    if genome_model_mapping and model_id in genome_model_mapping:
+        return genome_model_mapping[model_id]
+    return None
 
 
 def create_auxo_media() -> MSMedia:
@@ -170,36 +466,71 @@ def create_pyruvate_minimal_anaerobic() -> MSMedia:
     return media
 
 
-def get_template_for_model(model) -> Any:
+def get_template_for_model(
+    model,
+    genome_class: Optional[str] = None,
+    genome_classifications: Optional[Dict[str, str]] = None,
+    genome_model_mapping: Optional[Dict[str, str]] = None
+) -> MSTemplate:
     """
-    Determine and load appropriate template based on model characteristics.
+    Determine and load appropriate template based on genome classification or model characteristics.
+
+    This function uses a priority-based approach:
+    1. If genome_class is provided directly, use it
+    2. If genome_classifications is provided, look up the genome for this model
+    3. Fall back to model-based heuristics (taxonomy hints in model name/notes)
 
     Args:
         model: COBRApy model object
+        genome_class: Optional pre-computed genome classification string
+        genome_classifications: Optional dict of genome_id -> classification string
+        genome_model_mapping: Optional dict of model_id -> genome_id
 
     Returns:
         MSTemplate object
     """
-    # Check model notes/annotations for taxonomy hints
-    taxonomy = ""
-    if hasattr(model, 'notes') and model.notes:
-        taxonomy = str(model.notes).lower()
+    determined_class = None
 
-    # Gram-positive indicators
-    gram_positive_indicators = [
-        'firmicutes', 'actinobacteria', 'bacill', 'clostrid',
-        'lactobacill', 'streptococc', 'staphylococc', 'enterococc'
-    ]
+    # Priority 1: Direct genome class provided
+    if genome_class is not None:
+        determined_class = genome_class
+        logger.debug(f"Using provided genome class: {genome_class}")
 
-    # Check model name for hints
-    model_name = model.id.lower() if model.id else ""
+    # Priority 2: Look up from genome classifications
+    elif genome_classifications is not None:
+        model_id = model.id if model.id else ""
+        genome_id = get_genome_id_for_model(model_id, genome_model_mapping)
+        if genome_id and genome_id in genome_classifications:
+            determined_class = genome_classifications[genome_id]
+            logger.debug(f"Found genome class for {model_id}: {determined_class}")
 
-    if any(indicator in taxonomy or indicator in model_name
-           for indicator in gram_positive_indicators):
-        template_name = 'template_gram_pos'
-    else:
-        template_name = 'template_gram_neg'
+    # Priority 3: Model-based heuristics
+    if determined_class is None:
+        # Check model notes/annotations for taxonomy hints
+        taxonomy = ""
+        if hasattr(model, 'notes') and model.notes:
+            taxonomy = str(model.notes).lower()
 
+        # Gram-positive indicators
+        gram_positive_indicators = [
+            'firmicutes', 'actinobacteria', 'bacill', 'clostrid',
+            'lactobacill', 'streptococc', 'staphylococc', 'enterococc',
+            'bacillota', 'actinobacteriota'
+        ]
+
+        # Check model name for hints
+        model_name = model.id.lower() if model.id else ""
+
+        if any(indicator in taxonomy or indicator in model_name
+               for indicator in gram_positive_indicators):
+            determined_class = GENOME_CLASS_GRAM_P
+        else:
+            determined_class = GENOME_CLASS_GRAM_N
+
+        logger.debug(f"Classified {model.id} from model heuristics: {determined_class}")
+
+    # Get appropriate template
+    template_name = 'template_gram_pos' if determined_class == GENOME_CLASS_GRAM_P else 'template_gram_neg'
     template_data = get_template(template_name)
     template = MSTemplateBuilder.from_dict(template_data).build()
 
@@ -211,7 +542,10 @@ def gapfill_model(
     media_list: List[MSMedia],
     output_dir: str,
     gapfilling_mode: str = "Sequential",
-    atp_safe: bool = True
+    atp_safe: bool = True,
+    genome_class: Optional[str] = None,
+    genome_classifications: Optional[Dict[str, str]] = None,
+    genome_model_mapping: Optional[Dict[str, str]] = None
 ) -> Optional[str]:
     """
     Gapfill a single model with the specified media.
@@ -222,6 +556,9 @@ def gapfill_model(
         output_dir: Directory to save gapfilled model
         gapfilling_mode: "Sequential" or "Simultaneous"
         atp_safe: Whether to ensure ATP production safety
+        genome_class: Optional pre-computed genome classification string
+        genome_classifications: Optional dict of genome_id -> classification string
+        genome_model_mapping: Optional dict of model_id -> genome_id
 
     Returns:
         Path to gapfilled model if successful, None otherwise
@@ -233,9 +570,14 @@ def gapfill_model(
         logger.info(f"Loading model: {model_name}")
         model = read_sbml_model(model_path)
 
-        # Get appropriate template
+        # Get appropriate template based on genome classification
         logger.info(f"  Loading template...")
-        template = get_template_for_model(model)
+        template = get_template_for_model(
+            model,
+            genome_class=genome_class,
+            genome_classifications=genome_classifications,
+            genome_model_mapping=genome_model_mapping
+        )
         logger.info(f"  Using template: {template.id}")
 
         # Create model utility wrapper
@@ -335,16 +677,57 @@ def list_models(models_dir: str = "models") -> List[str]:
     return models
 
 
+def _gapfill_worker(args: Tuple) -> Tuple[str, Optional[str]]:
+    """
+    Worker function for parallel gapfilling.
+
+    Args:
+        args: Tuple of (model_path, output_dir, gapfilling_mode, atp_safe, genome_class)
+              genome_class is the string classification (e.g., "Gram-P", "Gram-N")
+
+    Returns:
+        Tuple of (model_name, output_path or None if failed)
+    """
+    model_path, output_dir, gapfilling_mode, atp_safe, genome_class = args
+    model_name = os.path.splitext(os.path.basename(model_path))[0]
+
+    # Create media in each worker (not picklable across processes)
+    auxo_media = create_auxo_media()
+    anaerobic_media = create_pyruvate_minimal_anaerobic()
+    media_list = [auxo_media, anaerobic_media]
+
+    try:
+        output_path = gapfill_model(
+            model_path=model_path,
+            media_list=media_list,
+            output_dir=output_dir,
+            gapfilling_mode=gapfilling_mode,
+            atp_safe=atp_safe,
+            genome_class=genome_class
+        )
+        return (model_name, output_path)
+    except Exception as e:
+        logger.error(f"Worker error for {model_name}: {e}")
+        return (model_name, None)
+
+
 def gapfill_all_models(
     models_dir: str = "models",
     output_dir: str = "gapfilled_models",
     model_ids: Optional[List[str]] = None,
     gapfilling_mode: str = "Sequential",
     atp_safe: bool = True,
-    dry_run: bool = False
+    dry_run: bool = False,
+    n_workers: Optional[int] = None,
+    genomes_dir: Optional[str] = "genomes",
+    genome_hash_path: Optional[str] = "Sludge/datacache/genome_hash.json",
+    genome_model_mapping: Optional[Dict[str, str]] = None
 ) -> Dict[str, Optional[str]]:
     """
-    Gapfill all models in the models directory.
+    Gapfill all models in the models directory using parallel processing.
+
+    This function classifies genomes before gapfilling to select the appropriate
+    template for each model.
 
     Args:
         models_dir: Directory containing SBML models
@@ -353,11 +736,29 @@ def gapfill_all_models(
         gapfilling_mode: "Sequential" or "Simultaneous"
         atp_safe: Whether to ensure ATP production safety
         dry_run: If True, list models without processing
+        n_workers: Number of parallel workers (default: 1/4 of CPU cores)
+        genomes_dir: Directory containing genome files for classification
+        genome_hash_path: Path to genome_hash.json with taxonomy data
+        genome_model_mapping: Optional dict mapping model_id -> genome_id
 
     Returns:
         Dictionary mapping model names to output paths (or None if failed)
     """
-    # Create media
+    # Determine number of workers
+    if n_workers is None:
+        n_workers = max(1, cpu_count() // 4)
+    logger.info(f"Using {n_workers} parallel workers (out of {cpu_count()} cores)")
+
+    # Classify genomes if genomes_dir is provided
+    genome_classifications = {}
+    if genomes_dir and os.path.isdir(genomes_dir):
+        logger.info(f"Classifying genomes in {genomes_dir}...")
+        genome_classifications = classify_genomes_in_directory(
+            genomes_dir=genomes_dir,
+            genome_hash_path=genome_hash_path
+        )
+
+    # Create media (just for info logging)
     logger.info("Creating media definitions...")
     auxo_media = create_auxo_media()
     anaerobic_media = create_pyruvate_minimal_anaerobic()
@@ -385,26 +786,39 @@ def gapfill_all_models(
     if dry_run:
         logger.info("Dry run - models that would be processed:")
         for model_path in all_models:
-            print(f"  {os.path.basename(model_path)}")
+            model_name = os.path.splitext(os.path.basename(model_path))[0]
+            genome_id = get_genome_id_for_model(model_name, genome_model_mapping)
+            genome_class = genome_classifications.get(genome_id) if genome_id else None
+            class_str = genome_class if genome_class else "unknown"
+            print(f"  {os.path.basename(model_path)} -> {class_str}")
         return {}
 
-    # Process each model
-    results = {}
+    # Create output directory
+    os.makedirs(output_dir, exist_ok=True)
+
+    # Prepare arguments for workers
+    # Include genome classification for each model
     total = len(all_models)
-
-    for i, model_path in enumerate(all_models, 1):
+    worker_args = []
+    for model_path in all_models:
         model_name = os.path.splitext(os.path.basename(model_path))[0]
-        logger.info(f"\n[{i}/{total}] Processing: {model_name}")
-
-        output_path = gapfill_model(
-            model_path=model_path,
-            media_list=media_list,
-            output_dir=output_dir,
-            gapfilling_mode=gapfilling_mode,
-            atp_safe=atp_safe
+        genome_id = get_genome_id_for_model(model_name, genome_model_mapping)
+        genome_class = genome_classifications.get(genome_id) if genome_id else None
+        worker_args.append(
+            (model_path, output_dir, gapfilling_mode, atp_safe, genome_class)
         )
 
-        results[model_name] = output_path
+    # Process models in parallel
+    logger.info(f"\nStarting parallel gapfilling of {total} models...")
+    results = {}
+
+    with Pool(processes=n_workers) as pool:
+        for i, (model_name, output_path) in enumerate(
+            pool.imap_unordered(_gapfill_worker, worker_args), 1
+        ):
+            results[model_name] = output_path
+            status = "OK" if output_path else "FAILED"
+            logger.info(f"[{i}/{total}] {model_name}: {status}")
 
     # Summary
     successful = sum(1 for v in results.values() if v is not None)
@@ -454,6 +868,22 @@ def main():
         '-v', '--verbose', action='store_true',
         help='Enable verbose output'
     )
+    parser.add_argument(
+        '--workers', type=int, default=None,
+        help='Number of parallel workers (default: 1/4 of CPU cores)'
+    )
+    parser.add_argument(
+        '--genomes-dir', default='genomes',
+        help='Directory containing genome files for classification (default: genomes)'
+    )
+    parser.add_argument(
+        '--genome-hash', default='Sludge/datacache/genome_hash.json',
+        help='Path to genome_hash.json with taxonomy data'
+    )
+    parser.add_argument(
+        '--no-genome-classification', action='store_true',
+        help='Disable genome-based template selection'
+    )
 
     args = parser.parse_args()
 
@@ -466,7 +896,10 @@ def main():
         model_ids=args.model_ids if args.model_ids else None,
         gapfilling_mode=args.gapfilling_mode,
         atp_safe=not args.no_atp_safe,
-        dry_run=args.dry_run
+        dry_run=args.dry_run,
+        n_workers=args.workers,
+        genomes_dir=None if args.no_genome_classification else args.genomes_dir,
+        genome_hash_path=None if args.no_genome_classification else args.genome_hash
     )
 
     # Return exit code based on success
