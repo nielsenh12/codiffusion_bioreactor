@@ -1,0 +1,192 @@
+{
+  "module_1": {
+    "size": 32,
+    "type": "louvain",
+    "members": [
+      "Aminiphilus.1",
+      "Anaerovorax.1",
+      "Ca_Caldatribacterium.1",
+      "Christensenellaceae_R-7_group.1",
+      "Christensenellaceae_R-7_group.2",
+      "Desulfurispora.1",
+      "Ercella.1",
+      "Geobacteraceae.1",
+      "LNR_A2-18.1",
+      "LNR_A2-18.2",
+      "Lentimicrobium.1",
+      "Methanobacterium.1",
+      "Methanobacterium.4",
+      "Methanobacterium.5",
+      "Methanothrix.1",
+      "Petrimonas.2",
+      "Proteiniphilum.1",
+      "Proteiniphilum.2",
+      "Sphaerochaeta.1",
+      "Thermovirga.1",
+      "Thiobacillus.1",
+      "Xanthobacter.1",
+      "midas_g_2178.1",
+      "midas_g_30443.1",
+      "midas_g_3409.1",
+      "midas_g_36215.1",
+      "midas_g_36215.2",
+      "midas_g_49937.1",
+      "midas_g_76603.1",
+      "midas_g_84729.1",
+      "midas_g_92370.1",
+      "midas_g_9269.1"
+    ]
+  },
+  "module_2": {
+    "size": 24,
+    "type": "louvain",
+    "members": [
+      "Acinetobacter.2",
+      "Aminivibrio.1",
+      "Aquamicrobium.2",
+      "Azoarcus.2",
+      "Christensenellaceae_R-7_group.4",
+      "Clostridium_sensu_stricto_13.1",
+      "Comamonadaceae.3",
+      "Desulfovibrio.4",
+      "Desulfuromonadaceae.1",
+      "Devosia.1",
+      "EBM-39.1",
+      "Fermentimonas.2",
+      "Hyphomonas.1",
+      "Intestinimonas.1",
+      "Methanosarcina.1",
+      "Petrimonas.1",
+      "Proteiniclasticum.1",
+      "Romboutsia.1",
+      "Syntrophomonas.1",
+      "Terrisporobacter.1",
+      "Thermovirga.2",
+      "Trichloromonas.1",
+      "midas_g_114295.1",
+      "midas_g_97954.1"
+    ]
+  },
+  "module_3": {
+    "size": 19,
+    "type": "louvain",
+    "members": [
+      "Acinetobacter.1",
+      "Bacteroides.1",
+      "Burkholderiales.1",
+      "Desulfosporosinus.1",
+      "Desulfovibrio.2",
+      "Dysgonomonas.1",
+      "Enterobacteriaceae.1",
+      "Erysipelothrix.1",
+      "Gordonia.1",
+      "Lachnoclostridium.1",
+      "Methanobacterium.2",
+      "Methanobacterium.3",
+      "Monoglobus.1",
+      "Monoglobus.2",
+      "Pannonibacter.1",
+      "Propionicicella.1",
+      "Sphingopyxis.1",
+      "Taibaiella.1",
+      "midas_g_98124.1"
+    ]
+  },
+  "module_4": {
+    "size": 16,
+    "type": "louvain",
+    "members": [
+      "Acetobacterium.1",
+      "Christensenellaceae_R-7_group.3",
+      "Desulfobulbus.1",
+      "Desulfovibrio.1",
+      "Ercella.2",
+      "Hydrogenophaga.1",
+      "Mesotoga.1",
+      "Methanobacteriaceae.1",
+      "Pseudarcobacter.1",
+      "Pseudomonas.2",
+      "Ruminiclostridium.1",
+      "Sulfurospirillum.1",
+      "Syner-01.1",
+      "Syner-01.2",
+      "Thauera.1",
+      "midas_g_15299.1"
+    ]
+  },
+  "module_5": {
+    "size": 16,
+    "type": "louvain",
+    "members": [
+      "Bacteria (unclassified).1",
+      "Comamonadaceae.2",
+      "Desulfosporosinus.2",
+      "Desulfosporosinus.3",
+      "Desulfovibrio.3",
+      "JGI-0000079-D21.1",
+      "Leucobacter.1",
+      "Oscillibacter.2",
+      "Paraclostridium.1",
+      "Rhizobiaceae.1",
+      "Rhodococcus.1",
+      "Stappia.1",
+      "Stenotrophomonas.1",
+      "Stenotrophomonas.2",
+      "Syntrophobacter.1",
+      "midas_g_36215.3"
+    ]
+  },
+  "module_6": {
+    "size": 3,
+    "type": "louvain",
+    "members": [
+      "Erysipelothrix.3",
+      "midas_g_9269.2",
+      "midas_g_9269.3"
+    ]
+  },
+  "module_7": {
+    "size": 2,
+    "type": "louvain",
+    "members": [
+      "Achromobacter.1",
+      "Achromobacter.2"
+    ]
+  },
+  "module_8": {
+    "size": 2,
+    "type": "louvain",
+    "members": [
+      "Comamonadaceae.1",
+      "Devosia.2"
+    ]
+  },
+  "singleton_1": {
+    "size": 1,
+    "type": "isolate_singleton",
+    "members": [
+      "Anaerovorax.2"
+    ]
+  },
+  "singleton_2": {
+    "size": 1,
+    "type": "isolate_singleton",
+    "members": [
+      "Aquamicrobium.1"
+    ]
+  },
+  "singleton_3": {
+    "size": 1,
+    "type": "isolate_singleton",
+    "members": [
+      "midas_g_94288.1"
+    ]
+  },
+  "singleton_4": {
+    "size": 1,
+    "type": "isolate_singleton",
+    "members": [
+      "Ochrobactrum.1"
+    ]
+  }
+}
