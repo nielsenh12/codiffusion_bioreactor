@@ -1,0 +1,396 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.23.4",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "1d0db38904205bec4d6f6f6a1f6cec3e",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "b7eef8a9176db3c8ac3227ed4b9334c4",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "6b45a7f83e73f973be38707c28b4e35a",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "83ac3d4f60b6e5bde307b31ccaf58eb5",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "7cb8f7541616335327b10185b5987dc4",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "b02e43062a1e18a40696a9a5df6cefc4",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "Xref",
+      "code_hash": "ed86f54c5530f42206d83ad252826625",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"create-models-from-asvset-genome-objects\">create models from ASVset genome objects</h1></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "SFPL",
+      "code_hash": "ca8b77d76dc8af6545b3a85b03af993a",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "BYtC",
+      "code_hash": "69db1a1a0c1475ac119a0d6b7b72cf81",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"gapfill-the-models-in-minimal-media\">Gapfill the models in minimal media</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "RGSE",
+      "code_hash": "70c22fe77e37ca041bc3dd51c7c3cd1d",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"atp-correction\">ATP Correction</h3></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Kclp",
+      "code_hash": "06d520eea9ddb0ebe05065f6b19fc906",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "emfo",
+      "code_hash": "676137818b67db028228eff5af338957",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "Hstk",
+      "code_hash": "47f12897c7e64326090235c3a29db87b",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "nWHF",
+      "code_hash": "5b3610e53b6bbbdb3150c8dabadf083b",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "iLit",
+      "code_hash": "7a4af54ca9ea63ca0b72baf0e4dfe455",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "ZHCJ",
+      "code_hash": "7e8106d2d5eecbfeb79822fb33f88ff7",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "ROlb",
+      "code_hash": "1de7fc22b0659f8698bb9af811453d01",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "qnkX",
+      "code_hash": "12e716ffa2dbdd640d7bb86e4cb9472f",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "TqIu",
+      "code_hash": "d1512da0737f75dafd11aef674bcb98a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"define-the-metabolite-centered-phenotypes\">Define the metabolite-centered phenotypes</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Vxnm",
+      "code_hash": "c421a5d8ad390e761651ddf7694638e1",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"create-community-models-from-the-member-models-and-abundances\">create community models from the member models and abundances</h1></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "DnEU",
+      "code_hash": "1327ace87863420e153268f47ce5240c",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "ulZA",
+      "code_hash": "fe8177e754af1952fdcb5ff350ed298c",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "ecfG",
+      "code_hash": "faf6bce6a0fb28acbf26384419ba6277",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"test-that-the-models-are-operational\">Test that the models are operational</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Pvdt",
+      "code_hash": "a6ad750df3803d68536230f65a71d644",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "ZBYS",
+      "code_hash": "826ec7148822785d819ac1e7607c3476",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "aLJB",
+      "code_hash": "505b0c27a71dd8f6c3b2b44038dcef18",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "nHfw",
+      "code_hash": "646ef5eb2f2ca4f30bec7224c959c1bd",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "xXTn",
+      "code_hash": "6feca86e8a7a95ad6805004998c61b55",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "AjVT",
+      "code_hash": "70b6faff3af37fd1687b67cc9029e2eb",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"community-modeling\">Community modeling</h1></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "pHFh",
+      "code_hash": "ca568dabdb04501870f8f922895dce3d",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"load-the-community-models\">Load the community models</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "NCOB",
+      "code_hash": "3d40ff2b68e80e9b48b5d4cedf873195",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "aqbW",
+      "code_hash": "8c5e682e922ffd11b76b1d2658cce6df",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "TRpd",
+      "code_hash": "9f17e0d8fe2625551c6fe56d993fd845",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "TXez",
+      "code_hash": "890c48c01605475f76373f8703ace35c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"constraints\">Constraints</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "dNNg",
+      "code_hash": "29b8e1c01a3c776e8c2896e006cf7d35",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"process-data\">Process data</h3></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "yCnT",
+      "code_hash": "70e7da09a74c9ad742ea79dab6ecf66a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h4 id=\"convert-measurements-into-msids\">convert measurements into MSIDs</h4></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "wlCL",
+      "code_hash": "f19f034ae694a5f6ec6dff2233f14ae6",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "kqZH",
+      "code_hash": "12864d8317327997de72547ed0c2d799",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "wAgl",
+      "code_hash": "2be9dc7105a0bce09efd1faa2a6054cc",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"loading-the-media\">loading the media</h3></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "rEll",
+      "code_hash": "3bdfd25e8c9f772adbd3c9dee580230c",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "dGlV",
+      "code_hash": "4194050d5905cb1ef7df46bf3ac7051b",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"_1\"></h3></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "SdmI",
+      "code_hash": "df7713388f6e5e6fa48536c365a190ed",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"adding-the-media-and-element-constraints\">Adding the media and element constraints</h3></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "lgWD",
+      "code_hash": "1c92ddae4468dc76ada0cad1718b123c",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "yOPj",
+      "code_hash": "fefca0bf8c051f1410f2630109d21bd6",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "fwwy",
+      "code_hash": "b68a888a5a66768688fe1bdc533755a6",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "LJZf",
+      "code_hash": "6fefaa9bbf6849f1e806f67d2f781892",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"objective\">Objective</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "urSm",
+      "code_hash": "565bcc01572e927c35d5ab740b4305be",
+      "outputs": [],
+      "console": []
+    }
+  ]
+}
