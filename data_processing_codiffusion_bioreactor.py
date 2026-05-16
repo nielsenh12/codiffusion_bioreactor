@@ -332,12 +332,15 @@ def _(mo):
 
 
 @app.cell
-def _(array, defaultdict, np):
+def _():
     def taxonomy_linkage(taxonomy_series):
         """
         Build a linkage matrix that EXACTLY follows taxonomy hierarchy.
         Auto-detects depth from the taxonomy strings.
         """
+        from collections import defaultdict
+        import numpy as np
+        from numpy import array
         parsed = taxonomy_series.fillna('unknown').astype(str).str.split('[;|,]', regex=True).apply(lambda lst: [x.strip() for x in lst or [] if x.strip()])
         ranks_n = max((len(_p) for _p in parsed))
         if ranks_n == 0:
@@ -617,10 +620,10 @@ def _(
             top_ax = _clusterMap.ax_col_dendrogram
             top_ax.clear()
             _day_to_idx = {day: i + 0.5 for i, day in enumerate(df.columns)}
-        _xs = [_day_to_idx[d] for d in inlayed_data if d in _day_to_idx]
-        _ys = [inlayed_data[d] for d in inlayed_data if d in _day_to_idx]
-        top_ax.plot(_xs, _ys, color='black', marker='o', linewidth=3)
-        top_ax.set_xlim(0, len(df.columns))
+            _xs = [_day_to_idx[d] for d in inlayed_data if d in _day_to_idx]
+            _ys = [inlayed_data[d] for d in inlayed_data if d in _day_to_idx]
+            top_ax.plot(_xs, _ys, color='black', marker='o', linewidth=3)
+            top_ax.set_xlim(0, len(df.columns))
             top_ax.set_ylabel('Shannon Diversity', fontsize=20)
             top_ax.yaxis.tick_right()
             top_ax.yaxis.set_label_position('right')
@@ -921,24 +924,24 @@ def _():
     # #                 "J12", #"J34",
     # #                 "K12", "L12", "M12", "N12", "P12"]
     # sample_days = {
-        "5-10": 0,
-        # "H": 140,
-        "I": 149,
-        "J": 161,
-        "K": 182,
-        "L": 189,
-        "M": 210,
-        "N": 238,
-        "P": 283,
-        "Q": 300,
-        # additional new time points (no operational data)
-        # "Ha": 147,
-        # "Ia": 153,
-        # "Ja": 168,
-        # "Jb": 174,
-        # "Na": 262,
-        # "Qa": 315,
-    }
+    #     "5-10": 0,
+    #     # "H": 140,
+    #     "I": 149,
+    #     "J": 161,
+    #     "K": 182,
+    #     "L": 189,
+    #     "M": 210,
+    #     "N": 238,
+    #     "P": 283,
+    #     "Q": 300,
+    #     # additional new time points (no operational data)
+    #     # "Ha": 147,
+    #     # "Ia": 153,
+    #     # "Ja": 168,
+    #     # "Jb": 174,
+    #     # "Na": 262,
+    #     # "Qa": 315,
+    # }
 
     # og = read_csv("model_inputs/").set_index("seq")
     # sample_dfs = []
@@ -1327,7 +1330,7 @@ def _(
     _corr_matrix = df_6.corr('spearman')
     display(_corr_matrix)
     pval_matrix_1 = _corr_pvalues(df_6)
-    from statsmodels.stats.multitest import multipletests
+    from statsmodels.stats.multitest import multipletests as _multipletests
     from numpy import triu_indices as _triu_indices, full_like as _full_like, isfinite as _isfinite, ones_like as _ones_like
     _p_arr = pval_matrix_1.values
     _n = _p_arr.shape[0]
@@ -1336,7 +1339,7 @@ def _(
     _finite = _isfinite(_flat_p)
     _q_arr = _full_like(_flat_p, float("nan"))
     if _finite.any():
-        _, _q_finite, _, _ = multipletests(_flat_p[_finite], alpha=0.05, method='fdr_bh')
+        _, _q_finite, _, _ = _multipletests(_flat_p[_finite], alpha=0.05, method='fdr_bh')
         _q_arr[_finite] = _q_finite
     _q_matrix = _ones_like(_p_arr)
     for _k, (_i_q, _j_q) in enumerate(zip(_iu, _ju)):
@@ -1559,7 +1562,7 @@ def _(
     _corr_matrix = df_7.corr('spearman').dropna(axis=1, how='all').dropna(axis=0, how='all').fillna(0)
     display(_corr_matrix)
     pval_matrix_2 = _corr_pvalues(df_7).dropna(axis=1, how='all').dropna(axis=0, how='all').fillna(0)
-    from statsmodels.stats.multitest import multipletests
+    from statsmodels.stats.multitest import multipletests as _multipletests
     from numpy import triu_indices as _triu_indices, full_like as _full_like, isfinite as _isfinite, ones_like as _ones_like
     _p_arr = pval_matrix_2.values
     _n = _p_arr.shape[0]
@@ -1568,7 +1571,7 @@ def _(
     _finite = _isfinite(_flat_p)
     _q_arr = _full_like(_flat_p, float("nan"))
     if _finite.any():
-        _, _q_finite, _, _ = multipletests(_flat_p[_finite], alpha=0.05, method='fdr_bh')
+        _, _q_finite, _, _ = _multipletests(_flat_p[_finite], alpha=0.05, method='fdr_bh')
         _q_arr[_finite] = _q_finite
     _q_matrix = _ones_like(_p_arr)
     for _k, (_i_q, _j_q) in enumerate(zip(_iu, _ju)):
@@ -1677,7 +1680,7 @@ def _(
     _corr_matrix = df_8.corr('spearman').dropna(axis=1, how='all').dropna(axis=0, how='all').fillna(0)
     display(_corr_matrix)
     pval_matrix_3 = _corr_pvalues(df_8).dropna(axis=1, how='all').dropna(axis=0, how='all').fillna(0)
-    from statsmodels.stats.multitest import multipletests
+    from statsmodels.stats.multitest import multipletests as _multipletests
     from numpy import triu_indices as _triu_indices, full_like as _full_like, isfinite as _isfinite, ones_like as _ones_like
     _p_arr = pval_matrix_3.values
     _n = _p_arr.shape[0]
@@ -1686,7 +1689,7 @@ def _(
     _finite = _isfinite(_flat_p)
     _q_arr = _full_like(_flat_p, float("nan"))
     if _finite.any():
-        _, _q_finite, _, _ = multipletests(_flat_p[_finite], alpha=0.05, method='fdr_bh')
+        _, _q_finite, _, _ = _multipletests(_flat_p[_finite], alpha=0.05, method='fdr_bh')
         _q_arr[_finite] = _q_finite
     _q_matrix = _ones_like(_p_arr)
     for _k, (_i_q, _j_q) in enumerate(zip(_iu, _ju)):
@@ -1884,6 +1887,9 @@ def _(
     _significantly_connected_organisms = list(pos.keys())
     print(_significantly_connected_organisms)
     dump(_significantly_connected_organisms, open('significantly_connected_organisms.json', 'w'))
+    node_connectivity = dict(sorted({_n: int(G.degree(_n)) for _n in G.nodes()}.items(), key=lambda kv: kv[1], reverse=True))
+    dump(node_connectivity, open('node_connectivity.json', 'w'), indent=2)
+    import matplotlib.patheffects as path_effects
     LABEL_MIN_ABUND = 0.002
     for _n, (x, y) in pos.items():
         abund = mean_rel_abund.get(_n, 0)
@@ -1891,7 +1897,8 @@ def _(
             continue
         font_size = 6 + 14 * compressor(abund) / compressor(mean_rel_abund.max()) * (width / 10)
         font_size = max(5, min(font_size, 48))
-        _ax.text(x, y, str(_n), fontsize=font_size, color='black', fontweight='bold', ha='center', va='center')
+        _txt = _ax.text(x, y, str(_n), fontsize=font_size, color='black', fontweight='bold', ha='center', va='center')
+        _txt.set_path_effects([path_effects.Stroke(linewidth=max(1.5, font_size / 6), foreground='white'), path_effects.Normal()])
     sm = cm.ScalarMappable(cmap=cmap, norm=norm)
     sm.set_array([])
     _cbar = plt.colorbar(sm, ax=_ax, shrink=0.6, pad=0.02)
