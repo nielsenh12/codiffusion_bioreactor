@@ -1,4 +1,5 @@
 *.zip
+._*
 codif/*
 Fasta*.json
 main*.json
@@ -18,5 +19,6 @@ models/*
 gapfilled_models/*
 gapfilled_models2/*
 comm_models/*
+synthetic_genomes/
 *log
 *_old*
