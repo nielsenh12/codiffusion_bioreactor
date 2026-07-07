@@ -18,8 +18,8 @@ Reference: Friedman J, Alm EJ (2012) Inferring Correlation Networks from Genomic
 | File | Description |
 |---|---|
 | `sparcc_core.py` | Core algorithm module (correlation estimation + bootstrap resampling) |
-| `sparcc_counts.tsv` | Original input: raw ASV counts, 2,571 ASVs × 16 samples (rows=ASVs, columns=day-of-operation) |
-| `sparcc_counts_final.tsv` | Preprocessed input actually used for analysis: 309 ASVs × 13 samples |
+| `raw_counts.tsv` | Original input: raw ASV counts, 2,571 ASVs × 16 samples (rows=ASVs, columns=day-of-operation) |
+| `rarefied_counts.tsv` | Preprocessed input actually used for analysis: 309 ASVs × 13 samples |
 | `cor_sparcc_final.tsv` | Real-data SparCC correlation matrix (309 × 309) |
 | `permutations_final.tar.gz` | 100 bootstrap-resampled datasets (null model for significance testing) |
 | `perm_cor_final.tar.gz` | SparCC correlation matrix computed on each of the 100 permutations |
@@ -41,14 +41,14 @@ scipy   # only needed to independently verify the FDR correction; not required t
 
 ### Diagnostics: identifying why preprocessing was needed
 
-Before settling on the preprocessing steps below, several diagnostic checks were run on the raw data (`sparcc_counts.tsv`) to identify data quality issues. These are included here for reproducibility of the full analytical process, not just the final pipeline.
+Before settling on the preprocessing steps below, several diagnostic checks were run on the raw data (`raw_counts.tsv`) to identify data quality issues. These are included here for reproducibility of the full analytical process, not just the final pipeline.
 
 **1. Checking sample sequencing depth:**
 
 ```python
 import pandas as pd
 
-df = pd.read_csv('sparcc_counts.tsv', sep='\t', index_col=0)
+df = pd.read_csv('raw_counts.tsv', sep='\t', index_col=0)
 totals = df.sum(axis=0)
 totals.index = [int(c) for c in totals.index]
 print(totals.sort_values())
@@ -123,7 +123,7 @@ Three adjustments were made to the raw count data before correlation analysis, b
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv('sparcc_counts.tsv', sep='\t', index_col=0)
+df = pd.read_csv('raw_counts.tsv', sep='\t', index_col=0)
 df.columns = [int(c) for c in df.columns]
 
 # Drop Day 0 and the two lowest-depth samples
@@ -144,11 +144,11 @@ n_samples_present = (rarefied > 0).sum(axis=1)
 filtered = rarefied[n_samples_present >= 3].copy()
 
 filtered.index.name = 'ASV_ID'
-filtered.to_csv('sparcc_counts_final.tsv', sep='\t')
+filtered.to_csv('rarefied_counts.tsv', sep='\t')
 ```
 
-**Input:** `sparcc_counts.tsv` (2,571 ASVs × 16 samples)
-**Output:** `sparcc_counts_final.tsv` (309 ASVs × 13 samples)
+**Input:** `raw_counts.tsv` (2,571 ASVs × 16 samples)
+**Output:** `rarefied_counts.tsv` (309 ASVs × 13 samples)
 
 ### Step 1: Compute real SparCC correlations
 
@@ -158,14 +158,14 @@ import sys
 sys.path.insert(0, '.')
 from sparcc_core import sparcc
 
-df = pd.read_csv('sparcc_counts_final.tsv', sep='\t', index_col=0)
+df = pd.read_csv('rarefied_counts.tsv', sep='\t', index_col=0)
 counts = df.T  # sparcc() expects rows=samples, columns=ASVs
 
 cor_df, cov_df = sparcc(counts, iters=20, th=0.1, xiter=10, verbose=False)
 cor_df.to_csv('cor_sparcc_final.tsv', sep='\t')
 ```
 
-**Input:** `sparcc_counts_final.tsv` + `sparcc_core.py`
+**Input:** `rarefied_counts.tsv` + `sparcc_core.py`
 **Output:** `cor_sparcc_final.tsv`
 
 ### Step 2: Generate bootstrap permutations
@@ -179,7 +179,7 @@ import sys
 sys.path.insert(0, '.')
 from sparcc_core import permute_w_replacement
 
-df = pd.read_csv('sparcc_counts_final.tsv', sep='\t', index_col=0)
+df = pd.read_csv('rarefied_counts.tsv', sep='\t', index_col=0)
 counts = df.T
 
 N_PERM = 100
@@ -191,7 +191,7 @@ for i in range(N_PERM):
     perm_out.to_csv(f'permutations_final/permutation_{i}.tsv', sep='\t')
 ```
 
-**Input:** `sparcc_counts_final.tsv`
+**Input:** `rarefied_counts.tsv`
 **Output:** `permutations_final/permutation_0.tsv` ... `permutation_99.tsv`
 
 ### Step 3: Run SparCC on each permutation
